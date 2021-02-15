@@ -1,0 +1,190 @@
+{
+  "name": "www.floridagunclassifieds.com.jl.csv",
+  "id": "www.floridagunclassifieds.com.jl.csv",
+  "graph": {
+    "nodes": [
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Place"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "Single1162"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.org/price"
+            }
+          }
+        ],
+        "columnName": "Go1129"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.org/description"
+            }
+          }
+        ],
+        "columnName": "hours1236"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.org/datePosted"
+            }
+          }
+        ],
+        "columnName": "Listed1186"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.org/expires"
+            }
+          }
+        ],
+        "columnName": "Expires1191"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "0082"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.dig.isi.edu/ontology/identifier"
+            }
+          }
+        ],
+        "columnName": "ID1470"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/CreativeWork"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "file_name"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/CreativeWork"
+            },
+            "type": {
+              "uri": "http://schema.org/copyrightYear"
+            }
+          }
+        ],
+        "columnName": "432213"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.dig.isi.edu/ontology/PersonOrOrganization"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "Manufacturer1151"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.dig.isi.edu/ontology/PersonOrOrganization"
+            },
+            "type": {
+              "uri": "http://schema.org/telephone"
+            }
+          }
+        ],
+        "columnName": "Number1168"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.dig.isi.edu/ontology/PersonOrOrganization"
+            },
+            "type": {
+              "uri": "http://schema.org/email"
+            }
+          }
+        ],
+        "columnName": "Address1179"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.dig.isi.edu/ontology/PersonOrOrganization"
+            },
+            "type": {
+              "uri": "http://schema.dig.isi.edu/ontology/identifier"
+            }
+          }
+        ],
+        "columnName": "Listed1744"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.dig.isi.edu/ontology/Firearm"
+            },
+            "type": {
+              "uri": "http://schema.org/category"
+            }
+          }
+        ],
+        "columnName": "Florida1109"
+      }
+    ]
+  }
+}

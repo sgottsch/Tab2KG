@@ -1,0 +1,86 @@
+{
+  "name": "www.elpasoguntrader.com.jl.csv",
+  "id": "www.elpasoguntrader.com.jl.csv",
+  "graph": {
+    "nodes": [
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.org/price"
+            }
+          }
+        ],
+        "columnName": "Price0694"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "Trader0615"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.org/description"
+            }
+          }
+        ],
+        "columnName": "Send0836"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/CreativeWork"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "file_name"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.dig.isi.edu/ontology/PersonOrOrganization"
+            },
+            "type": {
+              "uri": "http://schema.org/telephone"
+            }
+          }
+        ],
+        "columnName": "Contact0703"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.dig.isi.edu/ontology/PersonOrOrganization"
+            },
+            "type": {
+              "uri": "http://schema.dig.isi.edu/ontology/identifier"
+            }
+          }
+        ],
+        "columnName": "Created0714"
+      }
+    ]
+  }
+}

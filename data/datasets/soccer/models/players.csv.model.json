@@ -1,0 +1,60 @@
+{
+  "name": "players.csv",
+  "id": "players.csv",
+  "graph": {
+    "nodes": [
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/League"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "leagueShortname"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/givenName"
+            }
+          }
+        ],
+        "columnName": "firstName"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "fullName"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/familyName"
+            }
+          }
+        ],
+        "columnName": "lastName"
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "name": "www.tennesseegunexchange.com.jl.csv",
+  "id": "www.tennesseegunexchange.com.jl.csv",
+  "graph": {
+    "nodes": [
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/PostalAddress"
+            },
+            "type": {
+              "uri": "http://schema.org/postalCode"
+            }
+          }
+        ],
+        "columnName": "Code1354"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Place"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "Phone1340"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.org/price"
+            }
+          }
+        ],
+        "columnName": "Post1309"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.org/expires"
+            }
+          }
+        ],
+        "columnName": "Expires1366"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.org/description"
+            }
+          }
+        ],
+        "columnName": "Description1392"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.dig.isi.edu/ontology/identifier"
+            }
+          }
+        ],
+        "columnName": "ID1421"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "0036"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.org/datePosted"
+            }
+          }
+        ],
+        "columnName": "Listed1361"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/CreativeWork"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "file_name"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/CreativeWork"
+            },
+            "type": {
+              "uri": "http://schema.org/copyrightYear"
+            }
+          }
+        ],
+        "columnName": "Facebook2081"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.dig.isi.edu/ontology/PersonOrOrganization"
+            },
+            "type": {
+              "uri": "http://schema.org/telephone"
+            }
+          }
+        ],
+        "columnName": "Phone1330"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.dig.isi.edu/ontology/PersonOrOrganization"
+            },
+            "type": {
+              "uri": "http://schema.dig.isi.edu/ontology/identifier"
+            }
+          }
+        ],
+        "columnName": "Listed1964"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.dig.isi.edu/ontology/Firearm"
+            },
+            "type": {
+              "uri": "http://schema.org/category"
+            }
+          }
+        ],
+        "columnName": "Pistols1112"
+      }
+    ]
+  }
+}

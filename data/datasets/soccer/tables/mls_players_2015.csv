@@ -1,0 +1,681 @@
+rowNumber,player_num,position,player_name,club,age,height,weight,birthplace
+0,11,F,David Accam,Chicago Fire,24,5' 9'',154,Ghana
+1,23,D/M,Kellyn Acosta,FC Dallas,19,5' 10'',150,USA
+2,NA,D,Ada?lton,Chicago Fire,31,6' 3'',180,Brazil
+3,3,D,Sam Adekugbe,Vancouver Whitecaps FC,19,5' 9'',165,England
+4,9,F,Fanendo Adi,Portland Timbers,24,6' 4'',185,Nigeria
+5,13,F,Tesho Akindele,FC Dallas,22,6' 1'',170,Canada
+6,NA,M,Fatai Alashe,,21,6',170,USA
+7,12,M,Eric Alexander,New York Red Bulls,26,6' 1'',165,USA
+8,7,D/M,Jordan Allen,Real Salt Lake,19,5' 11'',160,USA
+9,6,M,Osvaldo Alonso,Seattle Sounders FC,29,5' 11'',165,Cuba
+10,30,D,Kevin Alston,New England Revolution,26,5' 8'',160,USA
+11,24,F,Quincy Amarikwa,Chicago Fire,27,5' 9'',180,USA
+12,NA,D,Jalil Anibaba,Sporting Kansas City,26,6',185,USA
+13,NA,M,Bernardo A?or,Sporting Kansas City,26,5' 8'',158,Venezuela
+14,34,M,Manny Aparicio,Toronto FC,19,5' 6'',149,Argentina
+15,5,D,Armando,New York Red Bulls,30,6' 1'',175,Spain
+16,8,M,Davy Arnaud,D.C. United,34,5' 11'',160,USA
+17,NA,F,Jairo Arrieta,Orlando City SC,31,5' 9'',150,Costa Rica
+18,26,M,Corey Ashe,Houston Dynamo,28,5' 5'',154,USA
+19,NA,M/F,Dairon Asprilla,Portland Timbers,22,5' 11'',165,Colombia
+20,24,GK,Jeff Attinella,Real Salt Lake,26,6' 2'',190,USA
+21,42,M,Micheal Azira,Seattle Sounders FC,27,5' 10'',160,Uganda
+22,NA,M,Mehdi Ballouchy,New York City FC,31,5' 11'',169,Morocco
+23,26,D,Brandon Barklage,San Jose Earthquakes,28,5' 11'',165,USA
+24,25,D,Darrius Barnes,New England Revolution,28,6' 1'',175,USA
+25,23,M,Giles Barnes,Houston Dynamo,26,5' 11'',181,England
+26,NA,M,Leandro Barrera,San Jose Earthquakes,23,5' 8'',171,Argentina
+27,19,F,Chad Barrett,Seattle Sounders FC,29,5' 11'',185,USA
+28,21,D,Chad Barson,Columbus Crew SC,23,5' 10'',170,USA
+29,21,D/M,DaMarcus Beasley,Houston Dynamo,32,5' 8'',145,USA
+30,5,M,Kyle Beckerman,Real Salt Lake,32,5' 11'',165,USA
+31,29,F,Adam Bedell,Columbus Crew SC,23,6' 6'',204,USA
+32,33,D/M,Steven Beitashour,Vancouver Whitecaps FC,27,5' 10'',170,USA
+33,8,M,Kyle Bekker,Toronto FC,24,5' 9'',165,Canada
+34,27,M,Louis B?land-Goyette,Montreal Impact,19,5' 8'',140,Canada
+35,2,D,Tony Beltran,Real Salt Lake,27,5' 8'',150,USA
+36,12,GK,Joe Bendik,Toronto FC,25,6' 2'',217,USA
+37,5,D,V?ctor Bern?rdez,San Jose Earthquakes,32,6' 2'',190,Honduras
+38,12,GK,John Berner,Colorado Rapids,23,6' 3'',205,USA
+39,8,M,Patrice Bernier,Montreal Impact,35,5' 9'',170,Canada
+40,4,D,Austin Berry,Philadelphia Union,26,6' 2'',188,USA
+41,5,D,Matt Besler,Sporting Kansas City,27,6',170,USA
+42,NA,M,Nick Besler,,21,6' 1'',165,USA
+43,16,F,Claudio Bieler,Sporting Kansas City,30,5' 11'',171,Argentina
+44,15,D,Steve Birnbaum,D.C. United,23,6' 2'',180,USA
+45,1,GK,Andre Blake,Philadelphia Union,24,6' 4'',175,Jamaica
+46,28,D,Mark Bloom,Toronto FC,27,5' 11'',162,USA
+47,NA,D,Nat Borchers,Portland Timbers,33,6' 2'',175,USA
+48,32,D,Bobby Boswell,D.C. United,31,6' 2'',185,USA
+49,21,M,Rub?n Bover,New York Red Bulls,22,5' 7'',144,Spain
+50,NA,F,Tristan Bowen,New England Revolution,23,5' 11'',170,USA
+51,4,M,Michael Bradley,Toronto FC,27,6' 2'',179,USA
+52,NA,D,Jeb Brovsky,New York City FC,26,6' 1'',170,USA
+53,26,F,Deshorn Brown,Colorado Rapids,24,6' 2'',170,Jamaica
+54,12,F,Will Bruin,Houston Dynamo,25,6' 2'',194,USA
+55,10,F,Teal Bunbury,New England Revolution,24,6' 2'',175,Canada
+56,4,D,Marc Burch,Colorado Rapids,30,6' 1'',180,USA
+57,NA,D,Bobby Burling,Colorado Rapids,30,6' 5'',195,USA
+58,30,G,Evan Bush,Montreal Impact,28,6' 1'',186,USA
+59,23,M,Michael Bustamante,New York Red Bulls,25,5' 9'',160,Colombia
+60,NA,D,Victor Cabrera,Montreal Impact,21,6',165,Argentina
+61,17,M,Tim Cahill,New York Red Bulls,35,5' 10'',150,Australia
+62,6,M,Scott Caldwell,New England Revolution,23,5' 8'',150,USA
+63,13,D,Steven Caldwell,Toronto FC,34,6' 2'',195,Scotland
+64,NA,F,Caleb Calvert,Colorado Rapids,18,6' 2'',160,USA
+65,6,D,Hassoun Camara,Montreal Impact,28,6' 2'',190,France
+66,44,GK,Marco Carducci,Vancouver Whitecaps FC,18,6' 1'',185,Canada
+67,7,M,Brian Carroll,Philadelphia Union,33,5' 10'',155,USA
+68,NA,M,Tony Cascio,Orlando City SC,24,6',170,USA
+69,24,GK,Santiago Casta?o,New York Red Bulls,19,6' 2'',184,USA
+70,11,F,Fabi?n Castillo,FC Dallas,22,5' 8'',150,Colombia
+71,7,M,Cordell Cato,San Jose Earthquakes,22,5' 9'',150,Trinidad and Tobago
+72,17,M,Darwin Cer?n,Orlando City SC,25,5' 7'',165,El Salvador
+73,21,M,Diego Chara,Portland Timbers,28,5' 8'',150,Colombia
+74,6,M,Ian Christianson,New York Red Bulls,23,5' 11'',155,United States
+75,13,M,Ricardo Clark,Houston Dynamo,31,5' 10'',160,USA
+76,1,GK,Steve Clark,Columbus Crew SC,28,6' 2'',192,USA
+77,34,F,Caleb Clarke,Vancouver Whitecaps FC,21,6' 1'',165,Canada
+78,20,M,Jorge Claros,Sporting Kansas City,29,5' 9'',155,Honduras
+79,16,D,A.J. Cochran,Houston Dynamo,21,6' 3'',195,USA
+80,16,D,Greg Cochrane,Chicago Fire,24,5' 8'',140,USA
+81,30,M,Razvan Cocis,Chicago Fire,31,5' 11'',161,Romania
+82,NA,D,Aur?lien Collin,Orlando City SC,28,6' 2'',169,France
+83,NA,D,Gustavo Silva Conceicao,Orlando City SC,28,6' 1'',198,Brazil
+84,33,F,Kenny Cooper,Seattle Sounders FC,30,6' 3'',210,USA
+85,NA,F,Coy Craft,FC Dallas,17,6' 2'',175,USA
+86,3,D,Warren Creavalle,Toronto FC,24,5' 11'',170,USA
+87,40,GK,Maxime Cr?peau,Montreal Impact,20,5' 11'',199,Canada
+88,4,M,Sam Cronin,San Jose Earthquakes,28,5' 10'',165,USA
+89,44,D/M,Danny Cruz,Philadelphia Union,25,5' 8'',170,USA
+90,9,F,Charlie Davies,New England Revolution,28,5' 10'',175,USA
+91,11,M,Brad Davis,Houston Dynamo,33,5' 11'',170,USA
+92,NA,M,Sean Davis,New York Red Bulls,21,6',165,Active
+93,22,D,Christian Dean,Vancouver Whitecaps FC,21,6' 3'',198,USA
+94,18,F,Jermain Defoe,Toronto FC,32,5' 7'',143,England
+95,20,D,A.J. DeLaGarza,LA Galaxy,27,5' 9'',150,USA
+96,14,M,Nick DeLeon,D.C. United,24,5' 10'',170,USA
+97,NA,M,Marco Delgado,Toronto FC,19,5' 9'',146,USA
+98,12,M,Edder Delgado,Honduras,28,5' 9'',NA,Honduras
+99,2,F,Clint Dempsey,Seattle Sounders FC,31,6' 1'',170,USA
+100,24,GK,Tyler Deric,Houston Dynamo,26,6' 3'',185,USA
+101,10,M,Mauro D?az,FC Dallas,23,5' 7'',137,Argentina
+102,7,F,Bright Dike,Toronto FC,27,6',213,United States
+103,10,M,Yannick Djalo,San Jose Earthquakes,28,5' 6'',140,Guinea-Bissau
+104,NA,F,Guilherme do Prado,Chicago Fire,33,6' 3'',180,Brazil
+105,33,M,Marco Donadel,Montreal Impact,31,5' 10'',160,Italy
+106,NA,D,Patrick Doody,Chicago Fire,22,6',180,United States
+107,12,M,Andy Dorman,New England Revolution,32,6' 1'',160,England
+108,30,F,Conor Doyle,D.C. United,23,6' 2'',172,USA
+109,NA,M,Andrew Driver,D.C. United,27,5' 9'',152,England
+110,11,M,Dilly Duka,Montreal Impact,25,5' 9'',160,USA
+111,2,D,Todd Dunivant,LA Galaxy,34,6' 1'',175,USA
+112,NA,M,Matt Dunn,New York City FC,20,5' 10'',163,USA
+113,25,D,Chris Duvall,New York Red Bulls,23,5' 10'',150,USA
+114,14,F,Dom Dwyer,Sporting Kansas City,24,5' 9'',180,England
+115,50,GK,Andrew Dykstra,D.C. United,29,6' 4'',195,USA
+116,NA,D,Otis Earle,,22,6',170,England
+117,21,M,Maurice Edu,Philadelphia Union,28,6',170,USA
+118,4,D,Kevin Ellis,Sporting Kansas City,23,5' 9'',160,USA
+119,19,F,Charles Eloundou,Colorado Rapids,20,5' 7'',155,Cameroon
+120,9,F,Fabi?n Esp?ndola,D.C. United,29,5' 9'',160,Argentina
+121,27,M,Roger Espinoza,Sporting Kansas City,28,5' 11'',170,Honduras
+122,3,M/F,David Estrada,D.C. United,26,5' 8'',160,Mexico
+123,NA,M,Estrela,Orlando City SC,19,5' 7'',150,Angola
+124,3,M,Brad Evans,Seattle Sounders FC,29,6' 1'',160,USA
+125,33,D,F?binho,Philadelphia Union,29,5' 7'',149,Brazil
+126,14,F,Diego Fagundez,New England Revolution,19,5' 8'',140,Uruguay
+127,2,D,Andrew Farrell,New England Revolution,22,5' 11'',165,USA
+128,10,M,Benny Feilhaber,Sporting Kansas City,29,5' 9'',160,Brazil
+129,22,M,Leo Fernandes,Philadelphia Union,23,6' 1'',165,Active
+130,1,GK,Lalo Fernandez,Real Salt Lake,22,6' 3'',170,Mexico
+131,10,F,Gast?n Fern?ndez,Portland Timbers,31,5' 8'',160,Argentina
+132,NA,M,Collin Fernandez,Chicago Fire,17,5' 8'',140,Active
+133,NA,F,Robbie Findley,Toronto FC,29,5' 9'',165,USA
+134,13,M,Ethan Finlay,Columbus Crew SC,24,5' 9'',165,USA
+135,NA,GK,Akira Fitzgerald,New York City FC,27,5' 9'',174,Japan
+136,26,M,George Fochive,Portland Timbers,22,5' 9'',172,USA
+137,NA,GK,Josh Ford,Orlando City SC,27,6',175,USA
+138,20,D,Shaun Francis,San Jose Earthquakes,28,6',165,Jamaica
+139,14,D,Waylon Francis,Columbus Crew SC,24,5' 9'',160,Costa Rica
+140,5,D,Sean Franklin,D.C. United,29,5' 10'',160,USA
+141,24,G,Stefan Frei,Seattle Sounders FC,28,6' 3'',195,Switzerland
+142,38,M,Kianz Froese,Vancouver Whitecaps FC,18,5' 9'',170,Cuba
+143,28,D,Raymon Gaddis,Philadelphia Union,24,5' 9'',151,USA
+144,50,M,J?r?my Gagnon-Lapar?,Montreal Impact,19,5' 11'',165,Canada
+145,25,M,Romain Gall,Columbus Crew SC,19,5' 9'',140,France
+146,27,M,Boniek Garcia,Houston Dynamo,30,5' 9'',150,Honduras
+147,13,F,Olmes Garc?a,Real Salt Lake,22,6',175,Colombia
+148,26,M,Danny Garcia,FC Dallas,21,5' 5'',140,USA
+149,33,D,Dan Gargan,LA Galaxy,32,5' 11'',175,USA
+150,19,M,Luis Garrido,Houston Dynamo,24,5' 7'',165,Honduras
+151,6,D,Eric Gehrig,Chicago Fire,27,6' 1'',160,USA
+152,23,M,Kevan George,Columbus Crew SC,24,6' 2'',170,Trinidad and Tobago
+153,21,M,Luis Gil,Real Salt Lake,21,5' 10'',155,USA
+154,9,F,Gilberto,Toronto FC,25,5' 10'',160,Brazil
+155,14,D,Justen Glad,Real Salt Lake,17,6',145,USA
+156,11,M,Jackson Gon?alves,Toronto FC,26,5' 9'',155,Brazil
+157,23,D,Jos? Gon?alves,New England Revolution,29,6' 2'',180,Portugal
+158,12,D,Leo Gonz?lez,Seattle Sounders FC,34,6' 1'',174,Costa Rica
+159,4,D,Omar Gonzalez,LA Galaxy,26,6' 5'',205,USA
+160,44,GK,Jesse Gonzalez,FC Dallas,19,6' 4'',180,USA
+161,44,D,Clarence Goodson,San Jose Earthquakes,32,6' 4'',180,USA
+162,9,F,Alan Gordon,LA Galaxy,33,6' 3'',190,USA
+163,NA,M,Ned Grabavoy,New York City FC,31,5' 7'',160,USA
+164,NA,G,Andy Gruenebaum,San Jose Earthquakes,32,6' 1'',175,USA
+165,17,D,Nick Hagglund,Toronto FC,22,6' 1'',193,USA
+166,94,M,Marlon Hairston,Colorado Rapids,2015,6',157,USA
+167,NA,M,Jeremy Hall,New England Revolution,26,5' 10'',177,USA
+168,NA,GK,Tally Hall,Orlando City SC,29,6' 4'',215,USA
+169,NA,M/D,Markus Halsti,D.C. United,30,6' 1'',185,Finland
+170,28,GK,Bill Hamid,D.C. United,24,6' 3'',225,USA
+171,22,F,Jordan Hamilton,Toronto FC,18,6',194,Canada
+172,2,D,Ty Harden,San Jose Earthquakes,30,6' 1'',190,USA
+173,NA,D,Michael Harrington,Colorado Rapids,28,6',170,USA
+174,NA,M/F,Atiba Harris,FC Dallas,30,6' 3'',185,Saint Kitts and Nevis
+175,2,D,Jordan Harvey,Vancouver Whitecaps FC,30,5' 11'',170,USA
+176,12,M,Harrison Heath,Orlando City SC,18,5' 11'',160,England
+177,24,D,Matt Hedges,FC Dallas,24,6' 4'',185,USA
+178,NA,D,Jason Hernandez,New York City FC,31,5' 10'',170,USA
+179,3,D,Moises Hernandez,FC Dallas,22,6',155,USA
+180,10,F,Federico Higuain,Columbus Crew SC,30,5' 8'',165,Argentina
+181,NA,F,Chandler Hoffman,Houston Dynamo,24,6',160,USA
+182,12,M,Ryan Hollingshead,FC Dallas,23,6' 1'',180,USA
+183,29,F,Antoine Hoppenot,Philadelphia Union,24,5' 8'',155,USA
+184,18,D,David Horst,Houston Dynamo,29,6' 4'',210,USA
+185,19,F/M,Erik Hurtado,Vancouver Whitecaps FC,24,5' 10'',180,USA
+186,6,M,Baggio Husidic,LA Galaxy,27,6' 1'',172,Bosnia and Herzegovina
+187,NA,F,Kennedy Igboananike,Chicago Fire,25,5' 9'',154,Nigeria
+188,NA,D,Samuel Inkoom,Houston Dynamo,25,5' 10'',NA,Ghana
+189,1,GK,Clint Irwin,Colorado Rapids,25,6' 3'',195,USA
+190,24,M,Stefan Ishizaki,LA Galaxy,32,5' 11'',165,Sweden
+191,24,F,Anthony Jackson-Hamel,Montreal Impact,21,6' 1'',180,USA
+192,NA,M,Andrew Jacobson,New York City FC,29,6' 2'',185,USA
+193,14,F,Adam Jahn,San Jose Earthquakes,24,6' 3'',185,USA
+194,23,F,Sebastian Jaime,Real Salt Lake,27,5' 11'',160,Argentina
+195,38,F,Bradford Jamieson,LA Galaxy,18,6' 1'',165,USA
+196,25,M,Jared Jeffrey,D.C. United,24,5' 11'',165,USA
+197,13,M,Jack Jewsbury,Portland Timbers,33,6',185,USA
+198,12,M,Hector Jimenez,Columbus Crew SC,26,5' 9'',140,USA
+199,NA,D,George John,New York City FC,27,6' 3'',203,USA
+200,7,F,Eddie Johnson,D.C. United,30,6',180,USA
+201,4,M,Will Johnson,Portland Timbers,27,5' 10'',160,Canada
+202,25,GK,Sean Johnson,Chicago Fire,25,6' 3'',217,USA
+203,14,F,Jason Johnson,Houston Dynamo,24,6',180,Jamaica
+204,13,M,Jermaine Jones,New England Revolution,33,6',170,Germany
+205,NA,D/M,Joevin Jones,Chicago Fire,23,5' 8'',160,Trinidad
+206,NA,F,Darwin Jones,Seattle Sounders FC,22,5' 10'',175,Active
+207,6,M,Jos? Mari,Colorado Rapids,27,5' 11'',150,Spain
+208,40,D,Igor Juli?o,Sporting Kansas City,20,5' 8'',145,Brazil
+209,19,M,Juninho,LA Galaxy,26,5' 7'',140,Brazil
+210,10,M,Kak?,Orlando City SC,32,6' 1'',181,Brazil
+211,NA,F,Kei Kamara,Columbus Crew SC,30,6' 3'',186,Sierra Leone
+212,1,GK,Alec Kann,Chicago Fire,24,6' 4'',190,USA
+213,7,F,Robbie Keane,LA Galaxy,34,5' 9'',160,Ireland
+214,22,D,Stephen Keel,FC Dallas,31,6',185,USA
+215,33,D,Taylor Kemp,D.C. United,24,5' 11'',153,USA
+216,21,GK,Jon Kempin,Sporting Kansas City,21,6' 1'',170,USA
+217,NA,GK,Dan Kennedy,FC Dallas,32,6' 1'',200,USA
+218,23,M/D,Perry Kitchen,D.C. United,22,6',160,USA
+219,15,D,Chris Klute,Colorado Rapids,24,6' 1'',172,USA
+220,18,D,Zat Knight,Colorado Rapids,34,6' 6'',225,England
+221,18,G,Brad Knighton,New England Revolution,29,6' 1'',180,USA
+222,16,M,Daigo Kobayashi,New England Revolution,31,5' 10'',150,Japan
+223,28,M,Gershon Koffie,Vancouver Whitecaps FC,23,6',175,Ghana
+224,1,GK,Chris Konopka,Toronto FC,29,6' 5'',228,USA
+225,22,D,Chris Korb,D.C. United,27,5' 9'',160,USA
+226,15,M,JJ Koval,San Jose Earthquakes,22,6' 1'',175,USA
+227,11,M,Aaron Kovar,Seattle Sounders FC,21,5' 10'',155,USA
+228,23,D,Krzysztof Krol,Montreal Impact,27,6' 1'',161,Poland
+229,NA,GK,Eric Kronberg,Montreal Impact,31,6' 5'',210,USA
+230,NA,GK,Adam Kwarasey,Portland Timbers,27,6' 3'',180,Norway
+231,15,M,Mat?as Laba,Vancouver Whitecaps FC,23,5' 9'',154,Argentina
+232,16,D,Connor Lade,New York Red Bulls,25,5' 7'',145,USA
+233,13,M,Michael Lahoud,Philadelphia Union,28,5' 8'',162,Sierra Leone
+234,28,GK,Matt Lampson,Columbus Crew SC,25,6' 3'',190,USA
+235,20,M,Jeff Larentowicz,Chicago Fire,31,6' 1'',175,USA
+236,NA,F,Cyle Larin,,19,6' 2'',190,Active
+237,11,F,S?bastien Le Toux,Philadelphia Union,31,6',155,France
+238,55,D,Wandrille Lef?vre,Montreal Impact,25,6' 1'',175,France
+239,24,F,Steven Lenhart,San Jose Earthquakes,28,6' 1'',190,USA
+240,22,D,Leonardo,LA Galaxy,26,6' 2'',185,Brazil
+241,25,M,Andre Lewis,Vancouver Whitecaps FC,20,5' 9'',145,Jamaica
+242,30,GK,Michael Lisch,Houston Dynamo,24,6' 4'',175,Active
+243,25,M,Aaron Long,Seattle Sounders FC,22,6' 1'',173,USA
+244,12,M,Mikey Lopez,Sporting Kansas City,21,5' 8'',160,USA
+245,26,D,Adri?n L?pez,Montreal Impact,27,6',192,Spain
+246,10,M,Alexander L?pez,Houston Dynamo,22,5' 9'',155,Honduras
+247,35,M,Daniel Lovitz,Toronto FC,23,5' 10'',170,USA
+248,31,D,Damion Lowe,Seattle Sounders FC,21,6' 3'',175,Jamaica
+249,17,D,Zach Loyd,FC Dallas,27,5' 10'',168,USA
+250,8,F,P?guy Luyindula,New York Red Bulls,35,5' 10'',158,Democratic Republic of the Congo
+251,NA,GK,Zac MacMath,Colorado Rapids,23,6',176,USA
+252,9,F,Mike Magee,Chicago Fire,30,5' 10'',160,USA
+253,10,M,Cristian Maidana,Philadelphia Union,27,5' 11'',165,Argentina
+254,16,D,Calum Mallace,Montreal Impact,25,6' 1'',181,Scotland
+255,23,F,Kekuta Manneh,Vancouver Whitecaps FC,20,5' 9'',140,Gambia
+256,20,M,Chris Mannella,Toronto FC,20,5' 9'',173,Canada
+257,29,D,Abdoulie Mansally,Real Salt Lake,25,5' 10'',160,Gambia
+258,21,M,Justin Mapp,Montreal Impact,30,6' 1'',160,USA
+259,NA,M,James Marcelin,Sporting Kansas City,28,6' 2'',175,Haiti
+260,NA,GK,Luis Marin,Sporting Kansas City,31,6' 2'',196,Chile
+261,16,D,Richie Marquez,Philadelphia Union,2015,6' 2'',185,USA
+262,14,D,Chad Marshall,Seattle Sounders FC,30,6' 4'',190,USA
+263,NA,D,Ramon Martin del Campo,,21,6' 2'',195,Mexico
+264,7,M,Felipe Martins,Montreal Impact,24,5' 9'',150,Brazil
+265,9,F,Obafemi Martins,Seattle Sounders FC,30,5' 7'',154,Nigeria
+266,11,F,Darren Mattocks,Vancouver Whitecaps FC,24,5' 10'',155,Jamaica
+267,92,GK,Ra?s Mbolhi,Philadelphia Union,28,6' 3'',176,France
+268,11,M,Dax McCarty,New York Red Bulls,27,5' 9'',150,USA
+269,99,F,Jack McInerney,Montreal Impact,22,5' 10'',151,USA
+270,NA,M,Thomas McNamara,New York City FC,23,5' 9'',170,USA
+271,NA,GK,Ryan Meara,New York City FC,24,6' 4'',185,USA
+272,4,D,Tyrone Mears,Seattle Sounders FC,31,5' 11'',163,England
+273,94,M,Jimmy Medranda,Sporting Kansas City,20,5' 5'',150,Colombia
+274,NA,GK,Tim Melia,Sporting Kansas City,28,6' 1'',190,USA
+275,NA,D,Andr?s Mendoza,New York City FC,25,6' 2'',194,Ecuador
+276,9,F,Justin Meram,Columbus Crew SC,26,6' 1'',165,USA
+277,13,GK,Bryan Meredith,San Jose Earthquakes,25,6' 2'',195,USA
+278,NA,M,Dan Metzger,,21,5' 10'',163,Active
+279,21,D,Tommy Meyer,LA Galaxy,24,6' 2'',175,USA
+280,29,F/M,Nicol?s Mezquida,Vancouver Whitecaps FC,22,5' 6'',150,Uruguay
+281,20,D,Matt Miazga,New York Red Bulls,19,6' 3'',185,USA
+282,31,M/D,Michel,FC Dallas,33,6' 1'',165,Brazil
+283,7,D,Roy Miller,New York Red Bulls,30,6' 2'',166,Costa Rica
+284,3,D,Eric Miller,Montreal Impact,21,6' 1'',175,USA
+285,NA,M,Leonel Miranda,Houston Dynamo,21,5' 8'',NA,Argentina
+286,18,M,Kevin Molino,Orlando City SC,24,5' 11'',145,Trinidad & Tobago
+287,3,D,Drew Moor,Colorado Rapids,30,6',165,USA
+288,27,F,Luke Moore,Toronto FC,28,5' 9'',167,England
+289,11,M,Javier Morales,Real Salt Lake,35,5' 9'',150,Argentina
+290,77,M,Pedro Morales,Vancouver Whitecaps FC,29,5' 11'',170,Chile
+291,5,D,Ashtone Morgan,Toronto FC,23,5' 9'',156,Canada
+292,2,D,Justin Morrow,Toronto FC,27,5' 9'',153,USA
+293,19,M,Luke Mulholland,Real Salt Lake,26,5' 9'',150,England
+294,NA,F,Patrick Mullins,New York City FC,22,6' 1'',175,USA
+295,7,D,Chance Myers,Sporting Kansas City,27,6',165,USA
+296,6,M,Paulo Nagamura,Sporting Kansas City,31,5' 8'',155,Brazil
+297,6,F/M,Darlington Nagbe,Portland Timbers,24,5' 9'',165,Liberia
+298,17,M,Issey Nakajima-Farran,Montreal Impact,30,5' 10'',160,Canada
+299,NA,GK,Joe Nasco,New England Revolution,30,6' 3'',205,USA
+300,27,M/F,Lamar Neagle,Seattle Sounders FC,27,5' 11'',165,USA
+301,NA,M,Lewis Neal,Orlando City SC,33,5' 11'',155,England
+302,16,D,John Neeskens,Colorado Rapids,21,6' 1'',160,USA
+303,NA,F,Krisztian Nemeth,Sporting Kansas City,26,5' 11'',165,Hungary
+304,4,M,Steve Neumann,New England Revolution,23,6',165,USA
+305,24,M/F,Lee Nguyen,New England Revolution,28,5' 8'',150,USA
+306,5,M,Vincent Nogueira,Philadelphia Union,26,5' 7'',140,France
+307,14,F,Patrick Nyarko,Chicago Fire,28,6',160,Ghana
+308,NA,M,Sanna Nyassi,San Jose Earthquakes,25,5' 8'',145,Gambia
+309,40,D,Andy O'Brien,Vancouver Whitecaps FC,35,6' 3'',205,England
+310,27,D,Shane O'Neill,Colorado Rapids,21,6' 2'',190,Ireland
+311,NA,D,Jimmy Ockford,Seattle Sounders FC,22,6' 1'',185,USA
+312,23,F,Dominic Oduro,Toronto FC,29,6',160,Ghana
+313,NA,M,Amobi Okugo,Orlando City SC,23,6',175,USA
+314,NA,D,Boyd Okwuonu,,21,5' 9'',170,USA
+315,4,D,J?mison Olave,Real Salt Lake,33,6' 3'',210,Colombia
+316,3,D,Ike Opara,Sporting Kansas City,25,6' 2'',180,USA
+317,6,D,Kofi Opare,D.C. United,24,6' 2'',190,Canada
+318,21,M,Jonathan Osorio,Toronto FC,22,5' 9'',161,Canada
+319,34,D,Karl Ouimette,Montreal Impact,22,6',175,Canada
+320,1,GK,David Ousted,Vancouver Whitecaps FC,29,6' 4'',195,Denmark
+321,3,D,Ambroise Oyongo,New York Red Bulls,23,5' 9'',150,Cameroon
+322,5,D/M,Lovel Palmer,Chicago Fire,30,5' 10'',160,Jamaica
+323,2,D,Erik Palmer-Brown,Sporting Kansas City,17,6' 1'',175,USA
+324,23,D,Norberto Paparatto,Portland Timbers,31,6' 3'',180,Argentina
+325,10,M,Marco Pappa,Seattle Sounders FC,27,5' 10'',155,Guatemala
+326,NA,D,Jeff Parke,,32,6' 1'',185,USA
+327,4,D,Michael Parkhurst,Columbus Crew SC,30,5' 11'',159,USA
+328,77,F,K?vin Parsemain,Seattle Sounders FC,26,5' 10'',165,Martinique
+329,NA,D,Heath Pearce,Orlando City SC,30,5' 10'',175,USA
+330,20,D,Taylor Peay,Portland Timbers,23,6' 2'',185,USA
+331,NA,M,Agust?n Pelletieri,,32,5' 8'',159,Argentina
+332,18,GK,Jaime Penedo,LA Galaxy,33,6',160,Panama
+333,NA,D,Jeanderson Pereira,Portland Timbers,23,5' 11'',160,Brazil
+334,7,F,Blas P?rez,FC Dallas,33,6' 1'',174,Panama
+335,15,M,Diego P?rez,Uruguay,34,5' 10'',179,Uruguay
+336,11,M,Mat?as P?rez Garc?a,San Jose Earthquakes,30,5' 5'',145,Argentina
+337,NA,GK,Brian Perk,,25,5' 11'',175,USA
+338,NA,GK,Troy Perkins,,33,6' 2'',190,USA
+339,NA,D,Damien Perrinelle,,31,6' 1'',170,France
+340,37,F,Jacob Peterson,Sporting Kansas City,28,5' 10'',165,USA
+341,10,M,Ignacio Piatti,Montreal Impact,29,5' 11'',169,Argentina
+342,80,M,Jean-Baptiste Pierazzi,San Jose Earthquakes,29,6' 1'',165,France
+343,NA,D,Thomas Piermayr,,25,6',175,Austria
+344,8,M,Gonzalo Pineda,Seattle Sounders FC,32,5' 10'',166,Mexico
+345,16,D,Pablo Pintos,San Jose Earthquakes,27,6',160,Uruguay
+346,8,F,Joao Plata,Real Salt Lake,22,5' 2'',135,Ecuador
+347,NA,D,Matt Polster,,21,6',170,Active
+348,18,M,Mart?n Ponce,,22,5' 6'',149,Mexico
+349,13,M/F,Chris Pontius,D.C. United,27,6',170,USA
+350,NA,M,Kyle Porter,,24,6',160,Canada
+351,NA,F,Cameron Porter,,21,6' 1'',175,Active
+352,2,D,Alvas Powell,Portland Timbers,20,6',165,Jamaica
+353,8,M,Dillon Powers,Colorado Rapids,23,5' 11'',170,United States
+354,99,F,Alec Purdie,,26,5' 10'',185,USA
+355,NA,D,Rafael Ramos,Orlando City SC,20,5' 7'',148,Portugal
+356,92,F,Rafinha,,22,5' 10'',155,Brazil
+357,4,D,Tommy Redding,Orlando City SC,17,6' 2'',175,USA
+358,NA,M,Mike Reidy,,23,5' 7'',150,USA
+359,15,D,Dylan Remick,Seattle Sounders FC,23,6',165,USA
+360,26,M,Charles Renken,,21,5' 7'',140,Zambia
+361,14,M/D,Nigel Reo-Coker,Montreal Impact,30,5' 9'',170,England
+362,28,GK,Kyle Reynish,Chicago Fire,31,6' 3'',193,USA
+363,NA,M,Carlos Riascos,,20,NA,Colombia,Active
+364,NA,D,Jose Ribas,,21,5' 9'',157,Ecuador
+365,NA,M,Pedro Ribeiro,Orlando City SC,24,6' 4'',208,Brazil
+366,16,F,Brent Richards,,24,5' 10'',165,USA
+367,NA,GK,Spencer Richey,,22,6' 2'',195,Active
+368,NA,D,Ryan Richter,,25,6',184,USA
+369,NA,GK,Donovan Ricketts,Orlando City SC,37,6' 4'',215,Jamaica
+370,24,D,Liam Ridgewell,Portland Timbers,30,6' 2'',175,England
+371,NA,D,James Riley,,32,5' 10'',150,USA
+372,18,G,Nick Rimando,Real Salt Lake,35,5' 9'',184,USA
+373,21,M,Chris Ritter,Chicago Fire,24,6' 2'',190,USA
+374,NA,F,Sidney Rivera,,21,6' 2'',185,Active
+375,NA,M,Martin Rivero,,25,5' 9'',160,Argentina
+376,9,F,Octavio Rivero,Vancouver Whitecaps FC,22,6' 2'',180,Uruguay
+377,6,M,Michael Roach,,26,6',165,USA
+378,40,GK,Quillan Roberts,Toronto FC,20,6',200,Canada
+379,20,D,Jalen Robinson,D.C. United,20,5' 9'',145,USA
+380,31,GK,Luis Robles,New York Red Bulls,30,5' 11'',180,USA
+381,NA,M,Nik Robson,,2015,6' 1'',170,New Zealand
+382,NA,F,Bryan R?chez,Orlando City SC,20,5' 11'',161,Honduras
+383,22,D,Carlos Rodr?guez,,24,6',160,Panama
+384,20,M,Memo Rodriguez,Houston Dynamo,19,5' 8'',142,USA
+385,NA,D,Raul Rodriguez,Houston Dynamo,27,6',165,Spain
+386,14,M,Robbie Rogers,LA Galaxy,27,5' 10'',165,USA
+387,NA,F/M,James Rogers,,21,5' 8'',150,Sierra Leone
+388,NA,M,Cristian Roldan,,19,5' 8'',165,USA
+389,18,F,Chris Rolfe,D.C. United,31,5' 8'',155,USA
+390,14,F,Colin Rolfe,,24,6',175,USA
+391,15,F,Andr?s Romero,Montreal Impact,25,5' 10'',160,Argentina
+392,30,M,Mauro Rosales,Vancouver Whitecaps FC,33,5' 8'',165,Argentina
+393,5,M,Andy Rose,Seattle Sounders FC,24,6' 2'',170,Australia
+394,11,M,Kelyn Rowe,New England Revolution,23,5' 8'',150,USA
+395,1,GK,Brian Rowe,LA Galaxy,26,6' 1'',185,USA
+396,3,D,Brad Rusin,,28,6' 4'',213,USA
+397,16,M,Darel Russell,,34,5' 10'',163,England
+398,NA,M,Nic Ryan,,23,5' 8'',130,USA
+399,15,F,?lvaro Sabor?o,Real Salt Lake,32,6',170,Costa Rica
+400,NA,M,Mohammed Saeid,Columbus Crew SC,24,5' 7'',141,Sweden
+401,17,F,Omar Salgado,,21,6' 4'',210,USA
+402,6,M,Shea Salinas,San Jose Earthquakes,28,5' 10'',150,USA
+403,10,M,Lloyd Sam,New York Red Bulls,30,5' 8'',163,England
+404,27,D,Ethen Sampson,Vancouver Whitecaps FC,21,5' 10'',165,South Africa
+405,NA,D,Jossimar Sanchez,,23,5' 9'',170,USA
+406,8,M,Mat?as S?nchez,,27,5' 8'',160,Argentina
+407,7,F,Vicente S?nchez,Colorado Rapids,35,5' 7'',145,Uruguay
+408,49,F,Devon Sandoval,Real Salt Lake,23,6' 1'',185,USA
+409,NA,F,C.J. Sapong,Philadelphia Union,26,6' 1'',185,USA
+410,8,D,Kofi Sarkodie,Houston Dynamo,23,5' 9'',165,USA
+411,8,M,Marcelo Sarvas,LA Galaxy,33,5' 10'',155,Brazil
+412,NA,M,Sebastian Saucedo,Real Salt Lake,17,5' 7'',145,USA
+413,NA,GK,Josh Saunders,New York City FC,33,6' 4'',210,USA
+414,18,F,Aaron Schoenfeld,Columbus Crew SC,24,6' 4'',190,USA
+415,28,D,Chris Schuler,Real Salt Lake,27,6' 4'',185,USA
+416,NA,F,Billy Schuler,,24,5' 11'',170,USA
+417,20,D,Zach Scott,Seattle Sounders FC,34,5' 11'',175,USA
+418,NA,D,Gonzalo Segares,,32,5' 11'',170,Costa Rica
+419,18,GK,Chris Seitz,FC Dallas,27,6' 3'',236,USA
+420,NA,D,Ibrahim Sekagya,,34,6' 1'',176,Uganda
+421,NA,F,Saer Sene,,28,6' 3'',185,France
+422,17,M,Dillon Serna,Colorado Rapids,20,5' 7'',140,USA
+423,NA,M,Conor Shanosky,,23,6' 4'',185,USA
+424,23,D,Luke Shaw,England,19,6' 1'',NA,England
+425,NA,M,Brek Shea,Orlando City SC,24,6' 3'',180,USA
+426,NA,F,Khiry Shelton,,21,6' 3'',185,Active
+427,NA,F,Mark Sherrod,San Jose Earthquakes,24,6' 3'',185,USA
+428,19,M,Harry Shipp,Chicago Fire,23,5' 9'',145,USA
+429,22,GK,Bobby Shuttleworth,New England Revolution,27,6' 2'',205,USA
+430,11,M,Luis Silva,D.C. United,26,5' 11'',163,USA
+431,NA,F,Florent Sinama-Pongolle,,30,5' 9'',152,R?union
+432,15,D,Seth Sinovic,Sporting Kansas City,27,5' 10'',170,USA
+433,14,D,Steven Smith,,29,5' 10'',160,Scotland
+434,NA,F,Yannick Smith,,24,5' 9'',165,Active
+435,NA,M,Donnie Smith,,24,5' 11'',160,USA
+436,19,M,Blake Smith,Montreal Impact,23,5' 10'',150,USA
+437,5,D,A.J. Soares,New England Revolution,26,6',170,USA
+438,NA,GK,Luis Soffner,,23,6' 4'',210,USA
+439,13,M,Josue Soto,,26,5' 8'',160,USA
+440,5,D,Bakary Soumare,Montreal Impact,29,6' 4'',190,Mali
+441,NA,GK,Trevor Spangenberg,,23,6' 2'',190,United States
+442,17,M,Ben Speas,Columbus Crew SC,23,5' 8'',155,USA
+443,NA,M,Kristinn Steindorsson,Columbus Crew SC,24,5' 8'',154,Iceland
+444,NA,M,Michael Stephens,Chicago Fire,25,5' 9'',155,USA
+445,9,M,Khari Stephenson,San Jose Earthquakes,33,6' 2'',185,Jamaica
+446,27,M,John Stertzer,Real Salt Lake,24,6',170,USA
+447,23,M,Martin Steuble,Sporting Kansas City,26,5' 8'',158,Switzerland
+448,19,M,Eric Stevenson,New York Red Bulls,24,5' 8'',145,USA
+449,3,D/M,Jordan Stewart,San Jose Earthquakes,32,6',180,England
+450,15,M,Matt Stinson,,22,5' 10'',165,Canada
+451,NA,M,Nathan Sturgis,Houston Dynamo,27,5' 10'',160,USA
+452,NA,GK,Brad Stuver,,23,6' 3'',180,USA
+453,NA,M,Alec Sundly,,22,6',157,USA
+454,NA,M,Ben Swanson,Columbus Crew SC,17,5' 6'',130,Active
+455,22,D,Ben Sweat,Columbus Crew SC,23,6' 2'',175,USA
+456,4,D,Jermaine Taylor,Houston Dynamo,29,5' 10'',195,Jamaica
+457,NA,F,Tony Taylor,New York City FC,25,6',170,USA
+458,6,M,Tony Tchani,Columbus Crew SC,25,6' 4'',185,Cameroon
+459,31,M,Russell Teibert,Vancouver Whitecaps FC,22,5' 8'',150,Canada
+460,9,F,David Texeira,FC Dallas,23,6',179,Uruguay
+461,18,M,Michael Thomas,,26,5' 10'',170,USA
+462,NA,M,Hendry Thomas,,29,5' 11'',175,Honduras
+463,39,GK,Simon Thomas,,24,6' 3'',190,Canada
+464,15,M,Wells Thompson,,31,5' 10'',156,USA
+465,22,M,Tommy Thompson,San Jose Earthquakes,19,5' 7'',145,USA
+466,8,D,Chris Tierney,New England Revolution,29,6',170,USA
+467,51,D,Maxim Tissot,Montreal Impact,22,5' 11'',162,Canada
+468,25,D,Donny Toia,Montreal Impact,22,5' 8'',160,USA
+469,NA,F,Jonathan Top,,21,5' 8'',160,USA
+470,70,GK,Paolo Tornaghi,Vancouver Whitecaps FC,26,6' 2'',165,Italy
+471,NA,F,Erick Torres,Houston Dynamo,21,5' 11'',168,Mexico
+472,10,F,Gabriel Torres,Colorado Rapids,26,5' 11'',165,Panama
+473,NA,D,Djimi Traor?,,34,6' 3'',191,France
+474,20,M,Wil Trapp,Columbus Crew SC,21,5' 8'',150,USA
+475,12,M/F,Schillo Tshuma,Portland Timbers,22,5' 10'',162,Zimbabwe
+476,25,D,Dylan Tucker-Gangnes,,25,6' 3'',190,USA
+477,2,D,Tyler Turner,Orlando City SC,18,5' 11'',155,USA
+478,NA,F,Kris Tyrpak,San Jose Earthquakes,22,5' 11'',145,USA
+479,28,M,Victor Ulloa,FC Dallas,22,5' 11'',165,USA
+480,37,M,Maximiliano Urruti,Portland Timbers,23,6',165,Argentina
+481,2,D,Carlos Vald?s,Philadelphia Union,29,6',176,Colombia
+482,8,M,Diego Valeri,Portland Timbers,28,5' 10'',165,Argentina
+483,NA,D,Grant Van De Casteele,,23,6' 2'',165,USA
+484,17,F,Olman Vargas,,29,6' 2'',174,Costa Rica
+485,NA,M,Sebastian Velasquez,New York City FC,23,5' 7'',155,Colombia
+486,NA,D/M,Agust?n Viana,,31,5' 11'',165,USA
+487,21,M/F,Michael Videira,,29,5' 10'',183,USA
+488,7,F,David Villa,New York City FC,33,5' 9'',148,Spain
+489,19,D/M,Jorge Villafa?a,Portland Timbers,25,5' 9'',150,USA
+490,11,M,Ricardo Villar,,35,5' 9'',163,Brazil
+491,24,GK,Jeremy Vuolo,,27,6' 3'',196,USA
+492,2,D,Tyson Wahl,Columbus Crew SC,30,6' 2'',185,USA
+493,NA,D,Nicholas Walker,,24,6' 3'',190,Trinidad and Tobago
+494,NA,M,Matt Walker,,22,5' 6'',150,USA
+495,22,D/M,Rodney Wallace,Portland Timbers,26,6',155,Costa Rica
+496,NA,M,Grant Ward,,20,5',160,England
+497,26,M,Collen Warner,Toronto FC,26,5' 10'',178,USA
+498,4,D,Kendall Waston,Vancouver Whitecaps FC,27,6' 5'',195,Costa Rica
+499,27,M,Je-Vaughn Watson,FC Dallas,31,6' 1'',175,Jamaica
+500,22,M,Matt Watson,Chicago Fire,30,6',180,England
+501,NA,D,Kwame Watson-Siriboe,New York City FC,28,6' 3'',196,USA
+502,33,M,Jared Watts,Colorado Rapids,22,6' 1'',155,USA
+503,NA,F,Cam Weaver,,31,6' 4'',195,USA
+504,33,GK,Andrew Weber,Portland Timbers,31,6' 2'',190,USA
+505,9,F,Andrew Wenger,Philadelphia Union,24,6',185,USA
+506,12,F,Aaron Wheeler,Philadelphia Union,26,6' 4'',197,USA
+507,15,D,Ethan White,Philadelphia Union,24,6',183,USA
+508,NA,F,Andrew Wiedeman,,25,5' 11'',166,USA
+509,NA,D,Matt Wiet,,24,5' 11'',170,USA
+510,25,D,Sheanon Williams,Philadelphia Union,24,5' 11'',170,USA
+511,NA,D,Josh Williams,New York City FC,26,6' 2'',192,USA
+512,31,D,Dicoy Williams,,28,6' 2'',187,Jamaica
+513,NA,GK,Joe Willis,Houston Dynamo,26,6' 5'',189,USA
+514,NA,D,Chris Wingert,New York City FC,32,5' 11'',165,USA
+515,40,GK,Daniel Withrow,Portland Timbers,24,6' 1'',180,USA
+516,30,M,Krystian Witkowski,,24,5' 11'',165,USA
+517,8,F,Chris Wondolowski,San Jose Earthquakes,31,6',165,USA
+518,21,D,Daniel Woolard,,30,5' 10'',155,USA
+519,99,F,Bradley Wright-Phillips,New York Red Bulls,29,5' 8'',155,England
+520,NA,D,Marvell Wynne,San Jose Earthquakes,28,5' 9'',180,USA
+521,17,D,DeAndre Yedlin,Seattle Sounders FC,21,5' 8'',150,USA
+522,99,D,Luis Zapata,,34,5' 10'',170,Colombia
+523,11,F,Gyasi Zardes,LA Galaxy,23,6' 2'',175,USA
+524,NA,D,Eriq Zavaleta,,22,6' 1'',185,USA
+525,14,M,Ben Zemanski,Portland Timbers,26,5' 11'',150,USA
+526,NA,M,Alejandro Zendejas,FC Dallas,16,5' 7'',145,USA
+527,25,D,Walker Zimmerman,FC Dallas,21,6' 3'',185,USA
+528,NA,M,Sal Zizzo,New York Red Bulls,27,5' 10'',165,USA
+529,8,M,Graham Zusi,Sporting Kansas City,28,5' 10'',160,USA
+530,11,F,David Accam,Chicago Fire,24,5' 9'',154,Ghana
+531,23,D/M,Kellyn Acosta,FC Dallas,19,5' 10'',150,USA
+532,NA,D,Ada?lton,Chicago Fire,31,6' 3'',180,Brazil
+533,3,D,Sam Adekugbe,Vancouver Whitecaps FC,19,5' 9'',165,England
+534,9,F,Fanendo Adi,Portland Timbers,24,6' 4'',185,Nigeria
+535,13,F,Tesho Akindele,FC Dallas,22,6' 1'',170,Canada
+536,NA,M,Fatai Alashe,,21,6',170,USA
+537,12,M,Eric Alexander,New York Red Bulls,26,6' 1'',165,USA
+538,7,D/M,Jordan Allen,Real Salt Lake,19,5' 11'',160,USA
+539,6,M,Osvaldo Alonso,Seattle Sounders FC,29,5' 11'',165,Cuba
+540,30,D,Kevin Alston,New England Revolution,26,5' 8'',160,USA
+541,24,F,Quincy Amarikwa,Chicago Fire,27,5' 9'',180,USA
+542,NA,D,Jalil Anibaba,Sporting Kansas City,26,6',185,USA
+543,NA,M,Bernardo A?or,Sporting Kansas City,26,5' 8'',158,Venezuela
+544,34,M,Manny Aparicio,Toronto FC,19,5' 6'',149,Argentina
+545,5,D,Armando,New York Red Bulls,30,6' 1'',175,Spain
+546,8,M,Davy Arnaud,D.C. United,34,5' 11'',160,USA
+547,NA,F,Jairo Arrieta,Orlando City SC,31,5' 9'',150,Costa Rica
+548,26,M,Corey Ashe,Houston Dynamo,28,5' 5'',154,USA
+549,NA,M/F,Dairon Asprilla,Portland Timbers,22,5' 11'',165,Colombia
+550,24,GK,Jeff Attinella,Real Salt Lake,26,6' 2'',190,USA
+551,42,M,Micheal Azira,Seattle Sounders FC,27,5' 10'',160,Uganda
+552,NA,M,Mehdi Ballouchy,New York City FC,31,5' 11'',169,Morocco
+553,26,D,Brandon Barklage,San Jose Earthquakes,28,5' 11'',165,USA
+554,25,D,Darrius Barnes,New England Revolution,28,6' 1'',175,USA
+555,23,M,Giles Barnes,Houston Dynamo,26,5' 11'',181,England
+556,NA,M,Leandro Barrera,San Jose Earthquakes,23,5' 8'',171,Argentina
+557,19,F,Chad Barrett,Seattle Sounders FC,29,5' 11'',185,USA
+558,21,D,Chad Barson,Columbus Crew SC,23,5' 10'',170,USA
+559,21,D/M,DaMarcus Beasley,Houston Dynamo,32,5' 8'',145,USA
+560,5,M,Kyle Beckerman,Real Salt Lake,32,5' 11'',165,USA
+561,29,F,Adam Bedell,Columbus Crew SC,23,6' 6'',204,USA
+562,33,D/M,Steven Beitashour,Vancouver Whitecaps FC,27,5' 10'',170,USA
+563,8,M,Kyle Bekker,Toronto FC,24,5' 9'',165,Canada
+564,27,M,Louis B?land-Goyette,Montreal Impact,19,5' 8'',140,Canada
+565,2,D,Tony Beltran,Real Salt Lake,27,5' 8'',150,USA
+566,12,GK,Joe Bendik,Toronto FC,25,6' 2'',217,USA
+567,5,D,V?ctor Bern?rdez,San Jose Earthquakes,32,6' 2'',190,Honduras
+568,12,GK,John Berner,Colorado Rapids,23,6' 3'',205,USA
+569,8,M,Patrice Bernier,Montreal Impact,35,5' 9'',170,Canada
+570,4,D,Austin Berry,Philadelphia Union,26,6' 2'',188,USA
+571,5,D,Matt Besler,Sporting Kansas City,27,6',170,USA
+572,NA,M,Nick Besler,,21,6' 1'',165,USA
+573,16,F,Claudio Bieler,Sporting Kansas City,30,5' 11'',171,Argentina
+574,15,D,Steve Birnbaum,D.C. United,23,6' 2'',180,USA
+575,1,GK,Andre Blake,Philadelphia Union,24,6' 4'',175,Jamaica
+576,28,D,Mark Bloom,Toronto FC,27,5' 11'',162,USA
+577,NA,D,Nat Borchers,Portland Timbers,33,6' 2'',175,USA
+578,32,D,Bobby Boswell,D.C. United,31,6' 2'',185,USA
+579,21,M,Rub?n Bover,New York Red Bulls,22,5' 7'',144,Spain
+580,11,F,David Accam,Chicago Fire,24,5' 9'',154,Ghana
+581,23,D/M,Kellyn Acosta,FC Dallas,19,5' 10'',150,USA
+582,NA,D,Ada?lton,Chicago Fire,31,6' 3'',180,Brazil
+583,3,D,Sam Adekugbe,Vancouver Whitecaps FC,19,5' 9'',165,England
+584,9,F,Fanendo Adi,Portland Timbers,24,6' 4'',185,Nigeria
+585,13,F,Tesho Akindele,FC Dallas,22,6' 1'',170,Canada
+586,NA,M,Fatai Alashe,,21,6',170,USA
+587,12,M,Eric Alexander,New York Red Bulls,26,6' 1'',165,USA
+588,7,D/M,Jordan Allen,Real Salt Lake,19,5' 11'',160,USA
+589,6,M,Osvaldo Alonso,Seattle Sounders FC,29,5' 11'',165,Cuba
+590,30,D,Kevin Alston,New England Revolution,26,5' 8'',160,USA
+591,24,F,Quincy Amarikwa,Chicago Fire,27,5' 9'',180,USA
+592,NA,D,Jalil Anibaba,Sporting Kansas City,26,6',185,USA
+593,NA,M,Bernardo A?or,Sporting Kansas City,26,5' 8'',158,Venezuela
+594,34,M,Manny Aparicio,Toronto FC,19,5' 6'',149,Argentina
+595,5,D,Armando,New York Red Bulls,30,6' 1'',175,Spain
+596,8,M,Davy Arnaud,D.C. United,34,5' 11'',160,USA
+597,NA,F,Jairo Arrieta,Orlando City SC,31,5' 9'',150,Costa Rica
+598,26,M,Corey Ashe,Houston Dynamo,28,5' 5'',154,USA
+599,NA,M/F,Dairon Asprilla,Portland Timbers,22,5' 11'',165,Colombia
+600,24,GK,Jeff Attinella,Real Salt Lake,26,6' 2'',190,USA
+601,42,M,Micheal Azira,Seattle Sounders FC,27,5' 10'',160,Uganda
+602,NA,M,Mehdi Ballouchy,New York City FC,31,5' 11'',169,Morocco
+603,26,D,Brandon Barklage,San Jose Earthquakes,28,5' 11'',165,USA
+604,25,D,Darrius Barnes,New England Revolution,28,6' 1'',175,USA
+605,23,M,Giles Barnes,Houston Dynamo,26,5' 11'',181,England
+606,NA,M,Leandro Barrera,San Jose Earthquakes,23,5' 8'',171,Argentina
+607,19,F,Chad Barrett,Seattle Sounders FC,29,5' 11'',185,USA
+608,21,D,Chad Barson,Columbus Crew SC,23,5' 10'',170,USA
+609,21,D/M,DaMarcus Beasley,Houston Dynamo,32,5' 8'',145,USA
+610,5,M,Kyle Beckerman,Real Salt Lake,32,5' 11'',165,USA
+611,29,F,Adam Bedell,Columbus Crew SC,23,6' 6'',204,USA
+612,33,D/M,Steven Beitashour,Vancouver Whitecaps FC,27,5' 10'',170,USA
+613,8,M,Kyle Bekker,Toronto FC,24,5' 9'',165,Canada
+614,27,M,Louis B?land-Goyette,Montreal Impact,19,5' 8'',140,Canada
+615,2,D,Tony Beltran,Real Salt Lake,27,5' 8'',150,USA
+616,12,GK,Joe Bendik,Toronto FC,25,6' 2'',217,USA
+617,5,D,V?ctor Bern?rdez,San Jose Earthquakes,32,6' 2'',190,Honduras
+618,12,GK,John Berner,Colorado Rapids,23,6' 3'',205,USA
+619,8,M,Patrice Bernier,Montreal Impact,35,5' 9'',170,Canada
+620,4,D,Austin Berry,Philadelphia Union,26,6' 2'',188,USA
+621,5,D,Matt Besler,Sporting Kansas City,27,6',170,USA
+622,NA,M,Nick Besler,,21,6' 1'',165,USA
+623,16,F,Claudio Bieler,Sporting Kansas City,30,5' 11'',171,Argentina
+624,15,D,Steve Birnbaum,D.C. United,23,6' 2'',180,USA
+625,1,GK,Andre Blake,Philadelphia Union,24,6' 4'',175,Jamaica
+626,28,D,Mark Bloom,Toronto FC,27,5' 11'',162,USA
+627,NA,D,Nat Borchers,Portland Timbers,33,6' 2'',175,USA
+628,32,D,Bobby Boswell,D.C. United,31,6' 2'',185,USA
+629,21,M,Rub?n Bover,New York Red Bulls,22,5' 7'',144,Spain
+630,11,F,David Accam,Chicago Fire,24,5' 9'',154,Ghana
+631,23,D/M,Kellyn Acosta,FC Dallas,19,5' 10'',150,USA
+632,NA,D,Ada?lton,Chicago Fire,31,6' 3'',180,Brazil
+633,3,D,Sam Adekugbe,Vancouver Whitecaps FC,19,5' 9'',165,England
+634,9,F,Fanendo Adi,Portland Timbers,24,6' 4'',185,Nigeria
+635,13,F,Tesho Akindele,FC Dallas,22,6' 1'',170,Canada
+636,NA,M,Fatai Alashe,,21,6',170,USA
+637,12,M,Eric Alexander,New York Red Bulls,26,6' 1'',165,USA
+638,7,D/M,Jordan Allen,Real Salt Lake,19,5' 11'',160,USA
+639,6,M,Osvaldo Alonso,Seattle Sounders FC,29,5' 11'',165,Cuba
+640,30,D,Kevin Alston,New England Revolution,26,5' 8'',160,USA
+641,24,F,Quincy Amarikwa,Chicago Fire,27,5' 9'',180,USA
+642,NA,D,Jalil Anibaba,Sporting Kansas City,26,6',185,USA
+643,NA,M,Bernardo A?or,Sporting Kansas City,26,5' 8'',158,Venezuela
+644,34,M,Manny Aparicio,Toronto FC,19,5' 6'',149,Argentina
+645,5,D,Armando,New York Red Bulls,30,6' 1'',175,Spain
+646,8,M,Davy Arnaud,D.C. United,34,5' 11'',160,USA
+647,NA,F,Jairo Arrieta,Orlando City SC,31,5' 9'',150,Costa Rica
+648,26,M,Corey Ashe,Houston Dynamo,28,5' 5'',154,USA
+649,NA,M/F,Dairon Asprilla,Portland Timbers,22,5' 11'',165,Colombia
+650,24,GK,Jeff Attinella,Real Salt Lake,26,6' 2'',190,USA
+651,42,M,Micheal Azira,Seattle Sounders FC,27,5' 10'',160,Uganda
+652,NA,M,Mehdi Ballouchy,New York City FC,31,5' 11'',169,Morocco
+653,26,D,Brandon Barklage,San Jose Earthquakes,28,5' 11'',165,USA
+654,25,D,Darrius Barnes,New England Revolution,28,6' 1'',175,USA
+655,23,M,Giles Barnes,Houston Dynamo,26,5' 11'',181,England
+656,NA,M,Leandro Barrera,San Jose Earthquakes,23,5' 8'',171,Argentina
+657,19,F,Chad Barrett,Seattle Sounders FC,29,5' 11'',185,USA
+658,21,D,Chad Barson,Columbus Crew SC,23,5' 10'',170,USA
+659,21,D/M,DaMarcus Beasley,Houston Dynamo,32,5' 8'',145,USA
+660,5,M,Kyle Beckerman,Real Salt Lake,32,5' 11'',165,USA
+661,29,F,Adam Bedell,Columbus Crew SC,23,6' 6'',204,USA
+662,33,D/M,Steven Beitashour,Vancouver Whitecaps FC,27,5' 10'',170,USA
+663,8,M,Kyle Bekker,Toronto FC,24,5' 9'',165,Canada
+664,27,M,Louis B?land-Goyette,Montreal Impact,19,5' 8'',140,Canada
+665,2,D,Tony Beltran,Real Salt Lake,27,5' 8'',150,USA
+666,12,GK,Joe Bendik,Toronto FC,25,6' 2'',217,USA
+667,5,D,V?ctor Bern?rdez,San Jose Earthquakes,32,6' 2'',190,Honduras
+668,12,GK,John Berner,Colorado Rapids,23,6' 3'',205,USA
+669,8,M,Patrice Bernier,Montreal Impact,35,5' 9'',170,Canada
+670,4,D,Austin Berry,Philadelphia Union,26,6' 2'',188,USA
+671,5,D,Matt Besler,Sporting Kansas City,27,6',170,USA
+672,NA,M,Nick Besler,,21,6' 1'',165,USA
+673,16,F,Claudio Bieler,Sporting Kansas City,30,5' 11'',171,Argentina
+674,15,D,Steve Birnbaum,D.C. United,23,6' 2'',180,USA
+675,1,GK,Andre Blake,Philadelphia Union,24,6' 4'',175,Jamaica
+676,28,D,Mark Bloom,Toronto FC,27,5' 11'',162,USA
+677,NA,D,Nat Borchers,Portland Timbers,33,6' 2'',175,USA
+678,32,D,Bobby Boswell,D.C. United,31,6' 2'',185,USA
+679,21,M,Rub?n Bover,New York Red Bulls,22,5' 7'',144,Spain

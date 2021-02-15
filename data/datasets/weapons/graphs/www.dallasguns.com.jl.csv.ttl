@@ -1,0 +1,861 @@
+
+<http://schema.dig.isi.edu/ontology/Firearm30%20Gen3> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "- Double Action Only   Size - Compact   Caliber - 45 ACP";
+  <http://schema.org/itemCondition> "NIB, New In the Box";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationT%20Armory%20Inc.>;
+  <http://schema.org/name> "30 Gen3" .
+
+<http://schema.dig.isi.edu/ontology/Firearm31%20gen3> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "NIB, New In the Box";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationThe%20Armory>;
+  <http://schema.org/name> "31 gen3" .
+
+<http://schema.dig.isi.edu/ontology/Firearm520> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "NIB, New In the Box";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms>;
+  <http://schema.org/name> "520" .
+
+<http://schema.dig.isi.edu/ontology/Firearm66-4> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "NIB, New In the Box";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms>;
+  <http://schema.org/name> "66-4" .
+
+<http://schema.dig.isi.edu/ontology/Firearm950%20BS%20flip-top> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "Very Clean, Mechanically Sound";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms>;
+  <http://schema.org/name> "950 BS flip-top" .
+
+<http://schema.dig.isi.edu/ontology/Firearm9MM%20COLT%20AGENT> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "NIB, New In the Box";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationB%20Guns>;
+  <http://schema.org/name> "9MM COLT AGENT" .
+
+<http://schema.dig.isi.edu/ontology/FirearmBlackhawk> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "Very Clean, Mechanically Sound";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms>;
+  <http://schema.org/name> "Blackhawk" .
+
+<http://schema.dig.isi.edu/ontology/FirearmBlackhawk%203%20screw%20Old%20Model> a
+    <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "Very Clean, Mechanically Sound";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms>;
+  <http://schema.org/name> "Blackhawk 3 screw Old Model" .
+
+<http://schema.dig.isi.edu/ontology/FirearmCAV-15%20MK2> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "Very Clean, Mechanically Sound";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationCharles>;
+  <http://schema.org/name> "CAV-15 MK2" .
+
+<http://schema.dig.isi.edu/ontology/FirearmCombat%20Commander> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "Very Clean, Mechanically Sound";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms>;
+  <http://schema.org/name> "Combat Commander" .
+
+<http://schema.dig.isi.edu/ontology/FirearmDouble%20Eagle> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "Very Clean, Mechanically Sound";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms>;
+  <http://schema.org/name> "Double Eagle" .
+
+<http://schema.dig.isi.edu/ontology/FirearmKODIAK%20ARMS%20158> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "Very Clean, Mechanically Sound";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms>;
+  <http://schema.org/name> "KODIAK ARMS 158" .
+
+<http://schema.dig.isi.edu/ontology/FirearmLC9s%209mm> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "- Semi-Automatic Pistol   Finish - Blue   Stock - Black Glass-Filled Nylon Frame   Sights - 3- FT: Dovetailed RR: Dovetailed";
+  <http://schema.org/itemCondition> "NIB, New In the Box";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationT%20Armory%20Inc.>;
+  <http://schema.org/name> "LC9s 9mm" .
+
+<http://schema.dig.isi.edu/ontology/FirearmMP%2095E> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "NIB, New In the Box";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms>;
+  <http://schema.org/name> "MP 95E" .
+
+<http://schema.dig.isi.edu/ontology/FirearmModel%2010%2F22%20.22LR> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> ": Semi-Automatic     Caliber/Gauge: .22 LR";
+  <http://schema.org/itemCondition> "Mechanically Tight - Minor Wear, Scratch, Dent, or Ding";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop>;
+  <http://schema.org/name> "Model 10/22 .22LR" .
+
+<http://schema.dig.isi.edu/ontology/FirearmModel%20120%20Ranger%2012GA> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> ": Pump Action Shotgun      Caliber/Gauge: 12GA";
+  <http://schema.org/itemCondition> "Mechanically Tight - Minor Wear, Scratch, Dent, or Ding";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop>;
+  <http://schema.org/name> "Model 120 Ranger 12GA" .
+
+<http://schema.dig.isi.edu/ontology/FirearmModel%201894%20.44%20MAG%20Lever%20Action%20Rifle>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> ": Lever Action Rifle      Caliber/Gauge: .44 MAG";
+  <http://schema.org/itemCondition> "Mechanically Tight - Minor Wear, Scratch, Dent, or Ding";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop>;
+  <http://schema.org/name> "Model 1894 .44 MAG Lever Action Rifle" .
+
+<http://schema.dig.isi.edu/ontology/FirearmModel%2019%209mm> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> ": Semi-Automatic     Caliber/Gauge: 9mm";
+  <http://schema.org/itemCondition> "Very Clean, Mechanically Sound";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop>;
+  <http://schema.org/name> "Model 19 9mm" .
+
+<http://schema.dig.isi.edu/ontology/FirearmModel%2022%20.40SW> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> ": Semi-Automatic     Caliber/Gauge: .40SW";
+  <http://schema.org/itemCondition> "Mechanically Tight - Minor Wear, Scratch, Dent, or Ding";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop>;
+  <http://schema.org/name> "Model 22 .40SW" .
+
+<http://schema.dig.isi.edu/ontology/FirearmModel%2042%20.380%20ACP%20BRAND%20NEW%20Unfired>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> ": Semi-Automatic     Caliber/Gauge: .380ACP";
+  <http://schema.org/itemCondition> "NIB, New In the Box";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop>;
+  <http://schema.org/name> "Model 42 .380 ACP BRAND NEW Unfired" .
+
+<http://schema.dig.isi.edu/ontology/FirearmModel%20500%20.410%20Pump%20Action%20Shotgun>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> ": Pump Action Shotgun      Caliber/Gauge: .410 (2 1/2\" - 3\" Shells)";
+  <http://schema.org/itemCondition> "Very Clean, Mechanically Sound";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop>;
+  <http://schema.org/name> "Model 500 .410 Pump Action Shotgun" .
+
+<http://schema.dig.isi.edu/ontology/FirearmModel%2064-2%20.38SP> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> ": Double Action Revolver      Caliber/Gauge: .38SP";
+  <http://schema.org/itemCondition> "Very Clean, Mechanically Sound";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop>;
+  <http://schema.org/name> "Model 64-2 .38SP" .
+
+<http://schema.dig.isi.edu/ontology/FirearmModel%20770%20.30-06> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> ": Bolt Action Rifle      Caliber/Gauge: .30-06";
+  <http://schema.org/itemCondition> "NIB, New In the Box";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop>;
+  <http://schema.org/name> "Model 770 .30-06" .
+
+<http://schema.dig.isi.edu/ontology/FirearmModel%20CPX-2%209mm> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> ": Semi-Automatic     Caliber/Gauge: 9mm";
+  <http://schema.org/itemCondition> "Very Clean, Mechanically Sound";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop>;
+  <http://schema.org/name> "Model CPX-2 9mm" .
+
+<http://schema.dig.isi.edu/ontology/FirearmModel%20PX4%20Storm%20Sub%20Compact%209mm>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> ": Semi-Automatic     Caliber/Gauge: 9mm";
+  <http://schema.org/itemCondition> "Very Clean, Mechanically Sound";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop>;
+  <http://schema.org/name> "Model PX4 Storm Sub Compact 9mm" .
+
+<http://schema.dig.isi.edu/ontology/FirearmModel%20Pro%20Crimson%20Carry%20II%20.45%20ACP>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> ": Semi-Automatic     Caliber/Gauge: .45 ACP";
+  <http://schema.org/itemCondition> "Very Clean, Mechanically Sound";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop>;
+  <http://schema.org/name> "Model Pro Crimson Carry II .45 ACP" .
+
+<http://schema.dig.isi.edu/ontology/FirearmModel%20SD40VE%20.40SW> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> ": Semi-Automatic     Caliber/Gauge: .40SW";
+  <http://schema.org/itemCondition> "Very Clean, Mechanically Sound";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop>;
+  <http://schema.org/name> "Model SD40VE .40SW" .
+
+<http://schema.dig.isi.edu/ontology/FirearmModel%20SR-9E%209mm> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> ": Semi-Automatic     Caliber/Gauge: 9mm";
+  <http://schema.org/itemCondition> "Mechanically Tight - Minor Wear, Scratch, Dent, or Ding";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop>;
+  <http://schema.org/name> "Model SR-9E 9mm" .
+
+<http://schema.dig.isi.edu/ontology/FirearmNew%20Frontier> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "Very Clean, Mechanically Sound";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms>;
+  <http://schema.org/name> "New Frontier" .
+
+<http://schema.dig.isi.edu/ontology/FirearmNikon%20Prostaff%20range%20finder%20550>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "NIB, New In the Box";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationB%20Guns>;
+  <http://schema.org/name> "Nikon Prostaff range finder 550" .
+
+<http://schema.dig.isi.edu/ontology/FirearmP3AT> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "NIB, New In the Box";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationB%20Guns>;
+  <http://schema.org/name> "P3AT" .
+
+<http://schema.dig.isi.edu/ontology/FirearmPC707461> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "Mechanically Tight - Minor Wear, Scratch, Dent, or Ding";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationFANCY%5C%27S%20SERVICE%20AND%20MORE>;
+  <http://schema.org/name> "PC707461" .
+
+<http://schema.dig.isi.edu/ontology/FirearmPeaceMaker> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "Very Clean, Mechanically Sound";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms>;
+  <http://schema.org/name> "PeaceMaker" .
+
+<http://schema.dig.isi.edu/ontology/FirearmRFB> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "NIB, New In the Box";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationT%20Armory%20Inc.>;
+  <http://schema.org/name> "RFB" .
+
+<http://schema.dig.isi.edu/ontology/FirearmSR9%20COMPACT> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "NIB, New In the Box";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationB%20Guns>;
+  <http://schema.org/name> "SR9 COMPACT" .
+
+<http://schema.dig.isi.edu/ontology/FirearmSR9C%20Black> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "- Semi-Automatic Pistol   Finish - Nitrodox Pro Black / Alloy Steel   Stock - Blk, High Performance Glass-Filled Nylon Frame   Sights - Adjustable 3-Dot Sights, FT: Raked Forward";
+  <http://schema.org/itemCondition> "NIB, New In the Box";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationT%20Armory%20Inc.>;
+  <http://schema.org/name> "SR9C Black" .
+
+<http://schema.dig.isi.edu/ontology/FirearmTPH> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "Very Clean, Mechanically Sound";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms>;
+  <http://schema.org/name> "TPH" .
+
+<http://schema.dig.isi.edu/ontology/FirearmThunder%20380> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "NIB, New In the Box";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationThe%20Armory>;
+  <http://schema.org/name> "Thunder 380" .
+
+<http://schema.dig.isi.edu/ontology/FirearmX-Caliber> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "NIB, New In the Box";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationAndre>;
+  <http://schema.org/name> "X-Caliber" .
+
+<http://schema.dig.isi.edu/ontology/Firearmreminton%20elliot> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "";
+  <http://schema.org/itemCondition> "Mechanically Tight - Minor Wear, Scratch, Dent, or Ding";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationB%20Guns>;
+  <http://schema.org/name> "reminton elliot" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationAndre> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/phoneAreaCode> "716";
+  <http://schema.dig.isi.edu/ontology/phoneSubscriberNumber> "";
+  <http://schema.org/name> "Andre" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationB%20Guns> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/phoneAreaCode> "972";
+  <http://schema.dig.isi.edu/ontology/phoneSubscriberNumber> "226-1816";
+  <http://schema.org/contactPoint> <http://schema.org/ContactPointSteve>;
+  <http://schema.org/name> "B Guns" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationCharles> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/phoneAreaCode> "214";
+  <http://schema.dig.isi.edu/ontology/phoneSubscriberNumber> "";
+  <http://schema.org/name> "Charles" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationFANCY%5C%27S%20SERVICE%20AND%20MORE>
+  a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/phoneAreaCode> "903";
+  <http://schema.dig.isi.edu/ontology/phoneSubscriberNumber> "885-6150";
+  <http://schema.org/contactPoint> <http://schema.org/ContactPointkimberly>;
+  <http://schema.org/name> "FANCY\\'S SERVICE AND MORE" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/phoneAreaCode> "214";
+  <http://schema.dig.isi.edu/ontology/phoneSubscriberNumber> "";
+  <http://schema.org/contactPoint> <http://schema.org/ContactPointGary>;
+  <http://schema.org/name> "GP Firearms" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/phoneAreaCode> "972";
+  <http://schema.dig.isi.edu/ontology/phoneSubscriberNumber> "424-6911";
+  <http://schema.org/contactPoint> <http://schema.org/ContactPointJoanna>;
+  <http://schema.org/name> "Plano Pawn Shop" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationT%20Armory%20Inc.> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/phoneAreaCode> "866";
+  <http://schema.dig.isi.edu/ontology/phoneSubscriberNumber> "261-4192";
+  <http://schema.org/contactPoint> <http://schema.org/ContactPointAndrew>;
+  <http://schema.org/name> "T Armory Inc." .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationThe%20Armory> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/phoneAreaCode> "972";
+  <http://schema.dig.isi.edu/ontology/phoneSubscriberNumber> "285-1288";
+  <http://schema.org/contactPoint> <http://schema.org/ContactPointDarin>;
+  <http://schema.org/name> "The Armory" .
+
+<http://schema.org/ContactPointAndrew> a <http://schema.org/ContactPoint>;
+  <http://schema.org/name> "Andrew" .
+
+<http://schema.org/ContactPointDarin> a <http://schema.org/ContactPoint>;
+  <http://schema.org/name> "Darin" .
+
+<http://schema.org/ContactPointGary> a <http://schema.org/ContactPoint>;
+  <http://schema.org/name> "Gary" .
+
+<http://schema.org/ContactPointJoanna> a <http://schema.org/ContactPoint>;
+  <http://schema.org/name> "Joanna" .
+
+<http://schema.org/ContactPointSteve> a <http://schema.org/ContactPoint>;
+  <http://schema.org/name> "Steve" .
+
+<http://schema.org/ContactPointkimberly> a <http://schema.org/ContactPoint>;
+  <http://schema.org/name> "kimberly" .
+
+<http://schema.org/CreativeWork0D084AF4F2B75E63CA033351196911FDCFEB8644AA56CF79D505EA0546ACD21B.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "0D084AF4F2B75E63CA033351196911FDCFEB8644AA56CF79D505EA0546ACD21B.html" .
+
+<http://schema.org/CreativeWork0F6D4BE41470FF3B2D1F5D068D47006E6789BCA18225BA49F9C8DCA17E82E760.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "0F6D4BE41470FF3B2D1F5D068D47006E6789BCA18225BA49F9C8DCA17E82E760.html" .
+
+<http://schema.org/CreativeWork119E76A5539617B724488D32F17D70D2529A3D523E889BFA2AA899638EED87A0.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "119E76A5539617B724488D32F17D70D2529A3D523E889BFA2AA899638EED87A0.html" .
+
+<http://schema.org/CreativeWork1D37242F97BC849FE89046E89A7B2F8BFD375DB67146CF009306AE337BC1EFB4.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "1D37242F97BC849FE89046E89A7B2F8BFD375DB67146CF009306AE337BC1EFB4.html" .
+
+<http://schema.org/CreativeWork1EE27A5CFF8F61CE28DF5BB423E5E0B583291C942A1C75C933D2E93BA9D737CB.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "1EE27A5CFF8F61CE28DF5BB423E5E0B583291C942A1C75C933D2E93BA9D737CB.html" .
+
+<http://schema.org/CreativeWork2142A8D202982A8B1BE04559A7A5933C372C4BA29B7EF2EEEFC4E0878C7C9DA2.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "2142A8D202982A8B1BE04559A7A5933C372C4BA29B7EF2EEEFC4E0878C7C9DA2.html" .
+
+<http://schema.org/CreativeWork23D9523959ED69AB6278967D88E3FF8FAFDF243BB380204F84E023C7724E99E4.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "23D9523959ED69AB6278967D88E3FF8FAFDF243BB380204F84E023C7724E99E4.html" .
+
+<http://schema.org/CreativeWork2C2623779EA75E10574920F2B7DF87336FD658D7B6E39A04AFF495728F2AD5FC.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "2C2623779EA75E10574920F2B7DF87336FD658D7B6E39A04AFF495728F2AD5FC.html" .
+
+<http://schema.org/CreativeWork2CCF0D07EDD0C427C49AD07989F17887DED2C1E5639D1E4C1E5B03146B8DE587.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "2CCF0D07EDD0C427C49AD07989F17887DED2C1E5639D1E4C1E5B03146B8DE587.html" .
+
+<http://schema.org/CreativeWork2FB950D77E6CAB4FC50C3636A100AD3D3241B24546B82775F7CD57327DCF0C9F.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "2FB950D77E6CAB4FC50C3636A100AD3D3241B24546B82775F7CD57327DCF0C9F.html" .
+
+<http://schema.org/CreativeWork34902358F9EAB6B8FA52F5C1EEA3ECAE3B53C8436B9A85FAD38EC854E0A1C53B.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "34902358F9EAB6B8FA52F5C1EEA3ECAE3B53C8436B9A85FAD38EC854E0A1C53B.html" .
+
+<http://schema.org/CreativeWork375CDC1C302706769D87E60F69CD1A796DEECE73B8DDAE3177EFE4186306D594.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "375CDC1C302706769D87E60F69CD1A796DEECE73B8DDAE3177EFE4186306D594.html" .
+
+<http://schema.org/CreativeWork496B36824B306DB2E6F4E47BA08E0F7CEA5053F3D57A1C7613F49AF689BE901C.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "496B36824B306DB2E6F4E47BA08E0F7CEA5053F3D57A1C7613F49AF689BE901C.html" .
+
+<http://schema.org/CreativeWork54147A59EAB33CD2D701609C4B1FC26A50DC1881EB9B4E51194F3F96A948A6FC.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "54147A59EAB33CD2D701609C4B1FC26A50DC1881EB9B4E51194F3F96A948A6FC.html" .
+
+<http://schema.org/CreativeWork586B8E1F04F78C75BD6ACDED82C88C88AF9A5663D1BF9977786D166414D8C3DF.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "586B8E1F04F78C75BD6ACDED82C88C88AF9A5663D1BF9977786D166414D8C3DF.html" .
+
+<http://schema.org/CreativeWork5CE96F22932736300A09B26236489655757446E2DD098D66EC2FAA151EC995A6.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "5CE96F22932736300A09B26236489655757446E2DD098D66EC2FAA151EC995A6.html" .
+
+<http://schema.org/CreativeWork5F167BF4D5BB54B3232D1EF8F659771D7F4081C76DDC3737DF900EF50D848191.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "5F167BF4D5BB54B3232D1EF8F659771D7F4081C76DDC3737DF900EF50D848191.html" .
+
+<http://schema.org/CreativeWork6FA7C68E58A7F13FD41750A83274DC44DB61168776CCB802BD9316C266F59F90.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "6FA7C68E58A7F13FD41750A83274DC44DB61168776CCB802BD9316C266F59F90.html" .
+
+<http://schema.org/CreativeWork77BD1B0655ED8279C1690EE793D6706B272F3AE37CDD5E744A2F5135FAE7109D.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "77BD1B0655ED8279C1690EE793D6706B272F3AE37CDD5E744A2F5135FAE7109D.html" .
+
+<http://schema.org/CreativeWork7B25E58378189613750B19C9F950154A08D321253C9128E17B82602FB41AD09A.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "7B25E58378189613750B19C9F950154A08D321253C9128E17B82602FB41AD09A.html" .
+
+<http://schema.org/CreativeWork7E148F09829B6844093268EC4AB4AC1CAFA7E91D4C883DE472B829F92802FA3E.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "7E148F09829B6844093268EC4AB4AC1CAFA7E91D4C883DE472B829F92802FA3E.html" .
+
+<http://schema.org/CreativeWork8299E4F9C7D9E95EE9A613CB12A113ABC09467A76B52484AB85258BFD04C7791.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "8299E4F9C7D9E95EE9A613CB12A113ABC09467A76B52484AB85258BFD04C7791.html" .
+
+<http://schema.org/CreativeWork848749DF7E91F74698E156A26FD8B8D187A4A932CF5820E51A83C24CE31F8B18.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "848749DF7E91F74698E156A26FD8B8D187A4A932CF5820E51A83C24CE31F8B18.html" .
+
+<http://schema.org/CreativeWork8971108558623CD526BDCCF62766C22BFDD440101E42E880C963ADA773D3ED33.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "8971108558623CD526BDCCF62766C22BFDD440101E42E880C963ADA773D3ED33.html" .
+
+<http://schema.org/CreativeWork9411CBBF589796ED4E17B36194B21D3ABCAF43DEC68EC715A82A40096882A258.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "9411CBBF589796ED4E17B36194B21D3ABCAF43DEC68EC715A82A40096882A258.html" .
+
+<http://schema.org/CreativeWorkA12AF95AAADBCE772253A2C0894008363FD2B4AD508BDAD65226F73B42BF4DCA.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "A12AF95AAADBCE772253A2C0894008363FD2B4AD508BDAD65226F73B42BF4DCA.html" .
+
+<http://schema.org/CreativeWorkA60F7C0A94D9D20A7736DB8B9C408FD059645ED683CDA6233D62B2259F1D075E.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "A60F7C0A94D9D20A7736DB8B9C408FD059645ED683CDA6233D62B2259F1D075E.html" .
+
+<http://schema.org/CreativeWorkAD34733AD9F6AA257419949581E36EC5B8A89CDF3786388650AF94034EA67312.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "AD34733AD9F6AA257419949581E36EC5B8A89CDF3786388650AF94034EA67312.html" .
+
+<http://schema.org/CreativeWorkAEF69465F0E370B6A04C23BC6C7430FE796DDAC7809FE1A9E611594E54FB225B.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "AEF69465F0E370B6A04C23BC6C7430FE796DDAC7809FE1A9E611594E54FB225B.html" .
+
+<http://schema.org/CreativeWorkAF7BBE58F8B9DE9AFCF4FD338053187E458B9193DDB13DC8C1AA940A779715D1.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "AF7BBE58F8B9DE9AFCF4FD338053187E458B9193DDB13DC8C1AA940A779715D1.html" .
+
+<http://schema.org/CreativeWorkBDC4B6BAEE19701F1B0E6D28339BFEF85418C22211F57AB6CC820C2B658A2231.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "BDC4B6BAEE19701F1B0E6D28339BFEF85418C22211F57AB6CC820C2B658A2231.html" .
+
+<http://schema.org/CreativeWorkC1AA0365466A48ED9F08683D5C9BA6D8AC46BB02FCF56035D09BC579CBF3A461.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "C1AA0365466A48ED9F08683D5C9BA6D8AC46BB02FCF56035D09BC579CBF3A461.html" .
+
+<http://schema.org/CreativeWorkC4F8C36D0E06379FBF04998F607A991A08F4744BB1542E37E9F11ED500EDFD4A.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "C4F8C36D0E06379FBF04998F607A991A08F4744BB1542E37E9F11ED500EDFD4A.html" .
+
+<http://schema.org/CreativeWorkC8B69DE1670E6735FF85010E3BBF737078598AD577D009666EB98DD0D25563F6.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "C8B69DE1670E6735FF85010E3BBF737078598AD577D009666EB98DD0D25563F6.html" .
+
+<http://schema.org/CreativeWorkD9992FF456A0DC43A675F159D455CCF74127959CB61AB8E90457155390776420.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "D9992FF456A0DC43A675F159D455CCF74127959CB61AB8E90457155390776420.html" .
+
+<http://schema.org/CreativeWorkE0222CC40E8D894B8CB0CD3863B1BCDD8732C1ED5FBC76D7282182F1B46C4F95.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "E0222CC40E8D894B8CB0CD3863B1BCDD8732C1ED5FBC76D7282182F1B46C4F95.html" .
+
+<http://schema.org/CreativeWorkE1F9C04195E219EB3D254431FE9C3052F9A567499114B6F7BED63F2265C7E31F.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "E1F9C04195E219EB3D254431FE9C3052F9A567499114B6F7BED63F2265C7E31F.html" .
+
+<http://schema.org/CreativeWorkE873B21D01D0C658DC46C7570B51E5A83CA2AA56E2C4E45AC967E9B28073A2FE.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "E873B21D01D0C658DC46C7570B51E5A83CA2AA56E2C4E45AC967E9B28073A2FE.html" .
+
+<http://schema.org/CreativeWorkFE1B7A5CB4B24FD1394A26E6D6858BD98DDF98A2552245620960DAD7A73619C4.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "FE1B7A5CB4B24FD1394A26E6D6858BD98DDF98A2552245620960DAD7A73619C4.html" .
+
+<http://schema.org/CreativeWorkFEAAE377AAD933E22AF8164280A674985257C1AE46D60101B49AA02A5CD28E7B.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "FEAAE377AAD933E22AF8164280A674985257C1AE46D60101B49AA02A5CD28E7B.html" .
+
+<http://schema.org/OfferBeretta%20950%20BS%20Flip%20Top%20For%20Sale> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm950%20BS%20flip-top>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkE0222CC40E8D894B8CB0CD3863B1BCDD8732C1ED5FBC76D7282182F1B46C4F95.html>;
+  <http://schema.org/name> "Beretta 950 BS Flip Top For Sale";
+  <http://schema.org/price> "695.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms> .
+
+<http://schema.org/OfferBeretta%20Model%20PX4%20Storm%209mm%20Sub-Compact%20w%2F2%20Mags>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> ": 15 RDS      Choke: N/A     Stock/Grips: Polymer         Condition :       Very Little Wear     98%        Includes :       2 - 15 RDS Magazines        Safety:      You, as the buyer are solely responsible for determining that a used gun is safe to shoot. The firearms offered here have NOT been test fired but have only been given a visual inspection for resell purposes. It is a requirement that every used firearm be inspected by a licensed gunsmith before firing. By bidding or purchasing, you the buyer agrees to hold Plano Pawn Shop harmless against damages, injury, or death caused by defective merchandise.      * All firearms MUST be shipped to a licensed FFL dealer. We will not ship until we have a valid copy of your dealers license e-mailed or faxed to us.*        Need a Loan or Have one to sell ?       Do you have the same make and model item? Are you needing a cash loan or wanting to sell your item fast for cash? Get a free quote today by clicking";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmModel%20PX4%20Storm%20Sub%20Compact%209mm>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork2142A8D202982A8B1BE04559A7A5933C372C4BA29B7EF2EEEFC4E0878C7C9DA2.html>;
+  <http://schema.org/name> "Beretta Model PX4 Storm 9mm Sub-Compact w/2 Mags";
+  <http://schema.org/price> "499.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop> .
+
+<http://schema.org/OfferBrand%20New%20in%20Box%20Remington%20770%20.30-06%20w%2FScope>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> ": 4 + 1 RDS      Choke: N/A     Stock/Grips: Synthetic Stock       3 AVAILABLE        Condition :       100% Unfired Brand New in Box        Includes :       Factory Box        Safety:      You, as the buyer are solely responsible for determining that a used gun is safe to shoot. The firearms offered here have NOT been test fired but have only been given a visual inspection for resell purposes. It is a requirement that every used firearm be inspected by a licensed gunsmith before firing. By bidding or purchasing, you the buyer agrees to hold Plano Pawn Shop harmless against damages, injury, or death caused by defective merchandise.      * All firearms MUST be shipped to a licensed FFL dealer. We will not ship until we have a valid copy of your dealers license e-mailed or faxed to us.*        Need a Loan or Have one to sell ?       Do you have the same make and model item? Are you needing a cash loan or wanting to sell your item fast for cash? Get a free quote today by clicking";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmModel%20770%20.30-06>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork5F167BF4D5BB54B3232D1EF8F659771D7F4081C76DDC3737DF900EF50D848191.html>;
+  <http://schema.org/name> "Brand New in Box Remington 770 .30-06 w/Scope";
+  <http://schema.org/price> "299.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop> .
+
+<http://schema.org/OfferCavalry%20Arms%20%2F%20GWAC%20AR15> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmCAV-15%20MK2>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork34902358F9EAB6B8FA52F5C1EEA3ECAE3B53C8436B9A85FAD38EC854E0A1C53B.html>;
+  <http://schema.org/name> "Cavalry Arms / GWAC AR15";
+  <http://schema.org/price> "700.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationCharles> .
+
+<http://schema.org/OfferColt%209MM%20COLT%20AGENT> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm9MM%20COLT%20AGENT>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkE1F9C04195E219EB3D254431FE9C3052F9A567499114B6F7BED63F2265C7E31F.html>;
+  <http://schema.org/name> "Colt 9MM COLT AGENT";
+  <http://schema.org/price> "1000.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationB%20Guns> .
+
+<http://schema.org/OfferColt%20NF%2022MAG%20For%20Sale> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmNew%20Frontier>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork0D084AF4F2B75E63CA033351196911FDCFEB8644AA56CF79D505EA0546ACD21B.html>;
+  <http://schema.org/name> "Colt NF 22MAG For Sale";
+  <http://schema.org/price> "775.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms> .
+
+<http://schema.org/OfferFOR%20SALE%20-%20super%20reliable> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmMP%2095E>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork0F6D4BE41470FF3B2D1F5D068D47006E6789BCA18225BA49F9C8DCA17E82E760.html>;
+  <http://schema.org/name> "FOR SALE - super reliable";
+  <http://schema.org/price> "1275.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms> .
+
+<http://schema.org/OfferFor%20Sale%3A%20Colt%20double%20action%20pistol> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmDouble%20Eagle>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork496B36824B306DB2E6F4E47BA08E0F7CEA5053F3D57A1C7613F49AF689BE901C.html>;
+  <http://schema.org/name> "For Sale: Colt double action pistol";
+  <http://schema.org/price> "1050.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms> .
+
+<http://schema.org/OfferFor%20Sale%3A%20Goddess%20Purple%20Ruger%20LC9s%209mm> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "- 7+1   Action - Double Action Only   # of Mags - 1   Additional Features - Magazine Disconnect                Tweet                     Price:       $550.00           Manf.:      Ruger (Sturm, Ruger and Company)          Model:      LC9s 9mm          Condition:      100% (NIB, New In the Box)                                                   Guns Online     Searchable Gun Database     Gun Classifieds         Dallas Guns -  For all your firearm needs!  We specialize in Guns Online!      Visit our  Links  page for Firearm Dealers, Resources, Gun Safety, Concealed Handgun Licenses, and more.  NEED HELP?  CONTACT US                 Can't Find What You Are Looking For?  Use our new powerful search tool located in the TOP LEFT of your screen just under the DallasGuns.com logo.    DallasGuns.com has tons of new and used guns for sale in our searchable firearm classified database, a great resource if you want to buy or sell guns.  Find used guns by brand, find new guns by brand, finish, or caliber.    Dallas Guns now offers a more convenient search tool,  you now have the ability to find items by finish  caliber! For example Search for:  NEW  USED FIREARM ANTIQUES  ,";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmLC9s%209mm>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork54147A59EAB33CD2D701609C4B1FC26A50DC1881EB9B4E51194F3F96A948A6FC.html>;
+  <http://schema.org/name> "For Sale: Goddess Purple Ruger LC9s 9mm";
+  <http://schema.org/price> "550.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationT%20Armory%20Inc.> .
+
+<http://schema.org/OfferFor%20Sale%3A%20NIB%20Glock%2030%20Gen3%2045ACP%20%28Indiana%29>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "- 10Rd   Accessories - 2 Mags   Description - Rail   Fired Casing - Fired Case   Hand - Right Hand   Sights - Fixed Sights   Manufacturer Part # - 3050201                Tweet                     Price:       $574.99           Manf.:      Glock          Model:      30 Gen3          Condition:      100% (NIB, New In the Box)                                                   Guns Online     Searchable Gun Database     Gun Classifieds         Dallas Guns -  For all your firearm needs!  We specialize in Guns Online!      Visit our  Links  page for Firearm Dealers, Resources, Gun Safety, Concealed Handgun Licenses, and more.  NEED HELP?  CONTACT US                 Can't Find What You Are Looking For?  Use our new powerful search tool located in the TOP LEFT of your screen just under the DallasGuns.com logo.    DallasGuns.com has tons of new and used guns for sale in our searchable firearm classified database, a great resource if you want to buy or sell guns.  Find used guns by brand, find new guns by brand, finish, or caliber.    Dallas Guns now offers a more convenient search tool,  you now have the ability to find items by finish  caliber! For example Search for:  NEW  USED FIREARM ANTIQUES  ,";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm30%20Gen3>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkAD34733AD9F6AA257419949581E36EC5B8A89CDF3786388650AF94034EA67312.html>;
+  <http://schema.org/name> "For Sale: NIB Glock 30 Gen3 45ACP (Indiana)";
+  <http://schema.org/price> "574.99";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationT%20Armory%20Inc.> .
+
+<http://schema.org/OfferFor%20Sale%3A%20NIB%20Kel-Tec%20RFB%20.308%20Bullpup%20Rifle>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmRFB>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork7B25E58378189613750B19C9F950154A08D321253C9128E17B82602FB41AD09A.html>;
+  <http://schema.org/name> "For Sale: NIB Kel-Tec RFB .308 Bullpup Rifle";
+  <http://schema.org/price> "1599.99";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationT%20Armory%20Inc.> .
+
+<http://schema.org/OfferFor%20Sale%3A%20Ruger%20SR9C%20Black%209mm%20handgun%20%28Indiana%29>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "- 10+1  17+1   Action - Double Action Only (Striker Fire Action)   # of Mags - 2   Packaging - Magazine Loader, Black Plastic Case   Receiver - Picatinny Rail   Additional Features - Reversible Backstrap (Flat or Arched)   Accepts Most Full Sized SR9 Access  SR9 Mags                Tweet                     Price:       $439.99           Manf.:      Ruger (Sturm, Ruger and Company)          Model:      SR9C Black          Condition:      100% (NIB, New In the Box)                                                   Guns Online     Searchable Gun Database     Gun Classifieds         Dallas Guns -  For all your firearm needs!  We specialize in Guns Online!      Visit our  Links  page for Firearm Dealers, Resources, Gun Safety, Concealed Handgun Licenses, and more.  NEED HELP?  CONTACT US                 Can't Find What You Are Looking For?  Use our new powerful search tool located in the TOP LEFT of your screen just under the DallasGuns.com logo.    DallasGuns.com has tons of new and used guns for sale in our searchable firearm classified database, a great resource if you want to buy or sell guns.  Find used guns by brand, find new guns by brand, finish, or caliber.    Dallas Guns now offers a more convenient search tool,  you now have the ability to find items by finish  caliber! For example Search for:  NEW  USED FIREARM ANTIQUES  ,";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmSR9C%20Black>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork23D9523959ED69AB6278967D88E3FF8FAFDF243BB380204F84E023C7724E99E4.html>;
+  <http://schema.org/name> "For Sale: Ruger SR9C Black 9mm handgun (Indiana)";
+  <http://schema.org/price> "439.99";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationT%20Armory%20Inc.> .
+
+<http://schema.org/OfferFor%20Sale%3A%20nice%20SA%2022%2F22MAG> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmPeaceMaker>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkC4F8C36D0E06379FBF04998F607A991A08F4744BB1542E37E9F11ED500EDFD4A.html>;
+  <http://schema.org/name> "For Sale: nice SA 22/22MAG";
+  <http://schema.org/price> "1175.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms> .
+
+<http://schema.org/OfferFor%20Sale%3A%20nice%20compac%20Walther.> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmTPH>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork1EE27A5CFF8F61CE28DF5BB423E5E0B583291C942A1C75C933D2E93BA9D737CB.html>;
+  <http://schema.org/name> "For Sale: nice compac Walther.";
+  <http://schema.org/price> "995.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms> .
+
+<http://schema.org/OfferFor%20Sale%3A%20very%20limited%20production%20special%20purpose.>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm520>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkE873B21D01D0C658DC46C7570B51E5A83CA2AA56E2C4E45AC967E9B28073A2FE.html>;
+  <http://schema.org/name> "For Sale: very limited production special purpose.";
+  <http://schema.org/price> "1475.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms> .
+
+<http://schema.org/OfferFor%20Sale%3A%20very%20nice%2041MAG%20boxed%203%20screw.>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmBlackhawk%203%20screw%20Old%20Model>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork2CCF0D07EDD0C427C49AD07989F17887DED2C1E5639D1E4C1E5B03146B8DE587.html>;
+  <http://schema.org/name> "For Sale: very nice 41MAG boxed 3 screw.";
+  <http://schema.org/price> "975.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms> .
+
+<http://schema.org/OfferGlock%2031%20gen3> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm31%20gen3>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork6FA7C68E58A7F13FD41750A83274DC44DB61168776CCB802BD9316C266F59F90.html>;
+  <http://schema.org/name> "Glock 31 gen3";
+  <http://schema.org/price> "519.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationThe%20Armory> .
+
+<http://schema.org/OfferGlock%20Model%2019%209mm%20with%20case%20%26%201%20Magazine>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> ": 15 RDS      Choke: N/A     Stock/Grips: Polymer        Condition :       Very Little Wear     95%        Includes :       Factory Case      1 - 15 RDS Magazine        Safety:      You, as the buyer are solely responsible for determining that a used gun is safe to shoot. The firearms offered here have NOT been test fired but have only been given a visual inspection for resell purposes. It is a requirement that every used firearm be inspected by a licensed gunsmith before firing. By bidding or purchasing, you the buyer agrees to hold Plano Pawn Shop harmless against damages, injury, or death caused by defective merchandise.      * All firearms MUST be shipped to a licensed FFL dealer. We will not ship until we have a valid copy of your dealers license e-mailed or faxed to us.*        Need a Loan or Have one to sell ?       Do you have the same make and model item? Are you needing a cash loan or wanting to sell your item fast for cash? Get a free quote today by clicking";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmModel%2019%209mm>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork8971108558623CD526BDCCF62766C22BFDD440101E42E880C963ADA773D3ED33.html>;
+  <http://schema.org/name> "Glock Model 19 9mm with case & 1 Magazine";
+  <http://schema.org/price> "469.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop> .
+
+<http://schema.org/OfferGlock%20Model%2022%20.40SW%20with%202%20High%20Capacity%20Mags>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> ": 15 RDS      Choke: N/A     Stock/Grips: Polymer         Condition :       Blue wear on slide from holster     90%        Includes :       2 - 15 RDS Factory Magazines        Safety:      You, as the buyer are solely responsible for determining that a used gun is safe to shoot. The firearms offered here have NOT been test fired but have only been given a visual inspection for resell purposes. It is a requirement that every used firearm be inspected by a licensed gunsmith before firing. By bidding or purchasing, you the buyer agrees to hold Plano Pawn Shop harmless against damages, injury, or death caused by defective merchandise.      * All firearms MUST be shipped to a licensed FFL dealer. We will not ship until we have a valid copy of your dealers license e-mailed or faxed to us.*        Need a Loan or Have one to sell ?       Do you have the same make and model item? Are you needing a cash loan or wanting to sell your item fast for cash? Get a free quote today by clicking";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmModel%2022%20.40SW>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkC1AA0365466A48ED9F08683D5C9BA6D8AC46BB02FCF56035D09BC579CBF3A461.html>;
+  <http://schema.org/name> "Glock Model 22 .40SW with 2 High Capacity Mags";
+  <http://schema.org/price> "419.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop> .
+
+<http://schema.org/OfferGlock%20Model%2042%20.380ACP%20BRAND%20NEW%20in%20Box%20Unfired>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> ": 7 RDS      Choke: N/A     Stock/Grips: Polymer       Gun Weight: 13.76 oz. (unloaded)         Condition :       100% NEW IN BOX (unfired)         Includes :       Factory Box     2 - 7 RDS Magazines        Safety:      You, as the buyer are solely responsible for determining that a used gun is safe to shoot. The firearms offered here have NOT been test fired but have only been given a visual inspection for resell purposes. It is a requirement that every used firearm be inspected by a licensed gunsmith before firing. By bidding or purchasing, you the buyer agrees to hold Plano Pawn Shop harmless against damages, injury, or death caused by defective merchandise.      * All firearms MUST be shipped to a licensed FFL dealer. We will not ship until we have a valid copy of your dealers license e-mailed or faxed to us.*        Need a Loan or Have one to sell ?       Do you have the same make and model item? Are you needing a cash loan or wanting to sell your item fast for cash? Get a free quote today by clicking";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmModel%2042%20.380%20ACP%20BRAND%20NEW%20Unfired>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork848749DF7E91F74698E156A26FD8B8D187A4A932CF5820E51A83C24CE31F8B18.html>;
+  <http://schema.org/name> "Glock Model 42 .380ACP BRAND NEW in Box Unfired";
+  <http://schema.org/price> "419.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop> .
+
+<http://schema.org/OfferIthaca%20Gun%20X-Caliber> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmX-Caliber>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkFE1B7A5CB4B24FD1394A26E6D6858BD98DDF98A2552245620960DAD7A73619C4.html>;
+  <http://schema.org/name> "Ithaca Gun X-Caliber";
+  <http://schema.org/price> "4000.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationAndre> .
+
+<http://schema.org/OfferKel-Tec%20P3AT> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmP3AT>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkC8B69DE1670E6735FF85010E3BBF737078598AD577D009666EB98DD0D25563F6.html>;
+  <http://schema.org/name> "Kel-Tec P3AT";
+  <http://schema.org/price> "319.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationB%20Guns> .
+
+<http://schema.org/OfferKimber%20Pro%20Crimson%20Carry%20II%20.45ACP%20w%2FCrimson%20Trace>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> ": 8 RDS      Choke: N/A     Stock/Grips: Crimson Trace Laser Rosewood Checkered Grips         Condition :       Very Little Wear     98%        Includes :       N/A        Safety:      You, as the buyer are solely responsible for determining that a used gun is safe to shoot. The firearms offered here have NOT been test fired but have only been given a visual inspection for resell purposes. It is a requirement that every used firearm be inspected by a licensed gunsmith before firing. By bidding or purchasing, you the buyer agrees to hold Plano Pawn Shop harmless against damages, injury, or death caused by defective merchandise.      * All firearms MUST be shipped to a licensed FFL dealer. We will not ship until we have a valid copy of your dealers license e-mailed or faxed to us.*        Need a Loan or Have one to sell ?       Do you have the same make and model item? Are you needing a cash loan or wanting to sell your item fast for cash? Get a free quote today by clicking";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmModel%20Pro%20Crimson%20Carry%20II%20.45%20ACP>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkAEF69465F0E370B6A04C23BC6C7430FE796DDAC7809FE1A9E611594E54FB225B.html>;
+  <http://schema.org/name> "Kimber Pro Crimson Carry II .45ACP w/Crimson Trace";
+  <http://schema.org/price> "949.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop> .
+
+<http://schema.org/OfferMarlin%20Model%201894%20.44MAG%20Lever%20Action%20Carbine>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> ": 10 RDS      Choke: N/A     Stock/Grips: Walnut Stock         Condition :       Blue and Wood show signs of gentle wear     90-95%        Includes :       N/A        Safety:      You, as the buyer are solely responsible for determining that a used gun is safe to shoot. The firearms offered here have NOT been test fired but have only been given a visual inspection for resell purposes. It is a requirement that every used firearm be inspected by a licensed gunsmith before firing. By bidding or purchasing, you the buyer agrees to hold Plano Pawn Shop harmless against damages, injury, or death caused by defective merchandise.      * All firearms MUST be shipped to a licensed FFL dealer. We will not ship until we have a valid copy of your dealers license e-mailed or faxed to us.*        Need a Loan or Have one to sell ?       Do you have the same make and model item? Are you needing a cash loan or wanting to sell your item fast for cash? Get a free quote today by clicking";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmModel%201894%20.44%20MAG%20Lever%20Action%20Rifle>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkD9992FF456A0DC43A675F159D455CCF74127959CB61AB8E90457155390776420.html>;
+  <http://schema.org/name> "Marlin Model 1894 .44MAG Lever Action Carbine";
+  <http://schema.org/price> "499.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop> .
+
+<http://schema.org/OfferMossberg%20500%20.410%20Pump%20Shotgun%20UNFIRED%20LIKE%20NEW>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> ": 4 RDS      Choke: FULL      Stock/Grips: Hardwood Stock         Condition :       Very Little Wear     LIKE NEW (with tags)      98%        Includes :       N/A        Safety:      You, as the buyer are solely responsible for determining that a used gun is safe to shoot. The firearms offered here have NOT been test fired but have only been given a visual inspection for resell purposes. It is a requirement that every used firearm be inspected by a licensed gunsmith before firing. By bidding or purchasing, you the buyer agrees to hold Plano Pawn Shop harmless against damages, injury, or death caused by defective merchandise.      * All firearms MUST be shipped to a licensed FFL dealer. We will not ship until we have a valid copy of your dealers license e-mailed or faxed to us.*        Need a Loan or Have one to sell ?       Do you have the same make and model item? Are you needing a cash loan or wanting to sell your item fast for cash? Get a free quote today by clicking";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmModel%20500%20.410%20Pump%20Action%20Shotgun>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork9411CBBF589796ED4E17B36194B21D3ABCAF43DEC68EC715A82A40096882A258.html>;
+  <http://schema.org/name> "Mossberg 500 .410 Pump Shotgun UNFIRED LIKE NEW";
+  <http://schema.org/price> "299.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop> .
+
+<http://schema.org/OfferNICE%20STRONG%20HIGH%20GRADE%20RIFLE> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmKODIAK%20ARMS%20158>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork2FB950D77E6CAB4FC50C3636A100AD3D3241B24546B82775F7CD57327DCF0C9F.html>;
+  <http://schema.org/name> "NICE STRONG HIGH GRADE RIFLE";
+  <http://schema.org/price> "1395.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms> .
+
+<http://schema.org/OfferNice%20%2770%20Series%20pistol> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmCombat%20Commander>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork7E148F09829B6844093268EC4AB4AC1CAFA7E91D4C883DE472B829F92802FA3E.html>;
+  <http://schema.org/name> "Nice '70 Series pistol";
+  <http://schema.org/price> "1820.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms> .
+
+<http://schema.org/OfferNice%20old%2066%20with%20shipping%20box> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm66-4>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork5CE96F22932736300A09B26236489655757446E2DD098D66EC2FAA151EC995A6.html>;
+  <http://schema.org/name> "Nice old 66 with shipping box";
+  <http://schema.org/price> "1200.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms> .
+
+<http://schema.org/OfferO%2FU%20DERRINGERS> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearmreminton%20elliot>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork77BD1B0655ED8279C1690EE793D6706B272F3AE37CDD5E744A2F5135FAE7109D.html>;
+  <http://schema.org/name> "O/U DERRINGERS";
+  <http://schema.org/price> "5250.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationB%20Guns> .
+
+<http://schema.org/OfferREMINGTON%2011-87%20PREMIER%20AUTO%2012-GUAGE> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmPC707461>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork1D37242F97BC849FE89046E89A7B2F8BFD375DB67146CF009306AE337BC1EFB4.html>;
+  <http://schema.org/name> "REMINGTON 11-87 PREMIER AUTO 12-GUAGE";
+  <http://schema.org/price> "400.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationFANCY%5C%27S%20SERVICE%20AND%20MORE> .
+
+<http://schema.org/OfferRemington%20prostaff%20range%20finder%20550> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmNikon%20Prostaff%20range%20finder%20550>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkA12AF95AAADBCE772253A2C0894008363FD2B4AD508BDAD65226F73B42BF4DCA.html>;
+  <http://schema.org/name> "Remington prostaff range finder 550";
+  <http://schema.org/price> "160.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationB%20Guns> .
+
+<http://schema.org/OfferRuger%20%28Sturm%2C%20Ruger%20and%20Company%29%20SR9%20COMPACT>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmSR9%20COMPACT>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkBDC4B6BAEE19701F1B0E6D28339BFEF85418C22211F57AB6CC820C2B658A2231.html>;
+  <http://schema.org/name> "Ruger (Sturm, Ruger and Company) SR9 COMPACT";
+  <http://schema.org/price> "499.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationB%20Guns> .
+
+<http://schema.org/OfferRuger%20Model%2010%2F22%20.22LR%20with%20Tasco%203-7x20%20Scope>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> ": 10 RDS      Choke: N/A     Stock/Grips: Hardwood Stock         Condition :       90-95%        Includes :        Tasco 3-7x20 Scope     1 - 10 RDS Magazine       Safety:      You, as the buyer are solely responsible for determining that a used gun is safe to shoot. The firearms offered here have NOT been test fired but have only been given a visual inspection for resell purposes. It is a requirement that every used firearm be inspected by a licensed gunsmith before firing. By bidding or purchasing, you the buyer agrees to hold Plano Pawn Shop harmless against damages, injury, or death caused by defective merchandise.      * All firearms MUST be shipped to a licensed FFL dealer. We will not ship until we have a valid copy of your dealers license e-mailed or faxed to us.*        Need a Loan or Have one to sell ?       Do you have the same make and model item? Are you needing a cash loan or wanting to sell your item fast for cash? Get a free quote today by clicking";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmModel%2010%2F22%20.22LR>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkAF7BBE58F8B9DE9AFCF4FD338053187E458B9193DDB13DC8C1AA940A779715D1.html>;
+  <http://schema.org/name> "Ruger Model 10/22 .22LR with Tasco 3-7x20 Scope";
+  <http://schema.org/price> "229.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop> .
+
+<http://schema.org/OfferRuger%20Model%20SR-9E%209mm%20in%20box%20with%201%20Factory%20Mag>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> ": 17 RDS      Choke: N/A     Stock/Grips: Polymer         Condition :       90%        Includes :       Factory Box     1 - 17 RDS Factory Magazine        Safety:      You, as the buyer are solely responsible for determining that a used gun is safe to shoot. The firearms offered here have NOT been test fired but have only been given a visual inspection for resell purposes. It is a requirement that every used firearm be inspected by a licensed gunsmith before firing. By bidding or purchasing, you the buyer agrees to hold Plano Pawn Shop harmless against damages, injury, or death caused by defective merchandise.      * All firearms MUST be shipped to a licensed FFL dealer. We will not ship until we have a valid copy of your dealers license e-mailed or faxed to us.*        Need a Loan or Have one to sell ?       Do you have the same make and model item? Are you needing a cash loan or wanting to sell your item fast for cash? Get a free quote today by clicking";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmModel%20SR-9E%209mm>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork586B8E1F04F78C75BD6ACDED82C88C88AF9A5663D1BF9977786D166414D8C3DF.html>;
+  <http://schema.org/name> "Ruger Model SR-9E 9mm in box with 1 Factory Mag";
+  <http://schema.org/price> "279.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop> .
+
+<http://schema.org/OfferSCCY%20Model%20CPX-2%209mm%20in%20box%20with%202%20Mags> a
+    <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> ": 10 RDS      Choke: N/A     Stock/Grips: Polymer Grip         Condition :       Very Little Wear     98%        Includes :       Factory Box     2 Magazines        Safety:      You, as the buyer are solely responsible for determining that a used gun is safe to shoot. The firearms offered here have NOT been test fired but have only been given a visual inspection for resell purposes. It is a requirement that every used firearm be inspected by a licensed gunsmith before firing. By bidding or purchasing, you the buyer agrees to hold Plano Pawn Shop harmless against damages, injury, or death caused by defective merchandise.      * All firearms MUST be shipped to a licensed FFL dealer. We will not ship until we have a valid copy of your dealers license e-mailed or faxed to us.*        Need a Loan or Have one to sell ?       Do you have the same make and model item? Are you needing a cash loan or wanting to sell your item fast for cash? Get a free quote today by clicking";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmModel%20CPX-2%209mm>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork2C2623779EA75E10574920F2B7DF87336FD658D7B6E39A04AFF495728F2AD5FC.html>;
+  <http://schema.org/name> "SCCY Model CPX-2 9mm in box with 2 Mags";
+  <http://schema.org/price> "199.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop> .
+
+<http://schema.org/OfferSmith%20%26%20Wesson%20Model%2064-2%20.38SP%202%22%20Satin%20Stainless>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> ": 6 RDS      Choke: N/A     Stock/Grips: Medalion Checkered Grips         Condition :       Very Little Wear     95-98%        Includes :       N/A        Safety:      You, as the buyer are solely responsible for determining that a used gun is safe to shoot. The firearms offered here have NOT been test fired but have only been given a visual inspection for resell purposes. It is a requirement that every used firearm be inspected by a licensed gunsmith before firing. By bidding or purchasing, you the buyer agrees to hold Plano Pawn Shop harmless against damages, injury, or death caused by defective merchandise.      * All firearms MUST be shipped to a licensed FFL dealer. We will not ship until we have a valid copy of your dealers license e-mailed or faxed to us.*        Need a Loan or Have one to sell ?       Do you have the same make and model item? Are you needing a cash loan or wanting to sell your item fast for cash? Get a free quote today by clicking";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmModel%2064-2%20.38SP>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork8299E4F9C7D9E95EE9A613CB12A113ABC09467A76B52484AB85258BFD04C7791.html>;
+  <http://schema.org/name> "Smith & Wesson Model 64-2 .38SP 2\" Satin Stainless";
+  <http://schema.org/price> "499.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop> .
+
+<http://schema.org/OfferSmith%20%26%20Wesson%20Model%20SD40VE%20.40SW%20with%202%20Magazines>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> ": 14 + 1 RDS      Choke: N/A     Stock/Grips: Polymer         Condition :       Very Little Wear     95-98%        Includes :       2 - 14 RDS Magazines        Safety:      You, as the buyer are solely responsible for determining that a used gun is safe to shoot. The firearms offered here have NOT been test fired but have only been given a visual inspection for resell purposes. It is a requirement that every used firearm be inspected by a licensed gunsmith before firing. By bidding or purchasing, you the buyer agrees to hold Plano Pawn Shop harmless against damages, injury, or death caused by defective merchandise.      * All firearms MUST be shipped to a licensed FFL dealer. We will not ship until we have a valid copy of your dealers license e-mailed or faxed to us.*        Need a Loan or Have one to sell ?       Do you have the same make and model item? Are you needing a cash loan or wanting to sell your item fast for cash? Get a free quote today by clicking";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmModel%20SD40VE%20.40SW>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork375CDC1C302706769D87E60F69CD1A796DEECE73B8DDAE3177EFE4186306D594.html>;
+  <http://schema.org/name> "Smith & Wesson Model SD40VE .40SW with 2 Magazines";
+  <http://schema.org/price> "279.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop> .
+
+<http://schema.org/OfferThunder%20380%20Nkl%20finish> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmThunder%20380>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork119E76A5539617B724488D32F17D70D2529A3D523E889BFA2AA899638EED87A0.html>;
+  <http://schema.org/name> "Thunder 380 Nkl finish";
+  <http://schema.org/price> "329.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationThe%20Armory> .
+
+<http://schema.org/OfferWinchester%20Model%20120%20Ranger%2012GA%20Pump%20Shotgun>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> ": 3 + 1 RDS      Choke: Screw In Win-Choke      Stock/Grips: Hardwood Stock         Condition :       90-95%        Includes :       N/A        Safety:      You, as the buyer are solely responsible for determining that a used gun is safe to shoot. The firearms offered here have NOT been test fired but have only been given a visual inspection for resell purposes. It is a requirement that every used firearm be inspected by a licensed gunsmith before firing. By bidding or purchasing, you the buyer agrees to hold Plano Pawn Shop harmless against damages, injury, or death caused by defective merchandise.      * All firearms MUST be shipped to a licensed FFL dealer. We will not ship until we have a valid copy of your dealers license e-mailed or faxed to us.*        Need a Loan or Have one to sell ?       Do you have the same make and model item? Are you needing a cash loan or wanting to sell your item fast for cash? Get a free quote today by clicking";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmModel%20120%20Ranger%2012GA>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkA60F7C0A94D9D20A7736DB8B9C408FD059645ED683CDA6233D62B2259F1D075E.html>;
+  <http://schema.org/name> "Winchester Model 120 Ranger 12GA Pump Shotgun";
+  <http://schema.org/price> "249.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPlano%20Pawn%20Shop> .
+
+<http://schema.org/Offerold%203%20screw%20model> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place0>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmBlackhawk>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkFEAAE377AAD933E22AF8164280A674985257C1AE46D60101B49AA02A5CD28E7B.html>;
+  <http://schema.org/name> "old 3 screw model";
+  <http://schema.org/price> "975.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGP%20Firearms> .
+
+<http://schema.org/Place0> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0> .
+
+<http://schema.org/PostalAddress0> a <http://schema.org/PostalAddress>;
+  <http://schema.org/addressRegion> "", "Dallas, TX", "Mesquite, 75149", "Plano,", "SULPHUR SPRINGS, 75482",
+    "South Bend, 46614";
+  <http://schema.org/streetAddress> "", "1202 K Avenue", "124 RUSSELL DR.", "2604 S Main St",
+    "410 Old London Lane", "6246 A Broadway" .

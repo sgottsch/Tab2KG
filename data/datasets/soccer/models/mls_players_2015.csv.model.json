@@ -1,0 +1,112 @@
+{
+  "name": "mls_players_2015.csv",
+  "id": "mls_players_2015.csv",
+  "graph": {
+    "nodes": [
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/SportsTeam"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "birthplace"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/SportsClub"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "club"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/age"
+            }
+          }
+        ],
+        "columnName": "age"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "player_name"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/playPosition"
+            }
+          }
+        ],
+        "columnName": "position"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/height"
+            }
+          }
+        ],
+        "columnName": "height"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/tag"
+            }
+          }
+        ],
+        "columnName": "player_num"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/weight"
+            }
+          }
+        ],
+        "columnName": "weight"
+      }
+    ]
+  }
+}

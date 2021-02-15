@@ -1,0 +1,86 @@
+{
+  "name": "bundesliga-2015-2016-rosters.csv",
+  "id": "bundesliga-2015-2016-rosters.csv",
+  "graph": {
+    "nodes": [
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/SportsTeam"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "Country"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/SportsClub"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "Club"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/playPosition"
+            }
+          }
+        ],
+        "columnName": "Position"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/birthDate"
+            }
+          }
+        ],
+        "columnName": "Birthdate"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/tag"
+            }
+          }
+        ],
+        "columnName": "Tag"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "Name"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1581 @@
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganization0> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "15aziegler", "648658", "AllenWeber",
+    "Babygirl83", "Bainter Boom Trenchers, LLC (Trencher)", "Bigdaddy2210", "Brad Waller Automotive (BradWallerAutomotive)",
+    "Carrico Implement (EllsworthCarrico)", "Chace_Weis", "DMR", "Dorcy", "Dustin Buchanan Livestock (dustinb63)",
+    "ESPChevy", "Elcamino ss369", "Elizabeth23", "Frieling Auto Sales (jbaetz)", "Gray75",
+    "Hayleyjo2016", "Hays Area Childrens Center, Inc. (HACC)", "Heartland Credit Union (HCU2015)",
+    "Hildadrm77", "Jhoward394", "Johnson2010", "KRS2010", "KariRBell", "Macdaniel", "NicR",
+    "Nicky", "POJO", "Prairie Heritage Auction and Real Estate (auctioncitylimits)", "Rickyx4",
+    "Rtrendel", "SJPratt", "SrpntHn", "TWISTED SISTER ESTATE SALEs (Linda1)", "USD 489 Hays (usd489hays)",
+    "Waded27", "WeyDav", "Xtreme Autos (lovethelake)", "aschneid", "baddestbtch", "baglady",
+    "bflax65", "bulldog28", "captnsuprise", "cjwinter", "cruise4fun", "davestuff", "devins2231",
+    "dmhejny", "dnorman28", "dwsmith", "flyEAGLE", "ford150", "foxracer06", "gcwickham",
+    "gstaten", "hunter5t", "jamand", "jayne", "jbeckman", "jesse_hayes69", "jkennis",
+    "joejoe1023", "jpreinert2585", "kayk", "lannystuff", "lmhenderson1231", "lopezms58",
+    "madmax30", "malind", "messiahbolical", "montymac", "mrfarmall", "mrsjmeagher", "nlstaab21",
+    "russjessbenn", "shawn65930", "skorky67", "sswiff", "teffanie", "the_83_truck", "timmymilford",
+    "tshaw", "yote7" .
+
+<http://schema.org/CreativeWork023E168CF5EB531396290A2890F2D124C4D45BD4568741D17E0CEACDD12D9E8A.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "023E168CF5EB531396290A2890F2D124C4D45BD4568741D17E0CEACDD12D9E8A.html" .
+
+<http://schema.org/CreativeWork0324F87CE344D72335B4A6BCB6963C4AC608365A8F91EF456CD8B9D4A549CE52.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "0324F87CE344D72335B4A6BCB6963C4AC608365A8F91EF456CD8B9D4A549CE52.html" .
+
+<http://schema.org/CreativeWork08AEBE944BFD50C4E697513976C5A82BC1A65CD51BB65A9BD2F2030F7495AE44.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "08AEBE944BFD50C4E697513976C5A82BC1A65CD51BB65A9BD2F2030F7495AE44.html" .
+
+<http://schema.org/CreativeWork0A099F2B26074D58022E4623926540D81532FA1AB15E477A3AA5756D5FCFD358.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "0A099F2B26074D58022E4623926540D81532FA1AB15E477A3AA5756D5FCFD358.html" .
+
+<http://schema.org/CreativeWork0BFDB733F21D213BAADB89E6B2B17D1E9A7D4947A49BA8D05F3F8608C7F71F8E.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "0BFDB733F21D213BAADB89E6B2B17D1E9A7D4947A49BA8D05F3F8608C7F71F8E.html" .
+
+<http://schema.org/CreativeWork0CB88FAADA4D2AE45B0AB77DFED2F2FB8FD1D2C40EE1617869CE8849859CA405.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "0CB88FAADA4D2AE45B0AB77DFED2F2FB8FD1D2C40EE1617869CE8849859CA405.html" .
+
+<http://schema.org/CreativeWork0D1D6353603647921CAE772061E1B6FFD3B1C0DFC36938F29B63A8D079B5D976.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "0D1D6353603647921CAE772061E1B6FFD3B1C0DFC36938F29B63A8D079B5D976.html" .
+
+<http://schema.org/CreativeWork0FA6519AB9212E9A8B9E366DA35ACED9B60E2C4CE7E66B64DD738C564F3CCB59.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "0FA6519AB9212E9A8B9E366DA35ACED9B60E2C4CE7E66B64DD738C564F3CCB59.html" .
+
+<http://schema.org/CreativeWork1447046BBFBC0E7CFCE2B6EA60A14B8155E5016D83812B7E723B69A7DF6066D6.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "1447046BBFBC0E7CFCE2B6EA60A14B8155E5016D83812B7E723B69A7DF6066D6.html" .
+
+<http://schema.org/CreativeWork1EB0CEE627D74230C99ACEB8AF72161B9CB9C32B4F7851673AF523B0DF165493.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "1EB0CEE627D74230C99ACEB8AF72161B9CB9C32B4F7851673AF523B0DF165493.html" .
+
+<http://schema.org/CreativeWork2154DE13A5E871B77B9517FE267713E5926C3CA3D3D96B0643AE38B69983FCDF.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "2154DE13A5E871B77B9517FE267713E5926C3CA3D3D96B0643AE38B69983FCDF.html" .
+
+<http://schema.org/CreativeWork22993886A16367A80C621F629ED6682E24A8F1026D8EFA3D31E0499E50385204.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "22993886A16367A80C621F629ED6682E24A8F1026D8EFA3D31E0499E50385204.html" .
+
+<http://schema.org/CreativeWork23C24B4ABBF56C427C4C5B61B7A9544A99D9E95DA1D86793028422876A845EA4.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "23C24B4ABBF56C427C4C5B61B7A9544A99D9E95DA1D86793028422876A845EA4.html" .
+
+<http://schema.org/CreativeWork299A26AD502AF811170DE21F129E26F6E0777EE0D9758198425A5307FBA8EB5C.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "299A26AD502AF811170DE21F129E26F6E0777EE0D9758198425A5307FBA8EB5C.html" .
+
+<http://schema.org/CreativeWork2C02C1EC705998566CE552CBE3570250D7522F5719ABB2BF77F7B2A7DACC5BDA.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "2C02C1EC705998566CE552CBE3570250D7522F5719ABB2BF77F7B2A7DACC5BDA.html" .
+
+<http://schema.org/CreativeWork2E3E241D25D1FF8CA8DBE97E6EBFB041D76DD6F0E8B766FB39F61F542159712A.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "2E3E241D25D1FF8CA8DBE97E6EBFB041D76DD6F0E8B766FB39F61F542159712A.html" .
+
+<http://schema.org/CreativeWork300BE6BE402E95A0F9279F1B68E84FA8E4355F59794E125E5977D1AA9B561C2C.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "300BE6BE402E95A0F9279F1B68E84FA8E4355F59794E125E5977D1AA9B561C2C.html" .
+
+<http://schema.org/CreativeWork338A111BDBB6A0EA66923F3399057902FB9D972F7A8DE20B607AB00A394E863B.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "338A111BDBB6A0EA66923F3399057902FB9D972F7A8DE20B607AB00A394E863B.html" .
+
+<http://schema.org/CreativeWork3556DFF6B9244FF91ECEFE408303185512232E2F412CFAB081C8B48865D1EC8F.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "3556DFF6B9244FF91ECEFE408303185512232E2F412CFAB081C8B48865D1EC8F.html" .
+
+<http://schema.org/CreativeWork39F8E3D0AA44AEC8A15456B5CF16F01E25C5C795585C25F43F05655CBA4A9EAD.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "39F8E3D0AA44AEC8A15456B5CF16F01E25C5C795585C25F43F05655CBA4A9EAD.html" .
+
+<http://schema.org/CreativeWork3DA672766B855E954CF810DA011F3A3DA6FF2276068E2C39DEA1AC988906DC24.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "3DA672766B855E954CF810DA011F3A3DA6FF2276068E2C39DEA1AC988906DC24.html" .
+
+<http://schema.org/CreativeWork3E0A46D11E5638C7A1AA774ACAE63D771476EC3D7AF20B7A276A30687EDAE33B.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "3E0A46D11E5638C7A1AA774ACAE63D771476EC3D7AF20B7A276A30687EDAE33B.html" .
+
+<http://schema.org/CreativeWork488A033BE79F177610E14EF4F7F70CC34BD2121C9A3F229374FDD3434C6298D4.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "488A033BE79F177610E14EF4F7F70CC34BD2121C9A3F229374FDD3434C6298D4.html" .
+
+<http://schema.org/CreativeWork49025DD2A3EF94AC5F1A1D8DC96086900555175D6733F07C8133C4EB31A83E4E.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "49025DD2A3EF94AC5F1A1D8DC96086900555175D6733F07C8133C4EB31A83E4E.html" .
+
+<http://schema.org/CreativeWork4A9C8FADB54A3C9566B9F9D9EB00468A9513D980A20185B207071CF8B510B839.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "4A9C8FADB54A3C9566B9F9D9EB00468A9513D980A20185B207071CF8B510B839.html" .
+
+<http://schema.org/CreativeWork4F71836C9613746C69A90B63878FC52AEA998234F628E7EFC046EC0C48B9AB37.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "4F71836C9613746C69A90B63878FC52AEA998234F628E7EFC046EC0C48B9AB37.html" .
+
+<http://schema.org/CreativeWork52E659B3ADABDE6CA03BC672DE6C269F3CC87CC212B8F5985FD3B90DD92D82D0.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "52E659B3ADABDE6CA03BC672DE6C269F3CC87CC212B8F5985FD3B90DD92D82D0.html" .
+
+<http://schema.org/CreativeWork566DA3DEA1A4C4F6A91541631146F0F73419C5F34C87792D2EB4FCC4B92DB88D.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "566DA3DEA1A4C4F6A91541631146F0F73419C5F34C87792D2EB4FCC4B92DB88D.html" .
+
+<http://schema.org/CreativeWork596BEBF866FE6C0C697CCA5C51B268F2158E4A96ABB7D7C5FBC6EB67EC1C7721.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "596BEBF866FE6C0C697CCA5C51B268F2158E4A96ABB7D7C5FBC6EB67EC1C7721.html" .
+
+<http://schema.org/CreativeWork5FB6AA7B7D2B26E542543D0F64B840FE627A3DDA44E3F41A465CD9CD559B12BE.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "5FB6AA7B7D2B26E542543D0F64B840FE627A3DDA44E3F41A465CD9CD559B12BE.html" .
+
+<http://schema.org/CreativeWork5FB915ED6AD335B5DBD2522857536F3870B2E4A4AA0E030948EC55282E0CC7A8.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "5FB915ED6AD335B5DBD2522857536F3870B2E4A4AA0E030948EC55282E0CC7A8.html" .
+
+<http://schema.org/CreativeWork602374E6E6FA54A119939155C496278F380D26D02CBB71F009F6C2E9DF4D530B.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "602374E6E6FA54A119939155C496278F380D26D02CBB71F009F6C2E9DF4D530B.html" .
+
+<http://schema.org/CreativeWork60B7CE605E0BFDE7B4E3048A4702BE6682EB5C6D03E599456FFB5E3DA0741DD4.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "60B7CE605E0BFDE7B4E3048A4702BE6682EB5C6D03E599456FFB5E3DA0741DD4.html" .
+
+<http://schema.org/CreativeWork657452C7EF3C7BD23A040BE558A54F11921C8D64F8D17F00C6B78970C407369B.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "657452C7EF3C7BD23A040BE558A54F11921C8D64F8D17F00C6B78970C407369B.html" .
+
+<http://schema.org/CreativeWork711CF92074A371CAA5BAA0A82186C898006635B39CA17CE67FB89A1D757F40FF.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "711CF92074A371CAA5BAA0A82186C898006635B39CA17CE67FB89A1D757F40FF.html" .
+
+<http://schema.org/CreativeWork7329FFFEFCAD9662697A6EB92FEE62DDA0B738D1A5DB1605B2B4C9ACF545945A.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "7329FFFEFCAD9662697A6EB92FEE62DDA0B738D1A5DB1605B2B4C9ACF545945A.html" .
+
+<http://schema.org/CreativeWork77F84EFF3B839FA34DD0FCCE908A4AE8BD0F78B62274D15D5C837BC2BCCCE93A.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "77F84EFF3B839FA34DD0FCCE908A4AE8BD0F78B62274D15D5C837BC2BCCCE93A.html" .
+
+<http://schema.org/CreativeWork80EB5023CBAF4B825861113BC22A60B2A0D60BBEDD5886B3D012376255825B18.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "80EB5023CBAF4B825861113BC22A60B2A0D60BBEDD5886B3D012376255825B18.html" .
+
+<http://schema.org/CreativeWork823EB71B30923D447E3762FEE12F39422002002A2E365B321416FE3FF69DA80B.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "823EB71B30923D447E3762FEE12F39422002002A2E365B321416FE3FF69DA80B.html" .
+
+<http://schema.org/CreativeWork86A0DACF23C9307ED2C239352318D47CB6078C61B7A7C6E3EFC63898F0F146E0.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "86A0DACF23C9307ED2C239352318D47CB6078C61B7A7C6E3EFC63898F0F146E0.html" .
+
+<http://schema.org/CreativeWork8990D372EA7188DF562EBEC67E3006198A8756E4D94711624943142CDA4AE4A8.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "8990D372EA7188DF562EBEC67E3006198A8756E4D94711624943142CDA4AE4A8.html" .
+
+<http://schema.org/CreativeWork8A5509B97D4D48F4CB5BE7E1E0E43EA893EBE4E59772126A72433FC4C1D185C4.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "8A5509B97D4D48F4CB5BE7E1E0E43EA893EBE4E59772126A72433FC4C1D185C4.html" .
+
+<http://schema.org/CreativeWork8A952383A38230C24E1F1FD37D7C1506A34916D7F23DAA9EA33CBCD0A24CF279.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "8A952383A38230C24E1F1FD37D7C1506A34916D7F23DAA9EA33CBCD0A24CF279.html" .
+
+<http://schema.org/CreativeWork8A9FDB87D85C8D06939FEEF9726ADEB416E4E21A8E90B75C4A801D4ED2905C8C.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "8A9FDB87D85C8D06939FEEF9726ADEB416E4E21A8E90B75C4A801D4ED2905C8C.html" .
+
+<http://schema.org/CreativeWork8BD4A999B30686B07559D791E9AFB65064C5F48A4B23D3702D9F40891889D89B.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "8BD4A999B30686B07559D791E9AFB65064C5F48A4B23D3702D9F40891889D89B.html" .
+
+<http://schema.org/CreativeWork8C9BB43E79F717AD05094D7B1C98D9AC6B59EFCBD1B6002EA7C3559ABA86E73D.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "8C9BB43E79F717AD05094D7B1C98D9AC6B59EFCBD1B6002EA7C3559ABA86E73D.html" .
+
+<http://schema.org/CreativeWork8ED66F6170061F4387C6CCCFAE4EBB5E5D59E6CAA807CD9580EABFDA4419B341.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "8ED66F6170061F4387C6CCCFAE4EBB5E5D59E6CAA807CD9580EABFDA4419B341.html" .
+
+<http://schema.org/CreativeWork92C603AA469241280286FBE528578AA76A30FDD6FB1788C713143F28DCAD9CB7.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "92C603AA469241280286FBE528578AA76A30FDD6FB1788C713143F28DCAD9CB7.html" .
+
+<http://schema.org/CreativeWork938BE7C8642BBC3438A65A6BD165AF1494CEC24603C3CE094EC84CFE51D8BF37.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "938BE7C8642BBC3438A65A6BD165AF1494CEC24603C3CE094EC84CFE51D8BF37.html" .
+
+<http://schema.org/CreativeWork9BF3DE1F878FB389BD8FE3FAF66B31B10B706079AC710C1580EBA878D6772D9D.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "9BF3DE1F878FB389BD8FE3FAF66B31B10B706079AC710C1580EBA878D6772D9D.html" .
+
+<http://schema.org/CreativeWork9D5BF74CEF7438719E7D912B613ECC6F0CE5373A5C6AEC0B7D109195F62755D7.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "9D5BF74CEF7438719E7D912B613ECC6F0CE5373A5C6AEC0B7D109195F62755D7.html" .
+
+<http://schema.org/CreativeWorkA0D7CFB8A494CBD8464B4CCFDBEFC9C3824629576E44106E414E7D9D9C1E1FB3.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "A0D7CFB8A494CBD8464B4CCFDBEFC9C3824629576E44106E414E7D9D9C1E1FB3.html" .
+
+<http://schema.org/CreativeWorkA1B839917202DEAD37BD74147FE721F446C48027F6E1917E5B6E59EE80BD01BE.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "A1B839917202DEAD37BD74147FE721F446C48027F6E1917E5B6E59EE80BD01BE.html" .
+
+<http://schema.org/CreativeWorkA21EB346AE5B665582CA1D9FEE989D8BF5DDC996E39240E0C260FE8B566C5CF8.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "A21EB346AE5B665582CA1D9FEE989D8BF5DDC996E39240E0C260FE8B566C5CF8.html" .
+
+<http://schema.org/CreativeWorkA32DA4F5A804118E220A39EC4E86DD0891A6DB9345B1442AE69B23CDC1BABE0C.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "A32DA4F5A804118E220A39EC4E86DD0891A6DB9345B1442AE69B23CDC1BABE0C.html" .
+
+<http://schema.org/CreativeWorkA7A11A172E902C24F5E3B0DC8BD755585F97B4E4211600A963D2E5A0E80E91E3.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "A7A11A172E902C24F5E3B0DC8BD755585F97B4E4211600A963D2E5A0E80E91E3.html" .
+
+<http://schema.org/CreativeWorkA8F4A80EC7609F5415ADFC63AEE92A32059F8733F47229E6C5C887FE6DC968B4.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "A8F4A80EC7609F5415ADFC63AEE92A32059F8733F47229E6C5C887FE6DC968B4.html" .
+
+<http://schema.org/CreativeWorkAC1579658229A39C67D773455D695172CBB851F2F642F773DD0C12B7D8929CE2.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "AC1579658229A39C67D773455D695172CBB851F2F642F773DD0C12B7D8929CE2.html" .
+
+<http://schema.org/CreativeWorkB20D5CC4F08DCB2914E64EE10CB36296ECEED50676181C12865F1128E20490E0.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "B20D5CC4F08DCB2914E64EE10CB36296ECEED50676181C12865F1128E20490E0.html" .
+
+<http://schema.org/CreativeWorkB972EDF78703E2A85A7A7869F183B8EE526AE18B0996E310A43072B991E48C57.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "B972EDF78703E2A85A7A7869F183B8EE526AE18B0996E310A43072B991E48C57.html" .
+
+<http://schema.org/CreativeWorkB9F280A0EF690E2CFBD362C26EA938EE07F8E791B71BAC48F6AEC7E9BE9F1F61.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "B9F280A0EF690E2CFBD362C26EA938EE07F8E791B71BAC48F6AEC7E9BE9F1F61.html" .
+
+<http://schema.org/CreativeWorkBF40406CCB48D07BFD2DB1C66E304869694755B85FBA1B9BCEDEDCEB18BAE786.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "BF40406CCB48D07BFD2DB1C66E304869694755B85FBA1B9BCEDEDCEB18BAE786.html" .
+
+<http://schema.org/CreativeWorkC1D2A738D7D6AE1FB23E013BD071343601416D55C1654BFC5348F8A385B7A001.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "C1D2A738D7D6AE1FB23E013BD071343601416D55C1654BFC5348F8A385B7A001.html" .
+
+<http://schema.org/CreativeWorkC1E37F5C7EAD7E3DCE7BD8D205EC25AAAE6364E1F182AC648218F6570D64E6B1.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "C1E37F5C7EAD7E3DCE7BD8D205EC25AAAE6364E1F182AC648218F6570D64E6B1.html" .
+
+<http://schema.org/CreativeWorkC2BB35FFE33D045AD1699D02C35215CC77CF3F0C4C16D057D1DA44B8DCB01B5C.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "C2BB35FFE33D045AD1699D02C35215CC77CF3F0C4C16D057D1DA44B8DCB01B5C.html" .
+
+<http://schema.org/CreativeWorkC5AC8FC7A86AA9867E31F5B455BE129DFF434C9450D8C5E2FA95F840BB7C879A.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "C5AC8FC7A86AA9867E31F5B455BE129DFF434C9450D8C5E2FA95F840BB7C879A.html" .
+
+<http://schema.org/CreativeWorkCF612A02807FCD474BB342EC5CF74CBCFD91FF50A00E407D1945340BFD187F78.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "CF612A02807FCD474BB342EC5CF74CBCFD91FF50A00E407D1945340BFD187F78.html" .
+
+<http://schema.org/CreativeWorkD030EF1EABE485D0449AAD316E08C51D3B0EC05AACCDAB48BF455ECF0501260D.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "D030EF1EABE485D0449AAD316E08C51D3B0EC05AACCDAB48BF455ECF0501260D.html" .
+
+<http://schema.org/CreativeWorkD2C0FFD4A095B31E9BCEA95D46F4E8417B19D0473A75435CE2A4AFC447B65A04.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "D2C0FFD4A095B31E9BCEA95D46F4E8417B19D0473A75435CE2A4AFC447B65A04.html" .
+
+<http://schema.org/CreativeWorkD3AE991FB0E1961AC48C75F41E6404FA7B0B02406A5A7E371AA2639FFE20E6A7.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "D3AE991FB0E1961AC48C75F41E6404FA7B0B02406A5A7E371AA2639FFE20E6A7.html" .
+
+<http://schema.org/CreativeWorkD471EDE6A47FB88E1A45E6DA6E45BA611B70A15F32203C3A8CE30B4C89254E26.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "D471EDE6A47FB88E1A45E6DA6E45BA611B70A15F32203C3A8CE30B4C89254E26.html" .
+
+<http://schema.org/CreativeWorkD510EF0DA2BC0FA4B07FB7F6EFD5A7B387CA528A813CEA9E0CE34E364C090816.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "D510EF0DA2BC0FA4B07FB7F6EFD5A7B387CA528A813CEA9E0CE34E364C090816.html" .
+
+<http://schema.org/CreativeWorkD6E91A21801BA842B8F54AEE5ED264464194F08811B4C323784EE24F70BD53EF.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "D6E91A21801BA842B8F54AEE5ED264464194F08811B4C323784EE24F70BD53EF.html" .
+
+<http://schema.org/CreativeWorkD708F325C10C00549CBCB1E0E40411DE348A2C6867999AC70547FC9920F579E4.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "D708F325C10C00549CBCB1E0E40411DE348A2C6867999AC70547FC9920F579E4.html" .
+
+<http://schema.org/CreativeWorkDABA8DD63DFDBE06D1A9F25301ED617BBDDDD38D06847CB364980E77048ECF93.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "DABA8DD63DFDBE06D1A9F25301ED617BBDDDD38D06847CB364980E77048ECF93.html" .
+
+<http://schema.org/CreativeWorkDAED71363E474955FA74DDC30650F1C614B487991D9C45136278F56EF9C6FB35.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "DAED71363E474955FA74DDC30650F1C614B487991D9C45136278F56EF9C6FB35.html" .
+
+<http://schema.org/CreativeWorkDBFD6655249280ABACC1AF106B5048CC45783E7DE31D4051628678CDE7354F1E.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "DBFD6655249280ABACC1AF106B5048CC45783E7DE31D4051628678CDE7354F1E.html" .
+
+<http://schema.org/CreativeWorkDE45B8E8A2B2B2B89683CE8BFD95DDC5D0B1B5BFE270293DA82076139BA04D7D.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "DE45B8E8A2B2B2B89683CE8BFD95DDC5D0B1B5BFE270293DA82076139BA04D7D.html" .
+
+<http://schema.org/CreativeWorkE0CD0D3687975A7B029DFA330BB2125937CE70CDE3D20B5FFFDB4E69EFBA6D6F.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "E0CD0D3687975A7B029DFA330BB2125937CE70CDE3D20B5FFFDB4E69EFBA6D6F.html" .
+
+<http://schema.org/CreativeWorkE4DDE23CA19F5EFBA748A3E8D0C6C3DC76877A0DC3A6A7B80BD72B0D469DC203.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "E4DDE23CA19F5EFBA748A3E8D0C6C3DC76877A0DC3A6A7B80BD72B0D469DC203.html" .
+
+<http://schema.org/CreativeWorkE55B54181F9AF2F78F81D6A3BA2F57939FB3D4346C2A08C8DDBE8A0752FFA427.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "E55B54181F9AF2F78F81D6A3BA2F57939FB3D4346C2A08C8DDBE8A0752FFA427.html" .
+
+<http://schema.org/CreativeWorkE8C761DE9443892748A0C2D33EA8D0384498AFA9558096570F9764697F8042A3.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "E8C761DE9443892748A0C2D33EA8D0384498AFA9558096570F9764697F8042A3.html" .
+
+<http://schema.org/CreativeWorkE9DFC2D8E23A59631630882E3BF9C00735A0CAF713DE27FA4C78F4015414F44E.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "E9DFC2D8E23A59631630882E3BF9C00735A0CAF713DE27FA4C78F4015414F44E.html" .
+
+<http://schema.org/CreativeWorkE9E3F2E1E7517225A9FD2E7A6D8C007E2D0CA2F44F6E8B38C635BA29A873D812.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "E9E3F2E1E7517225A9FD2E7A6D8C007E2D0CA2F44F6E8B38C635BA29A873D812.html" .
+
+<http://schema.org/CreativeWorkEAE716DE437D759D5F81702B9DA5EBDE2D8DE15A01BB456166BB596F34BC95E8.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "EAE716DE437D759D5F81702B9DA5EBDE2D8DE15A01BB456166BB596F34BC95E8.html" .
+
+<http://schema.org/CreativeWorkEB145A1F214F6E9AE74816BDDE9A7C2563B0CF192E299594AA021C5FBBB9FF3C.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "EB145A1F214F6E9AE74816BDDE9A7C2563B0CF192E299594AA021C5FBBB9FF3C.html" .
+
+<http://schema.org/CreativeWorkEE19AA486C4F709998C0809B83341970AEE8E262FF0F908D60D9E0D9C88B24E5.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "EE19AA486C4F709998C0809B83341970AEE8E262FF0F908D60D9E0D9C88B24E5.html" .
+
+<http://schema.org/CreativeWorkEEC055BD5DD7534CBED6F675ED05304E6A129097FD99578AE212C16F104D69F4.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "EEC055BD5DD7534CBED6F675ED05304E6A129097FD99578AE212C16F104D69F4.html" .
+
+<http://schema.org/CreativeWorkF2E6A22309EC60C966AA549C4096332E2FC2133A13ED00D65C851A89D2B188B3.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "F2E6A22309EC60C966AA549C4096332E2FC2133A13ED00D65C851A89D2B188B3.html" .
+
+<http://schema.org/CreativeWorkF499E1C3A650DE242A5BEEEB6610C286499DA2B86E1A909C2C0A73414C9402ED.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "F499E1C3A650DE242A5BEEEB6610C286499DA2B86E1A909C2C0A73414C9402ED.html" .
+
+<http://schema.org/CreativeWorkFC40B5A2BD088828A055A0D04A7332227ED6233806C4EE2415FCC67EF23ECC25.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "FC40B5A2BD088828A055A0D04A7332227ED6233806C4EE2415FCC67EF23ECC25.html" .
+
+<http://schema.org/Offer07%20Pontiac%20Torrent> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place1900%2010th%20st%20%20%20Great%20Bend>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "414";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork2C02C1EC705998566CE552CBE3570250D7522F5719ABB2BF77F7B2A7DACC5BDA.html>;
+  <http://schema.org/name> "07 Pontiac Torrent";
+  <http://schema.org/price> "4,999";
+  <http://schema.org/relatedTo> <http://schema.org/Offer07%20Pontiac%20Torrent>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer1956%20Buick%20Special%20%2Aprice%20drop%2A> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceEllsworth>;
+  <http://schema.org/description> "We have a 1956 Buick Special, 4 door. Motor recently overhauled. New radiator. Runs Good. Body in good condition. Message me for more pictures.";
+  <http://schema.org/expires> "239";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork80EB5023CBAF4B825861113BC22A60B2A0D60BBEDD5886B3D012376255825B18.html>;
+  <http://schema.org/name> "1956 Buick Special *price drop*";
+  <http://schema.org/price> "6,800";
+  <http://schema.org/relatedTo> <http://schema.org/Offer1956%20Buick%20Special%20%2Aprice%20drop%2A>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer1993%20Harley-Davidson%20Electra%20Glide%20Electra%20glide>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place103%20E.%20Hwy%2036%20%20%20Smith%20Center>;
+  <http://schema.org/description> "Heres a older Harley Davidson Electra Glide Ultra Classic that looks like a Street Glide. Two tone paint, almost new tires, fairing and windshield, docking hardware for tour pak and sissy bar with luggage rack, cruise, stereo, tons of upgrades in chrome, Satelite radio, EVO 80cu engine, 90th Anniversary bike, great tires, Mustang seat, lite bezels, windshield bags, true dual exhaust, and chrome bag gaurds! If you are wanting a cool touring bike or want a Street Glide but dont want to spend $20000 then you need to come by and check this one out! You can own this bike at Sportster price!!!!! Hurry, it wont last long!   79,000 miles   CREDIT CARDS ACCEPTED!!  DO NOT SEND E-MAILS OR TEXT!!! CALL: 785-686-4299 CALL FOR MORE INFORMATION: DEALER CHECK OUT OUR WEBSITE: www.frielingautosales.com";
+  <http://schema.org/expires> "432";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkEAE716DE437D759D5F81702B9DA5EBDE2D8DE15A01BB456166BB596F34BC95E8.html>;
+  <http://schema.org/name> "1993 Harley-Davidson Electra Glide Electra glide";
+  <http://schema.org/price> "5,495";
+  <http://schema.org/relatedTo> <http://schema.org/Offer1993%20Harley-Davidson%20Electra%20Glide%20Electra%20glide>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer1997%20Ford%20F150%202-wheel%20drive.%20Great%20on%20gas.>
+  a <http://schema.org/Offer>;
+  <http://schema.org/description> "Nice 1997 Ford F150 2-wheel drive. Runs good. Great on gas. Would make someone a nice truck. 176,350 miles. Needs a battery. $2500 Cash. (308) 999-0812.";
+  <http://schema.org/expires> "515";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkB20D5CC4F08DCB2914E64EE10CB36296ECEED50676181C12865F1128E20490E0.html>;
+  <http://schema.org/name> "1997 Ford F150 2-wheel drive. Great on gas.";
+  <http://schema.org/price> "2,500";
+  <http://schema.org/relatedTo> <http://schema.org/Offer1997%20Ford%20F150%202-wheel%20drive.%20Great%20on%20gas.>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer1998%20Larson%20206sei> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceEllis>;
+  <http://schema.org/description> "I have a nice 1998 larson boat for sale. It has the v8 5.0gi volvo penta motor that is fuel injected. Wakeboard tower with rack, 2 batteries with perka switch, aftermarket stereo (2-12 subs/tower speakers/ 6x9s and 5 speakers/ 2 amplifiers). Just had all the seats redone so Interior is excellent shape. Trailer is tandem axle. Also life jackets,wakeboard,tube, and other misc. to go with. Boat has been great , just no longer make it to the lake. Hopefully someone else can enjoy it. Any questions, feel free to message. Thanks for looking";
+  <http://schema.org/expires> "171";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkD3AE991FB0E1961AC48C75F41E6404FA7B0B02406A5A7E371AA2639FFE20E6A7.html>;
+  <http://schema.org/name> "1998 Larson 206sei";
+  <http://schema.org/price> "9,200";
+  <http://schema.org/relatedTo> <http://schema.org/Offer1998%20Larson%20206sei>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer2%20boxes%2045%20LC%201box%20of%20.45%20Ac> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceAbilene>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "205";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork8BD4A999B30686B07559D791E9AFB65064C5F48A4B23D3702D9F40891889D89B.html>;
+  <http://schema.org/name> "2 boxes 45 LC 1box of .45 Ac";
+  <http://schema.org/price> "25";
+  <http://schema.org/relatedTo> <http://schema.org/Offer2%20boxes%2045%20LC%201box%20of%20.45%20Ac>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer20%20gauge%20shotgun%20shells> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceGreat%20Bend>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "42";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkC5AC8FC7A86AA9867E31F5B455BE129DFF434C9450D8C5E2FA95F840BB7C879A.html>;
+  <http://schema.org/name> "20 gauge shotgun shells";
+  <http://schema.org/price> "";
+  <http://schema.org/relatedTo> <http://schema.org/Offer20%20gauge%20shotgun%20shells>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer2002%20Camaro%20SS> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceNorton>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "6,014";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork938BE7C8642BBC3438A65A6BD165AF1494CEC24603C3CE094EC84CFE51D8BF37.html>;
+  <http://schema.org/name> "2002 Camaro SS";
+  <http://schema.org/price> "11,000";
+  <http://schema.org/relatedTo> <http://schema.org/Offer2002%20Camaro%20SS>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer2004%20new%20vision%20fifth%20wheel> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceGreat%20Bend>;
+  <http://schema.org/description> "ROOM FOR EVERYONE !! 2004 NEW VISION FIFTH WHEEL , SLEEP 6 HAS 2 SLIDES AND A SLIDE THROUGH STORAGE COMPARTMENT , OUTDOOR SHOWER AND AWNING IS IN EXCELLENT CONDITION , TIRES ONLY HAVE 700 MILES ON THEM AND BATTERY IS 2 YEARS OLD . ASKING 15000.00 WELL BELOW RETAIL !";
+  <http://schema.org/expires> "85";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkE9E3F2E1E7517225A9FD2E7A6D8C007E2D0CA2F44F6E8B38C635BA29A873D812.html>;
+  <http://schema.org/name> "2004 new vision fifth wheel";
+  <http://schema.org/price> "15,000";
+  <http://schema.org/relatedTo> <http://schema.org/Offer2004%20new%20vision%20fifth%20wheel>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer2006%20ram%202500%20diesel> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceGreat%20Bend>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "129";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkFC40B5A2BD088828A055A0D04A7332227ED6233806C4EE2415FCC67EF23ECC25.html>;
+  <http://schema.org/name> "2006 ram 2500 diesel";
+  <http://schema.org/price> "18,000";
+  <http://schema.org/relatedTo> <http://schema.org/Offer2006%20ram%202500%20diesel>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer2008%20HONDA%20CBR1000RR8> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place900%20E%2023RD%20%20%20Hutchinson>;
+  <http://schema.org/description> "CLEAN TITLE AND MOTORCYCLE, GOOD CONDITION WITH 10,143 MILES";
+  <http://schema.org/expires> "228";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork8990D372EA7188DF562EBEC67E3006198A8756E4D94711624943142CDA4AE4A8.html>;
+  <http://schema.org/name> "2008 HONDA CBR1000RR8";
+  <http://schema.org/price> "7,500";
+  <http://schema.org/relatedTo> <http://schema.org/Offer2008%20HONDA%20CBR1000RR8>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer2009%20FLSTC%20for%20sale> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place213%20horace%20greeley%20ave%20apt%20105%20%20%20Norton>;
+  <http://schema.org/description> "2009 HD Soft Tail for sale. Has crash bars, sissy bar, wind deflectors and python exhaust. In excellant condition, new tire on reat and good tire on front. Rides great.";
+  <http://schema.org/expires> "186";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork823EB71B30923D447E3762FEE12F39422002002A2E365B321416FE3FF69DA80B.html>;
+  <http://schema.org/name> "2009 FLSTC for sale";
+  <http://schema.org/price> "11,000";
+  <http://schema.org/relatedTo> <http://schema.org/Offer2009%20FLSTC%20for%20sale>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer2009%20John%20Deere%20568%20baler> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceEdson>;
+  <http://schema.org/description> "2009 JD 568 Mega Wide, HYD LIFT, PUSH BAR, SLIP CLUTCH ALERT, HI-FLOTATION TIRE Wrapping: Both Twine and Surface Wrap.   Only 7,446 bales  $22,000 OBO";
+  <http://schema.org/expires> "159";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkC2BB35FFE33D045AD1699D02C35215CC77CF3F0C4C16D057D1DA44B8DCB01B5C.html>;
+  <http://schema.org/name> "2009 John Deere 568 baler";
+  <http://schema.org/price> "22,000";
+  <http://schema.org/relatedTo> <http://schema.org/Offer2009%20John%20Deere%20568%20baler>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer2010%20nissan%20altim> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceHolcom>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "338";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkD708F325C10C00549CBCB1E0E40411DE348A2C6867999AC70547FC9920F579E4.html>;
+  <http://schema.org/name> "2010 nissan altim";
+  <http://schema.org/price> "10,500";
+  <http://schema.org/relatedTo> <http://schema.org/Offer2010%20nissan%20altim>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer2012%20Yamaha%20Grizzly%20550%20ATV%204x4> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlacePratt>;
+  <http://schema.org/description> "***NEW TIRES*** Hunter Camo. Electric start. Push button select: 2WD, 4WD, or diff lock. Independent suspension. Digital instrument display. Plastic and seat in great shape. Very clean. 11,647 miles. Very recent top end overhaul. Very well maintained.";
+  <http://schema.org/expires> "154";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork566DA3DEA1A4C4F6A91541631146F0F73419C5F34C87792D2EB4FCC4B92DB88D.html>;
+  <http://schema.org/name> "2012 Yamaha Grizzly 550 ATV 4x4";
+  <http://schema.org/price> "3,600";
+  <http://schema.org/relatedTo> <http://schema.org/Offer2012%20Yamaha%20Grizzly%20550%20ATV%204x4>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer2015%20Doolittle%208414%20SS%20Series%20Utility%20Trailer>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place1120%20S.%20Cedar%20%20%20Stockton>;
+  <http://schema.org/description> "New 2015 Doolittle 84x14 SS series utility trailer.   2990 GVWR 5 Mesh ramp gate with spring assist. Full LED lighting, Radial tires. Locking Toolbox built into tongue. 6 heavy duty D-rings inside trailer. Top of the line utility trailer!  More pics at www.BradWallerAutomotive.com";
+  <http://schema.org/expires> "526";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkC1E37F5C7EAD7E3DCE7BD8D205EC25AAAE6364E1F182AC648218F6570D64E6B1.html>;
+  <http://schema.org/name> "2015 Doolittle 8414 SS Series Utility Trailer";
+  <http://schema.org/price> "1,999";
+  <http://schema.org/relatedTo> <http://schema.org/Offer2015%20Doolittle%208414%20SS%20Series%20Utility%20Trailer>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer3%20weight%20calves> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceGypsum>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "1,878";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork3556DFF6B9244FF91ECEFE408303185512232E2F412CFAB081C8B48865D1EC8F.html>;
+  <http://schema.org/name> "3 weight calves";
+  <http://schema.org/price> "775";
+  <http://schema.org/relatedTo> <http://schema.org/Offer3%20weight%20calves>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer4s%20iPhone> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place160%20Morse%20Drive%20%20%20Phillipsburg>;
+  <http://schema.org/description> "4s iPhone with charger, ear buds and 4s cover. Great as a first phone for a young person.";
+  <http://schema.org/expires> "41";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork2E3E241D25D1FF8CA8DBE97E6EBFB041D76DD6F0E8B766FB39F61F542159712A.html>;
+  <http://schema.org/name> "4s iPhone";
+  <http://schema.org/price> "90";
+  <http://schema.org/relatedTo> <http://schema.org/Offer4s%20iPhone>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer55%20Akai%20flat%20screen%20TV> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceHays>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "43";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork1EB0CEE627D74230C99ACEB8AF72161B9CB9C32B4F7851673AF523B0DF165493.html>;
+  <http://schema.org/name> "55 Akai flat screen TV";
+  <http://schema.org/price> "50";
+  <http://schema.org/relatedTo> <http://schema.org/Offer55%20Akai%20flat%20screen%20TV>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer7%20AVON%20BOTTLES> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceEllsworth>;
+  <http://schema.org/description> "$4.00 EACH OR $24.00 FOR ALL ----SOME OF THEM STIL HAVE PERFUME IN THEM";
+  <http://schema.org/expires> "6";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkDBFD6655249280ABACC1AF106B5048CC45783E7DE31D4051628678CDE7354F1E.html>;
+  <http://schema.org/name> "7 AVON BOTTLES";
+  <http://schema.org/price> "4";
+  <http://schema.org/relatedTo> <http://schema.org/Offer7%20AVON%20BOTTLES>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferAeropostale%20Shirt> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceGrainfield>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "48";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork8A9FDB87D85C8D06939FEEF9726ADEB416E4E21A8E90B75C4A801D4ED2905C8C.html>;
+  <http://schema.org/name> "Aeropostale Shirt";
+  <http://schema.org/price> "10";
+  <http://schema.org/relatedTo> <http://schema.org/OfferAeropostale%20Shirt>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferAmmonia%20Anhydrous%20Tank> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceDowns>;
+  <http://schema.org/description> "Ammonia Anhydrous tank. $1300.00 negotiable   (785)477-4084";
+  <http://schema.org/expires> "217";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork22993886A16367A80C621F629ED6682E24A8F1026D8EFA3D31E0499E50385204.html>;
+  <http://schema.org/name> "Ammonia Anhydrous Tank";
+  <http://schema.org/price> "1,500";
+  <http://schema.org/relatedTo> <http://schema.org/OfferAmmonia%20Anhydrous%20Tank>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferAppliances> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place510%20north%20front%20street%20%20%20Russell>;
+  <http://schema.org/description> "May tag upright freezer. May tag dryer. Whirlpool front loader. Admiral refrigerator side by side. Will be selling at Twisted Sister Estate Sale. Estate of Lois and Kent Lapham. Wed. Sept 30. 9am-6pm and Sat Oct. 3 8am-3pm. 510 front street. Russell, Kansas. For more items selling check us out under estate sales. Not an auction. Everything will be priced and ready to sell by wed. Morning. For more information or flyer contact Linda twistedsistersest@gmail.com";
+  <http://schema.org/expires> "111";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork52E659B3ADABDE6CA03BC672DE6C269F3CC87CC212B8F5985FD3B90DD92D82D0.html>;
+  <http://schema.org/name> "Appliances";
+  <http://schema.org/price> "0";
+  <http://schema.org/relatedTo> <http://schema.org/OfferAppliances>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferAssistant%20Cook%20for%20USD%20%23489> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceHays>;
+  <http://schema.org/description> "Assistant Cook Positions available for the 2015-2016 school year . PERFECT job for parents that want to have the same schedule as their kids!!!   Apply on line at usd489.com -- Employment Link";
+  <http://schema.org/expires> "532";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkD6E91A21801BA842B8F54AEE5ED264464194F08811B4C323784EE24F70BD53EF.html>;
+  <http://schema.org/name> "Assistant Cook for USD #489";
+  <http://schema.org/price> "0";
+  <http://schema.org/relatedTo> <http://schema.org/OfferAssistant%20Cook%20for%20USD%20%23489>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferBAJA%20Go-Kart> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceDodge%20City>;
+  <http://schema.org/description> "196cc Baja Go-Kart purchased new 8 years ago for $600.00. It has been used by all four of my children, but now it is time for Mom and I to get something bigger that we can ride. The go-kart is in good working order with a new centrifugal clutch. It has the on/off switch on the steering wheel instead of the engine. When I moved the switch it disconnected the lights but they didnt work because the kids broke them, but everything else is good. Cash only. text me for more information or if interested.";
+  <http://schema.org/expires> "53";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork0FA6519AB9212E9A8B9E366DA35ACED9B60E2C4CE7E66B64DD738C564F3CCB59.html>;
+  <http://schema.org/name> "BAJA Go-Kart";
+  <http://schema.org/price> "300";
+  <http://schema.org/relatedTo> <http://schema.org/OfferBAJA%20Go-Kart>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferBLING%20Earrings> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceGreat%20Bend>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "69";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork0D1D6353603647921CAE772061E1B6FFD3B1C0DFC36938F29B63A8D079B5D976.html>;
+  <http://schema.org/name> "BLING Earrings";
+  <http://schema.org/price> "4";
+  <http://schema.org/relatedTo> <http://schema.org/OfferBLING%20Earrings>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferBaby%20Swing%20%28portable%29%20by%20Bright%20Starts> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceRussell>;
+  <http://schema.org/description> "This particular swing has only been used for 4 months. It has a six-melody music player with volume control and auto shut-off, and an adjustable toy bar with two plush toys. It also folds easily for storage or travel. Its in perfect condition and have never had to change the batteries.";
+  <http://schema.org/expires> "14";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkEEC055BD5DD7534CBED6F675ED05304E6A129097FD99578AE212C16F104D69F4.html>;
+  <http://schema.org/name> "Baby Swing (portable) by Bright Starts";
+  <http://schema.org/price> "30";
+  <http://schema.org/relatedTo> <http://schema.org/OfferBaby%20Swing%20%28portable%29%20by%20Bright%20Starts>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferBack%20hatch%20glass%201998%20Ford%20Expedition> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceSharon%20Springs>;
+  <http://schema.org/description> "Back hatch glass off of a 1998 Ford Expedition $100 or best offer";
+  <http://schema.org/expires> "60";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkA1B839917202DEAD37BD74147FE721F446C48027F6E1917E5B6E59EE80BD01BE.html>;
+  <http://schema.org/name> "Back hatch glass 1998 Ford Expedition";
+  <http://schema.org/price> "100";
+  <http://schema.org/relatedTo> <http://schema.org/OfferBack%20hatch%20glass%201998%20Ford%20Expedition>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferBathroom%20Vanity%20Sink%2025W%20X%2022Dee> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceBeloit>;
+  <http://schema.org/description> "I dont see any cracks. Faucet included. Removed during bathroom remodel. Contact me through classifieds for more information. You haul.";
+  <http://schema.org/expires> "104";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork77F84EFF3B839FA34DD0FCCE908A4AE8BD0F78B62274D15D5C837BC2BCCCE93A.html>;
+  <http://schema.org/name> "Bathroom Vanity Sink 25W X 22Dee";
+  <http://schema.org/price> "10";
+  <http://schema.org/relatedTo> <http://schema.org/OfferBathroom%20Vanity%20Sink%2025W%20X%2022Dee>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferBlue%20and%20purple%20strapless%20prom%20dress> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceHays>;
+  <http://schema.org/description> "Blue and purple jeweled full length prom dress. $500 new. Worn twice, has been cleaned and is ready to wear. Size 8-10";
+  <http://schema.org/expires> "493";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork39F8E3D0AA44AEC8A15456B5CF16F01E25C5C795585C25F43F05655CBA4A9EAD.html>;
+  <http://schema.org/name> "Blue and purple strapless prom dress";
+  <http://schema.org/price> "175";
+  <http://schema.org/relatedTo> <http://schema.org/OfferBlue%20and%20purple%20strapless%20prom%20dress>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferBoys%20clothes> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceNorton>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "7";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork338A111BDBB6A0EA66923F3399057902FB9D972F7A8DE20B607AB00A394E863B.html>;
+  <http://schema.org/name> "Boys clothes";
+  <http://schema.org/price> "";
+  <http://schema.org/relatedTo> <http://schema.org/OfferBoys%20clothes>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferBucket%20Truck%20Attachment> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceFowler>;
+  <http://schema.org/description> "Bucket truck attachment to go on truck frame. The unit is ran off of PTO on the truck and is hydraulic and cable driven. Has controls at base and up in bucket. Will go 35 high. Would be very handy if you had a truck to mount it on.  Truck in picture is also for sale.  $500 or best offer  Call or text 620-255-6097";
+  <http://schema.org/expires> "639";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork1447046BBFBC0E7CFCE2B6EA60A14B8155E5016D83812B7E723B69A7DF6066D6.html>;
+  <http://schema.org/name> "Bucket Truck Attachment";
+  <http://schema.org/price> "500";
+  <http://schema.org/relatedTo> <http://schema.org/OfferBucket%20Truck%20Attachment>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferCONSIGNMENT%20AUCTION%2C%20SUN.%20OCT.4%2C%20%40%2010%3A30%2C%20ACL%2C%20PLAINVILLE>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place1001%20South%20Washington%20%20%20Plainville>;
+  <http://schema.org/description> "Consignment Auction, Sunday, October 4, 2015, 10:30 a.m. ACL, Plainville      Auctioneers Note:   Dont miss this one as there are some really unique retro, vintage and antique items including tin ceiling tiles, gas station display cabinets, lumberyard revolving nail/bolt bin display. There is also collectible glassware, primitives, furniture, household goods and tools! Something for everyone! Open House on Saturday, October 3 from 10  2 p.m. Absentee bids accepted.  For more pictures: https://phre.smugmug.com/CONSIGNMENT-AUCTION-SUN-OCT-4/    FURNITURE  : Oak Round Pedestal Table with 4 Chairs, 2 Blanket Chests, Queen Bedroom Set with Dresser, Armoire, 2 Night Stands, Jewelry Armoire, Roll Top Desk with Display, Couch and Occasional Chair, Wooden Dining Room Table, Chairs, Occasional Tables, Elec. Range, 10 Gun Cabinet w/Etched Glass Doors, Double Bath Vanity, 2 piece Bar Set, 4 Drawer Metal File Cabinet, 2 Drawer Metal File Cabinet    PRIMITIVES, RETRO ITEMS  : Oak Curved Glass China Cabinet, 3 Metal Retro Lawn Chairs, Vintage Wooden Lift Top Desk/Podium (Used in Hardware Store), Fairbanks Morse Floor Radio, Philco Floor Radio, Farnsworth Floor Radio, Motorola Floor Radio, Timex Lighted Revolving Floor Display Case, 2  24 Drawer Metal Bin Boxes, Pedal Grinding Wheel, Singer Treadle Sewing Machine, Student Desk, Autolite 6 Door Locker, Wix Metal Filter and Oil Cabinet, GE Motors 5 Shelf Stand, 48 Bin Wooden Case, 2  21 bin Wooden Cases, 5  27 Bin Wooden Cases, 2  30 Bin Wooden Cases, Vintage 5 gal. Carboy Jar in Original Crate, Antique Humpty Dumpty 1902 Wooden Egg Carrier, Vintage Cast Metal Notary Embossed Stamp, Hay/Ice Tongs, Wooden Plante, Stained Glass Rope Glide Window, 1940s Leather 3 pc. Luggage Set, Military Wooden Cannon Ammo Crate with Rope Handles, 1944 Original WWII Good Conduct Medal in Original Box  PA Quartermaster Depot, Set Pool Balls, Seth Thomas Mantle Clock, Ansonia Mantle Clock, 2 Vintage Oak Rockers, 2 Oak Occasional Chairs, 2 Vintage Parlor Chairs, 6 Queen Anne Chairs, Retro Black/White Glass Picture Frames, Folding Room Screen, Vintage Tin Ceiling Tiles and Border, Vintage Kerosene Heater, Vintage Floor Lamp, Vintage Pictures, Teapot Collection    COLLECTIBLES  GLASSWARE  : Old Country Rose Royal Albert Bone China 1963 8 place setting, Beroque Blue by Daniele Fine China Japan 14 place setting with completer pieces, Bavaria 12 place setting China, Several Pieces 70s Blue Carnival (Pitcher, Goblets, Glasses, Covered Compote, 2 Fruit Dishes), Several Pieces Pink Depression (Relish Dish, Serving Bowl, Biscuit Jar), 1922 Almanac, Vintage Books, 3 Boxes Albums (some Elvis), Crocheted Queen Size Bedspread, 10 MIB Barbie Dolls, New Gold Plated Silverware in Wooden Case, Embroidered Pillow Cases and Tea Towels, Ladies Handkerchiefs and Gloves, Small Japan Canister Set w/Flour, Sugar, Tea, Coffee, Nutmeg, Cloves, Pepper Allspice, Wooden Book Holder, Wooden Stool, 70s Gold Carnival, Amber Carnival, Hull 8  Vase, Hull W-12 9  Jardiniere, Glass Punch Bowl w/10 cups, Pink Pottery Pitcher, Flower Pitcher, Ty Bears, Ty Beanies, Vintage Alarm Clocks, Manual Typewriter, Liquor Bottle, Vintage Greeting Cards, Political Buttons, First Day Issue Stamp Envelopes including JFK, Baseball Cards, Chenille Bedspread, Pocket Watch, Costume Jewelry    TOOLS AND ELECTRICAL SUPPLIES  : Champion 10,000# Winch, Wall Heater, Paint Shaker from Hardware Stores, 4 Shelf Wire Garage Rack, Many Spools of Wire, Copper, 2 New Main Breakers MIB, 3 Square D Breakers, 2 Square D Main Circuit Breakers in Boxes, Conduit Connectors, Plates, Switches, Wall and Ceiling Boxes, Junction Boxes, Ballasts, Fuses, Outlets (one row of electrical supplies), Pressure Washer, Hand Tools, Scroll Saw, Lathe    HOUSEHOLD AND MISC  . Dreamsicle Figurines, Wicker Baskets, Afghans, Sheets, 100 DVDS, VTech Phone System, Bed Sets, Nintendo DS, Toys, Christmas Decorations, Kids Book Sets, Dehydrator, Pressure Cooker, Batter Bowl, Wire BBQ Racks, Pots and Pans, Lamps, New Box Paint Balls, Homedics Massager, Desktop Scanner, Little Tikes Picnic Table, Knives, Blankets, Figurines, Dishes    SPECIAL  Pride Victory 3 Wheel Scoot Around       Auction Conducted by: Prairie Heritage Auction and Real Estate, 1001 South Washington, Plainville, KS Susan Stahl, Auctioneer 785-608-6683      Auction Crew: Sheila Hachmeister, Lora Weigel, Paula Glick, Kelly Lowry, Tammy Werner, Steph Nuss, Gwendolyn Hitchcock";
+  <http://schema.org/expires> "214";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkE0CD0D3687975A7B029DFA330BB2125937CE70CDE3D20B5FFFDB4E69EFBA6D6F.html>;
+  <http://schema.org/name> "CONSIGNMENT AUCTION, SUN. OCT.4, @ 10:30, ACL, PLAINVILLE";
+  <http://schema.org/price> "0";
+  <http://schema.org/relatedTo> <http://schema.org/OfferCONSIGNMENT%20AUCTION%2C%20SUN.%20OCT.4%2C%20%40%2010%3A30%2C%20ACL%2C%20PLAINVILLE>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferCamping%20Stove> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place1702%20Yocemento%20Ave.%20%20%20Hays>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "27";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork4A9C8FADB54A3C9566B9F9D9EB00468A9513D980A20185B207071CF8B510B839.html>;
+  <http://schema.org/name> "Camping Stove";
+  <http://schema.org/price> "25";
+  <http://schema.org/relatedTo> <http://schema.org/OfferCamping%20Stove>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferCat%20needs%20an%20home> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place316%20E.%206th%20%20%20Hays>;
+  <http://schema.org/description> "I recently moved out of my dads house and the place I am now dosent allow cats. His name is destry hell be 7 months old on the 11th of October. Hes not fixed and still has his claws. He really likes to play and cuddle people. He dose not like baths at all. Hes eats any kid of cat food. Hes an inside cat but likes to explore the outside when Ive let him out. If you want him he comes with 2 leashes, a hide away cat thing, a litter box, a half full thing of fresh litter, a carpet for under neath his litter box, a whole thing of scentsy stuff for his litter box, a half full bag of cat food, 2 food dishes(also for water),2 beds, cat shampoo, flea spray, cat nip, a bunch of toys, a scratching post, 2 brushes, a nail clipper for cats and treats that help his teeth. He also has a collar on. He really needs a home as quick as possible.";
+  <http://schema.org/expires> "71";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkCF612A02807FCD474BB342EC5CF74CBCFD91FF50A00E407D1945340BFD187F78.html>;
+  <http://schema.org/name> "Cat needs an home";
+  <http://schema.org/price> "20";
+  <http://schema.org/relatedTo> <http://schema.org/OfferCat%20needs%20an%20home>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferCeramic%20Christmas%20Platter> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place401%20Elm%20%20%20Liebenthal>;
+  <http://schema.org/description> "No chips. Please e-mail here if interested. Measures 10x10.";
+  <http://schema.org/expires> "60";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork9D5BF74CEF7438719E7D912B613ECC6F0CE5373A5C6AEC0B7D109195F62755D7.html>;
+  <http://schema.org/name> "Ceramic Christmas Platter";
+  <http://schema.org/price> "4";
+  <http://schema.org/relatedTo> <http://schema.org/OfferCeramic%20Christmas%20Platter>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferDress> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceHays>;
+  <http://schema.org/description> "Party dress. Beige. Size 8 girls";
+  <http://schema.org/expires> "340";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkDABA8DD63DFDBE06D1A9F25301ED617BBDDDD38D06847CB364980E77048ECF93.html>;
+  <http://schema.org/name> "Dress";
+  <http://schema.org/price> "30";
+  <http://schema.org/relatedTo> <http://schema.org/OfferDress>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferDyna%20Glo%20Heater> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceNatom>;
+  <http://schema.org/description> "Like New used once Dyna Glo Kerosene 75,000 BTU HR Heater with 2 - 5 Gallon Cans of Kerosene w/ electric forced air  was $185.oo now $155.oo can b seen @ This and That Plainville";
+  <http://schema.org/expires> "212";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork8A952383A38230C24E1F1FD37D7C1506A34916D7F23DAA9EA33CBCD0A24CF279.html>;
+  <http://schema.org/name> "Dyna Glo Heater";
+  <http://schema.org/price> "155";
+  <http://schema.org/relatedTo> <http://schema.org/OfferDyna%20Glo%20Heater>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferEarly%20Childhood%20Teacher> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place94%20Lewis%20Drive%20%20%20Hays>;
+  <http://schema.org/description> "EARLY CHILDHOOD   TEACHER.  The Hays Area Childrens Center is hiring a full-time Early Childhood Teacher for our Toddler Classroom. 12 month position: Monday through Fridays from 7:30 a.m.  3:30 p.m.  Qualifications: High School Diploma or equivalency required. Child Development Associate, Early Childhood Associate, Early Childhood Unified or classes in elementary education or early childhood preferred but not required. Must be willing to obtain one of the preferences listed.   Apply at 94 Lewis Drive. Open until filled. EOE";
+  <http://schema.org/expires> "78";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkC1D2A738D7D6AE1FB23E013BD071343601416D55C1654BFC5348F8A385B7A001.html>;
+  <http://schema.org/name> "Early Childhood Teacher";
+  <http://schema.org/price> "0";
+  <http://schema.org/relatedTo> <http://schema.org/OfferEarly%20Childhood%20Teacher>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferElectric%20Adjustable%20Bed> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceGoodland>;
+  <http://schema.org/description> "Extra Long Twin Niagra Electric Adjustable Bed. Comes with headboard, or you can use any headboard. Mattress is clean and in good shape. If interested, please call Sharon at 785-899-3462 evenings. Price Negotiable.";
+  <http://schema.org/expires> "170";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkF2E6A22309EC60C966AA549C4096332E2FC2133A13ED00D65C851A89D2B188B3.html>;
+  <http://schema.org/name> "Electric Adjustable Bed";
+  <http://schema.org/price> "500";
+  <http://schema.org/relatedTo> <http://schema.org/OfferElectric%20Adjustable%20Bed>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferFLORAL%20OIL%20ON%20CANVAS> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place864%20Moscow%2C%20MUNJOR%20%20%20Hays>;
+  <http://schema.org/description> "NICE FRAMES OIL ON CANVAS FLORAL PAINTING BY LINDA  8 X 10";
+  <http://schema.org/expires> "458";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkDE45B8E8A2B2B2B89683CE8BFD95DDC5D0B1B5BFE270293DA82076139BA04D7D.html>;
+  <http://schema.org/name> "FLORAL OIL ON CANVAS";
+  <http://schema.org/price> "10";
+  <http://schema.org/relatedTo> <http://schema.org/OfferFLORAL%20OIL%20ON%20CANVAS>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferFor%20Sale%201963%20Oldsmobile%20Dynamic%2088> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceOberlin>;
+  <http://schema.org/description> "For sale - 1963 Oldsmobile Dynamic 88. All original down to the hubcaps. Need restoration. For more information call 785-470-1161- may have to leave a message but I will get back to you.";
+  <http://schema.org/expires> "696";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork299A26AD502AF811170DE21F129E26F6E0777EE0D9758198425A5307FBA8EB5C.html>;
+  <http://schema.org/name> "For Sale 1963 Oldsmobile Dynamic 88";
+  <http://schema.org/price> "1,200";
+  <http://schema.org/relatedTo> <http://schema.org/OfferFor%20Sale%201963%20Oldsmobile%20Dynamic%2088>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferFormal%20Dress%20or%20Mother%20of%20the%20Bride%20Dress> a
+    <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceHays>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "852";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkBF40406CCB48D07BFD2DB1C66E304869694755B85FBA1B9BCEDEDCEB18BAE786.html>;
+  <http://schema.org/name> "Formal Dress or Mother of the Bride Dress";
+  <http://schema.org/price> "35";
+  <http://schema.org/relatedTo> <http://schema.org/OfferFormal%20Dress%20or%20Mother%20of%20the%20Bride%20Dress>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferGate%20Belt> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Placep%20o%20box%20185%20%20%20Hays>;
+  <http://schema.org/description> "Bought this in Colorado Springs/ never used it   pick up in Hays only txt Rachel at 785-259-5011 thank u!";
+  <http://schema.org/expires> "46";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork5FB6AA7B7D2B26E542543D0F64B840FE627A3DDA44E3F41A465CD9CD559B12BE.html>;
+  <http://schema.org/name> "Gate Belt";
+  <http://schema.org/price> "5";
+  <http://schema.org/relatedTo> <http://schema.org/OfferGate%20Belt>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferGlass%20Globes> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlacePlainville>;
+  <http://schema.org/description> "Four globes off of ceiling fan. 785-434-6304. $4 for all. thanks for looking";
+  <http://schema.org/expires> "54";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkE4DDE23CA19F5EFBA748A3E8D0C6C3DC76877A0DC3A6A7B80BD72B0D469DC203.html>;
+  <http://schema.org/name> "Glass Globes";
+  <http://schema.org/price> "4";
+  <http://schema.org/relatedTo> <http://schema.org/OfferGlass%20Globes>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferGlass%20vases> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place1200%20S.%20main%20street%20%20%20Ford>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "73";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkEB145A1F214F6E9AE74816BDDE9A7C2563B0CF192E299594AA021C5FBBB9FF3C.html>;
+  <http://schema.org/name> "Glass vases";
+  <http://schema.org/price> "15";
+  <http://schema.org/relatedTo> <http://schema.org/OfferGlass%20vases>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferHiniker%204836%20Soybean%2FWheat%20air%20seeder%20and%20Cart%20Grain%20Drill>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlacePhillipsburg>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "1,459";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkD510EF0DA2BC0FA4B07FB7F6EFD5A7B387CA528A813CEA9E0CE34E364C090816.html>;
+  <http://schema.org/name> "Hiniker 4836 Soybean/Wheat air seeder and Cart Grain Drill";
+  <http://schema.org/price> "18,500";
+  <http://schema.org/relatedTo> <http://schema.org/OfferHiniker%204836%20Soybean%2FWheat%20air%20seeder%20and%20Cart%20Grain%20Drill>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferHonda%20450%20R%20-%20NO%20TRADES%21> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceLarned>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "409";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork0324F87CE344D72335B4A6BCB6963C4AC608365A8F91EF456CD8B9D4A549CE52.html>;
+  <http://schema.org/name> "Honda 450 R - NO TRADES!";
+  <http://schema.org/price> "2,750";
+  <http://schema.org/relatedTo> <http://schema.org/OfferHonda%20450%20R%20-%20NO%20TRADES%21>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferHonda%20xtr%20250> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceGreat%20Bend>;
+  <http://schema.org/description> "Honda 250 xtr for sell need to pay bills make me a offer text me me or call 6206392379";
+  <http://schema.org/expires> "56";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork602374E6E6FA54A119939155C496278F380D26D02CBB71F009F6C2E9DF4D530B.html>;
+  <http://schema.org/name> "Honda xtr 250";
+  <http://schema.org/price> "700";
+  <http://schema.org/relatedTo> <http://schema.org/OfferHonda%20xtr%20250>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferISO%20someone%20to%20do%20cement%20work%20and%20remove%20a%20tree%20stum>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Placenot%20responsible%20for%20lost%20items%20that%20are%20requested%20to%20be%20shipped%20%20%20Hays>;
+  <http://schema.org/description> "my husband and I are both disabled and we are working through LINK to get a tree stump and the cement at the base of our steps in our back yard replaced we need 3 bids to do this.";
+  <http://schema.org/expires> "193";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork23C24B4ABBF56C427C4C5B61B7A9544A99D9E95DA1D86793028422876A845EA4.html>;
+  <http://schema.org/name> "ISO someone to do cement work and remove a tree stum";
+  <http://schema.org/price> "0";
+  <http://schema.org/relatedTo> <http://schema.org/OfferISO%20someone%20to%20do%20cement%20work%20and%20remove%20a%20tree%20stum>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferInfrared%20Saun> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceGreat%20Bend>;
+  <http://schema.org/description> "Infrared Sauna by Heat Wave! It looks like a space ship but its really your own personal sauna, just plug it in the wall and go!  Seats 2 comfortably, 3 would probably be a little to close for comfort.  Plugs right into the wall and wont eat up the electric bill!  Comes with everything shown.  You pick up!  No Paypal  Cash only";
+  <http://schema.org/expires> "165";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork711CF92074A371CAA5BAA0A82186C898006635B39CA17CE67FB89A1D757F40FF.html>;
+  <http://schema.org/name> "Infrared Saun";
+  <http://schema.org/price> "600";
+  <http://schema.org/relatedTo> <http://schema.org/OfferInfrared%20Saun>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferJD%2038%20Silage%20Cutter> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceHays>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "1,460";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork023E168CF5EB531396290A2890F2D124C4D45BD4568741D17E0CEACDD12D9E8A.html>;
+  <http://schema.org/name> "JD 38 Silage Cutter";
+  <http://schema.org/price> "3,700";
+  <http://schema.org/relatedTo> <http://schema.org/OfferJD%2038%20Silage%20Cutter>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferJD%205020> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceHays>;
+  <http://schema.org/description> "John Deere Toy tractor. Calls only";
+  <http://schema.org/expires> "25";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkEE19AA486C4F709998C0809B83341970AEE8E262FF0F908D60D9E0D9C88B24E5.html>;
+  <http://schema.org/name> "JD 5020";
+  <http://schema.org/price> "35";
+  <http://schema.org/relatedTo> <http://schema.org/OfferJD%205020>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferJohn%20Deere%20X310> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place3160%20US%20Hwy%2024%20%20%20Ellsworth>;
+  <http://schema.org/description> "2012 John Deere X310 with 42 Deck and bagger, Power Steering, Power Deck Lift, Hydro Transmission, 18.5 HP Kawasaki Engine, 100 Hrs, still has Factory Warranty until June 2016  Call Dan with any Questions at 785-569-7134  FALL SPECIAL:  Mention you saw this ad on Nextech and get a 10% Discount!";
+  <http://schema.org/expires> "140";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork49025DD2A3EF94AC5F1A1D8DC96086900555175D6733F07C8133C4EB31A83E4E.html>;
+  <http://schema.org/name> "John Deere X310";
+  <http://schema.org/price> "3,250";
+  <http://schema.org/relatedTo> <http://schema.org/OfferJohn%20Deere%20X310>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferKids%20saddle> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceGreat%20Bend>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "45";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork596BEBF866FE6C0C697CCA5C51B268F2158E4A96ABB7D7C5FBC6EB67EC1C7721.html>;
+  <http://schema.org/name> "Kids saddle";
+  <http://schema.org/price> "250";
+  <http://schema.org/relatedTo> <http://schema.org/OfferKids%20saddle>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferLarge%20Fitness%20Ball> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceHays>;
+  <http://schema.org/description> "Large Fitness Ball, in great condition. Dont have room for it anymore so needs gone asap.  Would need picked up in Hays, asking $5 for it. Please message if interested, thank you.";
+  <http://schema.org/expires> "60";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork86A0DACF23C9307ED2C239352318D47CB6078C61B7A7C6E3EFC63898F0F146E0.html>;
+  <http://schema.org/name> "Large Fitness Ball";
+  <http://schema.org/price> "5";
+  <http://schema.org/relatedTo> <http://schema.org/OfferLarge%20Fitness%20Ball>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferLed%20Light%20Bars%20and%20led%20headlight%20conversion> a
+    <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place13%20%20%20Great%20Bend>;
+  <http://schema.org/description> "LED light bars in many sizes also custom mounts dont buy the cheap bars  20in Led spot/flood combo bars start at $125  big savings over other sellers! many other sizes too  they are cree led, beware of cheap imitations, others claim the best but fall short!  Also have curved light bars, single row bars, pods, home led lighting and much more";
+  <http://schema.org/expires> "6,294";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork0BFDB733F21D213BAADB89E6B2B17D1E9A7D4947A49BA8D05F3F8608C7F71F8E.html>;
+  <http://schema.org/name> "Led Light Bars and led headlight conversion";
+  <http://schema.org/price> "1";
+  <http://schema.org/relatedTo> <http://schema.org/OfferLed%20Light%20Bars%20and%20led%20headlight%20conversion>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferMathews%20Drenaline%20Bow> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceOberlin>;
+  <http://schema.org/description> "Mathews Drenaline Bow with IQ rental lock 7 pin sights 29 inch draw and 70 lbs is where it is set at. Has a release and a shot blocker target that has been shot a few times.";
+  <http://schema.org/expires> "44";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkF499E1C3A650DE242A5BEEEB6610C286499DA2B86E1A909C2C0A73414C9402ED.html>;
+  <http://schema.org/name> "Mathews Drenaline Bow";
+  <http://schema.org/price> "525";
+  <http://schema.org/relatedTo> <http://schema.org/OfferMathews%20Drenaline%20Bow>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferMetal%20Art%20Animal%20chairs> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceRussell>;
+  <http://schema.org/description> "Eagle chair .......650.00 Butterfly chair......650.00 Dragonfly chair....650.00. Call 786-658-5207 These are made locally do not message please, mention you seen these on Nextech classifieds. These are in Dorrance Ks. Thanks";
+  <http://schema.org/expires> "685";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork8A5509B97D4D48F4CB5BE7E1E0E43EA893EBE4E59772126A72433FC4C1D185C4.html>;
+  <http://schema.org/name> "Metal Art Animal chairs";
+  <http://schema.org/price> "650";
+  <http://schema.org/relatedTo> <http://schema.org/OfferMetal%20Art%20Animal%20chairs>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferMovies> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceOsborne>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "14";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork2154DE13A5E871B77B9517FE267713E5926C3CA3D3D96B0643AE38B69983FCDF.html>;
+  <http://schema.org/name> "Movies";
+  <http://schema.org/price> "2";
+  <http://schema.org/relatedTo> <http://schema.org/OfferMovies>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferNEW%20Bainter%20Trencher-FORWARD%20DIGGING%20Skid%20Steer%20Attachement>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceHoxie>;
+  <http://schema.org/description> "This is a brand new Bainter Boom Trencher. Manufactured right here in the USA in Hoxie, Kansas and has a cutting depth of 3 foot 6 inches. We also have two other sizes as well. With an extension kit this trencher can be made to trench at 4 foot 6 inches. With its patented design,  it's the only trencher on the market that trenches in a forward moving direcition . With the increased  safety  of trenching forward, you will never go through the frustration of trenching in reverse again with a Bainter Boom Trencher. Our Skid Steer attachment trencher will work with any brand of Skid Steer. Please visit our website at www.bainterboomtrenchers.com for more information and demo videos. Remember, once you own a Bainter Boom Trencher, you'll never look back. For more information send email to mark.nelson@bainterboomtrenchers.com";
+  <http://schema.org/expires> "2,783";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkA0D7CFB8A494CBD8464B4CCFDBEFC9C3824629576E44106E414E7D9D9C1E1FB3.html>;
+  <http://schema.org/name> "NEW Bainter Trencher-FORWARD DIGGING Skid Steer Attachement";
+  <http://schema.org/price> "8,350";
+  <http://schema.org/relatedTo> <http://schema.org/OfferNEW%20Bainter%20Trencher-FORWARD%20DIGGING%20Skid%20Steer%20Attachement>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferNet%20wrapped%20praire%20hay%20bales> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceGalv>;
+  <http://schema.org/description> "Net wrapped praire hay bales 5 bales. Bales put up dry and no rain on them. Can load semi.";
+  <http://schema.org/expires> "95";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkDAED71363E474955FA74DDC30650F1C614B487991D9C45136278F56EF9C6FB35.html>;
+  <http://schema.org/name> "Net wrapped praire hay bales";
+  <http://schema.org/price> "40";
+  <http://schema.org/relatedTo> <http://schema.org/OfferNet%20wrapped%20praire%20hay%20bales>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferOasiks%20Javoline%20Shoes> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place902%20State%20St%20%20%20Ellsworth>;
+  <http://schema.org/description> "Have a pair of Oasics size 9 1/2 mens Javoline shoes. We paid $90.00 for them Brand New.Our son only wore them once and are very clean inside them. Cleats and wrench are free with them.";
+  <http://schema.org/expires> "157";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkE8C761DE9443892748A0C2D33EA8D0384498AFA9558096570F9764697F8042A3.html>;
+  <http://schema.org/name> "Oasiks Javoline Shoes";
+  <http://schema.org/price> "50";
+  <http://schema.org/relatedTo> <http://schema.org/OfferOasiks%20Javoline%20Shoes>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferPacific%20Single%20stage%20press> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlacePhillipsburg>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "106";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkB972EDF78703E2A85A7A7869F183B8EE526AE18B0996E310A43072B991E48C57.html>;
+  <http://schema.org/name> "Pacific Single stage press";
+  <http://schema.org/price> "100";
+  <http://schema.org/relatedTo> <http://schema.org/OfferPacific%20Single%20stage%20press>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferRogue%20electric%20bass> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceSalin>;
+  <http://schema.org/description> "Selling a Rogue 4 string elec. bass. Nothing wrong with it, just dont have the time or interest for a bass. Solid, straight neck, few light scratches and such from play, holds a tune though the strings on it currently are pretty aged. Asking $100, will consider all possible offers.  Call or text 785-215-4933 with any questions or offers.";
+  <http://schema.org/expires> "201";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork488A033BE79F177610E14EF4F7F70CC34BD2121C9A3F229374FDD3434C6298D4.html>;
+  <http://schema.org/name> "Rogue electric bass";
+  <http://schema.org/price> "75";
+  <http://schema.org/relatedTo> <http://schema.org/OfferRogue%20electric%20bass>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferSBC%20Intake> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceWaKeeney>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "18";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork0CB88FAADA4D2AE45B0AB77DFED2F2FB8FD1D2C40EE1617869CE8849859CA405.html>;
+  <http://schema.org/name> "SBC Intake";
+  <http://schema.org/price> "150";
+  <http://schema.org/relatedTo> <http://schema.org/OfferSBC%20Intake>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferSamsung%20Galaxy%20S4%20Active%20case> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceRadium>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "186";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork4F71836C9613746C69A90B63878FC52AEA998234F628E7EFC046EC0C48B9AB37.html>;
+  <http://schema.org/name> "Samsung Galaxy S4 Active case";
+  <http://schema.org/price> "10";
+  <http://schema.org/relatedTo> <http://schema.org/OfferSamsung%20Galaxy%20S4%20Active%20case>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferScrubs> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceColby>;
+  <http://schema.org/description> "Have scrubs for sale... $5 a set or $2 for just a top or bottom...most are size small have a few that are medium... text or call 785-269-7510 if  interested";
+  <http://schema.org/expires> "94";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork9BF3DE1F878FB389BD8FE3FAF66B31B10B706079AC710C1580EBA878D6772D9D.html>;
+  <http://schema.org/name> "Scrubs";
+  <http://schema.org/price> "5";
+  <http://schema.org/relatedTo> <http://schema.org/OfferScrubs>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferSectional%20couch> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceHays>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "34";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkA7A11A172E902C24F5E3B0DC8BD755585F97B4E4211600A963D2E5A0E80E91E3.html>;
+  <http://schema.org/name> "Sectional couch";
+  <http://schema.org/price> "540";
+  <http://schema.org/relatedTo> <http://schema.org/OfferSectional%20couch>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferSewing%20machines%20vintage%20and%20modern> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place510%20N.%20Front%20st%20%20%20Russell>;
+  <http://schema.org/description> ". Folding sewing machine table. Magazines. Old patterns. Thread cabinets. Viking machine. Vintage machines in cabinets. Lots of material boxes. Books. Lark. Singer. Some cabinets quite ornate. Will be selling at Twisted Sister Estate Sale. Estate of Lois and Kent Lapham. Sat. Oct 3. 8am-3pm. 510 N. Front street. Russell, Kansas. Check out other items selling under estate sales. For more information or flyer contact. Linda twistedsistersest@gmail.com. Not an auction everything will be priced wed and ready to sell";
+  <http://schema.org/expires> "76";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkE9DFC2D8E23A59631630882E3BF9C00735A0CAF713DE27FA4C78F4015414F44E.html>;
+  <http://schema.org/name> "Sewing machines vintage and modern";
+  <http://schema.org/price> "0";
+  <http://schema.org/relatedTo> <http://schema.org/OfferSewing%20machines%20vintage%20and%20modern>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferSirius%20SP-B1a%20sportster%20SPR2%3B%20receiver> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceMoscow%20Street%2C%20Munjor%2FHays%20%20%20Hays>;
+  <http://schema.org/description> "It is the complete setup. The Sirius SP-B1a sportster docking station with remote, SPR 2 receiver, and the SP-C2 auto docking station. If you are a sportster and want the game broadcast wherever this is the unit to have. I powered it up in both docking stations and everything seems to be in good working order";
+  <http://schema.org/expires> "12";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkA8F4A80EC7609F5415ADFC63AEE92A32059F8733F47229E6C5C887FE6DC968B4.html>;
+  <http://schema.org/name> "Sirius SP-B1a sportster SPR2; receiver";
+  <http://schema.org/price> "150";
+  <http://schema.org/relatedTo> <http://schema.org/OfferSirius%20SP-B1a%20sportster%20SPR2%3B%20receiver>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferSpringfield%204-14%20x%2056mm%20objective%20Gen%202> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceWilson>;
+  <http://schema.org/description> "Springfield Armory 4-14 X 56 Generation 2  56mm objective lens and a 30mm tube  Fine Duplex Reticle internal level  Condition is excellent, with small ring marks, optics are as new.   Original box  Government Model scope range finding capabilities out to 1000 yards  Rings not included     I have owned scope since 2008 I have decided to go back to 40 mm objective optics to lower the profile of the weapon. I used the scope on a .243.";
+  <http://schema.org/expires> "2,127";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork7329FFFEFCAD9662697A6EB92FEE62DDA0B738D1A5DB1605B2B4C9ACF545945A.html>;
+  <http://schema.org/name> "Springfield 4-14 x 56mm objective Gen 2";
+  <http://schema.org/price> "450";
+  <http://schema.org/relatedTo> <http://schema.org/OfferSpringfield%204-14%20x%2056mm%20objective%20Gen%202>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferStock%20Harley%20mufflers> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceP.o.%20Box%2044%20%20%20Ford>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "69";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkA32DA4F5A804118E220A39EC4E86DD0891A6DB9345B1442AE69B23CDC1BABE0C.html>;
+  <http://schema.org/name> "Stock Harley mufflers";
+  <http://schema.org/price> "50";
+  <http://schema.org/relatedTo> <http://schema.org/OfferStock%20Harley%20mufflers>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferStock%20Pot%2FStainless%20Steel%20Pan%208Qt> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceVictori>;
+  <http://schema.org/description> "Have this nice Stainless Steel Heavy. Its 8qt would be good for canning or soup pot.";
+  <http://schema.org/expires> "103";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork3E0A46D11E5638C7A1AA774ACAE63D771476EC3D7AF20B7A276A30687EDAE33B.html>;
+  <http://schema.org/name> "Stock Pot/Stainless Steel Pan 8Qt";
+  <http://schema.org/price> "15";
+  <http://schema.org/relatedTo> <http://schema.org/OfferStock%20Pot%2FStainless%20Steel%20Pan%208Qt>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferTables%20and%20chairs%20FOR%20SALE> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceP.O%20box%2054%20%20%20Goodland>;
+  <http://schema.org/description> "For sale (10) folding white tables 6 and (70) brown folding chairs, take all for $550 or best reasonable offer.";
+  <http://schema.org/expires> "259";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkD2C0FFD4A095B31E9BCEA95D46F4E8417B19D0473A75435CE2A4AFC447B65A04.html>;
+  <http://schema.org/name> "Tables and chairs FOR SALE";
+  <http://schema.org/price> "550";
+  <http://schema.org/relatedTo> <http://schema.org/OfferTables%20and%20chairs%20FOR%20SALE>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferTen%20comandments%201883c> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceSalin>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "66";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork3DA672766B855E954CF810DA011F3A3DA6FF2276068E2C39DEA1AC988906DC24.html>;
+  <http://schema.org/name> "Ten comandments 1883c";
+  <http://schema.org/price> "60";
+  <http://schema.org/relatedTo> <http://schema.org/OfferTen%20comandments%201883c>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferToyota%2022R%2022RE%202.4%20Engine.%20Motor.%20Longblock.>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceDorrance%20%20%20Russell>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "620";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork0A099F2B26074D58022E4623926540D81532FA1AB15E477A3AA5756D5FCFD358.html>;
+  <http://schema.org/name> "Toyota 22R 22RE 2.4 Engine. Motor. Longblock.";
+  <http://schema.org/price> "250";
+  <http://schema.org/relatedTo> <http://schema.org/OfferToyota%2022R%2022RE%202.4%20Engine.%20Motor.%20Longblock.>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferUSED%20%24200%20Tires%20235-R55x17%20w%2Fwheels%20.> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceMcCracken>;
+  <http://schema.org/description> "(2)Tires 235-R55x17 Goodyear RSA mounted on 5 bolt with4 1/2 pattern steel factory wheels. Will consider trade. Call 785-394 1886 or 1887 about 1/2 tread remaining on tires Balanced ready to use on most Ford and Chrysler products.";
+  <http://schema.org/expires> "804";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkAC1579658229A39C67D773455D695172CBB851F2F642F773DD0C12B7D8929CE2.html>;
+  <http://schema.org/name> "USED $200 Tires 235-R55x17 w/wheels .";
+  <http://schema.org/price> "60";
+  <http://schema.org/relatedTo> <http://schema.org/OfferUSED%20%24200%20Tires%20235-R55x17%20w%2Fwheels%20.>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferVerizon%20I%20phone%205c> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place111%20E%20Kansas%20%20%20McPherson>;
+  <http://schema.org/description> "For sale, a Like new I Phone 5c blue in color. 16gb comes with a charge cord. No scratches or dents";
+  <http://schema.org/expires> "22";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork60B7CE605E0BFDE7B4E3048A4702BE6682EB5C6D03E599456FFB5E3DA0741DD4.html>;
+  <http://schema.org/name> "Verizon I phone 5c";
+  <http://schema.org/price> "";
+  <http://schema.org/relatedTo> <http://schema.org/OfferVerizon%20I%20phone%205c>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferVery%20nice%204%20bedroom%203%20bath%20home%20for%20sale%20in%20Ellis>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place1908%20Maple%20%20%20Ellis>;
+  <http://schema.org/description> "Home has four bedrooms three baths, 2 car garage, breakfast nook, as well as a formal dining room. Nice family room with bar in the basement. 1655 square-foot on the main level and another 1655 square-foot in the basement. Other extras include a large master bedroom with a master bath that includes two sinks, toilet, shower, and a large Jacuzzi tub. 2 fireplaces with granite bases, a deck and large walk out basement patio, stove, refrigerator, dishwasher, two washers and two dryers. Underground sprinklers, water softener with reverse osmosis system, a Rinnai water heater";
+  <http://schema.org/expires> "4,041";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork08AEBE944BFD50C4E697513976C5A82BC1A65CD51BB65A9BD2F2030F7495AE44.html>;
+  <http://schema.org/name> "Very nice 4 bedroom 3 bath home for sale in Ellis";
+  <http://schema.org/price> "235,900";
+  <http://schema.org/relatedTo> <http://schema.org/OfferVery%20nice%204%20bedroom%203%20bath%20home%20for%20sale%20in%20Ellis>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferVintage%20Razor> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceGreat%20Bend>;
+  <http://schema.org/description> "Not sure what brand it says Made in USA and a long patent number  Call text or email";
+  <http://schema.org/expires> "29";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork300BE6BE402E95A0F9279F1B68E84FA8E4355F59794E125E5977D1AA9B561C2C.html>;
+  <http://schema.org/name> "Vintage Razor";
+  <http://schema.org/price> "10";
+  <http://schema.org/relatedTo> <http://schema.org/OfferVintage%20Razor>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferVtg%20Asian%20Figures> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceGreat%20Bend>;
+  <http://schema.org/description> "All 3 for $35";
+  <http://schema.org/expires> "137";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkE55B54181F9AF2F78F81D6A3BA2F57939FB3D4346C2A08C8DDBE8A0752FFA427.html>;
+  <http://schema.org/name> "Vtg Asian Figures";
+  <http://schema.org/price> "35";
+  <http://schema.org/relatedTo> <http://schema.org/OfferVtg%20Asian%20Figures>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferWomans%20dressy%20floral%20t-shirt> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceSalin>;
+  <http://schema.org/description> "Jones New York sport floral t-shirt. cotton/spandex. 3X. Runs slightly small. Excellent condition. Smoke free home.";
+  <http://schema.org/expires> "52";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkD471EDE6A47FB88E1A45E6DA6E45BA611B70A15F32203C3A8CE30B4C89254E26.html>;
+  <http://schema.org/name> "Womans dressy floral t-shirt";
+  <http://schema.org/price> "";
+  <http://schema.org/relatedTo> <http://schema.org/OfferWomans%20dressy%20floral%20t-shirt>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferYamaha%20Rhino> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceGlen%20Elder>;
+  <http://schema.org/description> "2012 yamaha rhino 700fi sport edition, like new, very good shape, it comes with a windshield, adjustable shocks, loaded, i also added 3 more lights on the grill gaurd, only 940 miles, 89 hrs, wont find one nicer. call 785-545-8512 for more info";
+  <http://schema.org/expires> "1,197";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkB9F280A0EF690E2CFBD362C26EA938EE07F8E791B71BAC48F6AEC7E9BE9F1F61.html>;
+  <http://schema.org/name> "Yamaha Rhino";
+  <http://schema.org/price> "10,000";
+  <http://schema.org/relatedTo> <http://schema.org/OfferYamaha%20Rhino>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferZike%20Eliptical%20Scooter> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceMiltonvale>;
+  <http://schema.org/description> "Up for sale is a Zike brand Eliptical scooter. This scooter has no seat, instead to operate the scooter are 2 pedals that use the same movement and feel of an Eliptical exercise machine. Get the benefit of low impact Eliptical exercise without having to remain cooped up inside the gym. Scooter is brand new in box, never used. Message me with any questions or offers. Thanks for viewing.";
+  <http://schema.org/expires> "90";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork8C9BB43E79F717AD05094D7B1C98D9AC6B59EFCBD1B6002EA7C3559ABA86E73D.html>;
+  <http://schema.org/name> "Zike Eliptical Scooter";
+  <http://schema.org/price> "250";
+  <http://schema.org/relatedTo> <http://schema.org/OfferZike%20Eliptical%20Scooter>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offerantique%20school%20desk> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceGreat%20Bend>;
+  <http://schema.org/description> "this is wood and wrought iron very nice and old";
+  <http://schema.org/expires> "189";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork5FB915ED6AD335B5DBD2522857536F3870B2E4A4AA0E030948EC55282E0CC7A8.html>;
+  <http://schema.org/name> "antique school desk";
+  <http://schema.org/price> "35";
+  <http://schema.org/relatedTo> <http://schema.org/Offerantique%20school%20desk>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offerchrome%20bedrails%20for%20pickup%20truck> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceGreat%20Bend>;
+  <http://schema.org/description> "Two chrome bedrails for a truck. Some scratches and rust but in overall good condition. One is missing the mounting bracket one the end but could easily be replaced or installed without it.  Call for questions or to see. Thank you. They are 72\" long for most standard size truckbeds.";
+  <http://schema.org/expires> "305";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork657452C7EF3C7BD23A040BE558A54F11921C8D64F8D17F00C6B78970C407369B.html>;
+  <http://schema.org/name> "chrome bedrails for pickup truck";
+  <http://schema.org/price> "20";
+  <http://schema.org/relatedTo> <http://schema.org/Offerchrome%20bedrails%20for%20pickup%20truck>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offerfancy%20wall%20mirror> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceHays>;
+  <http://schema.org/description> "Wall mirror.looks reallly good on a wall";
+  <http://schema.org/expires> "191";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork92C603AA469241280286FBE528578AA76A30FDD6FB1788C713143F28DCAD9CB7.html>;
+  <http://schema.org/name> "fancy wall mirror";
+  <http://schema.org/price> "45";
+  <http://schema.org/relatedTo> <http://schema.org/Offerfancy%20wall%20mirror>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offerfleece%20jacket%20in%20red> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Placenot%20responsible%20for%20lost%20items%20that%20are%20requested%20to%20be%20shipped%20%20%20Hays>;
+  <http://schema.org/description> "In excellent condition";
+  <http://schema.org/expires> "145";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkA21EB346AE5B665582CA1D9FEE989D8BF5DDC996E39240E0C260FE8B566C5CF8.html>;
+  <http://schema.org/name> "fleece jacket in red";
+  <http://schema.org/price> "5";
+  <http://schema.org/relatedTo> <http://schema.org/Offerfleece%20jacket%20in%20red>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offerinsulated%20coveralls%20fr%202xl> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceRussell>;
+  <http://schema.org/description> "";
+  <http://schema.org/expires> "12";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork8ED66F6170061F4387C6CCCFAE4EBB5E5D59E6CAA807CD9580EABFDA4419B341.html>;
+  <http://schema.org/name> "insulated coveralls fr 2xl";
+  <http://schema.org/price> "150";
+  <http://schema.org/relatedTo> <http://schema.org/Offerinsulated%20coveralls%20fr%202xl>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offervcr%20and%20vhs%20tapes> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place610%20Summer%20Avenue%20%20%20Morland>;
+  <http://schema.org/description> "VCR works but has no remote and all vhs tapes work selling them all together";
+  <http://schema.org/expires> "3";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkD030EF1EABE485D0449AAD316E08C51D3B0EC05AACCDAB48BF455ECF0501260D.html>;
+  <http://schema.org/name> "vcr and vhs tapes";
+  <http://schema.org/price> "25";
+  <http://schema.org/relatedTo> <http://schema.org/Offervcr%20and%20vhs%20tapes>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Place1001%20South%20Washington%20%20%20Plainville> a <http://schema.org/Place>;
+  <http://schema.org/name> "1001 South Washington   Plainville" .
+
+<http://schema.org/Place103%20E.%20Hwy%2036%20%20%20Smith%20Center> a <http://schema.org/Place>;
+  <http://schema.org/name> "103 E. Hwy 36   Smith Center" .
+
+<http://schema.org/Place111%20E%20Kansas%20%20%20McPherson> a <http://schema.org/Place>;
+  <http://schema.org/name> "111 E Kansas   McPherson" .
+
+<http://schema.org/Place1120%20S.%20Cedar%20%20%20Stockton> a <http://schema.org/Place>;
+  <http://schema.org/name> "1120 S. Cedar   Stockton" .
+
+<http://schema.org/Place1200%20S.%20main%20street%20%20%20Ford> a <http://schema.org/Place>;
+  <http://schema.org/name> "1200 S. main street   Ford" .
+
+<http://schema.org/Place13%20%20%20Great%20Bend> a <http://schema.org/Place>;
+  <http://schema.org/name> "13   Great Bend" .
+
+<http://schema.org/Place160%20Morse%20Drive%20%20%20Phillipsburg> a <http://schema.org/Place>;
+  <http://schema.org/name> "160 Morse Drive   Phillipsburg" .
+
+<http://schema.org/Place1702%20Yocemento%20Ave.%20%20%20Hays> a <http://schema.org/Place>;
+  <http://schema.org/name> "1702 Yocemento Ave.   Hays" .
+
+<http://schema.org/Place1900%2010th%20st%20%20%20Great%20Bend> a <http://schema.org/Place>;
+  <http://schema.org/name> "1900 10th st   Great Bend" .
+
+<http://schema.org/Place1908%20Maple%20%20%20Ellis> a <http://schema.org/Place>;
+  <http://schema.org/name> "1908 Maple   Ellis" .
+
+<http://schema.org/Place213%20horace%20greeley%20ave%20apt%20105%20%20%20Norton> a
+    <http://schema.org/Place>;
+  <http://schema.org/name> "213 horace greeley ave apt 105   Norton" .
+
+<http://schema.org/Place316%20E.%206th%20%20%20Hays> a <http://schema.org/Place>;
+  <http://schema.org/name> "316 E. 6th   Hays" .
+
+<http://schema.org/Place3160%20US%20Hwy%2024%20%20%20Ellsworth> a <http://schema.org/Place>;
+  <http://schema.org/name> "3160 US Hwy 24   Ellsworth" .
+
+<http://schema.org/Place401%20Elm%20%20%20Liebenthal> a <http://schema.org/Place>;
+  <http://schema.org/name> "401 Elm   Liebenthal" .
+
+<http://schema.org/Place510%20N.%20Front%20st%20%20%20Russell> a <http://schema.org/Place>;
+  <http://schema.org/name> "510 N. Front st   Russell" .
+
+<http://schema.org/Place510%20north%20front%20street%20%20%20Russell> a <http://schema.org/Place>;
+  <http://schema.org/name> "510 north front street   Russell" .
+
+<http://schema.org/Place610%20Summer%20Avenue%20%20%20Morland> a <http://schema.org/Place>;
+  <http://schema.org/name> "610 Summer Avenue   Morland" .
+
+<http://schema.org/Place864%20Moscow%2C%20MUNJOR%20%20%20Hays> a <http://schema.org/Place>;
+  <http://schema.org/name> "864 Moscow, MUNJOR   Hays" .
+
+<http://schema.org/Place900%20E%2023RD%20%20%20Hutchinson> a <http://schema.org/Place>;
+  <http://schema.org/name> "900 E 23RD   Hutchinson" .
+
+<http://schema.org/Place902%20State%20St%20%20%20Ellsworth> a <http://schema.org/Place>;
+  <http://schema.org/name> "902 State St   Ellsworth" .
+
+<http://schema.org/Place94%20Lewis%20Drive%20%20%20Hays> a <http://schema.org/Place>;
+  <http://schema.org/name> "94 Lewis Drive   Hays" .
+
+<http://schema.org/PlaceAbilene> a <http://schema.org/Place>;
+  <http://schema.org/name> "Abilene" .
+
+<http://schema.org/PlaceBeloit> a <http://schema.org/Place>;
+  <http://schema.org/name> "Beloit" .
+
+<http://schema.org/PlaceColby> a <http://schema.org/Place>;
+  <http://schema.org/name> "Colby" .
+
+<http://schema.org/PlaceDodge%20City> a <http://schema.org/Place>;
+  <http://schema.org/name> "Dodge City" .
+
+<http://schema.org/PlaceDorrance%20%20%20Russell> a <http://schema.org/Place>;
+  <http://schema.org/name> "Dorrance   Russell" .
+
+<http://schema.org/PlaceDowns> a <http://schema.org/Place>;
+  <http://schema.org/name> "Downs" .
+
+<http://schema.org/PlaceEdson> a <http://schema.org/Place>;
+  <http://schema.org/name> "Edson" .
+
+<http://schema.org/PlaceEllis> a <http://schema.org/Place>;
+  <http://schema.org/name> "Ellis" .
+
+<http://schema.org/PlaceEllsworth> a <http://schema.org/Place>;
+  <http://schema.org/name> "Ellsworth" .
+
+<http://schema.org/PlaceFowler> a <http://schema.org/Place>;
+  <http://schema.org/name> "Fowler" .
+
+<http://schema.org/PlaceGalv> a <http://schema.org/Place>;
+  <http://schema.org/name> "Galv" .
+
+<http://schema.org/PlaceGlen%20Elder> a <http://schema.org/Place>;
+  <http://schema.org/name> "Glen Elder" .
+
+<http://schema.org/PlaceGoodland> a <http://schema.org/Place>;
+  <http://schema.org/name> "Goodland" .
+
+<http://schema.org/PlaceGrainfield> a <http://schema.org/Place>;
+  <http://schema.org/name> "Grainfield" .
+
+<http://schema.org/PlaceGreat%20Bend> a <http://schema.org/Place>;
+  <http://schema.org/name> "Great Bend" .
+
+<http://schema.org/PlaceGypsum> a <http://schema.org/Place>;
+  <http://schema.org/name> "Gypsum" .
+
+<http://schema.org/PlaceHays> a <http://schema.org/Place>;
+  <http://schema.org/name> "Hays" .
+
+<http://schema.org/PlaceHolcom> a <http://schema.org/Place>;
+  <http://schema.org/name> "Holcom" .
+
+<http://schema.org/PlaceHoxie> a <http://schema.org/Place>;
+  <http://schema.org/name> "Hoxie" .
+
+<http://schema.org/PlaceLarned> a <http://schema.org/Place>;
+  <http://schema.org/name> "Larned" .
+
+<http://schema.org/PlaceMcCracken> a <http://schema.org/Place>;
+  <http://schema.org/name> "McCracken" .
+
+<http://schema.org/PlaceMiltonvale> a <http://schema.org/Place>;
+  <http://schema.org/name> "Miltonvale" .
+
+<http://schema.org/PlaceMoscow%20Street%2C%20Munjor%2FHays%20%20%20Hays> a <http://schema.org/Place>;
+  <http://schema.org/name> "Moscow Street, Munjor/Hays   Hays" .
+
+<http://schema.org/PlaceNatom> a <http://schema.org/Place>;
+  <http://schema.org/name> "Natom" .
+
+<http://schema.org/PlaceNorton> a <http://schema.org/Place>;
+  <http://schema.org/name> "Norton" .
+
+<http://schema.org/PlaceOberlin> a <http://schema.org/Place>;
+  <http://schema.org/name> "Oberlin" .
+
+<http://schema.org/PlaceOsborne> a <http://schema.org/Place>;
+  <http://schema.org/name> "Osborne" .
+
+<http://schema.org/PlaceP.O%20box%2054%20%20%20Goodland> a <http://schema.org/Place>;
+  <http://schema.org/name> "P.O box 54   Goodland" .
+
+<http://schema.org/PlaceP.o.%20Box%2044%20%20%20Ford> a <http://schema.org/Place>;
+  <http://schema.org/name> "P.o. Box 44   Ford" .
+
+<http://schema.org/PlacePhillipsburg> a <http://schema.org/Place>;
+  <http://schema.org/name> "Phillipsburg" .
+
+<http://schema.org/PlacePlainville> a <http://schema.org/Place>;
+  <http://schema.org/name> "Plainville" .
+
+<http://schema.org/PlacePratt> a <http://schema.org/Place>;
+  <http://schema.org/name> "Pratt" .
+
+<http://schema.org/PlaceRadium> a <http://schema.org/Place>;
+  <http://schema.org/name> "Radium" .
+
+<http://schema.org/PlaceRussell> a <http://schema.org/Place>;
+  <http://schema.org/name> "Russell" .
+
+<http://schema.org/PlaceSalin> a <http://schema.org/Place>;
+  <http://schema.org/name> "Salin" .
+
+<http://schema.org/PlaceSharon%20Springs> a <http://schema.org/Place>;
+  <http://schema.org/name> "Sharon Springs" .
+
+<http://schema.org/PlaceVictori> a <http://schema.org/Place>;
+  <http://schema.org/name> "Victori" .
+
+<http://schema.org/PlaceWaKeeney> a <http://schema.org/Place>;
+  <http://schema.org/name> "WaKeeney" .
+
+<http://schema.org/PlaceWilson> a <http://schema.org/Place>;
+  <http://schema.org/name> "Wilson" .
+
+<http://schema.org/Placenot%20responsible%20for%20lost%20items%20that%20are%20requested%20to%20be%20shipped%20%20%20Hays>
+  a <http://schema.org/Place>;
+  <http://schema.org/name> "not responsible for lost items that are requested to be shipped   Hays" .
+
+<http://schema.org/Placep%20o%20box%20185%20%20%20Hays> a <http://schema.org/Place>;
+  <http://schema.org/name> "p o box 185   Hays" .

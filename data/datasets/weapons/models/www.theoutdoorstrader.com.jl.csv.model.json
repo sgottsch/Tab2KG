@@ -1,0 +1,151 @@
+{
+  "name": "www.theoutdoorstrader.com.jl.csv",
+  "id": "www.theoutdoorstrader.com.jl.csv",
+  "graph": {
+    "nodes": [
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/PostalAddress"
+            },
+            "type": {
+              "uri": "http://schema.org/addressRegion"
+            }
+          }
+        ],
+        "columnName": "For0031"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Place"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "Location0814"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "FT0613"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.org/description"
+            }
+          }
+        ],
+        "columnName": "Description0868"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.org/price"
+            }
+          }
+        ],
+        "columnName": "Price0855"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/CreativeWork"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "file_name"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/CreativeWork"
+            },
+            "type": {
+              "uri": "http://schema.org/copyrightYear"
+            }
+          }
+        ],
+        "columnName": "trade1645"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/CreativeWork"
+            },
+            "type": {
+              "uri": "http://schema.dig.isi.edu/ontology/unidentifiedNumber"
+            }
+          }
+        ],
+        "columnName": "Messages0801"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.dig.isi.edu/ontology/PersonOrOrganization"
+            },
+            "type": {
+              "uri": "http://schema.dig.isi.edu/ontology/identifier"
+            }
+          }
+        ],
+        "columnName": "started0628"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.dig.isi.edu/ontology/Firearm"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "Name0846"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.dig.isi.edu/ontology/Firearm"
+            },
+            "type": {
+              "uri": "http://schema.org/category"
+            }
+          }
+        ],
+        "columnName": "Accessories0378"
+      }
+    ]
+  }
+}

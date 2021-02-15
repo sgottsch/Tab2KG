@@ -1,0 +1,893 @@
+
+<http://schema.dig.isi.edu/ontology/Firearm1903%20Springfield%20barrel%20dated%2012-18>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "1903 Springfield barrel dated 12-18" .
+
+<http://schema.dig.isi.edu/ontology/Firearm380%20Auto%20FMJ%20NEW> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Handgun Ammunition";
+  <http://schema.org/name> "380 Auto FMJ NEW" .
+
+<http://schema.dig.isi.edu/ontology/Firearm40%20SW%20Once%20FIred%20NICKEL%20Brass>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Reloading";
+  <http://schema.org/name> "40 SW Once FIred NICKEL Brass" .
+
+<http://schema.dig.isi.edu/ontology/Firearm45%20ACP%20Cast%20Bullet%20RN%20BB%20500%20count>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Reloading";
+  <http://schema.org/name> "45 ACP Cast Bullet RN BB 500 count" .
+
+<http://schema.dig.isi.edu/ontology/Firearm7mm%20Remington%20Mags%20%20Winchester%20243>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifle Ammunition";
+  <http://schema.org/name> "7mm Remington Mags  Winchester 243" .
+
+<http://schema.dig.isi.edu/ontology/FirearmAR-15%20COLT%20A-2%20MODEL> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "AR-15 COLT A-2 MODEL" .
+
+<http://schema.dig.isi.edu/ontology/FirearmBlack%20Rain%205.56%2F.233%20AR-15> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "Black Rain 5.56/.233 AR-15" .
+
+<http://schema.dig.isi.edu/ontology/FirearmBlackHawk%20Level%202%20SERPA%20Holster%20Right%20Hand%20Black%20Sig%20220%2F226%2F228%2F229>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Holsters";
+  <http://schema.org/name> "BlackHawk Level 2 SERPA Holster Right Hand Black Sig 220/226/228/229" .
+
+<http://schema.dig.isi.edu/ontology/FirearmBlackhawk%20Serpa%20Concealment%20Sportster%20Holster%2000>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Holsters";
+  <http://schema.org/name> "Blackhawk Serpa Concealment Sportster Holster 00" .
+
+<http://schema.dig.isi.edu/ontology/FirearmBrowning%20BPS%2020ga%2C%20engraved%20reciever>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Shotguns";
+  <http://schema.org/name> "Browning BPS 20ga, engraved reciever" .
+
+<http://schema.dig.isi.edu/ontology/FirearmBrowning%20Belgium%20Auto%2022%20Takedown>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "Browning Belgium Auto 22 Takedown" .
+
+<http://schema.dig.isi.edu/ontology/FirearmBushmaster%20AR-15> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "Bushmaster AR-15" .
+
+<http://schema.dig.isi.edu/ontology/FirearmBuy%20Umarex%20XBG%20Air%20Pistols> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Pistols";
+  <http://schema.org/name> "Buy Umarex XBG Air Pistols" .
+
+<http://schema.dig.isi.edu/ontology/FirearmChinese%20Type%2053%20Carbine> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "Chinese Type 53 Carbine" .
+
+<http://schema.dig.isi.edu/ontology/FirearmColt%20Python%208%20Nickel%20New%20In%20Box%20Unfired>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Revolvers";
+  <http://schema.org/name> "Colt Python 8 Nickel New In Box Unfired" .
+
+<http://schema.dig.isi.edu/ontology/FirearmDECAP%20DIE%20.27-.45%20CAL-HEAVY%20DUTY>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Gunsmithing Tools";
+  <http://schema.org/name> "DECAP DIE .27-.45 CAL-HEAVY DUTY" .
+
+<http://schema.dig.isi.edu/ontology/FirearmDPMS%20AR15%20Magpul%20Equipped%20Stock%20Handguard%20Grip>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "DPMS AR15 Magpul Equipped Stock Handguard Grip" .
+
+<http://schema.dig.isi.edu/ontology/FirearmFN%20HERSTAL%20SCAR%2017S%20.308%2F7.62%C3%9751>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifle Ammunition";
+  <http://schema.org/name> "FN HERSTAL SCAR 17S .308/7.62×51" .
+
+<http://schema.dig.isi.edu/ontology/FirearmFN%20Herstal%20FS2000%20OD%20Green> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "FN Herstal FS2000 OD Green" .
+
+<http://schema.dig.isi.edu/ontology/FirearmFN%20SCAR%20BLACK%2017%2017S%20308> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "FN SCAR BLACK 17 17S 308" .
+
+<http://schema.dig.isi.edu/ontology/FirearmFNH%205.7%20Semi-auto%20pistol%20HOLDS%2020%20rounds>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Pistols";
+  <http://schema.org/name> "FNH 5.7 Semi-auto pistol HOLDS 20 rounds" .
+
+<http://schema.dig.isi.edu/ontology/FirearmFreedom%20Arms%20454%20Casull> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Revolvers";
+  <http://schema.org/name> "Freedom Arms 454 Casull" .
+
+<http://schema.dig.isi.edu/ontology/FirearmGlock%2017%2C18%2C19%20for%20Sale> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Pistols";
+  <http://schema.org/name> "Glock 17,18,19 for Sale" .
+
+<http://schema.dig.isi.edu/ontology/FirearmGlock%20G26%209mm%20with%20two%20mags>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Pistols";
+  <http://schema.org/name> "Glock G26 9mm with two mags" .
+
+<http://schema.dig.isi.edu/ontology/FirearmGlock22%2Bextras%20for%20sale%20or%20trade>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Pistols";
+  <http://schema.org/name> "Glock22+extras for sale or trade" .
+
+<http://schema.dig.isi.edu/ontology/FirearmHarris%20S-LM%20Bipod> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Stocks and Grips";
+  <http://schema.org/name> "Harris S-LM Bipod" .
+
+<http://schema.dig.isi.edu/ontology/FirearmHeritage%20Rough%20Rider> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Revolvers";
+  <http://schema.org/name> "Heritage Rough Rider" .
+
+<http://schema.dig.isi.edu/ontology/FirearmKIMBER%20TEAM%20MATCH%20II%202013%2045%20ACP>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Pistols";
+  <http://schema.org/name> "KIMBER TEAM MATCH II 2013 45 ACP" .
+
+<http://schema.dig.isi.edu/ontology/FirearmM2%20Browning%2050%20Cal%20Replica%20Machine%20gun>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "M2 Browning 50 Cal Replica Machine gun" .
+
+<http://schema.dig.isi.edu/ontology/FirearmMolle%20Plate%20Carrier%20With%20level%20IV%20Plates>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Misc";
+  <http://schema.org/name> "Molle Plate Carrier With level IV Plates" .
+
+<http://schema.dig.isi.edu/ontology/FirearmPMAG%C2%AE%2030%2C%205.56X45%20MAGAZINE%20%E2%80%93%20AR15%2FM16>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Magazines";
+  <http://schema.org/name> "PMAG® 30, 5.56X45 MAGAZINE – AR15/M16" .
+
+<http://schema.dig.isi.edu/ontology/FirearmPROCHINE%20AK47S%20PREBAN%20VERY%20RARE>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "PROCHINE AK47S PREBAN VERY RARE" .
+
+<http://schema.dig.isi.edu/ontology/FirearmRemington%20700%2030%2F06%2C%205%20boxes%20premium%20ammo>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "Remington 700 30/06, 5 boxes premium ammo" .
+
+<http://schema.dig.isi.edu/ontology/FirearmRemington%20M51%20.380%20cal.%20Collector%20Quality%20Investment%20Grade>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Pistols";
+  <http://schema.org/name> "Remington M51 .380 cal. Collector Quality Investment Grade" .
+
+<http://schema.dig.isi.edu/ontology/FirearmRuger%2010%2F22%20carbine> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "Ruger 10/22 carbine" .
+
+<http://schema.dig.isi.edu/ontology/FirearmRuger%20Blackhawk> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Pistols";
+  <http://schema.org/name> "Ruger Blackhawk" .
+
+<http://schema.dig.isi.edu/ontology/FirearmSMITH%20AND%20WESSON%206%20PACK> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Pistols";
+  <http://schema.org/name> "SMITH AND WESSON 6 PACK" .
+
+<http://schema.dig.isi.edu/ontology/FirearmSW%20.357%2F.38special> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Pistols";
+  <http://schema.org/name> "SW .357/.38special" .
+
+<http://schema.dig.isi.edu/ontology/FirearmSmithWesson%20Police%20Regulation> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Revolvers";
+  <http://schema.org/name> "SmithWesson Police Regulation" .
+
+<http://schema.dig.isi.edu/ontology/FirearmStripped%20Aero%20Precision%20Lower%20for%20a%20AR-15>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "Stripped Aero Precision Lower for a AR-15" .
+
+<http://schema.dig.isi.edu/ontology/FirearmWTT%2FWTS%20SAIGA%207.62%20Converted%20AK47%20W%2F%20Hogue%20Grip>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "WTT/WTS SAIGA 7.62 Converted AK47 W/ Hogue Grip" .
+
+<http://schema.dig.isi.edu/ontology/Firearmberetta%2096a1> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Guns for Sale";
+  <http://schema.org/name> "beretta 96a1" .
+
+<http://schema.dig.isi.edu/ontology/Firearmweatherby%20300%20magnum%20%2Fwest%20germany%20mfg.>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "weatherby 300 magnum /west germany mfg." .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganization0> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "772louis", "DravesArchery", "alvie804",
+    "arizonashooter", "bjargyle", "blanderson32", "brokerark", "clarkaltd", "constamaldo123",
+    "crownbullet", "dealerinallguns", "dinosaur", "dudu", "dylmararms", "eastsidepb",
+    "famouscands", "gd8943", "grandewhit", "gunadmirer007", "gunsandsupply", "info@abqguns.com",
+    "jennyfaulkner", "jmatts", "joedog", "jordan23", "jpop100", "jstought", "mikesmith",
+    "mister-t", "mmkk126", "monlon", "projectvxn", "red56", "ronaldbparks", "sapps", "southflaguns",
+    "steven puelz", "tbone40x", "twanki2s", "wgp8435", "yeowie1" .
+
+<http://schema.org/CreativeWork03273E3930D395746816180D077F6DE17464EA24881EBCEA37408C9DE58952CE.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "03273E3930D395746816180D077F6DE17464EA24881EBCEA37408C9DE58952CE.html" .
+
+<http://schema.org/CreativeWork1036E5A9CFB72BD8D4B7F98DFF8A2D78AD585B8034892D17096F7F78C9C69EF4.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "1036E5A9CFB72BD8D4B7F98DFF8A2D78AD585B8034892D17096F7F78C9C69EF4.html" .
+
+<http://schema.org/CreativeWork10DDDF7BF34D55FA9BA85C45EDE23167AF1B7DBCCD8542958B973744BA793D61.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "10DDDF7BF34D55FA9BA85C45EDE23167AF1B7DBCCD8542958B973744BA793D61.html" .
+
+<http://schema.org/CreativeWork1656F03B213A30E04146D7B083DC6AE271EE3EFAE8F2CF3F0D8C218EF5E876AF.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "1656F03B213A30E04146D7B083DC6AE271EE3EFAE8F2CF3F0D8C218EF5E876AF.html" .
+
+<http://schema.org/CreativeWork182B0F5E93A389D1330B56F009CAE10BF9742C53AB79A30B75FF2974A0EDD9A4.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "182B0F5E93A389D1330B56F009CAE10BF9742C53AB79A30B75FF2974A0EDD9A4.html" .
+
+<http://schema.org/CreativeWork2F6EDF1A3179EA4D82B19E17A4BF1B39CB33BC828D13C38289137AF5B0A5D26E.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "2F6EDF1A3179EA4D82B19E17A4BF1B39CB33BC828D13C38289137AF5B0A5D26E.html" .
+
+<http://schema.org/CreativeWork2FCC6B3C7ABCA0B50F39E43AD45EAA71A03D83DD14743A4875D17C0A53EB9440.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "2FCC6B3C7ABCA0B50F39E43AD45EAA71A03D83DD14743A4875D17C0A53EB9440.html" .
+
+<http://schema.org/CreativeWork35728A97E3369966FD148220212ECF3BC439E06AA3735A796282F7EC091845EE.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "35728A97E3369966FD148220212ECF3BC439E06AA3735A796282F7EC091845EE.html" .
+
+<http://schema.org/CreativeWork3E60F6332692B8A59F75B8734048092E989C5EA83935EECAD204A7AC7DFC33B5.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "3E60F6332692B8A59F75B8734048092E989C5EA83935EECAD204A7AC7DFC33B5.html" .
+
+<http://schema.org/CreativeWork41C72B5CDFA18071AB4ABB4B8AA480BDBDD175427E50CB460680CE159CC460CA.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "41C72B5CDFA18071AB4ABB4B8AA480BDBDD175427E50CB460680CE159CC460CA.html" .
+
+<http://schema.org/CreativeWork43452DF61AB4937B93EF6E55034BBD42A180E0D3956B94174FDD3949EC6B9572.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "43452DF61AB4937B93EF6E55034BBD42A180E0D3956B94174FDD3949EC6B9572.html" .
+
+<http://schema.org/CreativeWork45EDB64C36453CAB6480DD66DEC851F0E51BF036624FE13CD11A33F0EFAC2F7F.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "45EDB64C36453CAB6480DD66DEC851F0E51BF036624FE13CD11A33F0EFAC2F7F.html" .
+
+<http://schema.org/CreativeWork4AC3BE5673A47AFD1B965C41151D5ABD472948999DC484C9B3E2AE081460C0A6.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "4AC3BE5673A47AFD1B965C41151D5ABD472948999DC484C9B3E2AE081460C0A6.html" .
+
+<http://schema.org/CreativeWork4C1E57EEF1E75BA293D9DEAD75685FBCEBFC30FEE7A486E3A115D66FB17F065D.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "4C1E57EEF1E75BA293D9DEAD75685FBCEBFC30FEE7A486E3A115D66FB17F065D.html" .
+
+<http://schema.org/CreativeWork59A51871D68937422E68BFD0BE1A06C91783F0C7B353EE8C99AD3A1B09A972C5.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "59A51871D68937422E68BFD0BE1A06C91783F0C7B353EE8C99AD3A1B09A972C5.html" .
+
+<http://schema.org/CreativeWork5E3AF635CCCE02A1D4E197D869120F8C670999BAC31C8C4B3E175FA72B3EC954.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "5E3AF635CCCE02A1D4E197D869120F8C670999BAC31C8C4B3E175FA72B3EC954.html" .
+
+<http://schema.org/CreativeWork5F88034818532B6E8B34E83C4C10C22FEA5DF5207991745E752424EEE93F3764.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "5F88034818532B6E8B34E83C4C10C22FEA5DF5207991745E752424EEE93F3764.html" .
+
+<http://schema.org/CreativeWork60754EC111AD0B0FDC0CB1DEF0BAA4CE97563380DC38C9BBE0B3CEBA354A790D.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "60754EC111AD0B0FDC0CB1DEF0BAA4CE97563380DC38C9BBE0B3CEBA354A790D.html" .
+
+<http://schema.org/CreativeWork680333CCA50061BE59F5242EE828A7F5CACE3CC06C3D2F6A24F0BF1C0267DC88.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "680333CCA50061BE59F5242EE828A7F5CACE3CC06C3D2F6A24F0BF1C0267DC88.html" .
+
+<http://schema.org/CreativeWork6BBC3D7614FAD63BE0D96E5F2F6C8EC736021FD81F7B8CC51F75921039EB4EF5.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "6BBC3D7614FAD63BE0D96E5F2F6C8EC736021FD81F7B8CC51F75921039EB4EF5.html" .
+
+<http://schema.org/CreativeWork6FA6386C7C0E766CCDE426BFB3A609B2136F268C1DD1D11B3B0193E6DF62FB0B.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "6FA6386C7C0E766CCDE426BFB3A609B2136F268C1DD1D11B3B0193E6DF62FB0B.html" .
+
+<http://schema.org/CreativeWork7A9B45C107459FD1A00866BC363F047EBEB6EFB37B111CD85090D7521CEE7D00.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "7A9B45C107459FD1A00866BC363F047EBEB6EFB37B111CD85090D7521CEE7D00.html" .
+
+<http://schema.org/CreativeWork8355D967CD0AAB580C8CC1D504EA7C35F79B129B572F04E1918D175C17B1EDCD.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "8355D967CD0AAB580C8CC1D504EA7C35F79B129B572F04E1918D175C17B1EDCD.html" .
+
+<http://schema.org/CreativeWork85178FFCD3B7A0369280DDF36852ECC9290D2696AA4D627D2A412DEDE54E32B4.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "85178FFCD3B7A0369280DDF36852ECC9290D2696AA4D627D2A412DEDE54E32B4.html" .
+
+<http://schema.org/CreativeWork8E6CD0193A3D71FB25E3117948DD0A226ADED645AC528A3024A9DD946100917C.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "8E6CD0193A3D71FB25E3117948DD0A226ADED645AC528A3024A9DD946100917C.html" .
+
+<http://schema.org/CreativeWork8EDC17A2F94C92920B8961454C1CB276785833CD16A7F34A44BA0800BD2AAF4D.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "8EDC17A2F94C92920B8961454C1CB276785833CD16A7F34A44BA0800BD2AAF4D.html" .
+
+<http://schema.org/CreativeWork99359093F4827704A7507D1BB1654CE88C5CE023AD0ABC962AB94319C0643AA9.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "99359093F4827704A7507D1BB1654CE88C5CE023AD0ABC962AB94319C0643AA9.html" .
+
+<http://schema.org/CreativeWork9D435F6870AA144D4E7812511C4DA7D6CC5747D36BFC46EE3212A9243098E520.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "9D435F6870AA144D4E7812511C4DA7D6CC5747D36BFC46EE3212A9243098E520.html" .
+
+<http://schema.org/CreativeWorkA1E49510D3FEE785C9C8574EE14B64871BCAF4E3548DE67D072FF51EF557DA67.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "A1E49510D3FEE785C9C8574EE14B64871BCAF4E3548DE67D072FF51EF557DA67.html" .
+
+<http://schema.org/CreativeWorkB0428E8B25E0BE47208266D012832614A3A425F225878526F7E1FD83DC93AB33.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "B0428E8B25E0BE47208266D012832614A3A425F225878526F7E1FD83DC93AB33.html" .
+
+<http://schema.org/CreativeWorkC013B22FAEBB99F3B52BCC7E981E304E4C06C796BE5759E5A11CD68530E1E232.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "C013B22FAEBB99F3B52BCC7E981E304E4C06C796BE5759E5A11CD68530E1E232.html" .
+
+<http://schema.org/CreativeWorkC31E4472DBDD8180DCADCB864C1223434840A8F4DD1DDC0BC1B03A280E7C952F.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "C31E4472DBDD8180DCADCB864C1223434840A8F4DD1DDC0BC1B03A280E7C952F.html" .
+
+<http://schema.org/CreativeWorkCDEA3107E91C367329B233B96F848215C96A1303AF1C328298FABAD7AF5E2E22.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "CDEA3107E91C367329B233B96F848215C96A1303AF1C328298FABAD7AF5E2E22.html" .
+
+<http://schema.org/CreativeWorkD084AD155E4E7BC77E61D8A3004DA39F0E8B34A598EC6FE141B61F4E8212BEFF.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "D084AD155E4E7BC77E61D8A3004DA39F0E8B34A598EC6FE141B61F4E8212BEFF.html" .
+
+<http://schema.org/CreativeWorkD17CECC160074E44EB1794F25A9EFEF23116CF60F7D9B101A0BAFF5C059CBA83.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "D17CECC160074E44EB1794F25A9EFEF23116CF60F7D9B101A0BAFF5C059CBA83.html" .
+
+<http://schema.org/CreativeWorkD1CA071FDFB29360D0DB0A1BC9F8B68E715510EB5FE862B284147B6CBB95E331.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "D1CA071FDFB29360D0DB0A1BC9F8B68E715510EB5FE862B284147B6CBB95E331.html" .
+
+<http://schema.org/CreativeWorkD374775874A3A88B20E1DF84ACE3D165FB689E7843293E8DBDD939E788FBD4F8.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "D374775874A3A88B20E1DF84ACE3D165FB689E7843293E8DBDD939E788FBD4F8.html" .
+
+<http://schema.org/CreativeWorkD38322008B21E268C8C05110C829312D321682F315F206CA4B6E2AC15ABB3CAF.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "D38322008B21E268C8C05110C829312D321682F315F206CA4B6E2AC15ABB3CAF.html" .
+
+<http://schema.org/CreativeWorkDA0B6385204EB86D6EC26006453FE94A3501AF5A82B621345665146F64245404.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "DA0B6385204EB86D6EC26006453FE94A3501AF5A82B621345665146F64245404.html" .
+
+<http://schema.org/CreativeWorkF7FEDAA3E1E555C70DAFC84F36EA3DB2F47DBD82D3295CFA48880A994866A1E8.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "F7FEDAA3E1E555C70DAFC84F36EA3DB2F47DBD82D3295CFA48880A994866A1E8.html" .
+
+<http://schema.org/CreativeWorkFA410CC6463A32273C0245E32CCE7150B629A608C1874710749EE0F74EACF9C1.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "FA410CC6463A32273C0245E32CCE7150B629A608C1874710749EE0F74EACF9C1.html" .
+
+<http://schema.org/CreativeWorkFC2C98A93B1EAFF05CA2E5B58365A58B4B30E0BEAFF5329742056B42EC43C5B2.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "FC2C98A93B1EAFF05CA2E5B58365A58B4B30E0BEAFF5329742056B42EC43C5B2.html" .
+
+<http://schema.org/CreativeWorkFD6ACC882AB88465FFC2E7A8113C483F718438E3CF5BED81BC537EC3E15DC847.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "FD6ACC882AB88465FFC2E7A8113C483F718438E3CF5BED81BC537EC3E15DC847.html" .
+
+<http://schema.org/Offer%20%20%20%20%20%20Ammunition%20%20%20%20%20%20Rifle%20Ammunition%20%20%20%20%20%207mm%20Remington%20Mags%20%20Winchester%20243>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "1205294a552ea32f";
+  <http://schema.org/datePosted> "November 26, 2013 1:53 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading   Revolvers";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm7mm%20Remington%20Mags%20%20Winchester%20243>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork5E3AF635CCCE02A1D4E197D869120F8C670999BAC31C8C4B3E175FA72B3EC954.html>;
+  <http://schema.org/name> "      Ammunition      Rifle Ammunition      7mm Remington Mags  Winchester 243";
+  <http://schema.org/price> "TRADE";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20%20%20%20Ammunition%20%20%20%20%20%20Rifle%20Ammunition%20%20%20%20%20%20FN%20HERSTAL%20SCAR%2017S%20.308%2F7.62%C3%9751>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "2145314dd1bd325d";
+  <http://schema.org/datePosted> "March 3, 2014 7:55 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading   Revolvers";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmFN%20HERSTAL%20SCAR%2017S%20.308%2F7.62%C3%9751>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork8E6CD0193A3D71FB25E3117948DD0A226ADED645AC528A3024A9DD946100917C.html>;
+  <http://schema.org/name> "      Ammunition      Rifle Ammunition      FN HERSTAL SCAR 17S .308/7.62×51";
+  <http://schema.org/price> "1,599.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20%20%20%20Gun%20Parts%20and%20Accessories%20%20%20%20%20%20Gunsmithing%20Tools%20%20%20%20%20%20DECAP%20DIE%20.27-.45%20CAL-HEAVY%20DUTY>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "24553443c0aecb8a";
+  <http://schema.org/datePosted> "April 8, 2014 6:13 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmDECAP%20DIE%20.27-.45%20CAL-HEAVY%20DUTY>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkF7FEDAA3E1E555C70DAFC84F36EA3DB2F47DBD82D3295CFA48880A994866A1E8.html>;
+  <http://schema.org/name> "      Gun Parts and Accessories      Gunsmithing Tools      DECAP DIE .27-.45 CAL-HEAVY DUTY";
+  <http://schema.org/price> "21.95";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20%20%20%20Gun%20Parts%20and%20Accessories%20%20%20%20%20%20Magazines%20%20%20%20%20%20PMAG%C2%AE%2030%2C%205.56X45%20MAGAZINE%20%E2%80%93%20AR15%2FM16>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "603502e7efa1cbf9";
+  <http://schema.org/datePosted> "August 17, 2012 5:34 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmPMAG%C2%AE%2030%2C%205.56X45%20MAGAZINE%20%E2%80%93%20AR15%2FM16>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork8EDC17A2F94C92920B8961454C1CB276785833CD16A7F34A44BA0800BD2AAF4D.html>;
+  <http://schema.org/name> "      Gun Parts and Accessories      Magazines      PMAG® 30, 5.56X45 MAGAZINE – AR15/M16";
+  <http://schema.org/price> "13.50";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20%20%20%20Gun%20Parts%20and%20Accessories%20%20%20%20%20%20Stocks%20and%20Grips%20%20%20%20%20%20Harris%20S-LM%20Bipod>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "5134f354731bdf5d";
+  <http://schema.org/datePosted> "February 10, 2012 4:53 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading   Revolvers   Rifle Ammunition   Rifle Parts   Rifle Scopes   Rifles   Rimfire   Shotgun Parts   Shotguns";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmHarris%20S-LM%20Bipod>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork41C72B5CDFA18071AB4ABB4B8AA480BDBDD175427E50CB460680CE159CC460CA.html>;
+  <http://schema.org/name> "      Gun Parts and Accessories      Stocks and Grips      Harris S-LM Bipod";
+  <http://schema.org/price> "75.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20%20%20%20Guns%20for%20Sale%20%20%20%20%20%20Pistols%20%20%20%20%20%20KIMBER%20TEAM%20MATCH%20II%202013%2045%20ACP>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "914558f7fc11cf28";
+  <http://schema.org/datePosted> "June 28, 2015 5:08 am";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmKIMBER%20TEAM%20MATCH%20II%202013%2045%20ACP>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork45EDB64C36453CAB6480DD66DEC851F0E51BF036624FE13CD11A33F0EFAC2F7F.html>;
+  <http://schema.org/name> "      Guns for Sale      Pistols      KIMBER TEAM MATCH II 2013 45 ACP";
+  <http://schema.org/price> "650.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20%20%20%20Guns%20for%20Sale%20%20%20%20%20%20Rifles%20%20%20%20%20%20Black%20Rain%205.56%2F.233%20AR-15>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "2756166a31c6084";
+  <http://schema.org/datePosted> "October 8, 2015 1:06 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading   Revolvers   Rifle Ammunition   Rifle Parts   Rifle Scopes";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmBlack%20Rain%205.56%2F.233%20AR-15>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkA1E49510D3FEE785C9C8574EE14B64871BCAF4E3548DE67D072FF51EF557DA67.html>;
+  <http://schema.org/name> "      Guns for Sale      Rifles      Black Rain 5.56/.233 AR-15";
+  <http://schema.org/price> "2,500.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20%20%20%20Guns%20for%20Sale%20%20%20%20%20%20Rifles%20%20%20%20%20%20FN%20Herstal%20FS2000%20OD%20Green>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "5765374b60684d7a";
+  <http://schema.org/datePosted> "May 15, 2014 12:46 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading   Revolvers   Rifle Ammunition   Rifle Parts   Rifle Scopes";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmFN%20Herstal%20FS2000%20OD%20Green>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkD38322008B21E268C8C05110C829312D321682F315F206CA4B6E2AC15ABB3CAF.html>;
+  <http://schema.org/name> "      Guns for Sale      Rifles      FN Herstal FS2000 OD Green";
+  <http://schema.org/price> "1,500.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20%20%20%20Guns%20for%20Sale%20%20%20%20%20%20Rifles%20%20%20%20%20%20M2%20Browning%2050%20Cal%20Replica%20Machine%20gun>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "710538aa511920c7";
+  <http://schema.org/datePosted> "June 1, 2014 4:02 am";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading   Revolvers   Rifle Ammunition   Rifle Parts   Rifle Scopes";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmM2%20Browning%2050%20Cal%20Replica%20Machine%20gun>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork60754EC111AD0B0FDC0CB1DEF0BAA4CE97563380DC38C9BBE0B3CEBA354A790D.html>;
+  <http://schema.org/name> "      Guns for Sale      Rifles      M2 Browning 50 Cal Replica Machine gun";
+  <http://schema.org/price> "370.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20%20%20%20Misc%20%20%20%20%20%20Molle%20Plate%20Carrier%20With%20level%20IV%20Plates>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "36153a319be51ac0";
+  <http://schema.org/datePosted> "June 19, 2014 5:26 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmMolle%20Plate%20Carrier%20With%20level%20IV%20Plates>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork10DDDF7BF34D55FA9BA85C45EDE23167AF1B7DBCCD8542958B973744BA793D61.html>;
+  <http://schema.org/name> "      Misc      Molle Plate Carrier With level IV Plates";
+  <http://schema.org/price> "699.99";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Ammunition%20%20%20%20Handgun%20Ammunition%20%20%20380%20Auto%20FMJ%20NEW>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "1394eeb9a90b060a";
+  <http://schema.org/datePosted> "December 16, 2011 7:24 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm380%20Auto%20FMJ%20NEW>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork182B0F5E93A389D1330B56F009CAE10BF9742C53AB79A30B75FF2974A0EDD9A4.html>;
+  <http://schema.org/name> "   Ammunition    Handgun Ammunition   380 Auto FMJ NEW";
+  <http://schema.org/price> "$77 for 9 boxes";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Ammunition%20%20%20%20Reloading%20%20%2040%20SW%20Once%20FIred%20NICKEL%20Brass>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "1514c81211005cc5";
+  <http://schema.org/datePosted> "June 22, 2011 3:43 am";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm40%20SW%20Once%20FIred%20NICKEL%20Brass>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork680333CCA50061BE59F5242EE828A7F5CACE3CC06C3D2F6A24F0BF1C0267DC88.html>;
+  <http://schema.org/name> "   Ammunition    Reloading   40 SW Once FIred NICKEL Brass";
+  <http://schema.org/price> "31.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Ammunition%20%20%20%20Reloading%20%20%2045%20ACP%20Cast%20Bullet%20RN%20BB%20500%20count>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "5394c81221bf0a1b";
+  <http://schema.org/datePosted> "June 22, 2011 3:44 am";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm45%20ACP%20Cast%20Bullet%20RN%20BB%20500%20count>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkFA410CC6463A32273C0245E32CCE7150B629A608C1874710749EE0F74EACF9C1.html>;
+  <http://schema.org/name> "   Ammunition    Reloading   45 ACP Cast Bullet RN BB 500 count";
+  <http://schema.org/price> "38.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Gun%20Parts%20and%20Accessories%20%20%20%20Holsters%20%20%20BlackHawk%20Level%202%20SERPA%20Holster%20Right%20Hand%20Black%20Sig%20220%2F226%2F228%2F229>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "215501eba2ad83bb";
+  <http://schema.org/datePosted> "August 5, 2012 6:30 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmBlackHawk%20Level%202%20SERPA%20Holster%20Right%20Hand%20Black%20Sig%20220%2F226%2F228%2F229>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkD084AD155E4E7BC77E61D8A3004DA39F0E8B34A598EC6FE141B61F4E8212BEFF.html>;
+  <http://schema.org/name> "   Gun Parts and Accessories    Holsters   BlackHawk Level 2 SERPA Holster Right Hand Black Sig 220/226/228/229";
+  <http://schema.org/price> "39.99";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Gun%20Parts%20and%20Accessories%20%20%20%20Holsters%20%20%20Blackhawk%20Serpa%20Concealment%20Sportster%20Holster%2000>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "9355344271fa6637";
+  <http://schema.org/datePosted> "April 8, 2014 4:46 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmBlackhawk%20Serpa%20Concealment%20Sportster%20Holster%2000>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork2F6EDF1A3179EA4D82B19E17A4BF1B39CB33BC828D13C38289137AF5B0A5D26E.html>;
+  <http://schema.org/name> "   Gun Parts and Accessories    Holsters   Blackhawk Serpa Concealment Sportster Holster 00";
+  <http://schema.org/price> "32.99";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Pistols%20%20%20Buy%20Umarex%20XBG%20Air%20Pistols>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "6553d3851707441";
+  <http://schema.org/datePosted> "July 26, 2014 10:51 am";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmBuy%20Umarex%20XBG%20Air%20Pistols>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork1036E5A9CFB72BD8D4B7F98DFF8A2D78AD585B8034892D17096F7F78C9C69EF4.html>;
+  <http://schema.org/name> "   Guns for Sale    Pistols   Buy Umarex XBG Air Pistols";
+  <http://schema.org/price> "25.82";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Pistols%20%20%20FNH%205.7%20Semi-auto%20pistol%20HOLDS%2020%20rounds>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "62650409b5bf2e72";
+  <http://schema.org/datePosted> "August 31, 2012 11:14 am";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmFNH%205.7%20Semi-auto%20pistol%20HOLDS%2020%20rounds>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork4C1E57EEF1E75BA293D9DEAD75685FBCEBFC30FEE7A486E3A115D66FB17F065D.html>;
+  <http://schema.org/name> "   Guns for Sale    Pistols   FNH 5.7 Semi-auto pistol HOLDS 20 rounds";
+  <http://schema.org/price> "950 obo";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Pistols%20%20%20Glock%2017%2C18%2C19%20for%20Sale>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "6524ee01a0a652e8";
+  <http://schema.org/datePosted> "December 8, 2011 2:02 am";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmGlock%2017%2C18%2C19%20for%20Sale>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork5F88034818532B6E8B34E83C4C10C22FEA5DF5207991745E752424EEE93F3764.html>;
+  <http://schema.org/name> "   Guns for Sale    Pistols   Glock 17,18,19 for Sale";
+  <http://schema.org/price> "550.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Pistols%20%20%20Glock%20G26%209mm%20with%20two%20mags>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "73450537c3440b73";
+  <http://schema.org/datePosted> "September 14, 2012 6:52 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmGlock%20G26%209mm%20with%20two%20mags>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork4AC3BE5673A47AFD1B965C41151D5ABD472948999DC484C9B3E2AE081460C0A6.html>;
+  <http://schema.org/name> "   Guns for Sale    Pistols   Glock G26 9mm with two mags";
+  <http://schema.org/price> "400.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Pistols%20%20%20Glock22%2Bextras%20for%20sale%20or%20trade>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "52550e3694976334";
+  <http://schema.org/datePosted> "January 1, 2013 11:03 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmGlock22%2Bextras%20for%20sale%20or%20trade>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkDA0B6385204EB86D6EC26006453FE94A3501AF5A82B621345665146F64245404.html>;
+  <http://schema.org/name> "   Guns for Sale    Pistols   Glock22+extras for sale or trade";
+  <http://schema.org/price> "$500";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Pistols%20%20%20Remington%20M51%20.380%20cal.%20Collector%20Quality%20Investment%20Grade>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "34535c6feca299d";
+  <http://schema.org/datePosted> "April 27, 2014 2:55 am";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmRemington%20M51%20.380%20cal.%20Collector%20Quality%20Investment%20Grade>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkC013B22FAEBB99F3B52BCC7E981E304E4C06C796BE5759E5A11CD68530E1E232.html>;
+  <http://schema.org/name> "   Guns for Sale    Pistols   Remington M51 .380 cal. Collector Quality Investment Grade";
+  <http://schema.org/price> "650.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Pistols%20%20%20Ruger%20Blackhawk>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "7895243682b69bf4";
+  <http://schema.org/datePosted> "September 25, 2013 10:50 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmRuger%20Blackhawk>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork99359093F4827704A7507D1BB1654CE88C5CE023AD0ABC962AB94319C0643AA9.html>;
+  <http://schema.org/name> "   Guns for Sale    Pistols   Ruger Blackhawk";
+  <http://schema.org/price> "$475";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Pistols%20%20%20SMITH%20AND%20WESSON%206%20PACK>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "984eb170ef50546";
+  <http://schema.org/datePosted> "November 2, 2011 4:42 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmSMITH%20AND%20WESSON%206%20PACK>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork59A51871D68937422E68BFD0BE1A06C91783F0C7B353EE8C99AD3A1B09A972C5.html>;
+  <http://schema.org/name> "   Guns for Sale    Pistols   SMITH AND WESSON 6 PACK";
+  <http://schema.org/price> "$1000";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Pistols%20%20%20SW%20.357%2F.38special>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "257500fd58edba6a";
+  <http://schema.org/datePosted> "July 25, 2012 11:19 am";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmSW%20.357%2F.38special>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork6FA6386C7C0E766CCDE426BFB3A609B2136F268C1DD1D11B3B0193E6DF62FB0B.html>;
+  <http://schema.org/name> "   Guns for Sale    Pistols   SW .357/.38special";
+  <http://schema.org/price> "SOLD";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Revolvers%20%20%20Colt%20Python%208%20Nickel%20New%20In%20Box%20Unfired>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "2264fe07dfe5acaa";
+  <http://schema.org/datePosted> "June 19, 2012 1:32 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmColt%20Python%208%20Nickel%20New%20In%20Box%20Unfired>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkD1CA071FDFB29360D0DB0A1BC9F8B68E715510EB5FE862B284147B6CBB95E331.html>;
+  <http://schema.org/name> "   Guns for Sale    Revolvers   Colt Python 8 Nickel New In Box Unfired";
+  <http://schema.org/price> "1,850.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Revolvers%20%20%20Freedom%20Arms%20454%20Casull>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "86650906216c058c";
+  <http://schema.org/datePosted> "October 30, 2012 11:35 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmFreedom%20Arms%20454%20Casull>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork03273E3930D395746816180D077F6DE17464EA24881EBCEA37408C9DE58952CE.html>;
+  <http://schema.org/name> "   Guns for Sale    Revolvers   Freedom Arms 454 Casull";
+  <http://schema.org/price> "$ 1850";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Revolvers%20%20%20Heritage%20Rough%20Rider>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "1305131d2452c9b5";
+  <http://schema.org/datePosted> "March 2, 2013 10:23 am";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmHeritage%20Rough%20Rider>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkB0428E8B25E0BE47208266D012832614A3A425F225878526F7E1FD83DC93AB33.html>;
+  <http://schema.org/name> "   Guns for Sale    Revolvers   Heritage Rough Rider";
+  <http://schema.org/price> "$175.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Revolvers%20%20%20SmithWesson%20Police%20Regulation>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "1304e74e3e6c626e";
+  <http://schema.org/datePosted> "September 17, 2011 6:53 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmSmithWesson%20Police%20Regulation>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork7A9B45C107459FD1A00866BC363F047EBEB6EFB37B111CD85090D7521CEE7D00.html>;
+  <http://schema.org/name> "   Guns for Sale    Revolvers   SmithWesson Police Regulation";
+  <http://schema.org/price> "$600. obo";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Rifles%20%20%201903%20Springfield%20barrel%20dated%2012-18>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "600503d679325caa";
+  <http://schema.org/datePosted> "August 29, 2012 12:54 am";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading   Revolvers   Rifle Ammunition   Rifle Parts   Rifle Scopes";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm1903%20Springfield%20barrel%20dated%2012-18>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork85178FFCD3B7A0369280DDF36852ECC9290D2696AA4D627D2A412DEDE54E32B4.html>;
+  <http://schema.org/name> "   Guns for Sale    Rifles   1903 Springfield barrel dated 12-18";
+  <http://schema.org/price> "1,000.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Rifles%20%20%20AR-15%20COLT%20A-2%20MODEL>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "83850f05c7e47a64";
+  <http://schema.org/datePosted> "January 11, 2013 6:42 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading   Revolvers   Rifle Ammunition   Rifle Parts   Rifle Scopes";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmAR-15%20COLT%20A-2%20MODEL>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork2FCC6B3C7ABCA0B50F39E43AD45EAA71A03D83DD14743A4875D17C0A53EB9440.html>;
+  <http://schema.org/name> "   Guns for Sale    Rifles   AR-15 COLT A-2 MODEL";
+  <http://schema.org/price> "2,000.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Rifles%20%20%20Browning%20Belgium%20Auto%2022%20Takedown>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "8844eaae9e528544";
+  <http://schema.org/datePosted> "October 28, 2011 6:23 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading   Revolvers   Rifle Ammunition   Rifle Parts   Rifle Scopes";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmBrowning%20Belgium%20Auto%2022%20Takedown>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkFC2C98A93B1EAFF05CA2E5B58365A58B4B30E0BEAFF5329742056B42EC43C5B2.html>;
+  <http://schema.org/name> "   Guns for Sale    Rifles   Browning Belgium Auto 22 Takedown";
+  <http://schema.org/price> "$750";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Rifles%20%20%20Bushmaster%20AR-15>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "1224ff5e9b386c29";
+  <http://schema.org/datePosted> "July 5, 2012 7:42 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading   Revolvers   Rifle Ammunition   Rifle Parts   Rifle Scopes";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmBushmaster%20AR-15>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork8355D967CD0AAB580C8CC1D504EA7C35F79B129B572F04E1918D175C17B1EDCD.html>;
+  <http://schema.org/name> "   Guns for Sale    Rifles   Bushmaster AR-15";
+  <http://schema.org/price> "800.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Rifles%20%20%20Chinese%20Type%2053%20Carbine>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "48552af8a71270a3";
+  <http://schema.org/datePosted> "December 16, 2013 11:27 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading   Revolvers   Rifle Ammunition   Rifle Parts   Rifle Scopes";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmChinese%20Type%2053%20Carbine>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkD374775874A3A88B20E1DF84ACE3D165FB689E7843293E8DBDD939E788FBD4F8.html>;
+  <http://schema.org/name> "   Guns for Sale    Rifles   Chinese Type 53 Carbine";
+  <http://schema.org/price> "200.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Rifles%20%20%20DPMS%20AR15%20Magpul%20Equipped%20Stock%20Handguard%20Grip>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "1535387ae793f860";
+  <http://schema.org/datePosted> "May 29, 2014 10:08 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading   Revolvers   Rifle Ammunition   Rifle Parts   Rifle Scopes";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmDPMS%20AR15%20Magpul%20Equipped%20Stock%20Handguard%20Grip>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork1656F03B213A30E04146D7B083DC6AE271EE3EFAE8F2CF3F0D8C218EF5E876AF.html>;
+  <http://schema.org/name> "   Guns for Sale    Rifles   DPMS AR15 Magpul Equipped Stock Handguard Grip";
+  <http://schema.org/price> "700.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Rifles%20%20%20FN%20SCAR%20BLACK%2017%2017S%20308>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "8505144fd48cc720";
+  <http://schema.org/datePosted> "March 16, 2013 11:18 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading   Revolvers   Rifle Ammunition   Rifle Parts   Rifle Scopes";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmFN%20SCAR%20BLACK%2017%2017S%20308>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork6BBC3D7614FAD63BE0D96E5F2F6C8EC736021FD81F7B8CC51F75921039EB4EF5.html>;
+  <http://schema.org/name> "   Guns for Sale    Rifles   FN SCAR BLACK 17 17S 308";
+  <http://schema.org/price> "$2300";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Rifles%20%20%20PROCHINE%20AK47S%20PREBAN%20VERY%20RARE>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "3154e582727b4890";
+  <http://schema.org/datePosted> "August 26, 2011 11:33 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading   Revolvers   Rifle Ammunition   Rifle Parts   Rifle Scopes";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmPROCHINE%20AK47S%20PREBAN%20VERY%20RARE>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkD17CECC160074E44EB1794F25A9EFEF23116CF60F7D9B101A0BAFF5C059CBA83.html>;
+  <http://schema.org/name> "   Guns for Sale    Rifles   PROCHINE AK47S PREBAN VERY RARE";
+  <http://schema.org/price> "1,600.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Rifles%20%20%20Remington%20700%2030%2F06%2C%205%20boxes%20premium%20ammo>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "27453f66b62674d9";
+  <http://schema.org/datePosted> "August 21, 2014 10:04 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading   Revolvers   Rifle Ammunition   Rifle Parts   Rifle Scopes";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmRemington%20700%2030%2F06%2C%205%20boxes%20premium%20ammo>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork9D435F6870AA144D4E7812511C4DA7D6CC5747D36BFC46EE3212A9243098E520.html>;
+  <http://schema.org/name> "   Guns for Sale    Rifles   Remington 700 30/06, 5 boxes premium ammo";
+  <http://schema.org/price> "605.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Rifles%20%20%20Ruger%2010%2F22%20carbine>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "4234f821fd868afc";
+  <http://schema.org/datePosted> "April 8, 2012 11:36 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading   Revolvers   Rifle Ammunition   Rifle Parts   Rifle Scopes";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmRuger%2010%2F22%20carbine>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork35728A97E3369966FD148220212ECF3BC439E06AA3735A796282F7EC091845EE.html>;
+  <http://schema.org/name> "   Guns for Sale    Rifles   Ruger 10/22 carbine";
+  <http://schema.org/price> "185.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Rifles%20%20%20Stripped%20Aero%20Precision%20Lower%20for%20a%20AR-15>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "1055126423a39c71";
+  <http://schema.org/datePosted> "February 21, 2013 3:55 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading   Revolvers   Rifle Ammunition   Rifle Parts   Rifle Scopes";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmStripped%20Aero%20Precision%20Lower%20for%20a%20AR-15>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkC31E4472DBDD8180DCADCB864C1223434840A8F4DD1DDC0BC1B03A280E7C952F.html>;
+  <http://schema.org/name> "   Guns for Sale    Rifles   Stripped Aero Precision Lower for a AR-15";
+  <http://schema.org/price> "275.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Rifles%20%20%20WTT%2FWTS%20SAIGA%207.62%20Converted%20AK47%20W%2F%20Hogue%20Grip>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "1104e723ee10b8f2";
+  <http://schema.org/datePosted> "September 15, 2011 6:09 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading   Revolvers   Rifle Ammunition   Rifle Parts   Rifle Scopes";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmWTT%2FWTS%20SAIGA%207.62%20Converted%20AK47%20W%2F%20Hogue%20Grip>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkCDEA3107E91C367329B233B96F848215C96A1303AF1C328298FABAD7AF5E2E22.html>;
+  <http://schema.org/name> "   Guns for Sale    Rifles   WTT/WTS SAIGA 7.62 Converted AK47 W/ Hogue Grip";
+  <http://schema.org/price> "$800";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Rifles%20%20%20weatherby%20300%20magnum%20%2Fwest%20germany%20mfg.>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "4455234a9fc21e65";
+  <http://schema.org/datePosted> "September 14, 2013 6:33 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading   Revolvers   Rifle Ammunition   Rifle Parts   Rifle Scopes";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearmweatherby%20300%20magnum%20%2Fwest%20germany%20mfg.>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork43452DF61AB4937B93EF6E55034BBD42A180E0D3956B94174FDD3949EC6B9572.html>;
+  <http://schema.org/name> "   Guns for Sale    Rifles   weatherby 300 magnum /west germany mfg.";
+  <http://schema.org/price> "$1,3000";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20%20Shotguns%20%20%20Browning%20BPS%2020ga%2C%20engraved%20reciever>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "4151115599732fc";
+  <http://schema.org/datePosted> "February 5, 2013 7:03 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage   Guns for Sale   Gunsmithing Tools   Handgun Ammunition   Handgun Parts   Holsters   Laser Sights   Magazines   Misc   Night Vision   Optics   Part Kits   Pistols   Red Dot Sights   Reloading   Revolvers   Rifle Ammunition   Rifle Parts   Rifle Scopes   Rifles   Rimfire   Shotgun Parts";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmBrowning%20BPS%2020ga%2C%20engraved%20reciever>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkFD6ACC882AB88465FFC2E7A8113C483F718438E3CF5BED81BC537EC3E15DC847.html>;
+  <http://schema.org/name> "   Guns for Sale    Shotguns   Browning BPS 20ga, engraved reciever";
+  <http://schema.org/price> "650.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer%20%20%20Guns%20for%20Sale%20%20%20beretta%2096a1> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "7064d7b99a66c1dd";
+  <http://schema.org/datePosted> "March 12, 2011 4:08 pm";
+  <http://schema.org/description> "Black Powder   Gun Parts and Accessories   Gun Storage";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearmberetta%2096a1>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork3E60F6332692B8A59F75B8734048092E989C5EA83935EECAD204A7AC7DFC33B5.html>;
+  <http://schema.org/name> "   Guns for Sale   beretta 96a1";
+  <http://schema.org/price> "575.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .

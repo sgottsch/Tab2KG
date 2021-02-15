@@ -1,0 +1,988 @@
+rowNumber,sn,fn,ln,no,ps,nt,db,ag,ht,go/at,cb,cn
+0,Bot??a,Alberto,Bot??a,3,2,ESP,27.01.1989,26,187,1,Olympiacos,GRE
+1,Bouchalakis,Andreas,Bouchalakis,8,3,GRE,05.04.1993,22,186,0,Olympiacos,GRE
+2,Ideye,Ideye,Brown,99,4,NGA,10.10.1988,26,180,4,Olympiacos,GRE
+3,Cambiasso,Esteban,Cambiasso,91,3,ARG,18.08.1980,35,177,6,Olympiacos,GRE
+4,Choutesiotis,Lefteris,Choutesiotis,33,1,GRE,20.07.1994,21,192,0,Olympiacos,GRE
+5,Da Costa,Manuel,da Costa,6,2,MAR,06.05.1986,29,191,0,Olympiacos,GRE
+6,Dom??nguez,Alejandro,Dom??nguez,10,3,ARG,10.06.1981,34,175,7,Olympiacos,GRE
+7,Elabdellaoui,Omar,Elabdellaoui,14,2,NOR,05.12.1991,23,179,0,Olympiacos,GRE
+8,Finnbogason,Alfred,Finnbogason,9,4,ISL,01.02.1989,26,181,1,Olympiacos,GRE
+9,Fortounis,Kostas,Fortounis,7,3,GRE,16.10.1992,22,182,0,Olympiacos,GRE
+10,Hern??ni,,Hern??ni,77,4,POR,20.08.1991,24,180,0,Olympiacos,GRE
+11,Kapino,Stefanos,Kapino,37,1,GRE,18.03.1994,21,193,0,Olympiacos,GRE
+12,Kasami,Pajtim,Kasami,11,3,SUI,02.06.1992,23,187,1,Olympiacos,GRE
+13,Laci,Qazim,Laci,15,3,ALB,19.01.1996,19,176,0,Olympiacos,GRE
+14,Leandro Salino,,Leandro Salino,30,2,BRA,22.04.1985,30,168,0,Olympiacos,GRE
+15,Maniatis,Giannis,Maniatis,2,2,GRE,12.10.1986,28,178,1,Olympiacos,GRE
+16,Masuaku,Arthur,Masuaku,26,2,FRA,07.11.1993,21,179,1,Olympiacos,GRE
+17,Milivojevi??,Luka,Milivojevi??,5,3,SRB,07.04.1991,24,182,0,Olympiacos,GRE
+18,Pardo,Felipe,Pardo,90,4,COL,17.08.1990,25,,0,Olympiacos,GRE
+19,Pulido,Alan,Pulido,17,4,MEX,08.03.1991,24,175,0,Olympiacos,GRE
+20,Roberto,,Roberto,16,1,ESP,10.02.1986,29,195,0,Olympiacos,GRE
+21,Saliakas,Manolis,Saliakas,34,2,GRE,12.09.1996,19,175,0,Olympiacos,GRE
+22,Seb??,,Seb??,92,4,BRA,08.06.1992,23,182,0,Olympiacos,GRE
+23,Siovas,Dimitris,Siovas,23,2,GRE,16.09.1988,27,191,0,Olympiacos,GRE
+24,Vouros,Praxitelis,Vouros,29,2,GRE,05.05.1995,20,183,0,Olympiacos,GRE
+25,Asare,Nana,Asare,21,2,GHA,11.07.1986,29,175,0,Gent,BEL
+26,Coulibaly,Kalifa,Coulibaly,7,3,MLI,21.08.1991,24,197,0,Gent,BEL
+27,Dejaegere,Brecht,Dejaegere,19,3,BEL,29.05.1991,24,174,0,Gent,BEL
+28,Depoitre,Laurent,Depoitre,9,4,BEL,07.12.1988,26,191,0,Gent,BEL
+29,Foket,Thomas,Foket,32,3,BEL,25.09.1994,20,177,0,Gent,BEL
+30,E. Johansson,Erik,Johansson,5,2,SWE,30.12.1988,26,180,0,Gent,BEL
+31,Kums,Sven,Kums,14,3,BEL,26.02.1988,27,178,0,Gent,BEL
+32,Matton,Thomas,Matton,8,3,BEL,24.10.1985,29,180,0,Gent,BEL
+33,Milicevic,Danijel,Milicevic,77,3,SUI,05.01.1986,29,177,1,Gent,BEL
+34,S. Mitrovi??,Stefan,Mitrovi??,13,2,SRB,22.05.1990,25,,0,Gent,BEL
+35,L. Nielsen,Lasse,Nielsen,23,2,DEN,08.01.1988,27,185,0,Gent,BEL
+36,Pedersen,Nicklas,Pedersen,28,4,DEN,10.10.1987,27,187,0,Gent,BEL
+37,Poletanovi??,Marko,Poletanovi??,12,3,SRB,20.07.1993,22,187,0,Gent,BEL
+38,Rafinha,,Rafinha,4,2,BRA,29.06.1982,33,182,1,Gent,BEL
+39,Raman,Benito,Raman,26,4,BEL,07.11.1994,20,172,0,Gent,BEL
+40,Renato Neto,,Renato Neto,10,3,BRA,27.09.1991,23,187,0,Gent,BEL
+41,Saief,Kenneth,Saief,15,3,ISR,17.12.1993,21,176,0,Gent,BEL
+42,Sels,Matz,Sels,1,1,BEL,26.02.1992,23,188,0,Gent,BEL
+43,Simon,Moses,Simon,27,4,NGA,12.07.1995,20,166,0,Gent,BEL
+44,Thoelen,Yannick,Thoelen,20,1,BEL,18.07.1990,25,,0,Gent,BEL
+45,Van der Bruggen,Hannes,Van der Bruggen,17,3,BEL,01.04.1993,22,180,0,Gent,BEL
+46,Vandenbussche,Brian,Vandenbussche,25,1,BEL,24.09.1981,33,196,0,Gent,BEL
+47,Vitas,Uro??,Vitas,3,2,SRB,06.07.1992,23,187,0,Gent,BEL
+48,Adel,Anthony,Adel,66,3,FRA,11.01.1998,17,,0,Lyon,FRA
+49,Aouar,Houssem,Aouar,47,3,FRA,30.06.1998,17,,0,Lyon,FRA
+50,Beauvue,Claudio,Beauvue,9,4,FRA,16.04.1988,27,174,0,Lyon,FRA
+51,Bedimo,Henri,Bedimo,3,2,CMR,04.06.1984,31,180,0,Lyon,FRA
+52,Belkacemi,Abdenour,Belkacemi,49,3,FRA,18.09.1999,16,,0,Lyon,FRA
+53,Benjeddi,Adil,Benjeddi,51,2,FRA,29.01.1997,18,,0,Lyon,FRA
+54,Bi??evac,Milan,Bi??evac,5,2,SRB,31.08.1983,32,187,1,Lyon,FRA
+55,Cognat,Timoth??,Cognat,54,3,FRA,25.01.1998,17,,0,Lyon,FRA
+56,Cornet,Maxwel,Cornet,27,4,FRA,27.09.1996,18,179,0,Lyon,FRA
+57,D'Arpino,Maxime,D'Arpino,34,3,FRA,17.06.1996,19,,0,Lyon,FRA
+58,De Sousa,J??r??my,De Sousa,52,3,FRA,16.01.1996,19,,0,Lyon,FRA
+59,Del Castillo,Romain,Del Castillo,36,3,FRA,29.03.1996,19,,0,Lyon,FRA
+60,Diakhaby,Mouctar,Diakhaby,41,2,FRA,19.12.1996,18,,0,Lyon,FRA
+61,Dzabana,Alan,Dzabana,55,4,FRA,25.03.1997,18,,0,Lyon,FRA
+62,Fekir,Nabil,Fekir,18,3,FRA,18.07.1993,22,173,0,Lyon,FRA
+63,Ferri,Jordan,Ferri,12,3,FRA,12.03.1992,23,172,0,Lyon,FRA
+64,Gaspar,Jordy,Gaspar,56,2,FRA,23.04.1997,18,,0,Lyon,FRA
+65,Ghezzal,Rachid,Ghezzal,11,3,FRA,09.05.1992,23,182,0,Lyon,FRA
+66,Gonalons,Maxime,Gonalons,21,3,FRA,10.03.1989,26,185,2,Lyon,FRA
+67,Gorgelin,Mathieu,Gorgelin,30,1,FRA,05.08.1990,25,187,0,Lyon,FRA
+68,Grange,Dorian,Grange,50,1,FRA,10.05.1996,19,,0,Lyon,FRA
+69,Grenier,Cl??ment,Grenier,7,3,FRA,07.01.1991,24,186,1,Lyon,FRA
+70,Hemans Arday,Isaac,Hemans Arday,58,2,GHA,26.12.1996,18,,0,Lyon,FRA
+71,Jallet,Christophe,Jallet,13,2,FRA,31.10.1983,31,178,1,Lyon,FRA
+72,U. Jenssen,Ulrik,Jenssen,35,2,NOR,17.07.1996,19,,0,Lyon,FRA
+73,Kalulu,Aldo,Kalulu,26,3,FRA,21.01.1996,19,,0,Lyon,FRA
+74,Kalulu,G??d??on,Kalulu,65,2,FRA,29.08.1997,18,,0,Lyon,FRA
+75,Kemen,Olivier,Kemen,24,3,FRA,20.07.1996,19,,0,Lyon,FRA
+76,B. Kon??,Bakary,Kon??,4,2,BFA,27.04.1988,27,188,2,Lyon,FRA
+77,Labidi,Zakarie,Labidi,32,3,FRA,08.02.1995,20,178,0,Lyon,FRA
+78,Lacazette,Alexandre,Lacazette,10,4,FRA,28.05.1991,24,175,2,Lyon,FRA
+79,Lebongo,Stanislas,Lebongo,40,1,FRA,21.09.1997,17,,0,Lyon,FRA
+80,Loisi,Enzo,Loisi,67,3,FRA,15.06.1998,17,,0,Lyon,FRA
+81,Anthony Lopes,Anthony,Lopes,1,1,POR,01.10.1990,24,184,0,Lyon,FRA
+82,Malbranque,Steed,Malbranque,17,3,FRA,06.01.1980,35,168,2,Lyon,FRA
+83,Martelat,Yoann,Martelat,59,3,FRA,16.01.1997,18,,0,Lyon,FRA
+84,C. Martins,Christopher,Martins,46,3,LUX,19.02.1997,18,,0,Lyon,FRA
+85,Mboumbouni,Dylan,Mboumbouni,37,2,FRA,20.02.1996,19,182,0,Lyon,FRA
+86,Mocio,Lucas,Mocio,16,1,FRA,11.05.1994,21,197,0,Lyon,FRA
+87,Morel,J??r??my,Morel,15,2,FRA,02.04.1984,31,176,0,Lyon,FRA
+88,Moufi,Fahd,Moufi,38,2,FRA,05.05.1996,19,,0,Lyon,FRA
+89,Moutoussamy,Samuel,Moutoussamy,43,2,FRA,12.08.1996,19,,0,Lyon,FRA
+90,Mvuemba,Arnold,Mvuemba,28,3,FRA,28.01.1985,30,172,0,Lyon,FRA
+91,Neto,C??sar,Neto,60,2,FRA,26.02.1999,16,,0,Lyon,FRA
+92,Ngouma,Romaric,Ngouma,44,2,FRA,28.01.1995,20,,0,Lyon,FRA
+93,Owusu,Elisha,Owusu,61,3,FRA,07.11.1997,17,,0,Lyon,FRA
+94,Pagliuca,Kilian,Pagliuca,39,4,SUI,02.09.1996,19,,0,Lyon,FRA
+95,Paye,Mour,Paye,31,4,FRA,24.05.1994,21,,0,Lyon,FRA
+96,Perrin,Ga??tan,Perrin,62,3,FRA,07.06.1996,19,,0,Lyon,FRA
+97,Rafael,,Rafael,20,2,BRA,09.07.1990,25,172,0,Lyon,FRA
+98,Richard,Thomas,Richard,63,4,FRA,21.03.1997,18,,0,Lyon,FRA
+99,Rose,Lindsay,Rose,22,2,FRA,08.02.1992,23,184,0,Lyon,FRA
+100,Roselli,Alexandre,Roselli,64,2,FRA,17.03.1997,18,,0,Lyon,FRA
+101,Sergi Darder,,Sergi Darder,14,3,ESP,22.12.1993,21,180,0,Lyon,FRA
+102,Sy,Ahamadou,Sy,68,2,FRA,05.01.1998,17,,0,Lyon,FRA
+103,Tolisso,Corentin,Tolisso,8,3,FRA,03.08.1994,21,181,0,Lyon,FRA
+104,Tousart,Lucas,Tousart,29,3,FRA,29.04.1997,18,,0,Lyon,FRA
+105,Umtiti,Samuel,Umtiti,23,2,FRA,14.11.1993,21,180,0,Lyon,FRA
+106,Valbuena,Mathieu,Valbuena,19,4,FRA,28.09.1984,30,167,3,Lyon,FRA
+107,Yanga-Mbiwa,Mapou,Yanga-Mbiwa,2,2,FRA,15.05.1989,26,184,0,Lyon,FRA
+108,Alaba,David,Alaba,27,2,AUT,24.06.1992,23,175,4,Bayern,GER
+109,Xabi Alonso,Xabi,Alonso,14,3,ESP,25.11.1981,33,183,5,Bayern,GER
+110,Badstuber,Holger,Badstuber,28,2,GER,13.03.1989,26,189,1,Bayern,GER
+111,Benatia,Medhi,Benatia,5,2,MAR,17.04.1987,28,190,1,Bayern,GER
+112,Benko,Fabian,Benko,40,3,GER,05.06.1998,17,,0,Bayern,GER
+113,Bernat,Juan,Bernat,18,2,ESP,01.03.1993,22,172,0,Bayern,GER
+114,Boateng,J??r??me,Boateng,17,2,GER,03.09.1988,27,190,3,Bayern,GER
+115,Coman,Kingsley,Coman,29,4,FRA,13.06.1996,19,178,0,Bayern,GER
+116,Dorsch,Niklas,Dorsch,30,3,GER,15.01.1998,17,,0,Bayern,GER
+117,Douglas Costa,,Douglas Costa,11,3,BRA,14.09.1990,25,170,6,Bayern,GER
+118,Gaudino,Gianluca,Gaudino,16,3,GER,11.11.1996,18,175,0,Bayern,GER
+119,G??tze,Mario,G??tze,19,3,GER,03.06.1992,23,185,10,Bayern,GER
+120,Green,Julian,Green,37,3,USA,06.06.1995,20,172,0,Bayern,GER
+121,Hundertmark,David,Hundertmark,34,1,GER,06.08.1997,18,,0,Bayern,GER
+122,Javi Mart??nez,,Javi Mart??nez,8,3,ESP,02.09.1988,27,190,0,Bayern,GER
+123,Kimmich,Joshua,Kimmich,32,3,GER,08.02.1995,20,176,0,Bayern,GER
+124,Kirchhoff,Jan,Kirchhoff,15,2,GER,01.10.1990,24,195,0,Bayern,GER
+125,Lahm,Philipp,Lahm,21,2,GER,11.11.1983,31,170,0,Bayern,GER
+126,Lewandowski,Robert,Lewandowski,9,4,POL,21.08.1988,27,184,23,Bayern,GER
+127,Lucic,Ivan,Lucic,33,1,AUT,23.03.1995,20,193,0,Bayern,GER
+128,M??ller,Thomas,M??ller,25,4,GER,13.09.1989,26,186,30,Bayern,GER
+129,Neuer,Manuel,Neuer,1,1,GER,27.03.1986,29,193,0,Bayern,GER
+130,Pohl,Felix,Pohl,38,2,GER,11.12.1996,18,,0,Bayern,GER
+131,Rafinha,,Rafinha,13,2,BRA,07.09.1985,30,172,2,Bayern,GER
+132,Rib??ry,Franck,Rib??ry,7,3,FRA,07.04.1983,32,170,17,Bayern,GER
+133,Robben,Arjen,Robben,10,4,NED,23.01.1984,31,181,25,Bayern,GER
+134,Rode,Sebastian,Rode,20,3,GER,11.10.1990,24,179,1,Bayern,GER
+135,Starke,Tom,Starke,22,1,GER,18.03.1981,34,194,0,Bayern,GER
+136,Thiago Alc??ntara,,Thiago Alc??ntara,6,3,ESP,11.04.1991,24,170,2,Bayern,GER
+137,Ulreich,Sven,Ulreich,26,1,GER,03.08.1988,27,192,0,Bayern,GER
+138,Vidal,Arturo,Vidal,23,3,CHI,22.05.1987,28,180,9,Bayern,GER
+139,Weihrauch,Patrick,Weihrauch,36,4,GER,03.03.1994,21,181,0,Bayern,GER
+140,Abner,,Abner,30,2,BRA,30.05.1996,19,176,0,Real Madrid,ESP
+141,Arbeloa,??lvaro,Arbeloa,17,2,ESP,17.01.1983,32,180,3,Real Madrid,ESP
+142,Bale,Gareth,Bale,11,3,WAL,16.07.1989,26,186,12,Real Madrid,ESP
+143,Benzema,Karim,Benzema,9,4,FRA,19.12.1987,27,183,43,Real Madrid,ESP
+144,Carvajal,Dani,Carvajal,15,2,ESP,11.01.1992,23,171,0,Real Madrid,ESP
+145,Casemiro,,Casemiro,14,3,BRA,23.02.1992,23,184,1,Real Madrid,ESP
+146,Casilla,Kiko,Casilla,13,1,ESP,02.10.1986,28,191,0,Real Madrid,ESP
+147,Cheryshev,Denis,Cheryshev,21,3,RUS,26.12.1990,24,179,0,Real Madrid,ESP
+148,Danilo,,Danilo,23,2,BRA,15.07.1991,24,184,1,Real Madrid,ESP
+149,Isco,,Isco,22,3,ESP,21.04.1992,23,175,6,Real Madrid,ESP
+150,James Rodr??guez,,James Rodr??guez,10,3,COL,12.07.1991,24,180,3,Real Madrid,ESP
+151,Jes??,,Jes??,20,4,ESP,26.02.1993,22,178,0,Real Madrid,ESP
+152,Kova??i??,Mateo,Kova??i??,16,3,CRO,06.05.1994,21,179,1,Real Madrid,ESP
+153,Kroos,Toni,Kroos,8,3,GER,04.01.1990,25,180,6,Real Madrid,ESP
+154,Llorente,Marcos,Llorente,28,3,ESP,30.01.1995,20,182,0,Real Madrid,ESP
+155,Lucas V??zquez,,Lucas V??zquez,18,3,ESP,01.07.1991,24,173,0,Real Madrid,ESP
+156,Marcelo,,Marcelo,12,2,BRA,12.05.1988,27,174,5,Real Madrid,ESP
+157,Mayoral,Borja,Mayoral,29,4,ESP,05.04.1997,18,181,0,Real Madrid,ESP
+158,Modri??,Luka,Modri??,19,3,CRO,09.09.1985,30,171,5,Real Madrid,ESP
+159,Nacho,,Nacho,6,2,ESP,18.01.1990,25,178,0,Real Madrid,ESP
+160,Navas,Keylor,Navas,1,1,CRC,15.12.1986,28,184,0,Real Madrid,ESP
+161,??degaard,Martin,??degaard,27,3,NOR,17.12.1998,16,170,0,Real Madrid,ESP
+162,Pepe,,Pepe,3,2,POR,26.02.1983,32,187,3,Real Madrid,ESP
+163,Ramos,Sergio,Ramos,4,2,ESP,30.03.1986,29,183,8,Real Madrid,ESP
+164,Ronaldo,Cristiano,Ronaldo,7,4,POR,05.02.1985,30,184,81,Real Madrid,ESP
+165,Varane,Rapha??l,Varane,2,2,FRA,25.04.1993,22,191,0,Real Madrid,ESP
+166,Y????ez,Rub??n,Y????ez,31,1,ESP,12.10.1993,21,187,0,Real Madrid,ESP
+167,Alberto,Suently,Alberto,33,2,NED,09.06.1996,19,178,0,PSV,NED
+168,Arias,Santiago,Arias,4,2,COL,13.01.1992,23,175,0,PSV,NED
+169,Bergwijn,Steven,Bergwijn,27,4,NED,08.10.1997,17,171,0,PSV,NED
+170,J. Bertrams,Jesse,Bertrams,31,1,NED,22.12.1994,20,187,0,PSV,NED
+171,Boljevi??,Aleksandar,Boljevi??,39,4,MNE,12.12.1995,19,172,0,PSV,NED
+172,Brenet,Joshua,Brenet,20,2,NED,20.03.1994,21,181,0,PSV,NED
+173,Bruma,Jeffrey,Bruma,5,2,NED,13.11.1991,23,186,0,PSV,NED
+174,De Jong,Luuk,de Jong,9,4,NED,27.08.1990,25,188,2,PSV,NED
+175,De Wijs,Jordy,De Wijs,30,2,NED,08.01.1995,20,189,0,PSV,NED
+176,Groenendijk,Bob,Groenendijk,48,2,NED,15.05.1996,19,,0,PSV,NED
+177,Guardado,Andr??s,Guardado,18,3,MEX,28.09.1986,28,169,0,PSV,NED
+178,Al. Gu??mundsson,Albert,Gu??mundsson,49,3,ISL,15.06.1997,18,,0,PSV,NED
+179,Heesakkers,Sander,Heesakkers,36,2,NED,08.01.1995,20,182,0,PSV,NED
+180,Hendrix,Jorrit,Hendrix,29,2,NED,06.02.1995,20,182,0,PSV,NED
+181,Hermannsson,Hj??rtur,Hermannsson,35,2,ISL,08.02.1995,20,189,0,PSV,NED
+182,Isimat-Mirin,Nicolas,Isimat-Mirin,2,2,FRA,15.11.1991,23,189,0,PSV,NED
+183,Jozefzoon,Florian,Jozefzoon,17,4,NED,09.02.1991,24,173,0,PSV,NED
+184,Koch,Menno,Koch,25,2,NED,02.07.1994,21,195,0,PSV,NED
+185,Koopmans,Luuk,Koopmans,21,1,NED,18.11.1993,21,,0,PSV,NED
+186,Lammers,Sam,Lammers,50,4,NED,30.04.1997,18,,0,PSV,NED
+187,Laursen,Nikolai,Laursen,37,4,DEN,19.02.1998,17,183,0,PSV,NED
+188,Leemans,Clint,Leemans,26,2,NED,15.09.1995,20,186,0,PSV,NED
+189,Lestienne,Maxime,Lestienne,16,4,BEL,17.06.1992,23,176,0,PSV,NED
+190,Locadia,J??rgen,Locadia,19,4,NED,07.11.1993,21,180,1,PSV,NED
+191,Loof,Augustine,Loof,45,2,NED,01.01.1996,19,,0,PSV,NED
+192,Lundqvist,Ramon-Pascal,Lundqvist,38,3,SWE,10.05.1997,18,,0,PSV,NED
+193,Maher,Adam,Maher,10,3,NED,20.07.1993,22,176,0,PSV,NED
+194,Moreno,H??ctor,Moreno,3,2,MEX,17.01.1988,27,183,1,PSV,NED
+195,Narsingh,Luciano,Narsingh,11,4,NED,13.09.1990,25,178,1,PSV,NED
+196,Paal,Kenneth,Paal,32,3,NED,24.06.1997,18,177,0,PSV,NED
+197,Pasveer,Remko,Pasveer,22,1,NED,08.11.1983,31,186,0,PSV,NED
+198,Pereiro,Gast??n,Pereiro,7,3,URU,11.06.1995,20,188,0,PSV,NED
+199,S. Poulsen,Simon,Poulsen,14,2,DEN,07.10.1984,30,186,0,PSV,NED
+200,Pr??pper,Davy,Pr??pper,6,3,NED,02.09.1991,24,189,0,PSV,NED
+201,Rommens,Olivier,Rommens,40,3,BEL,03.02.1995,20,177,0,PSV,NED
+202,Sanoh,Moussa,Sanoh,44,4,NED,20.07.1995,20,174,0,PSV,NED
+203,Schaars,Stijn,Schaars,8,3,NED,11.01.1984,31,181,0,PSV,NED
+204,van Osch,Yanick,van Osch,41,1,NED,24.03.1997,18,,0,PSV,NED
+205,van Vlerken,Bram,van Vlerken,34,2,NED,07.10.1995,19,175,0,PSV,NED
+206,Vloet,Rai,Vloet,23,3,NED,08.05.1995,20,180,0,PSV,NED
+207,Willems,Jetro,Willems,15,2,NED,30.03.1994,21,170,0,PSV,NED
+208,Zoet,Jeroen,Zoet,1,1,NED,06.01.1991,24,186,0,PSV,NED
+209,Aboubakar,Vincent,Aboubakar,9,4,CMR,22.01.1992,23,184,5,Porto,POR
+210,Alberto Bueno,,Alberto Bueno,23,4,ESP,20.03.1988,27,178,0,Porto,POR
+211,Andr?? Andr??,,Andr?? Andr??,20,3,POR,26.08.1989,26,174,0,Porto,POR
+212,Andr?? Silva,,Andr?? Silva,19,4,POR,06.11.1995,19,182,0,Porto,POR
+213,Brahimi,Yacine,Brahimi,8,3,ALG,08.02.1990,25,175,6,Porto,POR
+214,Bruno Costa,,Bruno Costa,87,4,POR,19.04.1997,18,169,0,Porto,POR
+215,Caio,Andr??,Caio,91,1,POR,23.02.1994,21,177,0,Porto,POR
+216,Casillas,Iker,Casillas,12,1,ESP,20.05.1981,34,185,0,Porto,POR
+217,Cissokho,Aly,Cissokho,28,2,FRA,15.09.1987,28,181,1,Porto,POR
+218,Corona,Jes??s,Corona,17,4,MEX,06.01.1993,22,,0,Porto,POR
+219,Danilo,,Danilo,22,3,POR,09.09.1991,24,188,0,Porto,POR
+220,David Sualehe,,David Sualehe,65,2,POR,23.03.1997,18,,0,Porto,POR
+221,Diogo Sousa,,Diogo Sousa,73,2,POR,26.10.1996,18,185,0,Porto,POR
+222,Evandro,,Evandro,15,3,BRA,23.08.1986,29,179,0,Porto,POR
+223,Fernando,,Fernando,72,2,POR,14.03.1997,18,,0,Porto,POR
+224,Filipe Ferreira,,Filipe Ferreira,51,1,POR,20.09.1996,18,,0,Porto,POR
+225,Francisco Ramos,,Francisco Ramos,48,3,POR,10.04.1995,20,177,0,Porto,POR
+226,Helton,,Helton,1,1,BRA,18.05.1978,37,189,0,Porto,POR
+227,Herrera,Hector,Herrera,16,3,MEX,19.04.1990,25,183,4,Porto,POR
+228,Imbula,Giannelli,Imbula,25,3,FRA,12.09.1992,23,186,0,Porto,POR
+229,Jo??o Cardoso,,Jo??o Cardoso,78,3,POR,10.02.1997,18,,0,Porto,POR
+230,Jo??o Costa,,Jo??o Costa,41,1,POR,02.02.1996,19,185,0,Porto,POR
+231,Jo??o Gra??a,,Jo??o Gra??a,50,3,POR,18.06.1995,20,180,0,Porto,POR
+232,Jorge,,Jorge,64,2,POR,02.04.1997,18,,0,Porto,POR
+233,Lay??n,Miguel,Lay??n,21,2,MEX,25.06.1988,27,,0,Porto,POR
+234,Lu??s Mata,,Lu??s Mata,97,4,POR,06.07.1997,18,179,0,Porto,POR
+235,Maicon,,Maicon,4,2,BRA,14.09.1988,27,190,0,Porto,POR
+236,Marcano,Iv??n,Marcano,5,2,ESP,23.06.1987,28,189,0,Porto,POR
+237,Martins Indi,Bruno,Martins Indi,3,2,NED,08.02.1992,23,187,0,Porto,POR
+238,Maxi Pereira,,Maxi Pereira,2,2,URU,08.06.1984,31,173,3,Porto,POR
+239,Osvaldo,Pablo,Osvaldo,10,4,ITA,12.01.1986,29,182,0,Porto,POR
+240,Podstawski,Tom??s,Podstawski,56,3,POR,30.01.1995,20,181,0,Porto,POR
+241,Rafa,,Rafa,55,2,POR,09.05.1995,20,182,0,Porto,POR
+242,R??ben Macedo,,R??ben Macedo,77,4,POR,09.03.1996,19,171,0,Porto,POR
+243,R??ben Neves,,R??ben Neves,6,3,POR,13.03.1997,18,180,0,Porto,POR
+244,Rui Moreira,,Rui Moreira,60,3,POR,31.05.1996,19,178,0,Porto,POR
+245,S??rgio Oliveira,,S??rgio Oliveira,13,3,POR,02.06.1992,23,181,0,Porto,POR
+246,S??rgio Ribeiro,,S??rgio Ribeiro,70,4,POR,18.01.1996,19,178,0,Porto,POR
+247,Tello,Cristian,Tello,11,4,ESP,11.08.1991,24,178,5,Porto,POR
+248,Varela,Silvestre,Varela,7,4,POR,02.02.1985,30,180,3,Porto,POR
+249,Bilal Kisa,,Bilal Kisa,5,3,TUR,22.06.1983,32,180,0,Galatasaray,TUR
+250,Burak Y??lmaz,,Burak Y??lmaz,17,4,TUR,15.07.1985,30,183,10,Galatasaray,TUR
+251,Carole,Lionel,Carole,23,2,FRA,12.04.1991,24,182,0,Galatasaray,TUR
+252,Cenk G??nen,,Cenk G??nen,99,1,TUR,21.02.1988,27,190,0,Galatasaray,TUR
+253,Chedjou,Aur??lien,Chedjou,21,2,CMR,20.06.1985,30,184,2,Galatasaray,TUR
+254,Denayer,Jason,Denayer,64,2,BEL,28.06.1995,20,184,0,Galatasaray,TUR
+255,Emre ??olak,,Emre ??olak,52,3,TUR,20.05.1991,24,168,0,Galatasaray,TUR
+256,Eray ????can,,Eray ????can,67,1,TUR,19.07.1991,24,195,0,Galatasaray,TUR
+257,G??nter,Koray,G??nter,28,2,GER,16.08.1994,21,185,0,Galatasaray,TUR
+258,Hakan Balta,,Hakan Balta,22,2,TUR,23.03.1983,32,184,1,Galatasaray,TUR
+259,Hamit Alt??ntop,,Hamit Alt??ntop,4,3,TUR,08.12.1982,32,183,2,Galatasaray,TUR
+260,Jem Paul Karacan,,Jem Paul Karacan,6,3,TUR,21.02.1989,26,178,0,Galatasaray,TUR
+261,Jos?? Rodr??guez,,Jos?? Rodr??guez,14,3,ESP,16.12.1994,20,180,0,Galatasaray,TUR
+262,Muslera,Fernando,Muslera,1,1,URU,16.06.1986,29,190,0,Galatasaray,TUR
+263,Olcan Ad??n,,Olcan Ad??n,29,3,TUR,30.09.1985,29,176,0,Galatasaray,TUR
+264,Podolski,Lukas,Podolski,11,4,GER,04.06.1985,30,182,11,Galatasaray,TUR
+265,Sabri Sar??o??lu,,Sabri Sar??o??lu,55,2,TUR,26.07.1984,31,170,2,Galatasaray,TUR
+266,Sel??uk ??nan,,Sel??uk ??nan,8,3,TUR,10.02.1985,30,182,0,Galatasaray,TUR
+267,Semih Kaya,,Semih Kaya,26,2,TUR,24.02.1991,24,182,0,Galatasaray,TUR
+268,Sinan G??m??s,,Sinan G??m??s,18,4,TUR,15.01.1994,21,179,0,Galatasaray,TUR
+269,Sneijder,Wesley,Sneijder,10,3,NED,09.06.1984,31,170,15,Galatasaray,TUR
+270,Tar??k ??amdal,,Tar??k ??amdal,38,2,TUR,24.03.1991,24,172,0,Galatasaray,TUR
+271,Umut Bulut,,Umut Bulut,9,4,TUR,15.03.1983,32,184,4,Galatasaray,TUR
+272,Yasin ??ztekin,,Yasin ??ztekin,7,3,TUR,19.03.1987,28,179,0,Galatasaray,TUR
+273,Adriano,,Adriano,21,2,BRA,26.10.1984,30,172,1,Barcelona,ESP
+274,David Babunski,David,Babunski,29,3,MKD,01.03.1994,21,,0,Barcelona,ESP
+275,Bartra,Marc,Bartra,15,2,ESP,15.01.1991,24,183,0,Barcelona,ESP
+276,Bravo,Claudio,Bravo,13,1,CHI,13.04.1983,32,184,0,Barcelona,ESP
+277,Busquets,Sergio,Busquets,5,3,ESP,16.07.1988,27,189,4,Barcelona,ESP
+278,C??mara,Juan,C??mara,27,3,ESP,13.02.1994,21,,0,Barcelona,ESP
+279,Dani Alves,,Dani Alves,6,2,BRA,06.05.1983,32,173,7,Barcelona,ESP
+280,Douglas,,Douglas,2,2,BRA,06.08.1990,25,171,0,Barcelona,ESP
+281,Grimaldo,Alejandro,Grimaldo,30,2,ESP,20.09.1995,19,170,0,Barcelona,ESP
+282,Gumbau,Gerard,Gumbau,28,3,ESP,18.12.1994,20,188,0,Barcelona,ESP
+283,Iniesta,Andr??s,Iniesta,8,3,ESP,11.05.1984,31,170,10,Barcelona,ESP
+284,Jordi Alba,,Jordi Alba,18,2,ESP,21.03.1989,26,170,2,Barcelona,ESP
+285,Mascherano,Javier,Mascherano,14,2,ARG,08.06.1984,31,174,0,Barcelona,ESP
+286,Masip,Jordi,Masip,25,1,ESP,03.01.1989,26,179,0,Barcelona,ESP
+287,Mathieu,J??r??my,Mathieu,24,2,FRA,29.10.1983,31,189,0,Barcelona,ESP
+288,Messi,Lionel,Messi,10,4,ARG,24.06.1987,28,169,77,Barcelona,ESP
+289,Munir El Haddadi,,Munir El Haddadi,17,4,ESP,01.09.1995,20,175,0,Barcelona,ESP
+290,Neymar,,Neymar,11,4,BRA,05.02.1992,23,175,14,Barcelona,ESP
+291,Piqu??,Gerard,Piqu??,3,2,ESP,02.02.1987,28,192,9,Barcelona,ESP
+292,Rafinha,,Rafinha,12,3,ESP,12.02.1993,22,174,0,Barcelona,ESP
+293,Rakiti??,Ivan,Rakiti??,4,3,CRO,10.03.1988,27,184,2,Barcelona,ESP
+294,Samper,Sergi,Samper,26,3,ESP,20.01.1995,20,181,0,Barcelona,ESP
+295,Sandro Ram??rez,,Sandro Ram??rez,19,4,ESP,09.07.1995,20,175,1,Barcelona,ESP
+296,Sergi Roberto,,Sergi Roberto,20,3,ESP,07.02.1992,23,177,1,Barcelona,ESP
+297,Su??rez,Jos?? Aurelio,Su??rez,31,1,ESP,18.12.1995,19,191,0,Barcelona,ESP
+298,Su??rez,Luis,Su??rez,9,4,URU,24.01.1987,28,181,13,Barcelona,ESP
+299,ter Stegen,Marc-Andr??,ter Stegen,1,1,GER,30.04.1992,23,187,0,Barcelona,ESP
+300,Vermaelen,Thomas,Vermaelen,23,2,BEL,14.11.1985,29,180,1,Barcelona,ESP
+301,Andr?? Ramalho,,Andr?? Ramalho,2,2,BRA,16.02.1992,23,182,0,Leverkusen,GER
+302,Bellarabi,Karim,Bellarabi,38,3,GER,08.04.1990,25,183,3,Leverkusen,GER
+303,L. Bender,Lars,Bender,8,3,GER,27.04.1989,26,183,1,Leverkusen,GER
+304,Boenisch,Sebastian,Boenisch,17,2,POL,01.02.1987,28,191,0,Leverkusen,GER
+305,Brandt,Julian,Brandt,19,3,GER,02.05.1996,19,183,0,Leverkusen,GER
+306,Donati,Giulio,Donati,26,2,ITA,05.02.1990,25,181,1,Leverkusen,GER
+307,Frey,Marlon,Frey,37,3,GER,24.03.1996,19,,0,Leverkusen,GER
+308,Hakan ??alhano??lu,,Hakan ??alhano??lu,10,3,TUR,08.02.1994,21,176,6,Leverkusen,GER
+309,Hern??ndez,Javier,Hern??ndez,7,4,MEX,01.06.1988,27,175,9,Leverkusen,GER
+310,Hilbert,Roberto,Hilbert,13,2,GER,16.10.1984,30,182,0,Leverkusen,GER
+311,Jedvaj,Tin,Jedvaj,16,2,CRO,28.11.1995,19,184,0,Leverkusen,GER
+312,Kampl,Kevin,Kampl,44,3,SVN,09.10.1990,24,180,0,Leverkusen,GER
+313,Kiessling,Stefan,Kiessling,11,4,GER,25.01.1984,31,191,7,Leverkusen,GER
+314,Kramer,Christoph,Kramer,23,3,GER,19.02.1991,24,190,0,Leverkusen,GER
+315,Kre??i??,Dario,Kre??i??,25,1,CRO,11.01.1984,31,199,0,Leverkusen,GER
+316,Leno,Bernd,Leno,1,1,GER,04.03.1992,23,188,0,Leverkusen,GER
+317,Mehmedi,Admir,Mehmedi,14,4,SUI,16.03.1991,24,183,4,Leverkusen,GER
+318,??mer Toprak,,??mer Toprak,21,2,TUR,21.07.1989,26,186,2,Leverkusen,GER
+319,Papadopoulos,Kyriakos,Papadopoulos,5,2,GRE,23.02.1992,23,183,1,Leverkusen,GER
+320,Ryu,Seung-Woo,Ryu,24,4,KOR,17.12.1993,21,,0,Leverkusen,GER
+321,Tah,Jonathan,Tah,4,2,GER,11.02.1996,19,,0,Leverkusen,GER
+322,Wendell,,Wendell,18,2,BRA,20.07.1993,22,176,0,Leverkusen,GER
+323,Yelldell,David,Yelldell,22,1,USA,01.10.1981,33,194,0,Leverkusen,GER
+324,Yurchenko,Vladlen,Yurchenko,35,3,UKR,22.01.1994,21,178,0,Leverkusen,GER
+325,Ag??ero,Dami??n,Ag??ero,33,4,ESP,18.01.1997,18,,0,Atl??tico,ESP
+326,Barrag??n,Bernab??,Barrag??n,25,1,ESP,18.02.1993,22,,0,Atl??tico,ESP
+327,Benjam??n,,Benjam??n,29,3,GHA,04.01.1994,21,178,0,Atl??tico,ESP
+328,Ca??ete,,Ca??ete,28,2,ESP,22.04.1995,20,185,0,Atl??tico,ESP
+329,Correa,??ngel,Correa,16,3,ARG,09.03.1995,20,174,0,Atl??tico,ESP
+330,Del Amo,Oscar,Del Amo,35,2,ESP,24.10.1997,17,,0,Atl??tico,ESP
+331,Ferreira-Carrasco,Yannick,Ferreira-Carrasco,21,4,BEL,04.09.1993,22,180,1,Atl??tico,ESP
+332,Filipe Lu??s,,Filipe Lu??s,3,2,BRA,09.08.1985,30,188,1,Atl??tico,ESP
+333,Gabi,,Gabi,14,3,ESP,10.07.1983,32,180,0,Atl??tico,ESP
+334,G??mez,Jes??s,G??mez,18,2,ESP,10.04.1985,30,182,0,Atl??tico,ESP
+335,Gim??nez,Jos?? Mar??a,Gim??nez,24,2,URU,20.01.1995,20,185,0,Atl??tico,ESP
+336,God??n,Diego,God??n,2,2,URU,16.02.1986,29,186,3,Atl??tico,ESP
+337,Griezmann,Antoine,Griezmann,7,3,FRA,21.03.1991,24,176,5,Atl??tico,ESP
+338,Guille P??rez,,Guille P??rez,41,1,ESP,10.01.1997,18,,0,Atl??tico,ESP
+339,Hern??ndez,Mario,Hern??ndez,37,2,ESP,25.01.1999,16,,0,Atl??tico,ESP
+340,Jaime Almagro,,Jaime Almagro,34,3,ESP,14.03.1997,18,,0,Atl??tico,ESP
+341,Juan Moreno,,Juan Moreno,39,3,ESP,11.05.1997,18,175,0,Atl??tico,ESP
+342,Juanfran,,Juanfran,20,2,ESP,09.01.1985,30,180,0,Atl??tico,ESP
+343,Koke,,Koke,6,3,ESP,08.01.1992,23,178,3,Atl??tico,ESP
+344,Lucas Hern??ndez,,Lucas Hern??ndez,19,2,FRA,14.02.1996,19,180,0,Atl??tico,ESP
+345,Mart??nez,Jackson,Mart??nez,11,4,COL,03.10.1986,28,184,13,Atl??tico,ESP
+346,Morales,Carlos,Morales,38,1,ESP,28.07.1996,19,,0,Atl??tico,ESP
+347,Moy??,Miguel ??ngel,Moy??,1,1,ESP,02.04.1984,31,189,0,Atl??tico,ESP
+348,Muguruza,??lvaro,Muguruza,40,2,ESP,10.05.1997,18,,0,Atl??tico,ESP
+349,Nacho Monsalve,,Nacho Monsalve,27,2,ESP,27.04.1994,21,180,0,Atl??tico,ESP
+350,Nica Gomes,,Nica Gomes,36,3,ESP,07.07.1997,18,,0,Atl??tico,ESP
+351,Nu??ez,Roberto,Nu??ez,30,4,ESP,03.01.1996,19,,0,Atl??tico,ESP
+352,Oblak,Jan,Oblak,13,1,SVN,07.01.1993,22,186,0,Atl??tico,ESP
+353,??liver Torres,,??liver Torres,10,3,ESP,10.11.1994,20,178,0,Atl??tico,ESP
+354,Partey,Thomas,Partey,22,3,GHA,13.06.1993,22,185,0,Atl??tico,ESP
+355,Rentero,Alberto,Rentero,42,3,ESP,24.03.1997,18,,0,Atl??tico,ESP
+356,San Rom??n,Miguel,San Rom??n,43,1,ESP,14.07.1997,18,,0,Atl??tico,ESP
+357,San??,Arona,San??,31,3,SEN,21.06.1995,20,,0,Atl??tico,ESP
+358,Sa??l ????guez,,Sa??l ????guez,17,3,ESP,21.11.1994,20,180,0,Atl??tico,ESP
+359,Savi??,Stefan,Savi??,15,2,MNE,08.01.1991,24,186,0,Atl??tico,ESP
+360,Siqueira,Guilherme,Siqueira,4,2,ITA,28.04.1986,29,183,0,Atl??tico,ESP
+361,Talavera,Gonzalo,Talavera,44,2,ESP,15.07.1997,18,,0,Atl??tico,ESP
+362,Tiago,,Tiago,5,3,POR,02.05.1981,34,183,4,Atl??tico,ESP
+363,Torres,Fernando,Torres,9,4,ESP,20.03.1984,31,186,18,Atl??tico,ESP
+364,Vietto,Luciano,Vietto,23,4,ARG,05.12.1993,21,173,0,Atl??tico,ESP
+365,Villa,Samuel,Villa,32,4,ESP,16.09.1994,21,176,0,Atl??tico,ESP
+366,Xu Xin,,Xu Xin,26,3,CHN,19.04.1994,21,179,0,Atl??tico,ESP
+367,Capradossi,Elio,Capradossi,95,2,ITA,11.03.1996,19,185,0,Roma,ITA
+368,Crisanto,Lorenzo,Crisanto,98,1,ITA,20.04.1998,17,,0,Roma,ITA
+369,De Rossi,Daniele,De Rossi,16,3,ITA,24.07.1983,32,184,4,Roma,ITA
+370,De Sanctis,Morgan,De Sanctis,26,1,ITA,26.03.1977,38,190,0,Roma,ITA
+371,Di Livio,Lorenzo,Di Livio,52,3,ITA,11.01.1997,18,,0,Roma,ITA
+372,Digne,Lucas,Digne,3,2,FRA,20.07.1993,22,178,1,Roma,ITA
+373,D'Urso,Christian,D'Urso,53,3,ITA,26.07.1997,18,,0,Roma,ITA
+374,D??eko,Edin,D??eko,9,4,BIH,17.03.1986,29,193,7,Roma,ITA
+375,Falqu??,Iago,Falqu??,14,3,ESP,04.01.1990,25,172,0,Roma,ITA
+376,Florenzi,Alessandro,Florenzi,24,3,ITA,11.03.1991,24,173,1,Roma,ITA
+377,Gervinho,,Gervinho,27,4,CIV,27.05.1987,28,179,5,Roma,ITA
+378,Iturbe,Juan Manuel,Iturbe,7,3,PAR,04.06.1993,22,169,1,Roma,ITA
+379,Keita,Seydou,Keita,20,3,MLI,16.01.1980,35,183,6,Roma,ITA
+380,Leandro Cast??n,,Leandro Cast??n,5,2,BRA,05.11.1986,28,184,0,Roma,ITA
+381,Maicon,,Maicon,13,2,BRA,26.07.1981,34,184,5,Roma,ITA
+382,Manolas,Kostas,Manolas,44,2,GRE,14.06.1991,24,186,2,Roma,ITA
+383,Marchizza,Riccardo,Marchizza,91,2,ITA,26.03.1998,17,,0,Roma,ITA
+384,Nainggolan,Radja,Nainggolan,4,3,BEL,04.05.1988,27,176,0,Roma,ITA
+385,Pjani??,Miralem,Pjani??,15,3,BIH,02.04.1990,25,180,6,Roma,ITA
+386,R??diger,Antonio,R??diger,2,2,GER,03.03.1993,22,190,0,Roma,ITA
+387,Salah,Mohamed,Salah,11,4,EGY,15.06.1992,23,175,5,Roma,ITA
+388,Salih U??an,,Salih U??an,48,3,TUR,06.01.1994,21,182,0,Roma,ITA
+389,Soleri,Edoardo,Soleri,92,4,ITA,19.10.1997,17,,0,Roma,ITA
+390,Szcz??sny,Wojciech,Szcz??sny,25,1,POL,18.04.1990,25,195,0,Roma,ITA
+391,Torosidis,Vasilis,Torosidis,35,2,GRE,10.06.1985,30,185,2,Roma,ITA
+392,Totti,Francesco,Totti,10,4,ITA,27.09.1976,38,180,17,Roma,ITA
+393,Tumminello,Marco,Tumminello,93,4,ITA,06.11.1998,16,,0,Roma,ITA
+394,Vainqueur,William,Vainqueur,21,3,FRA,19.11.1988,26,179,0,Roma,ITA
+395,Alex Sandro,,Alex Sandro,12,2,BRA,26.01.1991,24,179,0,Juventus,ITA
+396,Audero,Emil,Audero,38,1,ITA,18.01.1997,18,189,0,Juventus,ITA
+397,Barzagli,Andrea,Barzagli,15,2,ITA,08.05.1981,34,186,0,Juventus,ITA
+398,Bonucci,Leonardo,Bonucci,19,2,ITA,01.05.1987,28,190,1,Juventus,ITA
+399,Buffon,Gianluigi,Buffon,1,1,ITA,28.01.1978,37,192,0,Juventus,ITA
+400,C??ceres,Mart??n,C??ceres,4,2,URU,07.04.1987,28,182,0,Juventus,ITA
+401,Chiellini,Giorgio,Chiellini,3,2,ITA,14.08.1984,31,186,2,Juventus,ITA
+402,Cuadrado,Juan,Cuadrado,16,4,COL,26.05.1988,27,176,0,Juventus,ITA
+403,Dybala,Paulo,Dybala,21,4,ARG,15.11.1993,21,177,0,Juventus,ITA
+404,Evra,Patrice,Evra,33,2,FRA,15.05.1981,34,175,2,Juventus,ITA
+405,Hernanes,,Hernanes,11,3,BRA,29.05.1985,30,180,0,Juventus,ITA
+406,Khedira,Sami,Khedira,6,3,GER,04.04.1987,28,189,1,Juventus,ITA
+407,Lemina,Mario,Lemina,18,3,FRA,01.09.1993,22,182,0,Juventus,ITA
+408,Lichtsteiner,Stephan,Lichtsteiner,26,2,SUI,16.01.1984,31,180,0,Juventus,ITA
+409,Mand??uki??,Mario,Mand??uki??,17,4,CRO,21.05.1986,29,186,19,Juventus,ITA
+410,Marchisio,Claudio,Marchisio,8,3,ITA,19.01.1986,29,179,2,Juventus,ITA
+411,Morata,??lvaro,Morata,9,4,ESP,23.10.1992,22,187,7,Juventus,ITA
+412,Neto,,Neto,25,1,BRA,19.07.1989,26,191,0,Juventus,ITA
+413,Pereyra,Roberto,Pereyra,37,3,ARG,07.01.1991,24,184,0,Juventus,ITA
+414,Pogba,Paul,Pogba,10,3,FRA,15.03.1993,22,186,1,Juventus,ITA
+415,Rugani,Daniele,Rugani,24,2,ITA,29.07.1994,21,188,0,Juventus,ITA
+416,Sturaro,Stefano,Sturaro,27,3,ITA,09.03.1993,22,178,0,Juventus,ITA
+417,Zaza,Simone,Zaza,7,4,ITA,25.06.1991,24,186,0,Juventus,ITA
+418,Alex Alfaiate,,Alex Alfaiate,75,2,POR,17.08.1995,20,182,0,Benfica,POR
+419,Andr?? Almeida,,Andr?? Almeida,34,2,POR,10.09.1990,25,185,0,Benfica,POR
+420,Andr?? Ferreira,,Andr?? Ferreira,86,1,POR,29.05.1996,19,,0,Benfica,POR
+421,Buta,,Buta,94,4,POR,10.02.1997,18,,0,Benfica,POR
+422,Carcela-Gonz??lez,Mehdi,Carcela-Gonz??lez,39,3,MAR,01.07.1989,26,176,0,Benfica,POR
+423,Cristante,Bryan,Cristante,24,3,ITA,03.03.1995,20,186,0,Benfica,POR
+424,Ederson,,Ederson,1,1,BRA,17.08.1993,22,188,0,Benfica,POR
+425,Eliseu,,Eliseu,19,2,POR,01.10.1983,31,175,5,Benfica,POR
+426,Fejsa,Ljubomir,Fejsa,5,3,SRB,14.08.1988,27,185,0,Benfica,POR
+427,Francisco Ferreira,,Francisco Ferreira,97,2,POR,26.03.1997,18,,0,Benfica,POR
+428,Gait??n,Nicol??s,Gait??n,10,3,ARG,23.02.1988,27,173,3,Benfica,POR
+429,Gilson Costa,,Gilson Costa,55,3,POR,24.09.1996,18,,0,Benfica,POR
+430,Gon??alo Guedes,,Gon??alo Guedes,20,4,POR,29.11.1996,18,179,0,Benfica,POR
+431,Gon??alo Rodrigues,,Gon??alo Rodrigues,68,3,POR,18.07.1997,18,,0,Benfica,POR
+432,Hildeberto Pereira,,Hildeberto Pereira,99,4,POR,02.03.1996,19,,0,Benfica,POR
+433,Jardel,,Jardel,33,2,BRA,29.03.1986,29,192,0,Benfica,POR
+434,Jim??nez,Ra??l,Jim??nez,9,4,MEX,05.05.1991,24,190,0,Benfica,POR
+435,Jo??o Carvalho,,Jo??o Carvalho,90,3,POR,09.03.1997,18,,0,Benfica,POR
+436,Jo??o Escoval,,Jo??o Escoval,65,2,POR,08.05.1997,18,,0,Benfica,POR
+437,Jo??o Lima,,Jo??o Lima,96,2,POR,23.06.1996,19,178,0,Benfica,POR
+438,Jo??o Nunes,,Jo??o Nunes,63,2,POR,19.11.1995,19,186,0,Benfica,POR
+439,Jo??o Teixeira,,Jo??o Teixeira,40,3,POR,06.02.1994,21,178,0,Benfica,POR
+440,Jonas,,Jonas,17,4,BRA,01.04.1984,31,181,8,Benfica,POR
+441,J??lio C??sar,,J??lio C??sar,12,1,BRA,03.09.1979,36,186,0,Benfica,POR
+442,Lindel??f,Victor,Lindel??f,14,2,SWE,17.07.1994,21,187,0,Benfica,POR
+443,Lisandro L??pez,,Lisandro L??pez,2,2,ARG,01.09.1989,26,187,0,Benfica,POR
+444,Luis??o,,Luis??o,4,2,BRA,13.02.1981,34,193,5,Benfica,POR
+445,Miguel Santos,,Miguel Santos,87,1,POR,21.10.1994,20,193,0,Benfica,POR
+446,Mitroglou,Kostas,Mitroglou,11,4,GRE,12.03.1988,27,188,14,Benfica,POR
+447,Nuno Santos,,Nuno Santos,38,4,POR,13.02.1995,20,179,0,Benfica,POR
+448,Ould-Chikh,Bilal,Ould-Chikh,8,4,NED,28.07.1997,18,167,0,Benfica,POR
+449,Paulo Lopes,,Paulo Lopes,13,1,POR,29.06.1978,37,186,0,Benfica,POR
+450,Pedro Rodrigues,,Pedro Rodrigues,88,3,POR,20.05.1997,18,,0,Benfica,POR
+451,Pizzi,,Pizzi,21,4,POR,06.10.1989,25,172,0,Benfica,POR
+452,Rebocho,,Rebocho,60,2,POR,23.01.1995,20,172,0,Benfica,POR
+453,Renato Sanches,,Renato Sanches,85,3,POR,18.08.1997,18,,0,Benfica,POR
+454,Ricardo Carvalho,,Ricardo Carvalho,73,2,POR,06.03.1996,19,,0,Benfica,POR
+455,R??ben Dias,,R??ben Dias,66,2,POR,14.05.1997,18,,0,Benfica,POR
+456,Samaris,Andreas,Samaris,7,3,GRE,13.06.1989,26,189,0,Benfica,POR
+457,Sancidino Silva,,Sancidino Silva,77,4,POR,05.03.1994,21,,0,Benfica,POR
+458,Semedo,N??lson,Semedo,50,2,POR,16.11.1993,21,177,0,Benfica,POR
+459,S??lvio,,S??lvio,28,2,POR,28.09.1987,27,178,0,Benfica,POR
+460,Taarabt,Adel,Taarabt,23,4,MAR,24.05.1989,26,180,0,Benfica,POR
+461,Talisca,,Talisca,30,4,BRA,01.02.1994,21,178,1,Benfica,POR
+462,Tiago Dias,,Tiago Dias,78,4,POR,04.05.1998,17,,0,Benfica,POR
+463,Victor Andrade,,Victor Andrade,31,3,BRA,30.09.1995,19,171,0,Benfica,POR
+464,Yuri Ribeiro,,Yuri Ribeiro,95,2,POR,24.01.1997,18,,0,Benfica,POR
+465,Adu,Enoch Kofi,Adu,8,3,GHA,14.09.1990,25,180,0,Malm??,SWE
+466,Andersson,Erik,Andersson,14,3,SWE,03.05.1997,18,,0,Malm??,SWE
+467,Andersson,Fredrik,Andersson,29,1,SWE,25.10.1988,26,,0,Malm??,SWE
+468,??rnason,K??ri,??rnason,21,2,ISL,13.10.1982,32,,0,Malm??,SWE
+469,Azinovic,Zlatan,Azinovic,27,1,SWE,31.01.1988,27,183,0,Malm??,SWE
+470,Bengtsson,Rasmus,Bengtsson,17,2,SWE,26.06.1986,29,186,0,Malm??,SWE
+471,Berget,Jo Inge,Berget,23,4,NOR,11.09.1990,25,184,3,Malm??,SWE
+472,Brorsson,Franz,Brorsson,31,2,SWE,30.01.1996,19,,0,Malm??,SWE
+473,Carvalho,Felipe,Carvalho,25,2,URU,18.09.1993,22,,0,Malm??,SWE
+474,Cibicki,Pawe??,Cibicki,15,3,SWE,09.01.1994,21,182,0,Malm??,SWE
+475,Djurdji??,Nikola,Djurdji??,28,4,SRB,01.04.1986,29,185,1,Malm??,SWE
+476,Eikrem,Magnus,Eikrem,19,3,NOR,08.08.1990,25,173,1,Malm??,SWE
+477,Johansson,Marko,Johansson,30,1,SWE,25.08.1998,17,,0,Malm??,SWE
+478,Konate,Pa,Konate,2,2,SWE,25.04.1994,21,172,0,Malm??,SWE
+479,Kroon,Simon,Kroon,7,3,SWE,16.06.1993,22,180,1,Malm??,SWE
+480,Lewicki,Oscar,Lewicki,6,3,SWE,14.07.1992,23,,0,Malm??,SWE
+481,Mehmeti,Agon,Mehmeti,11,4,SWE,20.11.1989,25,183,1,Malm??,SWE
+482,Molins,Guillermo,Molins,10,3,SWE,26.09.1988,26,186,1,Malm??,SWE
+483,??zen,Mahmut,??zen,24,2,SWE,01.09.1988,27,179,0,Malm??,SWE
+484,Petrovi??,Petar,Petrovi??,18,3,SWE,15.09.1995,20,,0,Malm??,SWE
+485,Rakip,Erdal,Rakip,5,3,SWE,13.02.1996,19,175,0,Malm??,SWE
+486,Rodi??,Vladimir,Rodi??,20,3,SRB,07.09.1993,22,,1,Malm??,SWE
+487,Rosenberg,Markus,Rosenberg,9,4,SWE,27.09.1982,32,185,14,Malm??,SWE
+488,Sana,Tobias,Sana,22,4,SWE,11.07.1989,26,173,0,Malm??,SWE
+489,Svanberg,Mattias,Svanberg,32,3,SWE,05.01.1999,16,,0,Malm??,SWE
+490,Tinnerholm,Anton,Tinnerholm,3,2,SWE,26.02.1991,24,175,1,Malm??,SWE
+491,Vindheim,Andreas,Vindheim,26,2,NOR,04.08.1995,20,,0,Malm??,SWE
+492,Wiland,Johan,Wiland,1,1,SWE,24.01.1981,34,188,0,Malm??,SWE
+493,Yot??n,Yoshimar,Yot??n,13,2,PER,07.04.1990,25,,0,Malm??,SWE
+494,Ademi,Arijan,Ademi,16,3,CRO,29.05.1991,24,183,2,Dinamo Zagreb,CRO
+495,Antoli??,Domagoj,Antoli??,8,3,CRO,30.06.1990,25,180,1,Dinamo Zagreb,CRO
+496,Benkovi??,Filip,Benkovi??,26,2,CRO,13.07.1997,18,,0,Dinamo Zagreb,CRO
+497,??eki??i,Endri,??eki??i,17,4,ALB,23.11.1996,18,,0,Dinamo Zagreb,CRO
+498,??ori??,Ante,??ori??,24,3,CRO,14.04.1997,18,177,0,Dinamo Zagreb,CRO
+499,Eduardo,,Eduardo,34,1,POR,19.09.1982,32,190,0,Dinamo Zagreb,CRO
+500,Fernandes,Junior,Fernandes,11,4,CHI,10.04.1988,27,181,4,Dinamo Zagreb,CRO
+501,Gojak,Amer,Gojak,14,3,BIH,13.02.1997,18,,0,Dinamo Zagreb,CRO
+502,Gon??alo Santos,,Gon??alo Santos,13,3,POR,15.11.1986,28,185,0,Dinamo Zagreb,CRO
+503,Henr??quez,??ngelo,Henr??quez,9,4,CHI,13.04.1994,21,180,2,Dinamo Zagreb,CRO
+504,Ar. Hod??i??,Armin,Hod??i??,15,4,BIH,17.11.1994,20,,1,Dinamo Zagreb,CRO
+505,Ivo Pinto,,Ivo Pinto,6,2,POR,07.01.1990,25,184,0,Dinamo Zagreb,CRO
+506,Je??ina,Antonijo,Je??ina,1,1,CRO,05.06.1989,26,193,0,Dinamo Zagreb,CRO
+507,M????el,Alexandru,M????el,77,2,ROU,17.10.1989,25,,0,Dinamo Zagreb,CRO
+508,Mikuli??,Marko,Mikuli??,33,1,CRO,30.01.1994,21,187,0,Dinamo Zagreb,CRO
+509,Musa,Mario,Musa,3,3,CRO,06.07.1990,25,,0,Dinamo Zagreb,CRO
+510,Paulo Machado,,Paulo Machado,10,3,POR,31.03.1986,29,174,1,Dinamo Zagreb,CRO
+511,Pavi??i??,Domagoj,Pavi??i??,18,3,CRO,09.03.1994,21,,0,Dinamo Zagreb,CRO
+512,Pivari??,Josip,Pivari??,19,3,CRO,30.01.1989,26,176,2,Dinamo Zagreb,CRO
+513,Pjaca,Marko,Pjaca,20,4,CRO,06.05.1995,20,183,3,Dinamo Zagreb,CRO
+514,Rog,Marko,Rog,30,3,CRO,19.07.1995,20,,2,Dinamo Zagreb,CRO
+515,Schildenfeld,Gordon,Schildenfeld,23,2,CRO,18.03.1985,30,191,0,Dinamo Zagreb,CRO
+516,Sigali,Leonardo,Sigali,22,2,ARG,29.05.1987,28,179,0,Dinamo Zagreb,CRO
+517,Soudani,El Arabi Hilal,Soudani,2,4,ALG,25.11.1987,27,177,8,Dinamo Zagreb,CRO
+518,??ov??i??,Damir,??ov??i??,4,3,CRO,05.02.1990,25,,0,Dinamo Zagreb,CRO
+519,Taravel,J??r??my,Taravel,87,2,FRA,17.04.1987,28,191,1,Dinamo Zagreb,CRO
+520,Abdennour,Aymen,Abdennour,23,2,TUN,06.08.1989,26,187,1,Valencia,ESP
+521,Aderlan Santos,,Aderlan Santos,4,2,BRA,09.04.1989,26,,0,Valencia,ESP
+522,Andr?? Gomes,,Andr?? Gomes,21,3,POR,30.07.1993,22,185,1,Valencia,ESP
+523,Barrag??n,Antonio,Barrag??n,19,2,ESP,12.06.1987,28,187,0,Valencia,ESP
+524,Danilo Barbosa,,Danilo Barbosa,12,3,BRA,28.02.1996,19,,0,Valencia,ESP
+525,De Paul,Rodrigo,De Paul,20,4,ARG,24.05.1994,21,,0,Valencia,ESP
+526,Feghouli,Sofiane,Feghouli,8,3,ALG,26.12.1989,25,178,4,Valencia,ESP
+527,Fran Villalba,,Fran Villalba,30,3,ESP,11.05.1998,17,,0,Valencia,ESP
+528,Gay??,Jos??,Gay??,14,2,ESP,25.05.1995,20,,0,Valencia,ESP
+529,Gil,Nacho,Gil,33,3,ESP,09.09.1995,20,,0,Valencia,ESP
+530,Jaume Dom??nech,,Jaume Dom??nech,24,1,ESP,05.11.1990,24,,0,Valencia,ESP
+531,Javi Fuego,,Javi Fuego,18,3,ESP,04.01.1984,31,,0,Valencia,ESP
+532,Jo??o Cancelo,,Jo??o Cancelo,2,2,POR,27.05.1994,21,,1,Valencia,ESP
+533,Latorre,Antonio,Latorre,36,2,ESP,21.11.1997,17,,0,Valencia,ESP
+534,Mustafi,Shkodran,Mustafi,5,2,GER,17.04.1992,23,183,0,Valencia,ESP
+535,Negredo,??lvaro,Negredo,7,4,ESP,20.08.1985,30,186,7,Valencia,ESP
+536,Orb??n,Lucas,Orb??n,6,2,ESP,03.02.1989,26,184,0,Valencia,ESP
+537,Paco Alc??cer,,Paco Alc??cer,9,4,ESP,30.08.1993,22,,0,Valencia,ESP
+538,Parejo,Daniel,Parejo,10,3,ESP,16.04.1989,26,178,1,Valencia,ESP
+539,Pascual,Andr??s,Pascual,34,4,ESP,18.11.1996,18,,0,Valencia,ESP
+540,P??rez,Enzo,P??rez,15,3,ARG,22.02.1986,29,179,0,Valencia,ESP
+541,Piatti,Pablo,Piatti,11,4,ARG,31.03.1989,26,163,0,Valencia,ESP
+542,Rodrigo,,Rodrigo,17,4,ESP,06.03.1991,24,180,3,Valencia,ESP
+543,R??ben Vezo,,R??ben Vezo,3,2,POR,25.04.1994,21,,0,Valencia,ESP
+544,Ryan,Mathew,Ryan,25,1,AUS,08.04.1992,23,182,0,Valencia,ESP
+545,Santi Mina,,Santi Mina,22,4,ESP,07.12.1995,19,,0,Valencia,ESP
+546,Sivera,Antonio,Sivera,35,1,ESP,11.08.1996,19,,0,Valencia,ESP
+547,Tropi,,Tropi,28,3,ESP,12.05.1995,20,,0,Valencia,ESP
+548,Yoel,,Yoel,13,1,ESP,28.08.1988,27,,0,Valencia,ESP
+549,Alexis S??nchez,,Alexis S??nchez,17,4,CHI,19.12.1988,26,168,7,Arsenal,ENG
+550,Arteta,Mikel,Arteta,8,3,ESP,26.03.1982,33,183,3,Arsenal,ENG
+551,Beller??n,H??ctor,Beller??n,24,2,ESP,19.03.1995,20,177,0,Arsenal,ENG
+552,Campbell,Joel,Campbell,28,4,CRC,26.06.1992,23,178,1,Arsenal,ENG
+553,??ech,Petr,??ech,33,1,CZE,20.05.1982,33,196,0,Arsenal,ENG
+554,Chambers,Calum,Chambers,21,2,ENG,20.01.1995,20,183,0,Arsenal,ENG
+555,Coquelin,Francis,Coquelin,34,3,FRA,13.05.1991,24,178,0,Arsenal,ENG
+556,Debuchy,Mathieu,Debuchy,2,2,FRA,28.07.1985,30,177,0,Arsenal,ENG
+557,Flamini,Mathieu,Flamini,20,3,FRA,07.03.1984,31,178,1,Arsenal,ENG
+558,Gabriel,,Gabriel,5,2,BRA,26.11.1990,24,185,0,Arsenal,ENG
+559,Gibbs,Kieran,Gibbs,3,2,ENG,26.09.1989,25,178,2,Arsenal,ENG
+560,Giroud,Olivier,Giroud,12,4,FRA,30.09.1986,28,192,6,Arsenal,ENG
+561,Hinds,Kaylen,Hinds,42,4,ENG,28.01.1998,17,180,0,Arsenal,ENG
+562,Huddart,Ryan,Huddart,43,1,ENG,06.03.1997,18,191,0,Arsenal,ENG
+563,Iliev,Deyan,Iliev,44,1,BUL,25.02.1995,20,,0,Arsenal,ENG
+564,Iwobi,Alex,Iwobi,45,4,ENG,03.05.1996,19,180,0,Arsenal,ENG
+565,Johnson,Chiori,Johnson,46,2,ENG,05.10.1997,17,175,0,Arsenal,ENG
+566,Kamara,Glen,Kamara,47,3,FIN,28.10.1995,19,183,0,Arsenal,ENG
+567,Koscielny,Laurent,Koscielny,6,2,FRA,10.09.1985,30,186,2,Arsenal,ENG
+568,Macey,Matt,Macey,49,1,ENG,09.09.1994,21,,0,Arsenal,ENG
+569,Mavididi,Stephy,Mavididi,50,4,ENG,31.05.1998,17,,0,Arsenal,ENG
+570,Mertesacker,Per,Mertesacker,4,2,GER,29.09.1984,30,198,2,Arsenal,ENG
+571,Monreal,Nacho,Monreal,18,2,ESP,26.02.1986,29,178,0,Arsenal,ENG
+572,Moore,Tafari,Moore,51,2,ENG,05.07.1997,18,173,0,Arsenal,ENG
+573,O'Connor,Stefan,O'Connor,52,2,ENG,23.01.1997,18,186,0,Arsenal,ENG
+574,Ospina,David,Ospina,13,1,COL,31.08.1988,27,183,0,Arsenal,ENG
+575,Oxlade-Chamberlain,Alex,Oxlade-Chamberlain,15,4,ENG,15.08.1993,22,180,3,Arsenal,ENG
+576,??zil,Mesut,??zil,11,3,GER,15.10.1988,26,183,5,Arsenal,ENG
+577,Ramsey,Aaron,Ramsey,16,3,WAL,26.12.1990,24,177,11,Arsenal,ENG
+578,Reine-Ad??la??de,Jeff,Reine-Ad??la??de,54,3,FRA,17.01.1998,17,,0,Arsenal,ENG
+579,Robinson,Tyrell,Robinson,55,3,ENG,16.09.1997,18,,0,Arsenal,ENG
+580,Rosick??,Tom????,Rosick??,7,3,CZE,04.10.1980,34,178,12,Arsenal,ENG
+581,Santi Cazorla,,Santi Cazorla,19,3,ESP,13.12.1984,30,168,0,Arsenal,ENG
+582,Walcott,Theo,Walcott,14,4,ENG,16.03.1989,26,176,13,Arsenal,ENG
+583,Welbeck,Danny,Welbeck,23,4,ENG,26.11.1990,24,185,7,Arsenal,ENG
+584,Willock,Chris,Willock,59,4,ENG,31.01.1998,17,180,0,Arsenal,ENG
+585,Wilshere,Jack,Wilshere,10,3,ENG,01.01.1992,23,172,4,Arsenal,ENG
+586,Ander Herrera,,Ander Herrera,21,3,ESP,14.08.1989,26,182,1,Man. United,ENG
+587,Blind,Daley,Blind,17,3,NED,09.03.1990,25,180,0,Man. United,ENG
+588,Carrick,Michael,Carrick,16,3,ENG,28.07.1981,34,188,4,Man. United,ENG
+589,Darmian,Matteo,Darmian,36,2,ITA,02.12.1989,25,182,0,Man. United,ENG
+590,De Gea,David,de Gea,1,1,ESP,07.11.1990,24,192,0,Man. United,ENG
+591,Depay,Memphis,Depay,7,4,NED,13.02.1994,21,176,4,Man. United,ENG
+592,Fellaini,Marouane,Fellaini,27,3,BEL,22.11.1987,27,194,1,Man. United,ENG
+593,Johnstone,Sam,Johnstone,50,1,ENG,25.03.1993,22,,0,Man. United,ENG
+594,Jones,Phil,Jones,4,2,ENG,21.02.1992,23,180,2,Man. United,ENG
+595,Juan Mata,,Juan Mata,8,3,ESP,28.04.1988,27,170,6,Man. United,ENG
+596,Lingard,Jesse,Lingard,35,3,ENG,15.12.1992,22,,0,Man. United,ENG
+597,Martial,Anthony,Martial,9,4,FRA,05.12.1995,19,181,1,Man. United,ENG
+598,McNair,Paddy,McNair,33,2,NIR,27.04.1995,20,,0,Man. United,ENG
+599,Pereira,Andreas,Pereira,44,3,BEL,01.01.1996,19,,0,Man. United,ENG
+600,Powell,Nick,Powell,22,3,ENG,23.03.1994,21,183,0,Man. United,ENG
+601,Rojo,Marcos,Rojo,5,2,ARG,20.03.1990,25,187,0,Man. United,ENG
+602,Romero,Sergio,Romero,20,1,ARG,22.02.1987,28,192,0,Man. United,ENG
+603,Rooney,Wayne,Rooney,10,4,ENG,24.10.1985,29,176,33,Man. United,ENG
+604,Schneiderlin,Morgan,Schneiderlin,28,3,FRA,08.11.1989,25,,0,Man. United,ENG
+605,Schweinsteiger,Bastian,Schweinsteiger,31,3,GER,01.08.1984,31,183,13,Man. United,ENG
+606,Shaw,Luke,Shaw,23,2,ENG,12.07.1995,20,,0,Man. United,ENG
+607,Smalling,Chris,Smalling,12,2,ENG,22.11.1989,25,194,1,Man. United,ENG
+608,A. Valencia,Antonio,Valencia,25,3,ECU,04.08.1985,30,178,6,Man. United,ENG
+609,Varela,Guillermo,Varela,30,2,URU,24.03.1993,22,173,0,Man. United,ENG
+610,Wilson,James,Wilson,19,4,ENG,01.12.1995,19,,0,Man. United,ENG
+611,Young,Ashley,Young,18,3,ENG,09.07.1985,30,177,1,Man. United,ENG
+612,Alex Teixeira,,Alex Teixeira,29,3,BRA,06.01.1990,25,173,9,Shakhtar Donetsk,UKR
+613,Azevedo,M??rcio,Azevedo,66,2,BRA,05.02.1986,29,173,0,Shakhtar Donetsk,UKR
+614,Bernard,,Bernard,10,3,BRA,08.09.1992,23,164,0,Shakhtar Donetsk,UKR
+615,Dentinho,,Dentinho,9,3,BRA,19.01.1989,26,177,0,Shakhtar Donetsk,UKR
+616,Eduardo,,Eduardo,22,4,CRO,25.02.1983,32,178,12,Shakhtar Donetsk,UKR
+617,Ferreyra,Facundo,Ferreyra,19,4,ARG,14.03.1991,24,187,0,Shakhtar Donetsk,UKR
+618,Fred,,Fred,8,3,BRA,05.03.1993,22,169,0,Shakhtar Donetsk,UKR
+619,Gladkiy,Olexandr,Gladkiy,21,4,UKR,24.08.1987,28,188,7,Shakhtar Donetsk,UKR
+620,Gryn,Serhiy,Gryn,24,4,UKR,06.06.1994,21,,0,Shakhtar Donetsk,UKR
+621,Ismaily,,Ismaily,31,2,BRA,11.01.1990,25,177,1,Shakhtar Donetsk,UKR
+622,Kanibolotskiy,Anton,Kanibolotskiy,32,1,UKR,16.05.1988,27,191,0,Shakhtar Donetsk,UKR
+623,Kobin,Vasyl,Kobin,14,3,UKR,24.05.1985,30,180,0,Shakhtar Donetsk,UKR
+624,Kovalenko,Viktor,Kovalenko,74,3,UKR,14.02.1996,19,186,0,Shakhtar Donetsk,UKR
+625,Kryvtsov,Serhiy,Kryvtsov,38,2,UKR,15.03.1991,24,186,0,Shakhtar Donetsk,UKR
+626,Kucher,Olexandr,Kucher,5,2,UKR,22.10.1982,32,184,0,Shakhtar Donetsk,UKR
+627,Malyshev,Maksym,Malyshev,17,3,UKR,24.12.1992,22,181,0,Shakhtar Donetsk,UKR
+628,Marlos,,Marlos,11,3,BRA,07.06.1988,27,173,2,Shakhtar Donetsk,UKR
+629,Matviyenko,Mykola,Matviyenko,25,2,UKR,02.05.1996,19,,0,Shakhtar Donetsk,UKR
+630,Ordets,Ivan,Ordets,18,2,UKR,08.07.1992,23,194,0,Shakhtar Donetsk,UKR
+631,Pyatov,Andriy,Pyatov,30,1,UKR,28.06.1984,31,190,0,Shakhtar Donetsk,UKR
+632,Rakitskiy,Yaroslav,Rakitskiy,44,2,UKR,03.08.1989,26,180,1,Shakhtar Donetsk,UKR
+633,Sarnavskiy,Bohdan,Sarnavskiy,23,1,UKR,29.01.1995,20,,0,Shakhtar Donetsk,UKR
+634,Shevchuk,Vyacheslav,Shevchuk,13,2,UKR,13.05.1979,36,180,0,Shakhtar Donetsk,UKR
+635,Srna,Darijo,Srna,33,2,CRO,01.05.1982,33,182,5,Shakhtar Donetsk,UKR
+636,Stepanenko,Taras,Stepanenko,6,3,UKR,08.08.1989,26,181,2,Shakhtar Donetsk,UKR
+637,Taison,,Taison,28,3,BRA,13.01.1988,27,172,1,Shakhtar Donetsk,UKR
+638,Wellington Nem,,Wellington Nem,7,3,BRA,06.02.1992,23,165,0,Shakhtar Donetsk,UKR
+639,Andreolli,Marco,Andreolli,17,2,ITA,10.06.1986,29,187,0,Sevilla,ESP
+640,Banega,??ver,Banega,19,3,ARG,20.06.1988,27,174,1,Sevilla,ESP
+641,Carlos Fern??ndez,,Carlos Fern??ndez,28,4,ESP,22.05.1996,19,186,0,Sevilla,ESP
+642,Carmona,David,Carmona,26,2,ESP,11.01.1997,18,175,0,Sevilla,ESP
+643,Coke,,Coke,23,2,ESP,26.04.1987,28,176,0,Sevilla,ESP
+644,Cot??n,Antonio,Cot??n,27,3,ESP,19.05.1996,19,176,0,Sevilla,ESP
+645,Crist??foro,Sebasti??n,Crist??foro,14,3,URU,23.08.1993,22,173,0,Sevilla,ESP
+646,Daniel Carri??o,,Daniel Carri??o,6,3,POR,04.08.1988,27,182,0,Sevilla,ESP
+647,Escudero,Sergio,Escudero,18,2,ESP,02.09.1989,26,176,0,Sevilla,ESP
+648,Gameiro,Kevin,Gameiro,9,4,FRA,09.05.1987,28,172,1,Sevilla,ESP
+649,Iborra,Vicente,Iborra,8,3,ESP,16.01.1988,27,190,0,Sevilla,ESP
+650,Immobile,Ciro,Immobile,11,4,ITA,20.02.1990,25,181,4,Sevilla,ESP
+651,Jos?? Matos,,Jos?? Matos,29,2,ESP,06.05.1995,20,169,0,Sevilla,ESP
+652,Juan Mu??oz,,Juan Mu??oz,30,4,ESP,12.11.1995,19,182,0,Sevilla,ESP
+653,Juan Soriano,,Juan Soriano,33,1,ESP,23.08.1997,18,182,0,Sevilla,ESP
+654,Kakuta,Ga??l,Kakuta,12,3,FRA,21.06.1991,24,172,0,Sevilla,ESP
+655,Kolodziejczak,Timoth??e,Kolodziejczak,5,2,FRA,01.10.1991,23,185,0,Sevilla,ESP
+656,Konoplyanka,Yevhen,Konoplyanka,22,3,UKR,29.09.1989,25,176,1,Sevilla,ESP
+657,Krohn-Dehli,Michael,Krohn-Dehli,7,3,DEN,06.06.1983,32,170,0,Sevilla,ESP
+658,Krychowiak,Grzegorz,Krychowiak,4,3,POL,29.01.1990,25,186,0,Sevilla,ESP
+659,Llorente,Fernando,Llorente,24,4,ESP,26.02.1985,30,195,3,Sevilla,ESP
+660,Luismi,,Luismi,16,3,ESP,05.05.1992,23,180,0,Sevilla,ESP
+661,Mariano Ferreira,,Mariano Ferreira,25,2,BRA,23.06.1986,29,177,0,Sevilla,ESP
+662,N'Zonzi,Steven,N'Zonzi,15,3,FRA,15.12.1988,26,190,0,Sevilla,ESP
+663,Rami,Adil,Rami,3,2,FRA,27.12.1985,29,190,2,Sevilla,ESP
+664,Reyes,Jos?? Antonio,Reyes,10,3,ESP,01.09.1983,32,178,3,Sevilla,ESP
+665,Rico,Sergio,Rico,1,1,ESP,01.09.1993,22,194,0,Sevilla,ESP
+666,Rodriguez,??lvaro,Rodriguez,35,1,ESP,18.02.1998,17,,0,Sevilla,ESP
+667,Soria,David,Soria,31,1,ESP,04.04.1993,22,192,0,Sevilla,ESP
+668,Tr??moulinas,Beno??t,Tr??moulinas,2,2,FRA,28.12.1985,29,173,0,Sevilla,ESP
+669,Vitolo,,Vitolo,20,3,ESP,02.11.1989,25,183,0,Sevilla,ESP
+670,Antunes,,Antunes,5,2,POR,01.04.1987,28,175,0,Dynamo Kyiv,UKR
+671,Belhanda,Younes,Belhanda,90,3,MAR,25.02.1990,25,174,2,Dynamo Kyiv,UKR
+672,Boldenkov,Valery,Boldenkov,44,2,UKR,08.09.1994,21,191,0,Dynamo Kyiv,UKR
+673,Burda,Mykyta,Burda,26,2,UKR,24.03.1995,20,187,0,Dynamo Kyiv,UKR
+674,Bushchan,Georgiy,Bushchan,52,1,UKR,31.05.1994,21,201,0,Dynamo Kyiv,UKR
+675,Buyalskiy,Vitaliy,Buyalskiy,29,3,UKR,06.01.1993,22,170,1,Dynamo Kyiv,UKR
+676,Danilo Silva,,Danilo Silva,2,2,BRA,24.11.1986,28,185,0,Dynamo Kyiv,UKR
+677,Dragovic,Aleksandar,Dragovic,6,2,AUT,06.03.1991,24,185,0,Dynamo Kyiv,UKR
+678,Garmash,Denys,Garmash,19,3,UKR,19.04.1990,25,187,1,Dynamo Kyiv,UKR
+679,Gonz??lez,Derlis,Gonz??lez,25,3,PAR,20.03.1994,21,172,3,Dynamo Kyiv,UKR
+680,Gusev,Oleh,Gusev,20,3,UKR,25.04.1983,32,179,9,Dynamo Kyiv,UKR
+681,J??nior Moraes,,J??nior Moraes,11,4,BRA,04.04.1987,28,176,0,Dynamo Kyiv,UKR
+682,Khacheridi,Yevhen,Khacheridi,34,2,UKR,28.07.1987,28,197,0,Dynamo Kyiv,UKR
+683,Kranj??ar,Niko,Kranj??ar,21,3,CRO,13.08.1984,31,185,2,Dynamo Kyiv,UKR
+684,Kravets,Artem,Kravets,22,4,UKR,03.06.1989,26,185,0,Dynamo Kyiv,UKR
+685,Lukyanchuk,Pavlo,Lukyanchuk,42,2,UKR,19.05.1996,19,,0,Dynamo Kyiv,UKR
+686,Makarenko,Yevhen,Makarenko,27,2,UKR,21.05.1991,24,182,0,Dynamo Kyiv,UKR
+687,Miguel Veloso,,Miguel Veloso,4,3,POR,11.05.1986,29,180,3,Dynamo Kyiv,UKR
+688,Morozyuk,Mykola,Morozyuk,9,2,UKR,17.01.1988,27,176,0,Dynamo Kyiv,UKR
+689,Myakushko,Serhiy,Myakushko,88,3,UKR,15.04.1993,22,167,0,Dynamo Kyiv,UKR
+690,Nesterenko,Andrii,Nesterenko,45,2,UKR,14.05.1996,19,,0,Dynamo Kyiv,UKR
+691,Orikhovskiy,Pavlo,Orikhovskiy,48,3,UKR,13.05.1996,19,,0,Dynamo Kyiv,UKR
+692,Petrovi??,Radosav,Petrovi??,8,3,SRB,08.03.1989,26,193,1,Dynamo Kyiv,UKR
+693,Rybalka,Serhiy,Rybalka,17,3,UKR,01.04.1990,25,176,0,Dynamo Kyiv,UKR
+694,Rybka,Olexandr,Rybka,23,1,UKR,10.04.1987,28,193,0,Dynamo Kyiv,UKR
+695,Shovkovskiy,Olexandr,Shovkovskiy,1,1,UKR,02.01.1975,40,191,0,Dynamo Kyiv,UKR
+696,Sydorchuk,Serhiy,Sydorchuk,16,3,UKR,02.05.1991,24,188,0,Dynamo Kyiv,UKR
+697,Teodorczyk,??ukasz,Teodorczyk,91,4,POL,03.06.1991,24,185,0,Dynamo Kyiv,UKR
+698,Vida,Domagoj,Vida,24,2,CRO,29.04.1989,26,184,2,Dynamo Kyiv,UKR
+699,Yaremchuk,Roman,Yaremchuk,41,4,UKR,27.11.1995,19,,0,Dynamo Kyiv,UKR
+700,Yarmolenko,Andriy,Yarmolenko,10,4,UKR,23.10.1989,25,187,3,Dynamo Kyiv,UKR
+701,Augustin,Jean-K??vin,Augustin,29,4,FRA,16.06.1997,18,177,0,Paris,FRA
+702,Aurier,Serge,Aurier,19,2,CIV,24.12.1992,22,176,0,Paris,FRA
+703,Cavani,Edinson,Cavani,9,4,URU,14.02.1987,28,184,16,Paris,FRA
+704,David Luiz,,David Luiz,32,2,BRA,22.04.1987,28,188,5,Paris,FRA
+705,Descamps,R??my,Descamps,40,1,FRA,25.06.1996,19,,0,Paris,FRA
+706,Di Mar??a,??ngel,Di Mar??a,11,3,ARG,14.02.1988,27,180,9,Paris,FRA
+707,Douchez,Nicolas,Douchez,1,1,FRA,22.04.1980,35,186,0,Paris,FRA
+708,Ibrahimovi??,Zlatan,Ibrahimovi??,10,4,SWE,03.10.1981,33,194,44,Paris,FRA
+709,Kimpembe,Presnel,Kimpembe,3,2,FRA,13.08.1995,20,183,0,Paris,FRA
+710,Kurzawa,Layvin,Kurzawa,20,2,FRA,04.09.1992,23,182,2,Paris,FRA
+711,Lavezzi,Ezequiel,Lavezzi,22,4,ARG,03.05.1985,30,173,9,Paris,FRA
+712,Lucas,,Lucas,7,3,BRA,13.08.1992,23,172,0,Paris,FRA
+713,Marquinhos,,Marquinhos,5,2,BRA,14.05.1994,21,183,3,Paris,FRA
+714,Matuidi,Blaise,Matuidi,14,3,FRA,09.04.1987,28,175,4,Paris,FRA
+715,Maxwell,,Maxwell,17,2,BRA,27.08.1981,34,177,0,Paris,FRA
+716,Nkunku,Christopher,Nkunku,33,3,FRA,14.11.1997,17,,0,Paris,FRA
+717,Ongenda,Hervin,Ongenda,35,4,FRA,24.06.1995,20,169,0,Paris,FRA
+718,Pastore,Javier,Pastore,27,3,ARG,20.06.1989,26,187,4,Paris,FRA
+719,Rabiot,Adrien,Rabiot,25,3,FRA,03.04.1995,20,188,0,Paris,FRA
+720,Sirigu,Salvatore,Sirigu,30,1,ITA,12.01.1987,28,192,0,Paris,FRA
+721,Stambouli,Benjamin,Stambouli,4,3,FRA,13.08.1990,25,180,0,Paris,FRA
+722,Thiago Motta,,Thiago Motta,8,3,ITA,28.08.1982,33,183,5,Paris,FRA
+723,Thiago Silva,,Thiago Silva,2,2,BRA,22.09.1984,30,183,4,Paris,FRA
+724,Trapp,Kevin,Trapp,16,1,GER,08.07.1990,25,189,0,Paris,FRA
+725,Van der Wiel,Gregory,van der Wiel,23,2,NED,03.02.1988,27,172,1,Paris,FRA
+726,Verratti,Marco,Verratti,6,3,ITA,05.11.1992,22,165,1,Paris,FRA
+727,Brouwers,Roel,Brouwers,4,2,NED,28.11.1981,33,190,0,M??nchengladbach,GER
+728,Christensen,Andreas,Christensen,3,2,DEN,10.04.1996,19,188,0,M??nchengladbach,GER
+729,Dahoud,Mahmoud,Dahoud,8,3,GER,01.01.1996,19,176,0,M??nchengladbach,GER
+730,??lvaro Dom??nguez,??lvaro,Dom??nguez,15,2,ESP,16.05.1989,26,189,0,M??nchengladbach,GER
+731,Drmic,Josip,Drmic,9,4,SUI,08.08.1992,23,181,0,M??nchengladbach,GER
+732,Elvedi,Nico,Elvedi,30,2,SUI,30.09.1996,18,188,0,M??nchengladbach,GER
+733,Hahn,Andr??,Hahn,28,3,GER,13.08.1990,25,185,0,M??nchengladbach,GER
+734,Hazard,Thorgan,Hazard,10,3,BEL,29.03.1993,22,174,0,M??nchengladbach,GER
+735,Heimeroth,Christofer,Heimeroth,33,1,GER,01.08.1981,34,194,0,M??nchengladbach,GER
+736,Herrmann,Patrick,Herrmann,7,4,GER,12.02.1991,24,179,0,M??nchengladbach,GER
+737,Hrgota,Branimir,Hrgota,31,4,SWE,12.01.1993,22,182,0,M??nchengladbach,GER
+738,Jantschke,Tony,Jantschke,24,2,GER,07.04.1990,25,177,0,M??nchengladbach,GER
+739,Johnson,Fabian,Johnson,19,2,GER,11.12.1987,27,183,0,M??nchengladbach,GER
+740,Kompalla,Martin,Kompalla,41,1,GER,26.08.1992,23,186,0,M??nchengladbach,GER
+741,Korb,Julian,Korb,27,2,GER,21.03.1992,23,177,0,M??nchengladbach,GER
+742,Ndenge,Tsiy-William,Ndenge,44,3,GER,13.06.1997,18,,0,M??nchengladbach,GER
+743,Nordtveit,H??vard,Nordtveit,6,3,NOR,21.06.1990,25,186,0,M??nchengladbach,GER
+744,Raffael,,Raffael,11,4,BRA,28.03.1985,30,174,0,M??nchengladbach,GER
+745,Ritter,Marlon,Ritter,36,3,GER,15.10.1994,20,170,0,M??nchengladbach,GER
+746,M. Schulz,Marvin,Schulz,18,2,GER,15.01.1995,20,186,0,M??nchengladbach,GER
+747,N. Schulz,Nico,Schulz,14,3,GER,01.04.1993,22,,0,M??nchengladbach,GER
+748,Sippel,Tobias,Sippel,21,1,GER,22.03.1988,27,180,0,M??nchengladbach,GER
+749,Sommer,Yann,Sommer,1,1,SUI,17.12.1988,26,183,0,M??nchengladbach,GER
+750,Stindl,Lars,Stindl,13,3,GER,26.08.1988,27,180,0,M??nchengladbach,GER
+751,Stranzl,Martin,Stranzl,39,2,AUT,16.06.1980,35,190,0,M??nchengladbach,GER
+752,Traor??,Ibrahima,Traor??,16,3,GNB,21.04.1988,27,172,0,M??nchengladbach,GER
+753,Wendt,Oscar,Wendt,17,2,SWE,24.10.1985,29,181,0,M??nchengladbach,GER
+754,Xhaka,Granit,Xhaka,34,3,SUI,27.09.1992,22,186,1,M??nchengladbach,GER
+755,Anyukov,Aleksandr,Anyukov,2,2,RUS,28.09.1982,32,178,0,Zenit,RUS
+756,Bogaev,Dmitri,Bogaev,70,4,RUS,24.01.1994,21,175,0,Zenit,RUS
+757,Criscito,Domenico,Criscito,4,2,ITA,30.12.1986,28,183,0,Zenit,RUS
+758,Danny,,Danny,10,3,POR,07.08.1983,32,178,11,Zenit,RUS
+759,Dolgov,Pavel,Dolgov,92,4,RUS,16.08.1996,19,187,0,Zenit,RUS
+760,Dzyuba,Artem,Dzyuba,22,4,RUS,22.08.1988,27,194,1,Zenit,RUS
+761,Evseev,Aleksei,Evseev,94,3,RUS,30.03.1994,21,183,0,Zenit,RUS
+762,Fayzulin,Viktor,Fayzulin,20,3,RUS,22.04.1986,29,176,2,Zenit,RUS
+763,Garay,Ezequiel,Garay,24,2,ARG,10.10.1986,28,192,1,Zenit,RUS
+764,Hulk,,Hulk,7,4,BRA,25.07.1986,29,180,18,Zenit,RUS
+765,Ivanidi,Ivan,Ivanidi,53,2,RUS,14.06.1996,19,,0,Zenit,RUS
+766,Ivanov,Andrei,Ivanov,52,2,RUS,02.09.1994,21,179,0,Zenit,RUS
+767,Javi Garc??a,,Javi Garc??a,21,3,ESP,08.02.1987,28,187,2,Zenit,RUS
+768,Karpov,Maksim,Karpov,50,2,RUS,17.03.1995,20,176,0,Zenit,RUS
+769,Kerzhakov,Mikhail,Kerzhakov,41,1,RUS,28.01.1987,28,189,0,Zenit,RUS
+770,Kireenko,Pavel,Kireenko,76,4,RUS,14.06.1994,21,,0,Zenit,RUS
+771,Kubyshkin,Ilya,Kubyshkin,96,2,RUS,12.01.1996,19,180,0,Zenit,RUS
+772,Lodygin,Yuri,Lodygin,1,1,RUS,26.05.1990,25,187,0,Zenit,RUS
+773,Lombaerts,Nicolas,Lombaerts,6,2,BEL,20.03.1985,30,188,1,Zenit,RUS
+774,Lu??s Neto,,Lu??s Neto,13,2,POR,26.05.1988,27,187,0,Zenit,RUS
+775,Malafeev,Vyacheslav,Malafeev,16,1,RUS,04.03.1979,36,185,0,Zenit,RUS
+776,Markov,Evgeni,Markov,89,4,RUS,07.07.1994,21,,0,Zenit,RUS
+777,Mzhelski,Mikhail,Mzhelski,80,1,RUS,29.03.1995,20,200,0,Zenit,RUS
+778,Nazimov,Pavel,Nazimov,43,4,RUS,04.02.1996,19,177,0,Zenit,RUS
+779,Obukhov,Igor,Obukhov,83,1,RUS,29.05.1996,19,190,0,Zenit,RUS
+780,Osipov,Pavel,Osipov,73,3,RUS,28.01.1996,19,176,0,Zenit,RUS
+781,Rebenko,Stepan,Rebenko,62,2,RUS,01.05.1995,20,184,0,Zenit,RUS
+782,Rudakov,Maksim,Rudakov,51,1,RUS,22.01.1996,19,182,0,Zenit,RUS
+783,Ryazantsev,Aleksandr,Ryazantsev,5,3,RUS,05.09.1986,29,176,1,Zenit,RUS
+784,Shatov,Oleg,Shatov,17,3,RUS,29.07.1990,25,173,2,Zenit,RUS
+785,Smolnikov,Igor,Smolnikov,19,2,RUS,08.08.1988,27,178,0,Zenit,RUS
+786,Troyanov,Konstantin,Troyanov,79,3,RUS,18.11.1995,19,,0,Zenit,RUS
+787,Vasyutin,Aleksandr,Vasyutin,95,1,RUS,04.03.1995,20,190,0,Zenit,RUS
+788,Witsel,Axel,Witsel,28,3,BEL,12.01.1989,26,183,4,Zenit,RUS
+789,Yaschuk,Danila,Yaschuk,65,3,RUS,13.03.1995,20,181,0,Zenit,RUS
+790,Yusupov,Artur,Yusupov,14,3,RUS,01.09.1989,26,179,0,Zenit,RUS
+791,Zuev,Ilya,Zuev,58,2,RUS,25.01.1994,21,183,0,Zenit,RUS
+792,Aina,Ola,Aina,34,2,ENG,08.10.1996,18,,0,Chelsea,ENG
+793,Azpilicueta,C??sar,Azpilicueta,28,2,ESP,28.08.1989,26,178,0,Chelsea,ENG
+794,Baba,Abdul Rahman,Baba,6,2,GHA,02.07.1994,21,,0,Chelsea,ENG
+795,Begovi??,Asmir,Begovi??,1,1,BIH,20.06.1987,28,196,0,Chelsea,ENG
+796,Blackman,Jamal,Blackman,27,1,ENG,27.10.1993,21,196,0,Chelsea,ENG
+797,Cahill,Gary,Cahill,24,2,ENG,19.12.1985,29,188,3,Chelsea,ENG
+798,Collins,Bradley,Collins,40,1,ENG,18.02.1997,18,,0,Chelsea,ENG
+799,Courtois,Thibaut,Courtois,13,1,BEL,11.05.1992,23,199,0,Chelsea,ENG
+800,Diego Costa,,Diego Costa,19,4,ESP,07.10.1988,26,188,9,Chelsea,ENG
+801,F??bregas,Cesc,F??bregas,4,3,ESP,04.05.1987,28,175,23,Chelsea,ENG
+802,Falcao,Radamel,Falcao,9,4,COL,10.02.1986,29,177,4,Chelsea,ENG
+803,Hazard,Eden,Hazard,10,3,BEL,07.01.1991,24,170,5,Chelsea,ENG
+804,Ivanovi??,Branislav,Ivanovi??,2,2,SRB,22.02.1984,31,188,7,Chelsea,ENG
+805,Kenedy,,Kenedy,16,3,BRA,08.02.1996,19,,0,Chelsea,ENG
+806,Loftus-Cheek,Ruben,Loftus-Cheek,36,3,ENG,23.01.1996,19,192,0,Chelsea,ENG
+807,Mati??,Nemanja,Mati??,21,3,SRB,01.08.1988,27,193,3,Chelsea,ENG
+808,Mikel,John Obi,Mikel,12,3,NGA,22.04.1987,28,188,1,Chelsea,ENG
+809,Oscar,,Oscar,8,3,BRA,09.09.1991,24,180,7,Chelsea,ENG
+810,Pedro Rodr??guez,,Pedro Rodr??guez,17,4,ESP,28.07.1987,28,167,15,Chelsea,ENG
+811,Ramires,,Ramires,7,3,BRA,24.03.1987,28,180,7,Chelsea,ENG
+812,R??my,Lo??c,R??my,18,4,FRA,02.01.1987,28,184,5,Chelsea,ENG
+813,Terry,John,Terry,26,2,ENG,07.12.1980,34,187,10,Chelsea,ENG
+814,Traor??,Bertrand,Traor??,14,3,BFA,06.09.1995,20,177,0,Chelsea,ENG
+815,Willian,,Willian,22,3,BRA,09.08.1988,27,173,11,Chelsea,ENG
+816,Zouma,Kurt,Zouma,5,2,FRA,27.10.1994,20,190,0,Chelsea,ENG
+817,Adarabioyo,Tosin,Adarabioyo,53,2,ENG,24.09.1997,17,,0,Man. City,ENG
+818,Ag??ero,Sergio,Ag??ero,10,4,ARG,02.06.1988,27,172,23,Man. City,ENG
+819,Ambrose,Thierry,Ambrose,68,4,FRA,28.03.1997,18,,0,Man. City,ENG
+820,Barker,Brandon,Barker,62,4,ENG,04.10.1996,18,,0,Man. City,ENG
+821,Boadu,Denzil,Boadu,49,3,ENG,20.02.1997,18,,0,Man. City,ENG
+822,Bony,Wilfried,Bony,14,4,CIV,10.12.1988,26,182,2,Man. City,ENG
+823,Bryan,Kean,Bryan,52,3,ENG,01.11.1996,18,182,0,Man. City,ENG
+824,Bytyqi,Sinan,Bytyqi,63,3,AUT,15.01.1995,20,185,0,Man. City,ENG
+825,Caballero,Willy,Caballero,13,1,ARG,28.09.1981,33,186,0,Man. City,ENG
+826,Clichy,Ga??l,Clichy,22,2,FRA,26.07.1985,30,176,0,Man. City,ENG
+827,De Bruyne,Kevin,De Bruyne,17,4,BEL,28.06.1991,24,180,0,Man. City,ENG
+828,Delph,Fabian,Delph,18,3,ENG,21.11.1989,25,174,0,Man. City,ENG
+829,Demichelis,Mart??n,Demichelis,26,2,ARG,20.12.1980,34,184,3,Man. City,ENG
+830,Evans,George,Evans,70,3,ENG,13.12.1994,20,184,0,Man. City,ENG
+831,Fernandinho,,Fernandinho,25,3,BRA,04.05.1985,30,176,6,Man. City,ENG
+832,Fernando,,Fernando,6,3,BRA,25.07.1987,28,185,0,Man. City,ENG
+833,Glendon,George,Glendon,73,3,WAL,03.05.1995,20,177,0,Man. City,ENG
+834,Gunn,Angus,Gunn,54,1,ENG,22.01.1996,19,196,0,Man. City,ENG
+835,Hart,Joe,Hart,1,1,ENG,19.04.1987,28,196,0,Man. City,ENG
+836,Jes??s Navas,,Jes??s Navas,15,3,ESP,21.11.1985,29,170,3,Man. City,ENG
+837,Jorge Intima,,Jorge Intima,65,3,POR,21.09.1995,19,,0,Man. City,ENG
+838,Kolarov,Aleksandar,Kolarov,11,2,SRB,10.11.1985,29,187,3,Man. City,ENG
+839,Kompany,Vincent,Kompany,4,2,BEL,10.04.1986,29,190,2,Man. City,ENG
+840,Lawlor,Ian,Lawlor,45,1,IRL,27.10.1994,20,193,0,Man. City,ENG
+841,Maffeo,Pablo,Maffeo,50,2,ESP,12.07.1997,18,,0,Man. City,ENG
+842,Mangala,Eliaquim,Mangala,20,2,FRA,13.02.1991,24,187,1,Man. City,ENG
+843,Nasri,Samir,Nasri,8,3,FRA,26.06.1987,28,175,9,Man. City,ENG
+844,Nemane,Aaron,Nemane,57,4,ENG,26.06.1997,18,,0,Man. City,ENG
+845,Otamendi,Nicol??s,Otamendi,30,2,ARG,12.02.1988,27,183,0,Man. City,ENG
+846,Plummer,Ellis,Plummer,74,2,ENG,02.09.1994,21,,0,Man. City,ENG
+847,Sagna,Bacary,Sagna,3,2,FRA,14.02.1983,32,176,0,Man. City,ENG
+848,Silva,David,Silva,21,3,ESP,08.01.1986,29,170,6,Man. City,ENG
+849,Smith-Brown,Ashley,Smith-Brown,56,2,ENG,31.03.1996,19,,0,Man. City,ENG
+850,Sterling,Raheem,Sterling,7,3,ENG,08.12.1994,20,170,0,Man. City,ENG
+851,Tattum,Samuel,Tattum,67,3,ENG,03.09.1996,19,,0,Man. City,ENG
+852,Tour??,Yaya,Tour??,42,3,CIV,13.05.1983,32,191,7,Man. City,ENG
+853,Wood,Marcus,Wood,71,3,ENG,12.02.1998,17,,0,Man. City,ENG
+854,Zabaleta,Pablo,Zabaleta,5,2,ARG,16.01.1985,30,176,1,Man. City,ENG
+855,Akinfeev,Igor,Akinfeev,35,1,RUS,08.04.1986,29,185,0,CSKA Moskva,RUS
+856,A. Berezutski,Aleksei,Berezutski,6,2,RUS,20.06.1982,33,190,0,CSKA Moskva,RUS
+857,V. Berezutski,Vasili,Berezutski,24,2,RUS,20.06.1982,33,189,3,CSKA Moskva,RUS
+858,Cau??a,Aleksandrs,Cau??a,19,3,LVA,19.01.1988,27,174,1,CSKA Moskva,RUS
+859,Chepchugov,Sergei,Chepchugov,1,1,RUS,15.07.1985,30,185,0,CSKA Moskva,RUS
+860,Chernov,Nikita,Chernov,91,2,RUS,14.01.1996,19,189,0,CSKA Moskva,RUS
+861,Doumbia,Seydou,Doumbia,88,4,CIV,31.12.1987,27,179,13,CSKA Moskva,RUS
+862,Dzagoev,Alan,Dzagoev,10,3,RUS,17.06.1990,25,179,6,CSKA Moskva,RUS
+863,Eremenko,Roman,Eremenko,25,3,FIN,19.03.1987,28,180,1,CSKA Moskva,RUS
+864,Golovin,Aleksandr,Golovin,60,3,RUS,30.05.1996,19,,0,CSKA Moskva,RUS
+865,Ignashevich,Sergei,Ignashevich,4,2,RUS,14.07.1979,36,186,5,CSKA Moskva,RUS
+866,Makarov,Aleksandr,Makarov,43,4,RUS,24.04.1996,19,,0,CSKA Moskva,RUS
+867,M??rio Fernandes,,M??rio Fernandes,2,2,BRA,28.06.1991,24,189,0,CSKA Moskva,RUS
+868,Milanov,Georgi,Milanov,23,3,BUL,19.02.1992,23,184,0,CSKA Moskva,RUS
+869,Musa,Ahmed,Musa,18,4,NGA,14.10.1992,22,170,5,CSKA Moskva,RUS
+870,Nababkin,Kirill,Nababkin,14,2,RUS,08.09.1986,29,176,0,CSKA Moskva,RUS
+871,Natcho,Bibras,Natcho,66,3,ISR,18.02.1988,27,175,3,CSKA Moskva,RUS
+872,Panchenko,Kirill,Panchenko,8,4,RUS,19.10.1989,25,185,0,CSKA Moskva,RUS
+873,Pomazun,Ilya,Pomazun,45,1,RUS,16.08.1996,19,189,0,CSKA Moskva,RUS
+874,Schennikov,Georgi,Schennikov,42,2,RUS,27.04.1991,24,178,0,CSKA Moskva,RUS
+875,To??i??,Zoran,To??i??,7,3,SRB,28.04.1987,28,171,5,CSKA Moskva,RUS
+876,Vasin,Viktor,Vasin,5,2,RUS,06.10.1988,26,192,0,CSKA Moskva,RUS
+877,Wernbloom,Pontus,Wernbloom,3,3,SWE,25.06.1986,29,187,3,CSKA Moskva,RUS
+878,Alberman,Gal,Alberman,6,3,ISR,17.04.1983,32,180,1,M. Tel-Aviv,ISR
+879,Armaly,Suhail,Armaly,29,3,ISR,10.01.1996,19,,0,M. Tel-Aviv,ISR
+880,Azulay,Shlomy,Azulay,16,3,ISR,30.03.1990,25,,0,M. Tel-Aviv,ISR
+881,Ben Basat,Eden,Ben Basat,9,4,ISR,08.09.1986,29,,1,M. Tel-Aviv,ISR
+882,Ben Haim I,Tal,Ben Haim I,26,2,ISR,31.03.1982,33,,0,M. Tel-Aviv,ISR
+883,Ben Haim II,Tal,Ben Haim II,11,4,ISR,05.08.1989,26,175,4,M. Tel-Aviv,ISR
+884,Ben Harush,Omri,Ben Harush,20,2,ISR,07.03.1990,25,,0,M. Tel-Aviv,ISR
+885,Carlos Garc??a,,Carlos Garc??a,31,2,ESP,29.04.1984,31,,0,M. Tel-Aviv,ISR
+886,Dasa,Eliazer,Dasa,2,2,ISR,03.12.1992,22,,0,M. Tel-Aviv,ISR
+887,Einbinder,Daniel,Einbinder,17,3,ISR,16.02.1989,26,186,0,M. Tel-Aviv,ISR
+888,Glazer,Dan,Glazer,33,3,ISR,20.09.1996,18,,0,M. Tel-Aviv,ISR
+889,Goldberg,Sean,Goldberg,23,2,ISR,13.06.1995,20,,0,M. Tel-Aviv,ISR
+890,Hasson,Sahar,Hasson,41,1,ISR,24.04.1996,19,,0,M. Tel-Aviv,ISR
+891,Igiebor,Nosakhare,Igiebor,40,3,NGA,09.11.1990,24,182,2,M. Tel-Aviv,ISR
+892,Itzhaki,Barak,Itzhaki,10,4,ISR,25.09.1984,30,174,3,M. Tel-Aviv,ISR
+893,Lifshitz,Daniel,Lifshitz,1,1,ISR,24.04.1988,27,,0,M. Tel-Aviv,ISR
+894,Miha,Dor,Miha,15,3,ISR,02.03.1992,23,,0,M. Tel-Aviv,ISR
+895,Mitrovi??,Nikola,Mitrovi??,24,3,SRB,02.01.1987,28,180,0,M. Tel-Aviv,ISR
+896,Ohayon,Haviv,Ohayon,55,1,ISR,17.08.1998,17,,0,M. Tel-Aviv,ISR
+897,Peretz,Dor,Peretz,42,3,ISR,17.05.1995,20,,0,M. Tel-Aviv,ISR
+898,Radonji??,Dejan,Radonji??,99,4,CRO,23.07.1990,25,,0,M. Tel-Aviv,ISR
+899,Rajkovi??,Predrag,Rajkovi??,95,1,SRB,31.10.1995,19,,0,M. Tel-Aviv,ISR
+900,Raly,Oz,Raly,27,2,ISR,22.12.1987,27,,0,M. Tel-Aviv,ISR
+901,Rikan,Avraham,Rikan,22,3,ISR,10.09.1988,27,168,0,M. Tel-Aviv,ISR
+902,Shpungin,Yuval,Shpungin,3,2,ISR,03.04.1987,28,,0,M. Tel-Aviv,ISR
+903,Tibi,Eytan,Tibi,18,2,ISR,16.11.1987,27,,0,M. Tel-Aviv,ISR
+904,Vermouth,Gil,Vermouth,28,3,ISR,05.08.1985,30,174,0,M. Tel-Aviv,ISR
+905,Zahavi,Eran,Zahavi,7,3,ISR,25.07.1987,28,182,15,M. Tel-Aviv,ISR
+906,Ziv,Yoav,Ziv,14,2,ISR,16.03.1981,34,178,0,M. Tel-Aviv,ISR
+907,Arnold,Maximilian,Arnold,27,3,GER,27.05.1994,21,184,0,Wolfsburg,GER
+908,Ascues,Carlos,Ascues,6,2,PER,19.06.1992,23,178,0,Wolfsburg,GER
+909,Benaglio,Diego,Benaglio,1,1,SUI,08.09.1983,32,194,0,Wolfsburg,GER
+910,Bendtner,Nicklas,Bendtner,3,4,DEN,16.01.1988,27,190,9,Wolfsburg,GER
+911,Caligiuri,Daniel,Caligiuri,7,3,GER,15.01.1988,27,182,0,Wolfsburg,GER
+912,Casteels,Koen,Casteels,28,1,BEL,25.06.1992,23,197,0,Wolfsburg,GER
+913,Dante,,Dante,18,2,BRA,18.10.1983,31,188,0,Wolfsburg,GER
+914,Dost,Bas,Dost,12,4,NED,31.05.1989,26,196,0,Wolfsburg,GER
+915,Draxler,Julian,Draxler,10,3,GER,20.09.1993,21,183,6,Wolfsburg,GER
+916,Gr??n,Max,Gr??n,20,1,GER,05.04.1987,28,192,0,Wolfsburg,GER
+917,Guilavogui,Josuha,Guilavogui,23,3,FRA,19.09.1990,24,187,0,Wolfsburg,GER
+918,Jung,Sebastian,Jung,24,2,GER,22.06.1990,25,179,0,Wolfsburg,GER
+919,Klose,Timm,Klose,5,2,SUI,09.05.1988,27,193,0,Wolfsburg,GER
+920,Knoche,Robin,Knoche,31,2,GER,22.05.1992,23,190,0,Wolfsburg,GER
+921,Kruse,Max,Kruse,11,4,GER,19.03.1988,27,180,0,Wolfsburg,GER
+922,Luiz Gustavo,,Luiz Gustavo,22,3,BRA,23.07.1987,28,187,0,Wolfsburg,GER
+923,Naldo,,Naldo,25,2,BRA,10.09.1982,33,198,0,Wolfsburg,GER
+924,Rodriguez,Francisco,Rodriguez,35,3,SUI,14.09.1995,20,191,0,Wolfsburg,GER
+925,Rodriguez,Ricardo,Rodriguez,34,2,SUI,25.08.1992,23,180,0,Wolfsburg,GER
+926,Sch??fer,Marcel,Sch??fer,4,2,GER,07.06.1984,31,182,0,Wolfsburg,GER
+927,Sch??rrle,Andr??,Sch??rrle,17,3,GER,06.11.1990,24,184,3,Wolfsburg,GER
+928,Seguin,Paul,Seguin,30,3,GER,29.03.1995,20,186,0,Wolfsburg,GER
+929,Sprenger,Moritz,Sprenger,37,2,GER,22.02.1995,20,190,0,Wolfsburg,GER
+930,Stolze,Sebastian,Stolze,33,4,GER,29.01.1995,20,182,0,Wolfsburg,GER
+931,Tr??sch,Christian,Tr??sch,15,3,GER,01.09.1987,28,181,1,Wolfsburg,GER
+932,Vieirinha,,Vieirinha,8,3,POR,24.01.1986,29,176,1,Wolfsburg,GER
+933,Aleksievich,Ilya,Aleksievich,9,3,BLR,10.02.1991,24,173,0,BATE,BLR
+934,Antilevski,Dmitri,Antilevski,44,4,BLR,12.06.1997,18,174,0,BATE,BLR
+935,Baga,Dmitri,Baga,55,3,BLR,04.01.1990,25,182,0,BATE,BLR
+936,Baiduk,Dmitri,Baiduk,27,2,BLR,03.08.1996,19,,0,BATE,BLR
+937,Bogush,Pavel,Bogush,29,3,BLR,24.01.1996,19,,0,BATE,BLR
+938,Chernik,Sergei,Chernik,16,1,BLR,20.07.1988,27,187,0,BATE,BLR
+939,Chichkan,Anton,Chichkan,35,1,BLR,10.07.1995,20,186,0,BATE,BLR
+940,Dubra,Kaspars,Dubra,4,2,LVA,20.12.1990,24,,0,BATE,BLR
+941,Gaiduchik,Vitali,Gaiduchik,3,2,BLR,12.07.1989,26,185,0,BATE,BLR
+942,Gordeichuk,Mikhail,Gordeichuk,62,4,BLR,23.10.1989,25,176,3,BATE,BLR
+943,Hleb,Aleksandr,Hleb,81,3,BLR,01.05.1981,34,185,4,BATE,BLR
+944,A. Jevti??,Aleksandar,Jevti??,11,4,SRB,30.03.1985,30,,0,BATE,BLR
+945,Karnitski,Aleksandr,Karnitski,7,3,BLR,14.02.1989,26,187,3,BATE,BLR
+946,Likhtarovich,Dmitri,Likhtarovich,2,3,BLR,01.03.1978,37,180,1,BATE,BLR
+947,Milunovi??,Nemanja,Milunovi??,19,2,SRB,31.05.1989,26,,1,BATE,BLR
+948,Mladenovi??,Filip,Mladenovi??,25,2,SRB,15.08.1991,24,180,0,BATE,BLR
+949,Mozolevski,Dmitri,Mozolevski,18,4,BLR,30.04.1985,30,190,3,BATE,BLR
+950,Nikoli??,Nemanja,Nikoli??,10,3,MNE,01.01.1988,27,182,1,BATE,BLR
+951,Olekhnovich,Edgar,Olekhnovich,23,3,BLR,17.05.1987,28,183,1,BATE,BLR
+952,Polyakov,Denis,Polyakov,33,2,BLR,17.04.1991,24,184,1,BATE,BLR
+953,Rios,Aleksei,Rios,17,3,BLR,14.05.1987,28,,0,BATE,BLR
+954,Rodionov,Vitali,Rodionov,20,4,BLR,11.12.1983,31,179,14,BATE,BLR
+955,Rovbut,Maksim,Rovbut,28,2,BLR,24.05.1996,19,,0,BATE,BLR
+956,Scherbitski,Denis,Scherbitski,48,1,BLR,14.04.1996,19,197,0,BATE,BLR
+957,Signevich,Nikolai,Signevich,13,4,BLR,20.02.1992,23,194,0,BATE,BLR
+958,Soroko,Artem,Soroko,34,1,BLR,01.04.1992,23,184,0,BATE,BLR
+959,Stasevich,Igor,Stasevich,22,3,BLR,21.10.1985,29,178,4,BATE,BLR
+960,A. Volodko,Aleksandr,Volodko,8,3,BLR,18.06.1986,29,177,4,BATE,BLR
+961,M. Volodko,Maksim,Volodko,42,3,BLR,10.11.1992,22,174,0,BATE,BLR
+962,Yablonski,Evgeni,Yablonski,5,3,BLR,10.05.1995,20,182,1,BATE,BLR
+963,Zhavnerchik,Maksim,Zhavnerchik,15,2,BLR,09.02.1985,30,,0,BATE,BLR
+964,Y. Akhmetov,Yeldos,Akhmetov,2,2,KAZ,01.06.1990,25,,0,Astana,KAZ
+965,Ani??i??,Marin,Ani??i??,5,2,BIH,17.08.1989,26,,0,Astana,KAZ
+966,Beysebekov,Abzal,Beysebekov,15,2,KAZ,30.11.1992,22,,0,Astana,KAZ
+967,Ca??as,Roger,Ca??as,88,3,COL,27.03.1990,25,,2,Astana,KAZ
+968,Dedechko,Denys,Dedechko,24,3,UKR,02.07.1987,28,,0,Astana,KAZ
+969,Dzholchiyev,Baurzhan,Dzholchiyev,22,4,KAZ,08.05.1990,25,,2,Astana,KAZ
+970,Eri??,Nenad,Eri??,1,1,KAZ,26.05.1982,33,,0,Astana,KAZ
+971,Golubnichi,Mikhail,Golubnichi,40,1,KAZ,31.01.1995,20,185,0,Astana,KAZ
+972,B. Ili??,Branko,Ili??,33,2,SVN,06.02.1983,32,187,0,Astana,KAZ
+973,Kabananga,Junior,Kabananga,89,4,COD,04.04.1989,26,,0,Astana,KAZ
+974,K??th??voama,Foxi,K??th??voama,10,3,CTA,30.05.1986,29,,0,Astana,KAZ
+975,Khairullin,Rinat,Khairullin,18,3,KAZ,19.02.1994,21,,0,Astana,KAZ
+976,Kozhamberdy,Zhakyp,Kozhamberdy,20,3,KAZ,26.02.1992,23,,0,Astana,KAZ
+977,Loginovski,Vladimir,Loginovski,85,1,KAZ,08.10.1985,29,,0,Astana,KAZ
+978,Maksimovi??,Nemanja,Maksimovi??,6,3,SRB,26.01.1995,20,,1,Astana,KAZ
+979,Muzhikov,Serikzhan,Muzhikov,11,3,KAZ,17.06.1989,26,,0,Astana,KAZ
+980,Nuserbayev,Tanat,Nuserbayev,17,4,KAZ,01.01.1987,28,,0,Astana,KAZ
+981,Pikalkin,Igor,Pikalkin,12,2,KAZ,19.03.1992,23,,0,Astana,KAZ
+982,Postnikov,Evgeni,Postnikov,44,2,KAZ,16.04.1986,29,,1,Astana,KAZ
+983,Schetkin,Aleksei,Schetkin,9,4,KAZ,21.05.1991,24,,0,Astana,KAZ
+984,Shomko,Dmitri,Shomko,77,2,KAZ,19.03.1990,25,,1,Astana,KAZ
+985,Twumasi,Patrick,Twumasi,23,4,GHA,09.05.1994,21,,2,Astana,KAZ
+986,Zhukov,Georgi,Zhukov,8,3,KAZ,19.11.1994,20,,0,Astana,KAZ

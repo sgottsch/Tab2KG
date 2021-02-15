@@ -1,0 +1,737 @@
+rowNumber,Player,Country,Position,Number,Age
+0,Fabrice OLINGA,Cameroon,Forward,19,18
+1,Luke SHAW,England,Defender,23,18
+2,Nabil BENTALEB,Algeria,Midfielder,14,19
+3,Divock ORIGI,Belgium,Forward,17,19
+4,Adnan JANUZAJ,Belgium,Midfielder,20,19
+5,Carlos GRUEZO,Ecuador,Midfielder,23,19
+6,Raheem STERLING,England,Midfielder,19,19
+7,Jose GIMENEZ,Uruguay,Defender,13,19
+8,Julian GREEN,USA,Midfielder,16,19
+9,Sead KOLASINAC,Bosnia & Herzegovina,Defender,5,20
+10,Ante REBIC,Croatia,Forward,16,20
+11,Mateo KOVACIC,Croatia,Midfielder,20,20
+12,Alex OXLADE CHAMBERLAIN,England,Midfielder,15,20
+13,Ross BARKLEY,England,Midfielder,21,20
+14,Lucas DIGNE,France,Defender,17,20
+15,Julian DRAXLER,Germany,Midfielder,14,20
+16,Matthias GINTER,Germany,Defender,3,20
+17,Stefanos KAPINO,Greece,Goalkeeper,13,20
+18,Luis LOPEZ,Honduras,Goalkeeper,1,20
+19,Alireza JAHAN BAKHSH,Iran,Forward,9,20
+20,Terence KONGOLO,Netherlands,Defender,14,20
+21,Memphis DEPAY,Netherlands,Forward,21,20
+22,Kenneth OMERUO,Nigeria,Defender,22,20
+23,DeAndre YEDLIN,USA,Defender,2,20
+24,Adam TAGGART,Australia,Forward,9,21
+25,Massimo LUONGO,Australia,Midfielder,21,21
+26,Bailey WRIGHT,Australia,Defender,8,21
+27,Romelu LUKAKU,Belgium,Forward,9,21
+28,Muhamed BESIC,Bosnia & Herzegovina,Midfielder,7,21
+29,BERNARD,Brazil,Forward,20,21
+30,Cedric DJEUGOUE,Cameroon,Defender,4,21
+31,Edgar SALLI,Cameroon,Midfielder,20,21
+32,Eder BALANTA,Colombia,Defender,16,21
+33,Juan QUINTERO,Colombia,Midfielder,20,21
+34,Joel CAMPBELL,Costa Rica,Forward,9,21
+35,Oliver ZELENIKA,Croatia,Goalkeeper,12,21
+36,Ivan MOCINIC,Croatia,Midfielder,15,21
+37,Marcelo BROZOVIC,Croatia,Midfielder,14,21
+38,Paul POGBA,France,Midfielder,19,21
+39,Raphael VARANE,France,Defender,4,21
+40,Rashid SUMAILA,Ghana,Defender,15,21
+41,Andy NAJAR,Honduras,Midfielder,17,21
+42,Marco VERRATTI,Italy,Midfielder,23,21
+43,Mattia DE SCIGLIO,Italy,Defender,2,21
+44,Mattia PERIN,Italy,Goalkeeper,13,21
+45,Sayouba MANDE,Ivory Coast,Goalkeeper,23,21
+46,Ismael DIOMANDE,Ivory Coast,Midfielder,14,21
+47,Jean Daniel AKPA,Ivory Coast,Defender,7,21
+48,Serge AURIER,Ivory Coast,Defender,17,21
+49,Diego REYES,Mexico,Defender,5,21
+50,Ahmed MUSA,Nigeria,Forward,7,21
+51,Ogenyi ONAZI,Nigeria,Midfielder,17,21
+52,Ramon AZEEZ,Nigeria,Midfielder,15,21
+53,Michael BABATUNDE,Nigeria,Forward,18,21
+54,RAFA,Portugal,Forward,15,21
+55,SON Heungmin,South Korea,Midfielder,9,21
+56,Josip DRMIC,Switzerland,Forward,19,21
+57,Granit XHAKA,Switzerland,Midfielder,10,21
+58,Ricardo RODRIGUEZ,Switzerland,Defender,13,21
+59,John BROOKS,USA,Defender,6,21
+60,Saphir TAIDER,Algeria,Midfielder,19,22
+61,Aissa MANDI,Algeria,Defender,20,22
+62,Tommy OAR,Australia,Midfielder,11,22
+63,Maty RYAN,Australia,Goalkeeper,1,22
+64,Ben HALLORAN,Australia,Forward,10,22
+65,Jason DAVIDSON,Australia,Defender,3,22
+66,Kevin DE BRUYNE,Belgium,Midfielder,7,22
+67,Thibaut COURTOIS,Belgium,Goalkeeper,1,22
+68,Izet HAJROVIC,Bosnia & Herzegovina,Midfielder,20,22
+69,Tino Sven SUSIC,Bosnia & Herzegovina,Midfielder,14,22
+70,NEYMAR,Brazil,Forward,10,22
+71,OSCAR,Brazil,Midfielder,11,22
+72,Vincent ABOUBAKAR,Cameroon,Forward,10,22
+73,Joel MATIP,Cameroon,Midfielder,21,22
+74,Loic FEUDJOU,Cameroon,Goalkeeper,1,22
+75,James RODRIGUEZ,Colombia,Midfielder,10,22
+76,Santiago ARIAS,Colombia,Defender,4,22
+77,Yeltsin TEJEDA,Costa Rica,Midfielder,17,22
+78,Sime VRSALJKO,Croatia,Defender,2,22
+79,Phil JONES,England,Defender,16,22
+80,Jack WILSHERE,England,Midfielder,7,22
+81,Mario GOETZE,Germany,Forward,19,22
+82,Erik DURM,Germany,Defender,15,22
+83,Majeed WARIS,Ghana,Forward,18,22
+84,Acquah AFRIYIE,Ghana,Midfielder,6,22
+85,Christian ATSU,Ghana,Midfielder,7,22
+86,Jordan AYEW,Ghana,Forward,13,22
+87,Bakhtiar RAHMANI,Iran,Midfielder,18,22
+88,Bruno MARTINS INDI,Netherlands,Defender,4,22
+89,Stefan DE VRIJ,Netherlands,Defender,3,22
+90,Joel VELTMAN,Netherlands,Defender,13,22
+91,Jordy CLASIE,Netherlands,Midfielder,16,22
+92,Uche NWOFOR,Nigeria,Forward,19,22
+93,WILLIAM,Portugal,Midfielder,6,22
+94,Maksim KANUNNIKOV,Russia,Forward,6,22
+95,KOKE,Spain,Midfielder,17,22
+96,Fabian SCHAER,Switzerland,Defender,22,22
+97,Xherdan SHAQIRI,Switzerland,Midfielder,23,22
+98,Haris SEFEROVIC,Switzerland,Forward,9,22
+99,Faouzi GHOULAM,Algeria,Defender,3,23
+100,Riyad MAHREZ,Algeria,Forward,21,23
+101,Mathew LECKIE,Australia,Forward,7,23
+102,Eden HAZARD,Belgium,Midfielder,10,23
+103,Miiko ALBORNOZ,Chile,Defender,3,23
+104,Felipe GUTIERREZ,Chile,Midfielder,16,23
+105,Diego CALVO,Costa Rica,Midfielder,20,23
+106,Waylon FRANCIS,Costa Rica,Defender,12,23
+107,Alex IBARRA,Ecuador,Midfielder,5,23
+108,Danny WELBECK,England,Forward,11,23
+109,Antoine GRIEZMANN,France,Forward,11,23
+110,Eliaquim MANGALA,France,Defender,13,23
+111,Clement GRENIER,France,Midfielder,22,23
+112,Andre SCHUERRLE,Germany,Forward,9,23
+113,Christoph KRAMER,Germany,Midfielder,23,23
+114,Mubarak WAKASO,Ghana,Midfielder,22,23
+115,Emmanuel AGYEMANG BADU,Ghana,Midfielder,8,23
+116,Jonathan MENSAH,Ghana,Defender,19,23
+117,Daniel OPARE,Ghana,Defender,4,23
+118,Ioannis FETFATZIDIS,Greece,Forward,18,23
+119,Panagiotis TACHTSIDIS,Greece,Midfielder,23,23
+120,Konstantinos MANOLAS,Greece,Defender,4,23
+121,Luis GARRIDO,Honduras,Midfielder,19,23
+122,Mario BALOTELLI,Italy,Forward,9,23
+123,Lorenzo INSIGNE,Italy,Forward,22,23
+124,Mathis BOLLY,Ivory Coast,Midfielder,6,23
+125,Gotoku SAKAI,Japan,Defender,3,23
+126,Hotaru YAMAGUCHI,Japan,Midfielder,16,23
+127,Alan PULIDO,Mexico,Forward,11,23
+128,Raul JIMENEZ,Mexico,Forward,9,23
+129,Isaac BRIZUELA,Mexico,Midfielder,17,23
+130,Georginio WIJNALDUM,Netherlands,Midfielder,20,23
+131,Victor MOSES,Nigeria,Forward,11,23
+132,Godfrey OBOABONA,Nigeria,Defender,14,23
+133,Ebenezer ODUNLAMI,Nigeria,Defender,12,23
+134,Ruben GABRIEL,Nigeria,Midfielder,4,23
+135,Juwon OSHANIWA,Nigeria,Defender,13,23
+136,ANDRE ALMEIDA,Portugal,Defender,19,23
+137,Oleg SHATOV,Russia,Midfielder,17,23
+138,Alexander KOKORIN,Russia,Forward,9,23
+139,Georgy SHCHENNIKOV,Russia,Defender,3,23
+140,JI Dongwon,South Korea,Midfielder,19,23
+141,KIM Seunggyu,South Korea,Goalkeeper,21,23
+142,David DE GEA,Spain,Goalkeeper,12,23
+143,Michael LANG,Switzerland,Defender,6,23
+144,Admir MEHMEDI,Switzerland,Forward,18,23
+145,Roman BUERKI,Switzerland,Goalkeeper,21,23
+146,Abel HERNANDEZ,Uruguay,Forward,8,23
+147,Sebastian COATES,Uruguay,Defender,19,23
+148,Gaston RAMIREZ,Uruguay,Midfielder,18,23
+149,Aron JOHANNSSON,USA,Forward,9,23
+150,Mix DISKERUD,USA,Midfielder,10,23
+151,Nabil GHILAS,Algeria,Forward,9,24
+152,Sofiane FEGHOULI,Algeria,Forward,10,24
+153,Yacine BRAHIMI,Algeria,Midfielder,11,24
+154,Marcos ROJO,Argentina,Defender,16,24
+155,Ryan McGOWAN,Australia,Defender,19,24
+156,Nacer CHADLI,Belgium,Midfielder,22,24
+157,Miralem PJANIC,Bosnia & Herzegovina,Midfielder,8,24
+158,Ermin BICAKCIC,Bosnia & Herzegovina,Defender,3,24
+159,Ognjen VRANJES,Bosnia & Herzegovina,Defender,6,24
+160,Anel HADZIC,Bosnia & Herzegovina,Midfielder,21,24
+161,Edin VISCA,Bosnia & Herzegovina,Forward,19,24
+162,Nicolas NKOULOU,Cameroon,Defender,3,24
+163,Sammy NDJOCK,Cameroon,Goalkeeper,23,24
+164,Eduardo VARGAS,Chile,Forward,11,24
+165,Victor IBARBO,Colombia,Forward,14,24
+166,Marcos URENA,Costa Rica,Forward,21,24
+167,Cristian GAMBOA,Costa Rica,Defender,16,24
+168,Dejan LOVREN,Croatia,Defender,6,24
+169,Enner VALENCIA,Ecuador,Forward,13,24
+170,Fidel MARTINEZ,Ecuador,Midfielder,20,24
+171,Jefferson MONTERO,Ecuador,Midfielder,7,24
+172,Daniel STURRIDGE,England,Forward,9,24
+173,Chris SMALLING,England,Defender,12,24
+174,Jordan HENDERSON,England,Midfielder,14,24
+175,Mamadou SAKHO,France,Defender,5,24
+176,Moussa SISSOKO,France,Midfielder,18,24
+177,Thomas MUELLER,Germany,Forward,13,24
+178,Toni KROOS,Germany,Midfielder,18,24
+179,Andre AYEW,Ghana,Midfielder,10,24
+180,Mohammed RABIU,Ghana,Midfielder,17,24
+181,Stephen ADAMS,Ghana,Goalkeeper,1,24
+182,Mario MARTINEZ,Honduras,Midfielder,23,24
+183,Karim ANSARI FARD,Iran,Forward,10,24
+184,Ehsan HAJI SAFI,Iran,Midfielder,3,24
+185,Ciro IMMOBILE,Italy,Forward,17,24
+186,Matteo DARMIAN,Italy,Defender,4,24
+187,Yoichiro KAKITANI,Japan,Forward,11,24
+188,Yuya OSAKO,Japan,Forward,18,24
+189,Manabu SAITO,Japan,Forward,20,24
+190,Hiroshi KIYOTAKE,Japan,Forward,8,24
+191,Hiroki SAKAI,Japan,Defender,21,24
+192,Marco FABIAN,Mexico,Midfielder,8,24
+193,Carlos PENA,Mexico,Midfielder,21,24
+194,Hector HERRERA,Mexico,Midfielder,6,24
+195,Javier AQUINO,Mexico,Midfielder,20,24
+196,Leroy FER,Netherlands,Midfielder,18,24
+197,Daryl JANMAAT,Netherlands,Defender,7,24
+198,Daley BLIND,Netherlands,Defender,5,24
+199,Okechukwu UCHEBO,Nigeria,Forward,20,24
+200,Azubuike EGWUEKWE,Nigeria,Defender,6,24
+201,Alan DZAGOEV,Russia,Midfielder,10,24
+202,Yury LODYGIN,Russia,Goalkeeper,12,24
+203,KIM Bokyung,South Korea,Midfielder,7,24
+204,KIM Younggwon,South Korea,Defender,5,24
+205,HONG Jeongho,South Korea,Defender,20,24
+206,HAN Kookyoung,South Korea,Midfielder,14,24
+207,YUN Sukyoung,South Korea,Defender,3,24
+208,HWANG Seokho,South Korea,Defender,6,24
+209,Cesar AZPILICUETA,Spain,Midfielder,22,24
+210,Mario GAVRANOVIC,Switzerland,Forward,17,24
+211,Jozy ALTIDORE,USA,Forward,17,24
+212,Timmy CHANDLER,USA,Defender,21,24
+213,Esseid BELKALEM,Algeria,Defender,4,25
+214,Federico FERNANDEZ,Argentina,Defender,17,25
+215,James TROISI,Australia,Midfielder,14,25
+216,Mitch LANGERAK,Australia,Goalkeeper,12,25
+217,Matthew SPIRANOVIC,Australia,Defender,6,25
+218,James HOLLAND,Australia,Midfielder,16,25
+219,Oliver BOZANIC,Australia,Midfielder,13,25
+220,Axel WITSEL,Belgium,Midfielder,6,25
+221,Toby ALDERWEIRELD,Belgium,Defender,2,25
+222,Toni SUNJIC,Bosnia & Herzegovina,Defender,15,25
+223,WILLIAN,Brazil,Midfielder,19,25
+224,PAULINHO,Brazil,Midfielder,8,25
+225,Eric CHOUPO MOTING,Cameroon,Forward,13,25
+226,Benjamin MOUKANDJO,Cameroon,Forward,8,25
+227,Alexis SANCHEZ,Chile,Forward,7,25
+228,Eugenio MENA,Chile,Defender,2,25
+229,Charles ARANGUIZ,Chile,Midfielder,20,25
+230,David OSPINA,Colombia,Goalkeeper,1,25
+231,Alexander MEJIA,Colombia,Midfielder,15,25
+232,Camilo VARGAS,Colombia,Goalkeeper,12,25
+233,Oscar DUARTE,Costa Rica,Defender,6,25
+234,Ivan PERISIC,Croatia,Midfielder,4,25
+235,Domagoj VIDA,Croatia,Defender,21,25
+236,Felipe CAICEDO,Ecuador,Forward,11,25
+237,Joao ROJAS,Ecuador,Forward,9,25
+238,Adrian BONE,Ecuador,Goalkeeper,12,25
+239,Marco REUS,Germany,Forward,21,25
+240,Mesut OEZIL,Germany,Midfielder,8,25
+241,Mats HUMMELS,Germany,Defender,5,25
+242,Jerome BOATENG,Germany,Defender,20,25
+243,Ron-Robert ZIELER,Germany,Goalkeeper,12,25
+244,Kevin GROSSKREUTZ,Germany,Defender,2,25
+245,Kwadwo ASAMOAH,Ghana,Midfielder,20,25
+246,Samuel INKOOM,Ghana,Defender,2,25
+247,Andreas SAMARIS,Greece,Midfielder,22,25
+248,Reza HAGHIGHI,Iran,Midfielder,8,25
+249,Wilfried BONY,Ivory Coast,Forward,12,25
+250,Sylvain GBOHOUO,Ivory Coast,Goalkeeper,16,25
+251,Giovanni SIO,Ivory Coast,Forward,21,25
+252,Shinji KAGAWA,Japan,Forward,10,25
+253,Maya YOSHIDA,Japan,Defender,22,25
+254,Shuichi GONDA,Japan,Goalkeeper,23,25
+255,Giovani DOS SANTOS,Mexico,Forward,10,25
+256,Miguel LAYUN,Mexico,Defender,7,25
+257,Miguel PONCE,Mexico,Defender,16,25
+258,Jasper CILLESSEN,Netherlands,Goalkeeper,1,25
+259,Efe AMBROSE,Nigeria,Defender,5,25
+260,Andrey SEMENOV,Russia,Defender,5,25
+261,Alexey IONOV,Russia,Forward,21,25
+262,KOO Jacheol,South Korea,Forward,13,25
+263,LEE Chungyong,South Korea,Midfielder,17,25
+264,KI Sungyueng,South Korea,Midfielder,16,25
+265,PARK Jongwoo,South Korea,Midfielder,15,25
+266,LEE Bumyoung,South Korea,Goalkeeper,23,25
+267,Jordi ALBA,Spain,Defender,18,25
+268,Javi MARTINEZ,Spain,Midfielder,4,25
+269,Sergio BUSQUETS,Spain,Midfielder,16,25
+270,Diego COSTA,Spain,Forward,19,25
+271,Valentin STOCKER,Switzerland,Midfielder,14,25
+272,Yann SOMMER,Switzerland,Goalkeeper,12,25
+273,Nicolas LODEIRO,Uruguay,Midfielder,14,25
+274,Omar GONZALEZ,USA,Defender,3,25
+275,Islam SLIMANI,Algeria,Forward,13,26
+276,El Arabi SOUDANI,Algeria,Forward,15,26
+277,Liassine CADAMURO,Algeria,Defender,17,26
+278,Gonzalo HIGUAIN,Argentina,Forward,9,26
+279,Lionel MESSI,Argentina,Forward,10,26
+280,Sergio AGUERO,Argentina,Forward,20,26
+281,Angel DI MARIA,Argentina,Midfielder,7,26
+282,Ricardo ALVAREZ,Argentina,Midfielder,19,26
+283,Ivan FRANJIC,Australia,Defender,2,26
+284,Kevin MIRALLAS,Belgium,Forward,11,26
+285,Marouane FELLAINI,Belgium,Midfielder,8,26
+286,Moussa DEMBELE,Belgium,Midfielder,19,26
+287,Steven DEFOUR,Belgium,Midfielder,16,26
+288,Anthony VANDEN BORRE,Belgium,Defender,21,26
+289,Simon MIGNOLET,Belgium,Goalkeeper,12,26
+290,Asmir BEGOVIC,Bosnia & Herzegovina,Goalkeeper,1,26
+291,MARCELO,Brazil,Defender,6,26
+292,LUIZ GUSTAVO,Brazil,Midfielder,17,26
+293,Alexandre SONG,Cameroon,Midfielder,6,26
+294,Allan NYOM,Cameroon,Defender,22,26
+295,Gary MEDEL,Chile,Defender,17,26
+296,Mauricio ISLA,Chile,Defender,4,26
+297,Cristopher TOSELLI,Chile,Goalkeeper,12,26
+298,Juan CUADRADO,Colombia,Midfielder,11,26
+299,Celso BORGES,Costa Rica,Midfielder,5,26
+300,Giancarlo GONZALEZ,Costa Rica,Defender,3,26
+301,Ivan RAKITIC,Croatia,Midfielder,7,26
+302,Jaimen AYOVI,Ecuador,Forward,17,26
+303,Frickson ERAZO,Ecuador,Defender,3,26
+304,Juan PAREDES,Ecuador,Defender,4,26
+305,Fraser FORSTER,England,Goalkeeper,22,26
+306,Adam LALLANA,England,Midfielder,20,26
+307,Karim BENZEMA,France,Forward,10,26
+308,Benedikt HOEWEDES,Germany,Defender,4,26
+309,Albert ADOMAH,Ghana,Midfielder,14,26
+310,Adam KWARASEY,Ghana,Goalkeeper,12,26
+311,Konstantinos MITROGLOU,Greece,Forward,9,26
+312,Sokratis PAPASTATHOPOULOS,Greece,Defender,19,26
+313,Panagiotis KONE,Greece,Midfielder,8,26
+314,Georgios TZAVELAS,Greece,Defender,3,26
+315,Rony MARTINEZ,Honduras,Forward,16,26
+316,Juan Carlos GARCIA,Honduras,Defender,6,26
+317,Reza GHOOCHANNEJAD,Iran,Forward,16,26
+318,Alireza HAGHIGHI,Iran,Goalkeeper,12,26
+319,Daniel DAVARI,Iran,Goalkeeper,22,26
+320,Alessio CERCI,Italy,Forward,11,26
+321,Max GRADEL,Ivory Coast,Midfielder,15,26
+322,Atsuto UCHIDA,Japan,Defender,2,26
+323,Javier HERNANDEZ,Mexico,Forward,14,26
+324,Hector MORENO,Mexico,Defender,15,26
+325,Jose VAZQUEZ,Mexico,Midfielder,23,26
+326,Jeremain LENS,Netherlands,Forward,17,26
+327,Tim KRUL,Netherlands,Goalkeeper,23,26
+328,Jonathan DE GUZMAN,Netherlands,Midfielder,8,26
+329,Uwa ECHIEJILE,Nigeria,Defender,3,26
+330,FABIO COENTRAO,Portugal,Defender,5,26
+331,EDER,Portugal,Forward,11,26
+332,RUI PATRICIO,Portugal,Goalkeeper,12,26
+333,LUIS NETO,Portugal,Defender,14,26
+334,KIM Shinwook,South Korea,Forward,18,26
+335,Pedro RODRIGUEZ,Spain,Forward,11,26
+336,Juan MATA,Spain,Forward,13,26
+337,Michael BRADLEY,USA,Midfielder,4,26
+338,Fabian JOHNSON,USA,Defender,23,26
+339,Abdelmoumene DJABOU,Algeria,Forward,18,27
+340,Rafik HALLICHE,Algeria,Defender,5,27
+341,Sergio ROMERO,Argentina,Goalkeeper,1,27
+342,Ezequiel GARAY,Argentina,Defender,2,27
+343,Dario VIDOSIC,Australia,Midfielder,20,27
+344,Dries MERTENS,Belgium,Midfielder,14,27
+345,Jan VERTONGHEN,Belgium,Defender,5,27
+346,JO,Brazil,Forward,21,27
+347,HULK,Brazil,Forward,7,27
+348,RAMIRES,Brazil,Midfielder,16,27
+349,DAVID LUIZ,Brazil,Defender,4,27
+350,HENRIQUE,Brazil,Defender,15,27
+351,Arturo VIDAL,Chile,Midfielder,8,27
+352,Marcelo DIAZ,Chile,Midfielder,21,27
+353,Carlos CARMONA,Chile,Midfielder,6,27
+354,Carlos BACCA,Colombia,Forward,17,27
+355,Jackson MARTINEZ,Colombia,Forward,21,27
+356,Fredy GUARIN,Colombia,Midfielder,13,27
+357,Pablo ARMERO,Colombia,Defender,7,27
+358,Cristian ZAPATA,Colombia,Defender,2,27
+359,Jose CUBERO,Costa Rica,Midfielder,22,27
+360,Keylor NAVAS,Costa Rica,Goalkeeper,1,27
+361,SAMMIR,Croatia,Midfielder,19,27
+362,Michael ARROYO,Ecuador,Midfielder,15,27
+363,Alexander DOMINGUEZ,Ecuador,Goalkeeper,22,27
+364,Joe HART,England,Goalkeeper,1,27
+365,Olivier GIROUD,France,Forward,9,27
+366,Loic REMY,France,Forward,20,27
+367,Blaise MATUIDI,France,Midfielder,14,27
+368,Stephane RUFFIER,France,Goalkeeper,16,27
+369,Hugo LLORIS,France,Goalkeeper,1,27
+370,Sami KHEDIRA,Germany,Midfielder,6,27
+371,Kevin Prince BOATENG,Ghana,Forward,9,27
+372,John BOYE,Ghana,Defender,21,27
+373,Harrison AFFUL,Ghana,Defender,23,27
+374,Lazaros CHRISTODOULOPOULOS,Greece,Midfielder,16,27
+375,Panagiotis GLYKOS,Greece,Goalkeeper,12,27
+376,Ioannis MANIATIS,Greece,Midfielder,2,27
+377,Jerry BENGTSON,Honduras,Forward,11,27
+378,Roger ESPINOZA,Honduras,Midfielder,15,27
+379,Edder DELGADO,Honduras,Midfielder,12,27
+380,Ashkan DEJAGAH,Iran,Forward,21,27
+381,Hossein MAHINI,Iran,Defender,13,27
+382,Mehrdad POOLADI,Iran,Defender,23,27
+383,Steven BEITASHOUR,Iran,Defender,20,27
+384,Leonardo BONUCCI,Italy,Defender,19,27
+385,Ignazio ABATE,Italy,Defender,7,27
+386,Salvatore SIRIGU,Italy,Goalkeeper,12,27
+387,Antonio CANDREVA,Italy,Midfielder,6,27
+388,GERVINHO,Ivory Coast,Forward,10,27
+389,Ismael TIOTE,Ivory Coast,Midfielder,9,27
+390,Ousmane DIARRASSOUBA,Ivory Coast,Defender,2,27
+391,Constant DJAKPA,Ivory Coast,Defender,18,27
+392,Masato MORISHIGE,Japan,Defender,6,27
+393,Yuto NAGATOMO,Japan,Defender,5,27
+394,Andres GUARDADO,Mexico,Defender,18,27
+395,Emmanuel EMENIKE,Nigeria,Forward,9,27
+396,John Obi MIKEL,Nigeria,Midfielder,10,27
+397,NANI,Portugal,Forward,17,27
+398,JOAO MOUTINHO,Portugal,Midfielder,8,27
+399,Denis GLUSHAKOV,Russia,Midfielder,8,27
+400,Dmitry KOMBAROV,Russia,Defender,23,27
+401,Aleksei KOZLOV,Russia,Defender,2,27
+402,Vladimir GRANAT,Russia,Defender,13,27
+403,LEE Yong,South Korea,Defender,12,27
+404,PARK Jooho,South Korea,Defender,22,27
+405,Cesc FABREGAS,Spain,Midfielder,10,27
+406,Gerard PIQUE,Spain,Defender,3,27
+407,Gelson FERNANDES,Switzerland,Midfielder,16,27
+408,Johan DJOUROU,Switzerland,Defender,20,27
+409,Luis SUAREZ,Uruguay,Forward,9,27
+410,Cristhian STUANI,Uruguay,Forward,11,27
+411,Edinson CAVANI,Uruguay,Forward,21,27
+412,Martin CACERES,Uruguay,Defender,22,27
+413,Graham ZUSI,USA,Midfielder,19,27
+414,Alejandro BEDOYA,USA,Midfielder,11,27
+415,Matt BESLER,USA,Defender,5,27
+416,Rais MBOLHI,Algeria,Goalkeeper,23,28
+417,Enzo PEREZ,Argentina,Midfielder,8,28
+418,Augusto FERNANDEZ,Argentina,Midfielder,13,28
+419,Fernando GAGO,Argentina,Midfielder,5,28
+420,Lucas BIGLIA,Argentina,Midfielder,6,28
+421,Mark MILLIGAN,Australia,Midfielder,5,28
+422,Vincent KOMPANY,Belgium,Defender,4,28
+423,Thomas VERMAELEN,Belgium,Defender,3,28
+424,Laurent CIMAN,Belgium,Defender,23,28
+425,Sammy BOSSUT,Belgium,Goalkeeper,13,28
+426,Edin DZEKO,Bosnia & Herzegovina,Forward,11,28
+427,Senijad IBRICIC,Bosnia & Herzegovina,Midfielder,17,28
+428,Senad LULIC,Bosnia & Herzegovina,Midfielder,16,28
+429,Avdija VRSAJEVIC,Bosnia & Herzegovina,Midfielder,2,28
+430,Jasmin FEJZIC,Bosnia & Herzegovina,Goalkeeper,12,28
+431,Stephane MBIA,Cameroon,Midfielder,17,28
+432,Enoh EYONG,Cameroon,Midfielder,18,28
+433,Landry NGUEMO,Cameroon,Midfielder,7,28
+434,Aurelien CHEDJOU,Cameroon,Defender,14,28
+435,Dany NOUNKEU,Cameroon,Defender,5,28
+436,Fabian ORELLANA,Chile,Forward,14,28
+437,Gonzalo JARA,Chile,Defender,18,28
+438,Francisco SILVA,Chile,Midfielder,5,28
+439,Adrian RAMOS,Colombia,Forward,19,28
+440,Juan ZUNIGA,Colombia,Defender,18,28
+441,Carlos SANCHEZ,Colombia,Midfielder,6,28
+442,Bryan RUIZ,Costa Rica,Forward,10,28
+443,Oscar GRANADOS,Costa Rica,Midfielder,13,28
+444,Daniel CAMBRONERO,Costa Rica,Goalkeeper,23,28
+445,Mario MANDZUKIC,Croatia,Forward,17,28
+446,Nikica JELAVIC,Croatia,Forward,9,28
+447,Luka MODRIC,Croatia,Midfielder,10,28
+448,Vedran CORLUKA,Croatia,Defender,5,28
+449,Antonio VALENCIA,Ecuador,Midfielder,16,28
+450,Maximo BANGUERA,Ecuador,Goalkeeper,1,28
+451,Wayne ROONEY,England,Forward,10,28
+452,Gary CAHILL,England,Defender,5,28
+453,James MILNER,England,Midfielder,17,28
+454,Mathieu DEBUCHY,France,Defender,2,28
+455,Yohan CABAYE,France,Midfielder,6,28
+456,Laurent KOSCIELNY,France,Defender,21,28
+457,Manuel NEUER,Germany,Goalkeeper,1,28
+458,Asamoah GYAN,Ghana,Forward,3,28
+459,Orestis KARNEZIS,Greece,Goalkeeper,1,28
+460,Juan MONTES,Honduras,Defender,4,28
+461,Jorge CLAROS,Honduras,Midfielder,20,28
+462,Brayan BECKELES,Honduras,Defender,21,28
+463,Emilio IZAGUIRRE,Honduras,Midfielder,7,28
+464,Claudio MARCHISIO,Italy,Midfielder,8,28
+465,Gabriel PALETTA,Italy,Defender,20,28
+466,Salomon KALOU,Ivory Coast,Forward,8,28
+467,Shinji OKAZAKI,Japan,Forward,9,28
+468,Keisuke HONDA,Japan,Forward,4,28
+469,Masahiko INOHA,Japan,Defender,19,28
+470,Shusaku NISHIKAWA,Japan,Goalkeeper,12,28
+471,Toshihiro AOYAMA,Japan,Midfielder,14,28
+472,Paul AGUILAR,Mexico,Defender,22,28
+473,Guillermo OCHOA,Mexico,Goalkeeper,13,28
+474,MIGUEL VELOSO,Portugal,Midfielder,4,28
+475,VIEIRINHA,Portugal,Forward,10,28
+476,Victor FAYZULIN,Russia,Midfielder,20,28
+477,Igor AKINFEEV,Russia,Goalkeeper,1,28
+478,PARK Chuyoung,South Korea,Forward,10,28
+479,KIM Changsoo,South Korea,Defender,2,28
+480,David SILVA,Spain,Midfielder,21,28
+481,Sergio RAMOS,Spain,Defender,15,28
+482,Raul ALBIOL,Spain,Defender,2,28
+483,Blerim DZEMAILI,Switzerland,Midfielder,15,28
+484,Reto ZIEGLER,Switzerland,Defender,3,28
+485,Cristian RODRIGUEZ,Uruguay,Midfielder,7,28
+486,Alvaro PEREIRA,Uruguay,Midfielder,6,28
+487,Diego GODIN,Uruguay,Defender,3,28
+488,Fernando MUSLERA,Uruguay,Goalkeeper,1,28
+489,Geoff CAMERON,USA,Defender,20,28
+490,Carl MEDJANI,Algeria,Defender,12,29
+491,Mohamed ZEMMAMOUCHE,Algeria,Goalkeeper,16,29
+492,Cedric SI MOHAMMED,Algeria,Goalkeeper,1,29
+493,Djamel MESBAH,Algeria,Defender,6,29
+494,Ezequiel LAVEZZI,Argentina,Forward,22,29
+495,Pablo ZABALETA,Argentina,Defender,4,29
+496,Mile JEDINAK,Australia,Midfielder,15,29
+497,Alex WILKINSON,Australia,Defender,22,29
+498,Nicolas LOMBAERTS,Belgium,Defender,18,29
+499,Vedad IBISEVIC,Bosnia & Herzegovina,Forward,9,29
+500,Haris MEDUNJANIN,Bosnia & Herzegovina,Midfielder,18,29
+501,Sejad SALIHOVIC,Bosnia & Herzegovina,Midfielder,23,29
+502,FERNANDINHO,Brazil,Midfielder,5,29
+503,HERNANES,Brazil,Midfielder,18,29
+504,THIAGO SILVA,Brazil,Defender,3,29
+505,Jose FUENZALIDA,Chile,Midfielder,19,29
+506,Teofilo GUTIERREZ,Colombia,Forward,9,29
+507,Carlos VALDES,Colombia,Defender,23,29
+508,Abel AGUILAR,Colombia,Midfielder,8,29
+509,Heiner MORA,Costa Rica,Defender,8,29
+510,Roy MILLER,Costa Rica,Defender,19,29
+511,Gordon SCHILDENFELD,Croatia,Defender,13,29
+512,Danijel SUBASIC,Croatia,Goalkeeper,23,29
+513,Cristhian NOBOA,Ecuador,Midfielder,6,29
+514,Gabriel ACHILIER,Ecuador,Defender,21,29
+515,Leighton BAINES,England,Defender,3,29
+516,Glen JOHNSON,England,Defender,2,29
+517,Mathieu VALBUENA,France,Midfielder,8,29
+518,Lukas PODOLSKI,Germany,Forward,10,29
+519,Bastian SCHWEINSTEIGER,Germany,Midfielder,7,29
+520,Per MERTESACKER,Germany,Defender,17,29
+521,Sulley MUNTARI,Ghana,Midfielder,11,29
+522,Fatawu DAUDA,Ghana,Goalkeeper,16,29
+523,Georgios SAMARAS,Greece,Forward,7,29
+524,Vasileios TOROSIDIS,Greece,Defender,15,29
+525,Jose CHOLEVAS,Greece,Defender,20,29
+526,Alexandros TZIOLIS,Greece,Midfielder,6,29
+527,Wilson PALACIOS,Honduras,Midfielder,8,29
+528,Boniek GARCIA,Honduras,Midfielder,14,29
+529,Osman CHAVEZ,Honduras,Defender,2,29
+530,Alberto AQUILANI,Italy,Midfielder,14,29
+531,Giorgio CHIELLINI,Italy,Defender,3,29
+532,Marco PAROLO,Italy,Midfielder,18,29
+533,Souleymane BAMBA,Ivory Coast,Defender,22,29
+534,Die SEREY,Ivory Coast,Midfielder,20,29
+535,Ron VLAAR,Netherlands,Defender,2,29
+536,Nigel DE JONG,Netherlands,Midfielder,6,29
+537,Chigozie AGBIM,Nigeria,Goalkeeper,21,29
+538,CRISTIANO RONALDO,Portugal,Forward,7,29
+539,VARELA,Portugal,Forward,18,29
+540,RUBEN AMORIM,Portugal,Midfielder,20,29
+541,Alexander SAMEDOV,Russia,Forward,19,29
+542,LEE Keunho,South Korea,Forward,11,29
+543,JUNG Sungryong,South Korea,Goalkeeper,1,29
+544,HA Daesung,South Korea,Midfielder,8,29
+545,Santi CAZORLA,Spain,Midfielder,20,29
+546,JUANFRAN,Spain,Defender,5,29
+547,Tranquillo BARNETTA,Switzerland,Midfielder,7,29
+548,Philippe SENDEROS,Switzerland,Defender,4,29
+549,Gokhan INLER,Switzerland,Midfielder,8,29
+550,Valon BEHRAMI,Switzerland,Midfielder,11,29
+551,Alvaro GONZALEZ,Uruguay,Midfielder,20,29
+552,Walter GARGANO,Uruguay,Midfielder,5,29
+553,Jorge FUCILE,Uruguay,Defender,4,29
+554,Brad GUZAN,USA,Goalkeeper,12,29
+555,Hassan YEBDA,Algeria,Midfielder,7,30
+556,Mehdi MOSTEFA,Algeria,Midfielder,22,30
+557,Medhi LACEN,Algeria,Midfielder,8,30
+558,Javier MASCHERANO,Argentina,Midfielder,14,30
+559,Mariano ANDUJAR,Argentina,Goalkeeper,21,30
+560,Jose Maria BASANTA,Argentina,Defender,23,30
+561,Mensur MUJDZA,Bosnia & Herzegovina,Midfielder,13,30
+562,FRED,Brazil,Forward,9,30
+563,DANTE,Brazil,Defender,13,30
+564,Benoit ASSOU EKOTTO,Cameroon,Defender,2,30
+565,Henri BEDIMO,Cameroon,Defender,12,30
+566,Mauricio PINILLA,Chile,Forward,9,30
+567,Jean BEAUSEJOUR,Chile,Midfielder,15,30
+568,Jorge VALDIVIA,Chile,Midfielder,10,30
+569,Jose ROJAS,Chile,Defender,13,30
+570,Randall BRENES,Costa Rica,Forward,14,30
+571,Michael BARRANTES,Costa Rica,Midfielder,11,30
+572,Johnny ACOSTA,Costa Rica,Defender,2,30
+573,Christian BOLANOS,Costa Rica,Midfielder,7,30
+574,Junior DIAZ,Costa Rica,Defender,15,30
+575,Ognjen VUKOJEVIC,Croatia,Midfielder,8,30
+576,Luis SARITAMA,Ecuador,Midfielder,19,30
+577,Rio MAVUBA,France,Midfielder,12,30
+578,Philipp LAHM,Germany,Midfielder,16,30
+579,Marvin CHAVEZ,Honduras,Midfielder,10,30
+580,Masoud SHOJAEI,Iran,Forward,7,30
+581,Hashem BEIKZADEH,Iran,Midfielder,19,30
+582,Pejman MONTAZERI,Iran,Defender,15,30
+583,Ghasem HADADIFAR,Iran,Midfielder,11,30
+584,Khosro HEYDARI,Iran,Forward,2,30
+585,Daniele DE ROSSI,Italy,Midfielder,16,30
+586,Konan YA,Ivory Coast,Midfielder,13,30
+587,Makoto HASEBE,Japan,Midfielder,17,30
+588,Oribe PERALTA,Mexico,Forward,19,30
+589,Klaas Jan HUNTELAAR,Netherlands,Forward,19,30
+590,Robin VAN PERSIE,Netherlands,Forward,9,30
+591,Arjen ROBBEN,Netherlands,Forward,11,30
+592,Wesley SNEIJDER,Netherlands,Midfielder,10,30
+593,Michel VORM,Netherlands,Goalkeeper,22,30
+594,Paul VERHAEGH,Netherlands,Defender,12,30
+595,Austine EJIDE,Nigeria,Goalkeeper,16,30
+596,HUGO ALMEIDA,Portugal,Forward,9,30
+597,JOAO PEREIRA,Portugal,Defender,21,30
+598,Yury ZHIRKOV,Russia,Forward,18,30
+599,Andrey ESHCHENKO,Russia,Defender,22,30
+600,Igor DENISOV,Russia,Midfielder,7,30
+601,Fernando TORRES,Spain,Forward,9,30
+602,Andres INIESTA,Spain,Midfielder,6,30
+603,Stephan LICHTSTEINER,Switzerland,Defender,2,30
+604,Diego BENAGLIO,Switzerland,Goalkeeper,1,30
+605,Maximiliano PEREIRA,Uruguay,Defender,16,30
+606,Madjid BOUGUERRA,Algeria,Defender,2,31
+607,Matt McKAY,Australia,Midfielder,17,31
+608,DANI ALVES,Brazil,Defender,2,31
+609,VICTOR,Brazil,Goalkeeper,22,31
+610,JEFFERSON,Brazil,Goalkeeper,1,31
+611,Jean MAKOUN,Cameroon,Midfielder,11,31
+612,Charles ITANDJE,Cameroon,Goalkeeper,16,31
+613,Claudio BRAVO,Chile,Goalkeeper,1,31
+614,Michael UMANA,Costa Rica,Defender,4,31
+615,EDUARDO,Croatia,Forward,22,31
+616,Oscar BAGUI,Ecuador,Defender,18,31
+617,Phil JAGIELKA,England,Defender,6,31
+618,Ben FOSTER,England,Goalkeeper,13,31
+619,Franck RIBERY,France,Forward,7,31
+620,Bacary SAGNA,France,Defender,15,31
+621,Michael ESSIEN,Ghana,Midfielder,5,31
+622,Carlo COSTLY,Honduras,Forward,13,31
+623,Maynor FIGUEROA,Honduras,Defender,3,31
+624,Ahmad ALNAMEH,Iran,Defender,17,31
+625,Andranik TIMOTIAN,Iran,Midfielder,14,31
+626,Antonio CASSANO,Italy,Forward,10,31
+627,THIAGO MOTTA,Italy,Midfielder,5,31
+628,Yaya TOURE,Ivory Coast,Midfielder,19,31
+629,Arthur BOKA,Ivory Coast,Defender,3,31
+630,Yasuyuki KONNO,Japan,Defender,15,31
+631,Eiji KAWASHIMA,Japan,Goalkeeper,1,31
+632,Alfredo TALAVERA,Mexico,Goalkeeper,12,31
+633,Vincent ENYEAMA,Nigeria,Goalkeeper,1,31
+634,HELDER POSTIGA,Portugal,Forward,23,31
+635,RAUL MEIRELES,Portugal,Midfielder,16,31
+636,PEPE,Portugal,Defender,3,31
+637,EDUARDO,Portugal,Goalkeeper,1,31
+638,Aleksandr KERZHAKOV,Russia,Forward,11,31
+639,Pepe REINA,Spain,Goalkeeper,23,31
+640,Steve VON BERGEN,Switzerland,Defender,5,31
+641,Martin SILVA,Uruguay,Goalkeeper,23,31
+642,Chris WONDOLOWSKI,USA,Forward,18,31
+643,Clint DEMPSEY,USA,Forward,8,31
+644,Rodrigo PALACIO,Argentina,Forward,18,32
+645,Agustin ORION,Argentina,Goalkeeper,12,32
+646,Zvjezdan MISIMOVIC,Bosnia & Herzegovina,Midfielder,10,32
+647,MAICON,Brazil,Defender,23,32
+648,MAXWELL,Brazil,Defender,14,32
+649,Pierre WEBO,Cameroon,Forward,15,32
+650,Patrick PEMBERTON,Costa Rica,Goalkeeper,18,32
+651,Darijo SRNA,Croatia,Defender,11,32
+652,Danijel PRANJIC,Croatia,Defender,3,32
+653,Segundo CASTILLO,Ecuador,Midfielder,14,32
+654,Jorge GUAGUA,Ecuador,Defender,2,32
+655,Rickie LAMBERT,England,Forward,18,32
+656,Dimitrios SALPINGIDIS,Greece,Forward,14,32
+657,Vangelis MORAS,Greece,Defender,5,32
+658,Jerry PALACIOS,Honduras,Midfielder,9,32
+659,Victor BERNARDEZ,Honduras,Defender,5,32
+660,Jalal HOSSEINI,Iran,Defender,4,32
+661,Amirhossein SADEGHI,Iran,Defender,5,32
+662,Yoshito OKUBO,Japan,Forward,13,32
+663,Francisco RODRIGUEZ,Mexico,Defender,2,32
+664,Shola AMEOBI,Nigeria,Forward,23,32
+665,Peter ODEMWINGIE,Nigeria,Forward,8,32
+666,BRUNO ALVES,Portugal,Defender,2,32
+667,BETO,Portugal,Goalkeeper,22,32
+668,Roman SHIROKOV,Russia,Midfielder,15,32
+669,Vasily BEREZUTSKIY,Russia,Defender,14,32
+670,KWAK Taehwi,South Korea,Defender,4,32
+671,David VILLA,Spain,Forward,7,32
+672,Xabi ALONSO,Spain,Midfielder,14,32
+673,Egidio AREVALO,Uruguay,Midfielder,17,32
+674,Rodrigo MUNOZ,Uruguay,Goalkeeper,12,32
+675,DaMarcus BEASLEY,USA,Defender,7,32
+676,Jermaine JONES,USA,Midfielder,13,32
+677,Kyle BECKERMAN,USA,Midfielder,15,32
+678,Brad DAVIS,USA,Midfielder,14,32
+679,Maxi RODRIGUEZ,Argentina,Midfielder,11,33
+680,Martin DEMICHELIS,Argentina,Defender,15,33
+681,Hugo CAMPAGNARO,Argentina,Defender,3,33
+682,Eugene GALEKOVIC,Australia,Goalkeeper,18,33
+683,Emir SPAHIC,Bosnia & Herzegovina,Defender,4,33
+684,Asmir AVDUKIC,Bosnia & Herzegovina,Goalkeeper,22,33
+685,Samuel ETOO,Cameroon,Forward,9,33
+686,Esteban PAREDES,Chile,Forward,22,33
+687,Johnny HERRERA,Chile,Goalkeeper,23,33
+688,Aldo RAMIREZ,Colombia,Midfielder,5,33
+689,Patrice EVRA,France,Defender,3,33
+690,Roman WEIDENFELLER,Germany,Goalkeeper,22,33
+691,Loukas VYNTRA,Greece,Defender,11,33
+692,Donis ESCOBER,Honduras,Goalkeeper,22,33
+693,Javad NEKOUNAM,Iran,Midfielder,6,33
+694,Rahman AHMADI,Iran,Goalkeeper,1,33
+695,Andrea BARZAGLI,Italy,Defender,15,33
+696,Kolo TOURE,Ivory Coast,Defender,4,33
+697,Didier ZOKORA,Ivory Coast,Defender,5,33
+698,Jose CORONA,Mexico,Goalkeeper,1,33
+699,Dirk KUYT,Netherlands,Forward,15,33
+700,Joseph YOBO,Nigeria,Defender,2,33
+701,RICARDO COSTA,Portugal,Defender,13,33
+702,Sergey RYZHIKOV,Russia,Goalkeeper,16,33
+703,Iker CASILLAS,Spain,Goalkeeper,1,33
+704,Diego LUGANO,Uruguay,Defender,2,33
+705,Tim CAHILL,Australia,Forward,4,34
+706,Mark BRESCIANO,Australia,Midfielder,23,34
+707,JULIO CESAR,Brazil,Goalkeeper,12,34
+708,Ivica OLIC,Croatia,Forward,18,34
+709,Walter AYOVI,Ecuador,Midfielder,10,34
+710,Steven GERRARD,England,Midfielder,4,34
+711,Theofanis GEKAS,Greece,Forward,17,34
+712,Boubacar BARRY,Ivory Coast,Goalkeeper,1,34
+713,Yasuhito ENDO,Japan,Midfielder,7,34
+714,Carlos SALCIDO,Mexico,Defender,3,34
+715,Sergey IGNASHEVICH,Russia,Defender,4,34
+716,Xavi HERNANDEZ,Spain,Midfielder,8,34
+717,Diego PEREZ,Uruguay,Midfielder,15,34
+718,Stipe PLETIKOSA,Croatia,Goalkeeper,1,35
+719,Edison MENDEZ,Ecuador,Midfielder,8,35
+720,Mickael LANDREAU,France,Goalkeeper,23,35
+721,Konstantinos KATSOURANIS,Greece,Midfielder,21,35
+722,Andrea PIRLO,Italy,Midfielder,21,35
+723,Rafael MARQUEZ,Mexico,Defender,4,35
+724,Diego FORLAN,Uruguay,Forward,10,35
+725,Tim HOWARD,USA,Goalkeeper,1,35
+726,Nick RIMANDO,USA,Goalkeeper,22,35
+727,Daniel VAN BUYTEN,Belgium,Defender,15,36
+728,Frank LAMPARD,England,Midfielder,8,36
+729,Miroslav KLOSE,Germany,Forward,11,36
+730,Gianluigi BUFFON,Italy,Goalkeeper,1,36
+731,Didier DROGBA,Ivory Coast,Forward,11,36
+732,Georgios KARAGOUNIS,Greece,Midfielder,10,37
+733,Noel VALLADARES,Honduras,Goalkeeper,18,37
+734,Mario YEPES,Colombia,Defender,3,38
+735,Faryd MONDRAGON,Colombia,Goalkeeper,22,43

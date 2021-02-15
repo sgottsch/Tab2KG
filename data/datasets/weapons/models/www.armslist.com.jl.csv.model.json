@@ -1,0 +1,138 @@
+{
+  "name": "www.armslist.com.jl.csv",
+  "id": "www.armslist.com.jl.csv",
+  "graph": {
+    "nodes": [
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Place"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "Location0408"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.dig.isi.edu/ontology/identifier"
+            }
+          }
+        ],
+        "columnName": "post0299"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.org/datePosted"
+            }
+          }
+        ],
+        "columnName": "On0398"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "0006"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.org/price"
+            }
+          }
+        ],
+        "columnName": "Price0373"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Offer"
+            },
+            "type": {
+              "uri": "http://schema.org/description"
+            }
+          }
+        ],
+        "columnName": "Favorite0538"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/CreativeWork"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "file_name"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/CreativeWork"
+            },
+            "type": {
+              "uri": "http://schema.org/copyrightYear"
+            }
+          }
+        ],
+        "columnName": "US0756"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.dig.isi.edu/ontology/PersonOrOrganization"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "No0426"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.dig.isi.edu/ontology/Firearm"
+            },
+            "type": {
+              "uri": "http://schema.org/category"
+            }
+          }
+        ],
+        "columnName": "In0403"
+      }
+    ]
+  }
+}

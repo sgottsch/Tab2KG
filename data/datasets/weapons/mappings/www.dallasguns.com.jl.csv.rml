@@ -1,0 +1,186 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#>.
+@prefix rml: <http://semweb.mmlab.be/ns/rml#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix ex: <http://example.com/resource/>.
+@prefix ql: <http://semweb.mmlab.be/ns/ql#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix csvw: <http://www.w3.org/ns/csvw#>.
+ex:File
+	rdf:type rml:source ;
+	rml:source ex:FileSource ;
+	rml:referenceFormulation ql:CSV .
+ex:FileSource a csvw:Table;
+	csvw:url "/storage/home/gottschalk/www21/data/weapons/tables/www.dallasguns.com.jl.csv" ;
+	csvw:dialect [
+		a csvw:Dialect;
+		csvw:delimiter ",";
+] .
+ex:Mapping0
+	rdf:type rr:TriplesMap ;
+	rml:logicalSource ex:File ;
+	rr:subjectMap [
+		rr:class <http://schema.dig.isi.edu/ontology/Firearm> ;
+		rr:template "http://schema.dig.isi.edu/ontology/Firearm{Model2378}" ;
+];
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/category> ;
+	rr:objectMap [
+		rml:reference "Hunting2477";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/itemCondition> ;
+	rr:objectMap [
+		rml:reference "1002395";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/name> ;
+	rr:objectMap [
+		rml:reference "Model2378";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/manufacturer> ;
+	rr:objectMap [
+		rr:template "http://schema.dig.isi.edu/ontology/PersonOrOrganization{Seller2279}";
+	]
+] .
+ex:Mapping1
+	rdf:type rr:TriplesMap ;
+	rml:logicalSource ex:File ;
+	rr:subjectMap [
+		rr:class <http://schema.dig.isi.edu/ontology/PersonOrOrganization> ;
+		rr:template "http://schema.dig.isi.edu/ontology/PersonOrOrganization{Seller2279}" ;
+];
+rr:predicateObjectMap [
+	rr:predicate <http://schema.dig.isi.edu/ontology/phoneAreaCode> ;
+	rr:objectMap [
+		rml:reference "Phone2306";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.dig.isi.edu/ontology/phoneSubscriberNumber> ;
+	rr:objectMap [
+		rml:reference "8662309";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/name> ;
+	rr:objectMap [
+		rml:reference "Seller2279";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/contactPoint> ;
+	rr:objectMap [
+		rr:template "http://schema.org/ContactPoint{Contact2291}";
+	]
+] .
+ex:Mapping2
+	rdf:type rr:TriplesMap ;
+	rml:logicalSource ex:File ;
+	rr:subjectMap [
+		rr:class <http://schema.org/ContactPoint> ;
+		rr:template "http://schema.org/ContactPoint{Contact2291}" ;
+];
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/name> ;
+	rr:objectMap [
+		rml:reference "Contact2291";
+	]
+] .
+ex:Mapping3
+	rdf:type rr:TriplesMap ;
+	rml:logicalSource ex:File ;
+	rr:subjectMap [
+		rr:class <http://schema.org/CreativeWork> ;
+		rr:template "http://schema.org/CreativeWork{file_name}" ;
+];
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/name> ;
+	rr:objectMap [
+		rml:reference "file_name";
+	]
+] .
+ex:Mapping4
+	rdf:type rr:TriplesMap ;
+	rml:logicalSource ex:File ;
+	rr:subjectMap [
+		rr:class <http://schema.org/Offer> ;
+		rr:template "http://schema.org/Offer{Sale0017}" ;
+];
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/description> ;
+	rr:objectMap [
+		rml:reference "Gauge2481";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/name> ;
+	rr:objectMap [
+		rml:reference "Sale0017";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/price> ;
+	rr:objectMap [
+		rml:reference "Price2346";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/availableAtOrFrom> ;
+	rr:objectMap [
+		rr:template "http://schema.org/Place{rowNumber}";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/itemOffered> ;
+	rr:objectMap [
+		rr:template "http://schema.dig.isi.edu/ontology/Firearm{Model2378}";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/mainEntityOfPage> ;
+	rr:objectMap [
+		rr:template "http://schema.org/CreativeWork{file_name}";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/seller> ;
+	rr:objectMap [
+		rr:template "http://schema.dig.isi.edu/ontology/PersonOrOrganization{Seller2279}";
+	]
+] .
+ex:Mapping5
+	rdf:type rr:TriplesMap ;
+	rml:logicalSource ex:File ;
+	rr:subjectMap [
+		rr:class <http://schema.org/Place> ;
+		rr:template "http://schema.org/Place{rowNumber}" ;
+];
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/address> ;
+	rr:objectMap [
+		rr:template "http://schema.org/PostalAddress{rowNumber}";
+	]
+] .
+ex:Mapping6
+	rdf:type rr:TriplesMap ;
+	rml:logicalSource ex:File ;
+	rr:subjectMap [
+		rr:class <http://schema.org/PostalAddress> ;
+		rr:template "http://schema.org/PostalAddress{rowNumber}" ;
+];
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/addressRegion> ;
+	rr:objectMap [
+		rml:reference "St2327";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/streetAddress> ;
+	rr:objectMap [
+		rml:reference "Address2324";
+	]
+] .

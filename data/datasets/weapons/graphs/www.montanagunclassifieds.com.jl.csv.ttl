@@ -1,0 +1,375 @@
+
+<http://schema.dig.isi.edu/ontology/Firearm0> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "", "Ammunition", "Firearms" .
+
+<http://schema.org/CreativeWork0242BEC05F6285551028C0EF20B511D0008EB41067570606BC69FC78CA0DE99C.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "0242BEC05F6285551028C0EF20B511D0008EB41067570606BC69FC78CA0DE99C.html" .
+
+<http://schema.org/CreativeWork156C80946877DFE403EC869C99F7A4F0A05549BE5728CEF22E161576B428B47F.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "156C80946877DFE403EC869C99F7A4F0A05549BE5728CEF22E161576B428B47F.html" .
+
+<http://schema.org/CreativeWork1EF9AD3DE83C0C0ED85AF1355A27FF2DAAD4337DB3E8E86CDA23C14A8A4ADC73.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "1EF9AD3DE83C0C0ED85AF1355A27FF2DAAD4337DB3E8E86CDA23C14A8A4ADC73.html" .
+
+<http://schema.org/CreativeWork1FA7D6793312C7F0BF27B872181F7FEA5ED1286CE183E2B92B13EE7E141933B0.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "1FA7D6793312C7F0BF27B872181F7FEA5ED1286CE183E2B92B13EE7E141933B0.html" .
+
+<http://schema.org/CreativeWork23E51B4594AA7B50C6CA7C99DC17F40D5878C301CA9A1B4C7A77BA46233351D2.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "23E51B4594AA7B50C6CA7C99DC17F40D5878C301CA9A1B4C7A77BA46233351D2.html" .
+
+<http://schema.org/CreativeWork2EBF0D9F8BCAE09822AA0855E1480D9A44DFD2373B72A37643A71EAB6312419B.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "2EBF0D9F8BCAE09822AA0855E1480D9A44DFD2373B72A37643A71EAB6312419B.html" .
+
+<http://schema.org/CreativeWork4A9D2DC2E5E96139A61A85BB6EFBDCA80F8304A386C2AF697B7592A467A01B42.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "4A9D2DC2E5E96139A61A85BB6EFBDCA80F8304A386C2AF697B7592A467A01B42.html" .
+
+<http://schema.org/CreativeWork4F25F025DDA34996D954EDA70D05C2796C6FE06286B6E1CBFD4F87B9F80A7234.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "4F25F025DDA34996D954EDA70D05C2796C6FE06286B6E1CBFD4F87B9F80A7234.html" .
+
+<http://schema.org/CreativeWork59BB1D36947585D6B83C7EBEC520BD0926669C4BDCC2062ABC0AC9CFCC2099D3.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "59BB1D36947585D6B83C7EBEC520BD0926669C4BDCC2062ABC0AC9CFCC2099D3.html" .
+
+<http://schema.org/CreativeWork6B32A7661E1A1FA9B62554AE12D36C1B3BDED17E2E2C5DB382538FEF2A5095C0.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "6B32A7661E1A1FA9B62554AE12D36C1B3BDED17E2E2C5DB382538FEF2A5095C0.html" .
+
+<http://schema.org/CreativeWork8C3B38D5F0BC1C8BC516EF7B3BD434627974EAA88762D66C8673C1A09E673503.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "8C3B38D5F0BC1C8BC516EF7B3BD434627974EAA88762D66C8673C1A09E673503.html" .
+
+<http://schema.org/CreativeWork93912CFBC73902953A967F423B0D02BD074F1D935B111435E80CE73B747624FF.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "93912CFBC73902953A967F423B0D02BD074F1D935B111435E80CE73B747624FF.html" .
+
+<http://schema.org/CreativeWork9BB772A0AB923EB0FBBB358F9FC937960E6CD33807165A1E0BBF03063A9DACB3.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "9BB772A0AB923EB0FBBB358F9FC937960E6CD33807165A1E0BBF03063A9DACB3.html" .
+
+<http://schema.org/CreativeWorkB918655C90F6FBF25264B9AE95FA29A037809325678921D43E0F819456D3EBFC.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "B918655C90F6FBF25264B9AE95FA29A037809325678921D43E0F819456D3EBFC.html" .
+
+<http://schema.org/CreativeWorkC94CCD7B46D16871CBA558038E9BAED10938BBE8E3D65F9EAD3D1E582EB8599F.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "C94CCD7B46D16871CBA558038E9BAED10938BBE8E3D65F9EAD3D1E582EB8599F.html" .
+
+<http://schema.org/CreativeWorkCDA88A547648A3EEE86E3E79D69842CAD87B96C69CA495EEB0405E77BD2F97BA.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "CDA88A547648A3EEE86E3E79D69842CAD87B96C69CA495EEB0405E77BD2F97BA.html" .
+
+<http://schema.org/CreativeWorkD6888623F15D270D13864DEA27DE6C6247A95DB63DE6ABC21EAEAE1B12BA349C.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "D6888623F15D270D13864DEA27DE6C6247A95DB63DE6ABC21EAEAE1B12BA349C.html" .
+
+<http://schema.org/CreativeWorkE52EFB75F3667DBEA998A31294BE7503D5F2F52B1731617FD2DB2C0FA09E9AF4.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "E52EFB75F3667DBEA998A31294BE7503D5F2F52B1731617FD2DB2C0FA09E9AF4.html" .
+
+<http://schema.org/CreativeWorkE7A2EE4D8CAE58A4B21A057ACB0BB672EE866C6D570D8C6EF47D57FDC26B1181.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "E7A2EE4D8CAE58A4B21A057ACB0BB672EE866C6D570D8C6EF47D57FDC26B1181.html" .
+
+<http://schema.org/CreativeWorkED4D3E9DDA2998943A95F12567F578959CFB57B64C3BC6F2DD28B6F5FC92F589.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "ED4D3E9DDA2998943A95F12567F578959CFB57B64C3BC6F2DD28B6F5FC92F589.html" .
+
+<http://schema.org/CreativeWorkF1FA4520CC3B5D27A95E64135FF1AC65D7A7B31DCEEB9F95DC0B74BABD832519.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "F1FA4520CC3B5D27A95E64135FF1AC65D7A7B31DCEEB9F95DC0B74BABD832519.html" .
+
+<http://schema.org/CreativeWorkFE7CC110694FBDB201BD6C9AD15DFCCA8C72736B6324888267FB4C3A87D372A2.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "FE7CC110694FBDB201BD6C9AD15DFCCA8C72736B6324888267FB4C3A87D372A2.html" .
+
+<http://schema.org/Offer264%20Win%20Mag> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "1954";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceButte>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork59BB1D36947585D6B83C7EBEC520BD0926669C4BDCC2062ABC0AC9CFCC2099D3.html>;
+  <http://schema.org/name> "264 Win Mag";
+  <http://schema.org/price> "40.00";
+  <http://schema.org/relatedTo> <http://schema.org/Offer264%20Win%20Mag> .
+
+<http://schema.org/Offer3%20handguns%20for%20sale%2C%20Ruger%20Redhawk%2045colt%2C%20SW%20Shield%209mm%2C%20Citadel%201911%2045Auto>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "2692";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceBillings%20%20%28Laurel%29>;
+  <http://schema.org/description> "    Antique Guns For Sale, Trade and Wanted       Handguns For Sale, Trade and Wanted       Rifles For Sale, Trade and Wanted       Shotguns For Sale, Trade and Wanted       Stolen and Missing Firearms Database       Montana Gun Shows and Events";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork156C80946877DFE403EC869C99F7A4F0A05549BE5728CEF22E161576B428B47F.html>;
+  <http://schema.org/name> "3 handguns for sale, Ruger Redhawk 45colt, SW Shield 9mm, Citadel 1911 45Auto";
+  <http://schema.org/price> "";
+  <http://schema.org/relatedTo> <http://schema.org/Offer3%20handguns%20for%20sale%2C%20Ruger%20Redhawk%2045colt%2C%20SW%20Shield%209mm%2C%20Citadel%201911%2045Auto> .
+
+<http://schema.org/Offer300%20Savage%20Bolt%20Action%20-%20Helena%20MT> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "1293";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceMissoula%20%20%28Missoula%29>;
+  <http://schema.org/description> "    Antique Guns For Sale, Trade and Wanted       Handguns For Sale, Trade and Wanted       Rifles For Sale, Trade and Wanted       Shotguns For Sale, Trade and Wanted       Stolen and Missing Firearms Database       Montana Gun Shows and Events";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkE52EFB75F3667DBEA998A31294BE7503D5F2F52B1731617FD2DB2C0FA09E9AF4.html>;
+  <http://schema.org/name> "300 Savage Bolt Action - Helena MT";
+  <http://schema.org/price> "600.00";
+  <http://schema.org/relatedTo> <http://schema.org/Offer300%20Savage%20Bolt%20Action%20-%20Helena%20MT> .
+
+<http://schema.org/Offer7.62%20X%2054%20Ammo%20for%20trade%20for%207.62%20X%2039>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "2123";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceBillings%20%20%28Hardin%2C%20Miles%20City%2C%20Hysham%2C%20Forsyth%29>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork1FA7D6793312C7F0BF27B872181F7FEA5ED1286CE183E2B92B13EE7E141933B0.html>;
+  <http://schema.org/name> "7.62 X 54 Ammo for trade for 7.62 X 39";
+  <http://schema.org/price> "";
+  <http://schema.org/relatedTo> <http://schema.org/Offer7.62%20X%2054%20Ammo%20for%20trade%20for%207.62%20X%2039> .
+
+<http://schema.org/Offer7.62%20x%2039%20ammo%20500%20rounds%20%24130%20-%20Bozeman%20MT>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "1724";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceHelena>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkC94CCD7B46D16871CBA558038E9BAED10938BBE8E3D65F9EAD3D1E582EB8599F.html>;
+  <http://schema.org/name> "7.62 x 39 ammo 500 rounds $130 - Bozeman MT";
+  <http://schema.org/price> "130.00";
+  <http://schema.org/relatedTo> <http://schema.org/Offer7.62%20x%2039%20ammo%20500%20rounds%20%24130%20-%20Bozeman%20MT> .
+
+<http://schema.org/Offer9mm%20ammo> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "1323";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceHelena%20%20%28Helena%29>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork4F25F025DDA34996D954EDA70D05C2796C6FE06286B6E1CBFD4F87B9F80A7234.html>;
+  <http://schema.org/name> "9mm ammo";
+  <http://schema.org/price> "50.00";
+  <http://schema.org/relatedTo> <http://schema.org/Offer9mm%20ammo> .
+
+<http://schema.org/OfferAR-15%20Rock%20River%20Arms%205.56%20%2F223%20New%20with%20lots%20of%20extras>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "2172";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceHelena%20%20%28Bozeman%2C%20Great%20Falls%2C%20Butte%2C%20Townsend%2C%20Wolf%20Creek%2C%29>;
+  <http://schema.org/description> "    Antique Guns For Sale, Trade and Wanted       Handguns For Sale, Trade and Wanted       Rifles For Sale, Trade and Wanted       Shotguns For Sale, Trade and Wanted       Stolen and Missing Firearms Database       Montana Gun Shows and Events";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkCDA88A547648A3EEE86E3E79D69842CAD87B96C69CA495EEB0405E77BD2F97BA.html>;
+  <http://schema.org/name> "AR-15 Rock River Arms 5.56 /223 New with lots of extras";
+  <http://schema.org/price> "1150.00";
+  <http://schema.org/relatedTo> <http://schema.org/OfferAR-15%20Rock%20River%20Arms%205.56%20%2F223%20New%20with%20lots%20of%20extras> .
+
+<http://schema.org/OfferBenelli%20MR1> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "2206";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceKalispell>;
+  <http://schema.org/description> "    Antique Guns For Sale, Trade and Wanted       Handguns For Sale, Trade and Wanted       Rifles For Sale, Trade and Wanted       Shotguns For Sale, Trade and Wanted       Stolen and Missing Firearms Database       Montana Gun Shows and Events";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork4A9D2DC2E5E96139A61A85BB6EFBDCA80F8304A386C2AF697B7592A467A01B42.html>;
+  <http://schema.org/name> "Benelli MR1";
+  <http://schema.org/price> "1000.00";
+  <http://schema.org/relatedTo> <http://schema.org/OfferBenelli%20MR1> .
+
+<http://schema.org/OfferBrowning%20Shotgun> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "1965";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceKalispell%20%20%28Spokane%2C%20Misoula%2C%20Corduelane%29>;
+  <http://schema.org/description> "    Antique Guns For Sale, Trade and Wanted       Handguns For Sale, Trade and Wanted       Rifles For Sale, Trade and Wanted       Shotguns For Sale, Trade and Wanted       Stolen and Missing Firearms Database       Montana Gun Shows and Events";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork6B32A7661E1A1FA9B62554AE12D36C1B3BDED17E2E2C5DB382538FEF2A5095C0.html>;
+  <http://schema.org/name> "Browning Shotgun";
+  <http://schema.org/price> "600.00";
+  <http://schema.org/relatedTo> <http://schema.org/OfferBrowning%20Shotgun> .
+
+<http://schema.org/OfferDPMS%20AR-15> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "1347";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceButte>;
+  <http://schema.org/description> "    Antique Guns For Sale, Trade and Wanted       Handguns For Sale, Trade and Wanted       Rifles For Sale, Trade and Wanted       Shotguns For Sale, Trade and Wanted       Stolen and Missing Firearms Database       Montana Gun Shows and Events";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork93912CFBC73902953A967F423B0D02BD074F1D935B111435E80CE73B747624FF.html>;
+  <http://schema.org/name> "DPMS AR-15";
+  <http://schema.org/price> "900.00";
+  <http://schema.org/relatedTo> <http://schema.org/OfferDPMS%20AR-15> .
+
+<http://schema.org/OfferI%20have%20a%20few%20pistols> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "2658";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceAbsarokee>;
+  <http://schema.org/description> "    Antique Guns For Sale, Trade and Wanted       Handguns For Sale, Trade and Wanted       Rifles For Sale, Trade and Wanted       Shotguns For Sale, Trade and Wanted       Stolen and Missing Firearms Database       Montana Gun Shows and Events";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork0242BEC05F6285551028C0EF20B511D0008EB41067570606BC69FC78CA0DE99C.html>;
+  <http://schema.org/name> "I have a few pistols";
+  <http://schema.org/price> "800.00";
+  <http://schema.org/relatedTo> <http://schema.org/OfferI%20have%20a%20few%20pistols> .
+
+<http://schema.org/OfferMagnum%20Research%20Micro%20Desert%20eagle%20380> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "2323";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceHelena>;
+  <http://schema.org/description> "    Antique Guns For Sale, Trade and Wanted       Handguns For Sale, Trade and Wanted       Rifles For Sale, Trade and Wanted       Shotguns For Sale, Trade and Wanted       Stolen and Missing Firearms Database       Montana Gun Shows and Events";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkD6888623F15D270D13864DEA27DE6C6247A95DB63DE6ABC21EAEAE1B12BA349C.html>;
+  <http://schema.org/name> "Magnum Research Micro Desert eagle 380";
+  <http://schema.org/price> "325.00";
+  <http://schema.org/relatedTo> <http://schema.org/OfferMagnum%20Research%20Micro%20Desert%20eagle%20380> .
+
+<http://schema.org/OfferMossberg%20500%20Pistol%20Grip%20Shotgun%2020GA> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "2261";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceFlorence%20%20%28yes%29>;
+  <http://schema.org/description> "    Antique Guns For Sale, Trade and Wanted       Handguns For Sale, Trade and Wanted       Rifles For Sale, Trade and Wanted       Shotguns For Sale, Trade and Wanted       Stolen and Missing Firearms Database       Montana Gun Shows and Events";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork9BB772A0AB923EB0FBBB358F9FC937960E6CD33807165A1E0BBF03063A9DACB3.html>;
+  <http://schema.org/name> "Mossberg 500 Pistol Grip Shotgun 20GA";
+  <http://schema.org/price> "500.00";
+  <http://schema.org/relatedTo> <http://schema.org/OfferMossberg%20500%20Pistol%20Grip%20Shotgun%2020GA> .
+
+<http://schema.org/OfferMossberg%20930%20JM%20Pro%2024%209%2B1%2012%20Ga.%20Semi-Auto>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "1959";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceColumbia%20Falls%20%20%28Kalispell%2C%20Whitefish%2C%20Bigfork%2C%20Lakeside%2C%20Flathead%29>;
+  <http://schema.org/description> "    Antique Guns For Sale, Trade and Wanted       Handguns For Sale, Trade and Wanted       Rifles For Sale, Trade and Wanted       Shotguns For Sale, Trade and Wanted       Stolen and Missing Firearms Database       Montana Gun Shows and Events";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkB918655C90F6FBF25264B9AE95FA29A037809325678921D43E0F819456D3EBFC.html>;
+  <http://schema.org/name> "Mossberg 930 JM Pro 24 9+1 12 Ga. Semi-Auto";
+  <http://schema.org/price> "550.00";
+  <http://schema.org/relatedTo> <http://schema.org/OfferMossberg%20930%20JM%20Pro%2024%209%2B1%2012%20Ga.%20Semi-Auto> .
+
+<http://schema.org/OfferRemington%20770%20w%2F%20Scope%20-%20Helena%20MT> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "2006";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlacePlentywood%20%20%28Scobey%2C%20Glascow%2C%20Wolf%20Point%29>;
+  <http://schema.org/description> "    Antique Guns For Sale, Trade and Wanted       Handguns For Sale, Trade and Wanted       Rifles For Sale, Trade and Wanted       Shotguns For Sale, Trade and Wanted       Stolen and Missing Firearms Database       Montana Gun Shows and Events";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkF1FA4520CC3B5D27A95E64135FF1AC65D7A7B31DCEEB9F95DC0B74BABD832519.html>;
+  <http://schema.org/name> "Remington 770 w/ Scope - Helena MT";
+  <http://schema.org/price> "500.00";
+  <http://schema.org/relatedTo> <http://schema.org/OfferRemington%20770%20w%2F%20Scope%20-%20Helena%20MT> .
+
+<http://schema.org/OfferRomanian%20M70%20Ak-47> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "2470";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceKalispell>;
+  <http://schema.org/description> "    Antique Guns For Sale, Trade and Wanted       Handguns For Sale, Trade and Wanted       Rifles For Sale, Trade and Wanted       Shotguns For Sale, Trade and Wanted       Stolen and Missing Firearms Database       Montana Gun Shows and Events";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkFE7CC110694FBDB201BD6C9AD15DFCCA8C72736B6324888267FB4C3A87D372A2.html>;
+  <http://schema.org/name> "Romanian M70 Ak-47";
+  <http://schema.org/price> "900.00";
+  <http://schema.org/relatedTo> <http://schema.org/OfferRomanian%20M70%20Ak-47> .
+
+<http://schema.org/OfferSaiga%207.62%20x%2039> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "2635";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceMissoula%20%20%28Public%20places%20in%20and%20around%20missoula.%20Up%20to%2030%20-%204%29>;
+  <http://schema.org/description> "    Antique Guns For Sale, Trade and Wanted       Handguns For Sale, Trade and Wanted       Rifles For Sale, Trade and Wanted       Shotguns For Sale, Trade and Wanted       Stolen and Missing Firearms Database       Montana Gun Shows and Events";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork8C3B38D5F0BC1C8BC516EF7B3BD434627974EAA88762D66C8673C1A09E673503.html>;
+  <http://schema.org/name> "Saiga 7.62 x 39";
+  <http://schema.org/price> "500.00";
+  <http://schema.org/relatedTo> <http://schema.org/OfferSaiga%207.62%20x%2039> .
+
+<http://schema.org/OfferSmith%20and%20Wesson%20MP%2045%20with%20night%20sights> a
+    <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "2722";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceKalispell>;
+  <http://schema.org/description> "    Antique Guns For Sale, Trade and Wanted       Handguns For Sale, Trade and Wanted       Rifles For Sale, Trade and Wanted       Shotguns For Sale, Trade and Wanted       Stolen and Missing Firearms Database       Montana Gun Shows and Events";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkED4D3E9DDA2998943A95F12567F578959CFB57B64C3BC6F2DD28B6F5FC92F589.html>;
+  <http://schema.org/name> "Smith and Wesson MP 45 with night sights";
+  <http://schema.org/price> "500.00";
+  <http://schema.org/relatedTo> <http://schema.org/OfferSmith%20and%20Wesson%20MP%2045%20with%20night%20sights> .
+
+<http://schema.org/OfferSpringfield%20XDS%20.45%20Cal%20%2A%2ASOLD%2A%2A> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "2371";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceHelena>;
+  <http://schema.org/description> "    Antique Guns For Sale, Trade and Wanted       Handguns For Sale, Trade and Wanted       Rifles For Sale, Trade and Wanted       Shotguns For Sale, Trade and Wanted       Stolen and Missing Firearms Database       Montana Gun Shows and Events";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork23E51B4594AA7B50C6CA7C99DC17F40D5878C301CA9A1B4C7A77BA46233351D2.html>;
+  <http://schema.org/name> "Springfield XDS .45 Cal **SOLD**";
+  <http://schema.org/price> "490.00";
+  <http://schema.org/relatedTo> <http://schema.org/OfferSpringfield%20XDS%20.45%20Cal%20%2A%2ASOLD%2A%2A> .
+
+<http://schema.org/OfferWTB%20COLT%2038%20SUPER> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "2279";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceThompson%20Falls>;
+  <http://schema.org/description> "    Antique Guns For Sale, Trade and Wanted       Handguns For Sale, Trade and Wanted       Rifles For Sale, Trade and Wanted       Shotguns For Sale, Trade and Wanted       Stolen and Missing Firearms Database       Montana Gun Shows and Events";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork1EF9AD3DE83C0C0ED85AF1355A27FF2DAAD4337DB3E8E86CDA23C14A8A4ADC73.html>;
+  <http://schema.org/name> "WTB COLT 38 SUPER";
+  <http://schema.org/price> "";
+  <http://schema.org/relatedTo> <http://schema.org/OfferWTB%20COLT%2038%20SUPER> .
+
+<http://schema.org/OfferWill%20trade%20new%20Stag%20M4%20Ar15%20for%20quality%20AK47>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "1334";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceButte%20%20%28Butte%29>;
+  <http://schema.org/description> "    Antique Guns For Sale, Trade and Wanted       Handguns For Sale, Trade and Wanted       Rifles For Sale, Trade and Wanted       Shotguns For Sale, Trade and Wanted       Stolen and Missing Firearms Database       Montana Gun Shows and Events";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkE7A2EE4D8CAE58A4B21A057ACB0BB672EE866C6D570D8C6EF47D57FDC26B1181.html>;
+  <http://schema.org/name> "Will trade new Stag M4 Ar15 for quality AK47";
+  <http://schema.org/price> "";
+  <http://schema.org/relatedTo> <http://schema.org/OfferWill%20trade%20new%20Stag%20M4%20Ar15%20for%20quality%20AK47> .
+
+<http://schema.org/Offerfs%20FN%20P%2012%20shotgun%20%24425> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "2725";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceMissoula>;
+  <http://schema.org/description> "    Antique Guns For Sale, Trade and Wanted       Handguns For Sale, Trade and Wanted       Rifles For Sale, Trade and Wanted       Shotguns For Sale, Trade and Wanted       Stolen and Missing Firearms Database       Montana Gun Shows and Events";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork2EBF0D9F8BCAE09822AA0855E1480D9A44DFD2373B72A37643A71EAB6312419B.html>;
+  <http://schema.org/name> "fs FN P 12 shotgun $425";
+  <http://schema.org/price> "425.00";
+  <http://schema.org/relatedTo> <http://schema.org/Offerfs%20FN%20P%2012%20shotgun%20%24425> .
+
+<http://schema.org/PlaceAbsarokee> a <http://schema.org/Place>;
+  <http://schema.org/name> "Absarokee" .
+
+<http://schema.org/PlaceBillings%20%20%28Hardin%2C%20Miles%20City%2C%20Hysham%2C%20Forsyth%29>
+  a <http://schema.org/Place>;
+  <http://schema.org/name> "Billings  (Hardin, Miles City, Hysham, Forsyth)" .
+
+<http://schema.org/PlaceBillings%20%20%28Laurel%29> a <http://schema.org/Place>;
+  <http://schema.org/name> "Billings  (Laurel)" .
+
+<http://schema.org/PlaceButte> a <http://schema.org/Place>;
+  <http://schema.org/name> "Butte" .
+
+<http://schema.org/PlaceButte%20%20%28Butte%29> a <http://schema.org/Place>;
+  <http://schema.org/name> "Butte  (Butte)" .
+
+<http://schema.org/PlaceColumbia%20Falls%20%20%28Kalispell%2C%20Whitefish%2C%20Bigfork%2C%20Lakeside%2C%20Flathead%29>
+  a <http://schema.org/Place>;
+  <http://schema.org/name> "Columbia Falls  (Kalispell, Whitefish, Bigfork, Lakeside, Flathead)" .
+
+<http://schema.org/PlaceFlorence%20%20%28yes%29> a <http://schema.org/Place>;
+  <http://schema.org/name> "Florence  (yes)" .
+
+<http://schema.org/PlaceHelena> a <http://schema.org/Place>;
+  <http://schema.org/name> "Helena" .
+
+<http://schema.org/PlaceHelena%20%20%28Bozeman%2C%20Great%20Falls%2C%20Butte%2C%20Townsend%2C%20Wolf%20Creek%2C%29>
+  a <http://schema.org/Place>;
+  <http://schema.org/name> "Helena  (Bozeman, Great Falls, Butte, Townsend, Wolf Creek,)" .
+
+<http://schema.org/PlaceHelena%20%20%28Helena%29> a <http://schema.org/Place>;
+  <http://schema.org/name> "Helena  (Helena)" .
+
+<http://schema.org/PlaceKalispell> a <http://schema.org/Place>;
+  <http://schema.org/name> "Kalispell" .
+
+<http://schema.org/PlaceKalispell%20%20%28Spokane%2C%20Misoula%2C%20Corduelane%29>
+  a <http://schema.org/Place>;
+  <http://schema.org/name> "Kalispell  (Spokane, Misoula, Corduelane)" .
+
+<http://schema.org/PlaceMissoula> a <http://schema.org/Place>;
+  <http://schema.org/name> "Missoula" .
+
+<http://schema.org/PlaceMissoula%20%20%28Missoula%29> a <http://schema.org/Place>;
+  <http://schema.org/name> "Missoula  (Missoula)" .
+
+<http://schema.org/PlaceMissoula%20%20%28Public%20places%20in%20and%20around%20missoula.%20Up%20to%2030%20-%204%29>
+  a <http://schema.org/Place>;
+  <http://schema.org/name> "Missoula  (Public places in and around missoula. Up to 30 - 4)" .
+
+<http://schema.org/PlacePlentywood%20%20%28Scobey%2C%20Glascow%2C%20Wolf%20Point%29>
+  a <http://schema.org/Place>;
+  <http://schema.org/name> "Plentywood  (Scobey, Glascow, Wolf Point)" .
+
+<http://schema.org/PlaceThompson%20Falls> a <http://schema.org/Place>;
+  <http://schema.org/name> "Thompson Falls" .

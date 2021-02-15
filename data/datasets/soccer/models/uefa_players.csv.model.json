@@ -1,0 +1,164 @@
+{
+  "name": "uefa_players.csv",
+  "id": "uefa_players.csv",
+  "graph": {
+    "nodes": [
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/League"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "cn"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/SportsTeam"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "nt"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/SportsClub"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "cb"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/age"
+            }
+          }
+        ],
+        "columnName": "ag"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/goalScored"
+            }
+          }
+        ],
+        "columnName": "go/at"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/playPosition"
+            }
+          }
+        ],
+        "columnName": "ps"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "sn"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/birthDate"
+            }
+          }
+        ],
+        "columnName": "db"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/givenName"
+            }
+          }
+        ],
+        "columnName": "fn"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/familyName"
+            }
+          }
+        ],
+        "columnName": "ln"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/tag"
+            }
+          }
+        ],
+        "columnName": "no"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/height"
+            }
+          }
+        ],
+        "columnName": "ht"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+@base <https://example.org/resource/> . # anonymized for blind paper submission
+
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix seas: <https://w3id.org/seas/> .
+
+#  --- Class Attribute And Properties ---
+
+<Attribute> rdf:type rdfs:Class;
+    rdfs:label "attribute"@en ;
+    rdfs:subClassOf seas:Property .
+
+<numberOfNullValues> rdfs:subClassOf seas:Evaluation ;
+    rdfs:label "number of null values"@en .
+    
+<numberOfDistinctValues> rdfs:subClassOf seas:Evaluation ;
+    rdfs:label "number of distinct values"@en .
+
+<numberOfNonNullValues> rdfs:subClassOf seas:Evaluation ;
+    rdfs:label "number of non null values"@en .
+
+<averageLength> rdfs:subClassOf seas:Evaluation ;
+    rdfs:label "average string length of the literals represented by this attribute"@en .
+
+<averageNumberOfDigits> rdfs:subClassOf seas:Evaluation ;
+    rdfs:label "average number of digits in the literals represented by this attribute"@en .
+
+<numberOfMinOutliersMin> rdfs:subClassOf seas:Evaluation ;
+    rdfs:label "average number of lower outliers within the literals represented by this attribute"@en .
+
+<numberOfMinOutliersMax> rdfs:subClassOf seas:Evaluation ;
+    rdfs:label "average number of upper outliers within the literals represented by this attribute"@en .
+
+# --- Data Types ---
+
+<mapsToDataType> rdf:type rdf:Property ;
+    rdfs:label "maps to data type"@en;
+    rdfs:domain <Attribute> ;
+    rdfs:range <DataType> .
+
+<DataType> rdf:type rdfs:Class .
+<SemanticDataType> rdf:type rdfs:Class .
+
+<Numeric> rdfs:subClassOf <DataType> .
+<Boolean> rdfs:subClassOf <DataType> .
+<Text> rdfs:subClassOf <DataType> .
+<Spatial> rdfs:subClassOf <DataType> .
+<Temporal> rdfs:subClassOf <DataType> .
+
+<Integer> rdfs:subClassOf <Numeric> .
+<Decimal> rdfs:subClassOf <Numeric> .
+
+<SequentialNumeric> rdfs:subClassOf <SemanticDataType> ;
+	rdfs:subClassOf <Numeric> .
+<CategoricNumeric> rdfs:subClassOf <SemanticDataType> ;
+	rdfs:subClassOf <Numeric> .
+<OtherNumeric> rdfs:subClassOf <SemanticDataType> ;
+	rdfs:subClassOf <Numeric> .
+
+<Integer> rdfs:subClassOf <Numeric> .
+<Decimal> rdfs:subClassOf <Numeric> .
+
+<CategoricalText> rdfs:subClassOf <SemanticDataType> ;
+	rdfs:subClassOf <Text> .
+<Email> rdfs:subClassOf <SemanticDataType> ;
+	rdfs:subClassOf <Text> .
+<URL> rdfs:subClassOf <SemanticDataType> ;
+	rdfs:subClassOf <Text> .
+<OtherText> rdfs:subClassOf <SemanticDataType> ;
+	rdfs:subClassOf <Text> .
+
+<Date> rdfs:subClassOf <Temporal> .
+<Time> rdfs:subClassOf <Temporal> .
+<DateTime> rdfs:subClassOf <Temporal> .
+
+<Point> rdfs:subClassOf <Spatial> .
+<LineString> rdfs:subClassOf <Spatial> .
+<Polygon> rdfs:subClassOf <Spatial> .
+
+#  --- Connection between Attributes and Class Relations ---
+
+<Mapping> rdf:type rdfs:Class;
+    rdfs:label "mapping"@en .
+
+<mapsToProperty> rdf:type rdf:Property ;
+    rdfs:domain <Mapping>;
+    rdfs:range rdf:Property .
+
+<mapsToDomain> rdf:type rdf:Property ;
+    rdfs:domain <Mapping>;
+    rdfs:range rdfs:Class .
+
+<mapsToRange> rdf:type rdf:Property ;
+    rdfs:domain <Mapping>;
+    rdfs:range rdfs:Class .

@@ -1,0 +1,112 @@
+{
+  "name": "world_cup_squads.csv",
+  "id": "world_cup_squads.csv",
+  "graph": {
+    "nodes": [
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/League"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "ClubCountry"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/SportsTeam"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "Team"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/SportsClub"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "Club"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/isCaptain"
+            }
+          }
+        ],
+        "columnName": "IsCaptain"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/name"
+            }
+          }
+        ],
+        "columnName": "FullName"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/birthDate"
+            }
+          }
+        ],
+        "columnName": "DateOfBirth"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/tag"
+            }
+          }
+        ],
+        "columnName": "Number"
+      },
+      {
+        "userSemanticTypes": [
+          {
+            "domain": {
+              "uri": "http://schema.org/Player"
+            },
+            "type": {
+              "uri": "http://schema.org/playPosition"
+            }
+          }
+        ],
+        "columnName": "Position"
+      }
+    ]
+  }
+}

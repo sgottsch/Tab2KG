@@ -1,0 +1,1362 @@
+
+<http://schema.dig.isi.edu/ontology/Firearm.%20Glock%2021%20SF%20gen%203%20with%202%20mags>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Handguns";
+  <http://schema.org/name> ". Glock 21 SF gen 3 with 2 mags" .
+
+<http://schema.dig.isi.edu/ontology/Firearm44%20mag%20Ruger%20Super%20Redhawk> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Revolvers";
+  <http://schema.org/name> "44 mag Ruger Super Redhawk" .
+
+<http://schema.dig.isi.edu/ontology/Firearm5.56%20custom%20built%20upper%20%20Prs%20Stock>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Accessories";
+  <http://schema.org/name> "5.56 custom built upper  Prs Stock" .
+
+<http://schema.dig.isi.edu/ontology/FirearmAuto%20Ordnance%20.45%20ACP%201911> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Handguns";
+  <http://schema.org/name> "Auto Ordnance .45 ACP 1911" .
+
+<http://schema.dig.isi.edu/ontology/FirearmBNIB%20Ruger%20SR1911%20Talo%20Night%20Watchmen%20Edition%20and%20Custom%20OWB%20Holster>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Handguns";
+  <http://schema.org/name> "BNIB Ruger SR1911 Talo Night Watchmen Edition and Custom OWB Holster" .
+
+<http://schema.dig.isi.edu/ontology/FirearmBushmaster%20XM15-E2S> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "Bushmaster XM15-E2S" .
+
+<http://schema.dig.isi.edu/ontology/FirearmChiappa%20.22lr%20Upper%20and%20Mag> a
+    <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Accessories";
+  <http://schema.org/name> "Chiappa .22lr Upper and Mag" .
+
+<http://schema.dig.isi.edu/ontology/FirearmDPMS%20Panther%20AR10%20300%20SAUM%2F260%20Remington>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "DPMS Panther AR10 300 SAUM/260 Remington" .
+
+<http://schema.dig.isi.edu/ontology/FirearmFive%20Rifles%20For%20Sale> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "Five Rifles For Sale" .
+
+<http://schema.dig.isi.edu/ontology/FirearmGalco%20hoslter%20super%20chea> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Accessories";
+  <http://schema.org/name> "Galco hoslter super chea" .
+
+<http://schema.dig.isi.edu/ontology/FirearmGlock%2026%20gen%203%20FDE> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Handguns";
+  <http://schema.org/name> "Glock 26 gen 3 FDE" .
+
+<http://schema.dig.isi.edu/ontology/FirearmGlock%2027%20Magazine> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Accessories";
+  <http://schema.org/name> "Glock 27 Magazine" .
+
+<http://schema.dig.isi.edu/ontology/FirearmGlock%2027%20gen%204> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Handguns";
+  <http://schema.org/name> "Glock 27 gen 4" .
+
+<http://schema.dig.isi.edu/ontology/FirearmHK%20416%20piston%20upper%20MR556%20brand%20new>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Accessories";
+  <http://schema.org/name> "HK 416 piston upper MR556 brand new" .
+
+<http://schema.dig.isi.edu/ontology/FirearmHR%20Handi%20Rifle%20in%20243%20With%20Osprey%20Scope>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "HR Handi Rifle in 243 With Osprey Scope" .
+
+<http://schema.dig.isi.edu/ontology/FirearmImmaculate%201975%20Ruger%20M77%207mm%20mag>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "Immaculate 1975 Ruger M77 7mm mag" .
+
+<http://schema.dig.isi.edu/ontology/FirearmKel-Tec%20SU-2000%20Carbine%2C%20NIB> a
+    <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "Kel-Tec SU-2000 Carbine, NIB" .
+
+<http://schema.dig.isi.edu/ontology/FirearmKimber%20TLE%2FTL%20II> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Handguns";
+  <http://schema.org/name> "Kimber TLE/TL II" .
+
+<http://schema.dig.isi.edu/ontology/FirearmLNIB%20WALTHER%20P99%20AS> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Handguns";
+  <http://schema.org/name> "LNIB WALTHER P99 AS" .
+
+<http://schema.dig.isi.edu/ontology/FirearmMagpul%20vertical%20foregri> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Accessories";
+  <http://schema.org/name> "Magpul vertical foregri" .
+
+<http://schema.dig.isi.edu/ontology/FirearmMossberg%209200%20FS%2FFT> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Shotguns";
+  <http://schema.org/name> "Mossberg 9200 FS/FT" .
+
+<http://schema.dig.isi.edu/ontology/FirearmNIB%20Century%20C39V2%20AK-47> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "NIB Century C39V2 AK-47" .
+
+<http://schema.dig.isi.edu/ontology/FirearmNorinco%2084s%20.223%2F5.56%20AK%20great%20shape%20with%20several%20mags>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "Norinco 84s .223/5.56 AK great shape with several mags" .
+
+<http://schema.dig.isi.edu/ontology/FirearmRuger%20p95> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Handguns";
+  <http://schema.org/name> "Ruger p95" .
+
+<http://schema.dig.isi.edu/ontology/FirearmSW%20500%208.38> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Revolvers";
+  <http://schema.org/name> "SW 500 8.38" .
+
+<http://schema.dig.isi.edu/ontology/FirearmSW%20629-0%20PR%2C%2044%20mag%206%20in%20stainless%2C%20Astra%2044%20mag%206%20in%20stainless%20PR.%20%2B%20ammo>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Revolvers";
+  <http://schema.org/name> "SW 629-0 PR, 44 mag 6 in stainless, Astra 44 mag 6 in stainless PR. + ammo" .
+
+<http://schema.dig.isi.edu/ontology/FirearmSavage%2014%20American%20Classic%20.308%20stainless>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "Savage 14 American Classic .308 stainless" .
+
+<http://schema.dig.isi.edu/ontology/FirearmSig%20Sauer%20P229%20SAS> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Handguns";
+  <http://schema.org/name> "Sig Sauer P229 SAS" .
+
+<http://schema.dig.isi.edu/ontology/FirearmSmith%20and%20Wesson%20MP%209c> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Handguns";
+  <http://schema.org/name> "Smith and Wesson MP 9c" .
+
+<http://schema.dig.isi.edu/ontology/FirearmSmith%20and%20Wesson%20Model%203913%20Lady%20Smith%209mm%20DA%2FSA%20Stainless%208%2B1%20Slim%20Magazine%20Nice%21%21%21>
+  a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Handguns";
+  <http://schema.org/name> "Smith and Wesson Model 3913 Lady Smith 9mm DA/SA Stainless 8+1 Slim Magazine Nice!!!" .
+
+<http://schema.dig.isi.edu/ontology/FirearmSpringfield%20XDS%2045%20Bi-Tone> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Handguns";
+  <http://schema.org/name> "Springfield XDS 45 Bi-Tone" .
+
+<http://schema.dig.isi.edu/ontology/FirearmWinchester%20model%2094%201947> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Rifles";
+  <http://schema.org/name> "Winchester model 94 1947" .
+
+<http://schema.dig.isi.edu/ontology/FirearmXDs%2045%20LNIB%20for%20glock%2026> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Handguns";
+  <http://schema.org/name> "XDs 45 LNIB for glock 26" .
+
+<http://schema.dig.isi.edu/ontology/Firearmfactory%20psa%20handguard> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Accessories";
+  <http://schema.org/name> "factory psa handguard" .
+
+<http://schema.dig.isi.edu/ontology/Firearmwinchester%20ranger%20model%20120> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "Shotguns";
+  <http://schema.org/name> "winchester ranger model 120" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganization0> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "Akguy79", "Andrew25", "Androvic",
+    "Black Water", "Busch Lite", "CCSO", "CRMolock", "Ceman", "Earthman", "Frostborn",
+    "GaSouthSideRevolver", "GreggWSmith", "JHW", "James_woods", "JohnR", "Justin P.",
+    "Kojay", "Kshifle18", "Link12", "Marshall", "Nfa Arms Dealer", "Pistolier60", "Plt dinger",
+    "Redcrane", "Reecep14", "SafeCrack", "Sedo55", "SemperFi", "Sigman69", "Sigweld17",
+    "SilverDollar", "Southern Survival Gear", "Stantheman12", "Stone Mountain Gun Pawn",
+    "TROPER", "Taz0327", "The West Virginia Cowboy", "TommyT", "Trimax2", "WarrantMafi",
+    "atl613", "basser777", "bcorley", "bebo1911", "benjamin", "biggus", "biker13", "billieco",
+    "bolie", "brenso1", "burt", "bxtreme24", "ch035", "chris lewis", "comptondlls", "davidmu39",
+    "dustind3366", "ed1380", "flybiwire", "gadawgs", "georgiaborn", "glock27", "gunslinger069",
+    "hlweeks", "hwmike", "jacobcoley", "james00", "jglenn", "jhenry30", "jhgeorgia493",
+    "jimj1954", "jrgreen89", "k_c_bass", "ka24_det", "klondyke46", "mjw", "parolebear",
+    "sledgehammer", "stangman", "stelios5", "sublimebeer", "turko", "voodoochild1989",
+    "wg4tim", "will4me" .
+
+<http://schema.org/CreativeWork00E352FD3B9A7BB5F96681D31BB89C567BADA6B47DB5827AC19B3B02A0123BE1.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "4,950";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "00E352FD3B9A7BB5F96681D31BB89C567BADA6B47DB5827AC19B3B02A0123BE1.html" .
+
+<http://schema.org/CreativeWork013B57E77266452CD5E52FDF2C01FC904F30A50FB33E226E9E11871E9A050E2E.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "2,200";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "013B57E77266452CD5E52FDF2C01FC904F30A50FB33E226E9E11871E9A050E2E.html" .
+
+<http://schema.org/CreativeWork0190C983C7A97B2B88C490B8E1F9B42CBF04B99BC2D1070A97BDB1FD3943FB7F.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "444";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "0190C983C7A97B2B88C490B8E1F9B42CBF04B99BC2D1070A97BDB1FD3943FB7F.html" .
+
+<http://schema.org/CreativeWork06BBCA83D80E96E1D47CA964FF0FDDD4DB48CBB3F961C4DB40FF531B5CEC4C7D.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "103";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "06BBCA83D80E96E1D47CA964FF0FDDD4DB48CBB3F961C4DB40FF531B5CEC4C7D.html" .
+
+<http://schema.org/CreativeWork07369F54052EB6260EA36A11BD4276B2543C149548158A9BAD348F38119A4DCD.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "895";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "07369F54052EB6260EA36A11BD4276B2543C149548158A9BAD348F38119A4DCD.html" .
+
+<http://schema.org/CreativeWork074ECC4E8A591DBD53257E04BCFF977AAD86673C82777892A1DFD9ED1C7C5FC4.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "103";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "074ECC4E8A591DBD53257E04BCFF977AAD86673C82777892A1DFD9ED1C7C5FC4.html" .
+
+<http://schema.org/CreativeWork09747C9BA71E4261F5AF13F954EFC87707BF97AABA8517D690F5B68D47DFF250.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "22";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "09747C9BA71E4261F5AF13F954EFC87707BF97AABA8517D690F5B68D47DFF250.html" .
+
+<http://schema.org/CreativeWork0D27EEEF7FACB947F07DA2EBC73CD11485C75FF522B8AA1976B0A4CF469A088E.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "163";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "0D27EEEF7FACB947F07DA2EBC73CD11485C75FF522B8AA1976B0A4CF469A088E.html" .
+
+<http://schema.org/CreativeWork0E1D8499C427FC2C516AA50E221F623DA9E57B61DAEE0ADB6B2BE9483A5EFB05.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "30";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "0E1D8499C427FC2C516AA50E221F623DA9E57B61DAEE0ADB6B2BE9483A5EFB05.html" .
+
+<http://schema.org/CreativeWork10F09BCE07FDF8B1C2F7B5730C828BDE289838CA0EB5D27DF2E778564496A780.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "1,347";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "10F09BCE07FDF8B1C2F7B5730C828BDE289838CA0EB5D27DF2E778564496A780.html" .
+
+<http://schema.org/CreativeWork11EC51FC0E711EA8435E6397D3AA472D555F7041E05C41DFBC800018F940671F.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "140";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "11EC51FC0E711EA8435E6397D3AA472D555F7041E05C41DFBC800018F940671F.html" .
+
+<http://schema.org/CreativeWork1727EE9426B745B5A5D77D9BB3A649BCE113E786C4B3F012C81F75F53E8336D3.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "90";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "1727EE9426B745B5A5D77D9BB3A649BCE113E786C4B3F012C81F75F53E8336D3.html" .
+
+<http://schema.org/CreativeWork1A804888439137D59B011DC22DB8785C849127B51D8AE9091B5AF6BCE1256CF3.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "494";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "1A804888439137D59B011DC22DB8785C849127B51D8AE9091B5AF6BCE1256CF3.html" .
+
+<http://schema.org/CreativeWork1A9DD999BDCD1431EFDAACD08C122903C9E4839A1FBA62DCBDA34CA0C7C8FE51.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "238";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "1A9DD999BDCD1431EFDAACD08C122903C9E4839A1FBA62DCBDA34CA0C7C8FE51.html" .
+
+<http://schema.org/CreativeWork1D2D7022AD07A22B89DBC05EA9CF785D9F1B328CF7A61F1AB9EBE3BCABAB91E0.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "1,173";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "1D2D7022AD07A22B89DBC05EA9CF785D9F1B328CF7A61F1AB9EBE3BCABAB91E0.html" .
+
+<http://schema.org/CreativeWork208086AAA46B27647D3FFA7B213E708CC80A53E9D0D8EAE6AA8058022EF52242.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "350";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "208086AAA46B27647D3FFA7B213E708CC80A53E9D0D8EAE6AA8058022EF52242.html" .
+
+<http://schema.org/CreativeWork25FD5581766FA5BF14F8C16FAE7CD74A6F1DBCB8F76AA0DF5D00CF5FE7E6F17D.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "790";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "25FD5581766FA5BF14F8C16FAE7CD74A6F1DBCB8F76AA0DF5D00CF5FE7E6F17D.html" .
+
+<http://schema.org/CreativeWork26373D0E8B7DD3F06F10B1BDF02E25081489480EED0132E5552470CC2171085D.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "334";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "26373D0E8B7DD3F06F10B1BDF02E25081489480EED0132E5552470CC2171085D.html" .
+
+<http://schema.org/CreativeWork287162AF8FD5F57298B87FDB23FF4F5A7478FE8301ED21F35FFF1EA4EFE8D7CB.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "3,846";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "287162AF8FD5F57298B87FDB23FF4F5A7478FE8301ED21F35FFF1EA4EFE8D7CB.html" .
+
+<http://schema.org/CreativeWork2AD8D68E779D75C9DA9425CB168317CDFFA572BF04AFF15DB9B59C2B0A9C3379.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "506";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "2AD8D68E779D75C9DA9425CB168317CDFFA572BF04AFF15DB9B59C2B0A9C3379.html" .
+
+<http://schema.org/CreativeWork2C24A0E6E155B3EB36880BE39D357960B73233DBBA8200E56F23496924AF91CB.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "157";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "2C24A0E6E155B3EB36880BE39D357960B73233DBBA8200E56F23496924AF91CB.html" .
+
+<http://schema.org/CreativeWork334D3360268F4AA057E2D825C71B038A31D37DF12F1180251B81330A3A7D0BC9.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "1,532";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "334D3360268F4AA057E2D825C71B038A31D37DF12F1180251B81330A3A7D0BC9.html" .
+
+<http://schema.org/CreativeWork33CA265B319B1AE9AF8CF7A7F98B2318B6509BFCDB09B70EBF14B96113BA887B.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "237";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "33CA265B319B1AE9AF8CF7A7F98B2318B6509BFCDB09B70EBF14B96113BA887B.html" .
+
+<http://schema.org/CreativeWork3851D1C6B6CD91E940174E8D7F9018B5955682F7064B490EB8DB155A27DB7F71.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "1,430";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "3851D1C6B6CD91E940174E8D7F9018B5955682F7064B490EB8DB155A27DB7F71.html" .
+
+<http://schema.org/CreativeWork3A0E996F08FA469F6307107E253B93BB32195AD4D15053AEC493D2ABA25612C6.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "1,713";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "3A0E996F08FA469F6307107E253B93BB32195AD4D15053AEC493D2ABA25612C6.html" .
+
+<http://schema.org/CreativeWork3B1B9EFE92ED6501DD6A64E7C91CB3DD109BEAF8C3B4C080B0FB681986361AF8.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "333";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "3B1B9EFE92ED6501DD6A64E7C91CB3DD109BEAF8C3B4C080B0FB681986361AF8.html" .
+
+<http://schema.org/CreativeWork3DAD670C44C4175D022D2BAD7A85AF79D674186CA29DC1ACDDC00B5E23E6E68A.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "152";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "3DAD670C44C4175D022D2BAD7A85AF79D674186CA29DC1ACDDC00B5E23E6E68A.html" .
+
+<http://schema.org/CreativeWork411B885EE5677FED58D07A7F86AD7EB5C49B27BC07EAD3F3AF42AC213960EA78.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "285";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "411B885EE5677FED58D07A7F86AD7EB5C49B27BC07EAD3F3AF42AC213960EA78.html" .
+
+<http://schema.org/CreativeWork426D6E9A42DE9BC7AB2A5FEA8DDF7489CE8D95BF996C217AE6CF620218D83E68.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "872";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "426D6E9A42DE9BC7AB2A5FEA8DDF7489CE8D95BF996C217AE6CF620218D83E68.html" .
+
+<http://schema.org/CreativeWork486D63EF81A09CB11DD8426C73AC2D3498CF5B9CB2ECDA0FF3F16CEBDA7E6C87.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "183";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "486D63EF81A09CB11DD8426C73AC2D3498CF5B9CB2ECDA0FF3F16CEBDA7E6C87.html" .
+
+<http://schema.org/CreativeWork4A78B957ADA849CFA02CE71AA2BEB88D9B5330D687E54837797A849FDCEBDB64.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "84";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "4A78B957ADA849CFA02CE71AA2BEB88D9B5330D687E54837797A849FDCEBDB64.html" .
+
+<http://schema.org/CreativeWork57F1785F664FF460F1229F7A94A4B878CC47A672144AE6D5DEF29BF331A181E3.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "86";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "57F1785F664FF460F1229F7A94A4B878CC47A672144AE6D5DEF29BF331A181E3.html" .
+
+<http://schema.org/CreativeWork589E6B59E86467D0AC872C4F0B866EFC6C21C73F45CA0FC18134AE43423DC3BD.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "30";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "589E6B59E86467D0AC872C4F0B866EFC6C21C73F45CA0FC18134AE43423DC3BD.html" .
+
+<http://schema.org/CreativeWork58DADD79B03BCC95E35F7410046DE12C0130E1065A1DE6EED6B2763B1A732404.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "24";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "58DADD79B03BCC95E35F7410046DE12C0130E1065A1DE6EED6B2763B1A732404.html" .
+
+<http://schema.org/CreativeWork59CB645F1A69D7FDB46C8D75C68D755615BAD32622CFD5893ADFBEEFD205BF53.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "381";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "59CB645F1A69D7FDB46C8D75C68D755615BAD32622CFD5893ADFBEEFD205BF53.html" .
+
+<http://schema.org/CreativeWork5F4FC61D77EF9A99BECD0BB9D8BB3B2B76605C0D6FF16DEBBA5A58A55A60CA7A.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "40";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "5F4FC61D77EF9A99BECD0BB9D8BB3B2B76605C0D6FF16DEBBA5A58A55A60CA7A.html" .
+
+<http://schema.org/CreativeWork636D7DF3F86D18B0AA3299A03B13C31F567BA5A135044C361C77B135030B6306.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "113";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "636D7DF3F86D18B0AA3299A03B13C31F567BA5A135044C361C77B135030B6306.html" .
+
+<http://schema.org/CreativeWork6378F52CF2A4FDB9CE75C09F8410DC08C5C6B2EBBF6EB0F195FA67F33F54574B.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "2,303";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "6378F52CF2A4FDB9CE75C09F8410DC08C5C6B2EBBF6EB0F195FA67F33F54574B.html" .
+
+<http://schema.org/CreativeWork63DF05A8753821D762D0D904630FEFA8D2E96FD9E8177FC9B5AD417DD37F668F.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "3,478";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "63DF05A8753821D762D0D904630FEFA8D2E96FD9E8177FC9B5AD417DD37F668F.html" .
+
+<http://schema.org/CreativeWork683B4C8FB23B0399D8B561841C52C44B26E9D02BD988313280D51DD9EFE697D6.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "149";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "683B4C8FB23B0399D8B561841C52C44B26E9D02BD988313280D51DD9EFE697D6.html" .
+
+<http://schema.org/CreativeWork68ABD6CFF6778AB4EEA1131F45FDDF9E00EE71A68E66C217FA39AA50368F8F1E.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "1,209";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "68ABD6CFF6778AB4EEA1131F45FDDF9E00EE71A68E66C217FA39AA50368F8F1E.html" .
+
+<http://schema.org/CreativeWork6C11E5FBC99507B121AC3799DE460920FB1DBC15A4CE3D7058F73DED81594306.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "677";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "6C11E5FBC99507B121AC3799DE460920FB1DBC15A4CE3D7058F73DED81594306.html" .
+
+<http://schema.org/CreativeWork6ED31C6BEAA90A10461250EB3BB0270D1C938A61139BCC5F7B724D0E65DAE666.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "189";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "6ED31C6BEAA90A10461250EB3BB0270D1C938A61139BCC5F7B724D0E65DAE666.html" .
+
+<http://schema.org/CreativeWork7089CA6C2FF959A21C40DA82505F3ED781CF6B96D61F9F4BF227652429D87579.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "43";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "7089CA6C2FF959A21C40DA82505F3ED781CF6B96D61F9F4BF227652429D87579.html" .
+
+<http://schema.org/CreativeWork71675E0FACBE49753C24BFD05CC735ADE2590436AB23FA7A20767FD942A7CBEA.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "327";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "71675E0FACBE49753C24BFD05CC735ADE2590436AB23FA7A20767FD942A7CBEA.html" .
+
+<http://schema.org/CreativeWork72E2A926CD57A69C16B8948735A82DC59A8061E5A8EF4BFB52CC6547F1F49FD3.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "2,800";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "72E2A926CD57A69C16B8948735A82DC59A8061E5A8EF4BFB52CC6547F1F49FD3.html" .
+
+<http://schema.org/CreativeWork73B256381EAB3413762ACB99FEF42DB3379214B81C6A159C696564AF9E9C6996.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "128";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "73B256381EAB3413762ACB99FEF42DB3379214B81C6A159C696564AF9E9C6996.html" .
+
+<http://schema.org/CreativeWork7830000F88F2F64380F59B7971A581BA379DCB92B2A5F6E2B3F75647E6935ACD.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "208";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "7830000F88F2F64380F59B7971A581BA379DCB92B2A5F6E2B3F75647E6935ACD.html" .
+
+<http://schema.org/CreativeWork7864CF5D6CEB9619E8CE69CDCDDEF4E11E54090A0E1F99D423BF43FDFEA9E80E.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "1,703";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "7864CF5D6CEB9619E8CE69CDCDDEF4E11E54090A0E1F99D423BF43FDFEA9E80E.html" .
+
+<http://schema.org/CreativeWork7B371F9B7B4FA4FE411157FE5DB125BAED652FA00DF1A518CD28361AC1690AA7.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "119";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "7B371F9B7B4FA4FE411157FE5DB125BAED652FA00DF1A518CD28361AC1690AA7.html" .
+
+<http://schema.org/CreativeWork7BDF8F4FE5176FF1B61FCBC115FC1DE2EE6B6AD9C74A12CDD9CFA72915F6D8F4.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "173";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "7BDF8F4FE5176FF1B61FCBC115FC1DE2EE6B6AD9C74A12CDD9CFA72915F6D8F4.html" .
+
+<http://schema.org/CreativeWork861146AFFF7C0F7FDDA435FB93F96D8DD9A87430D54F1E7535F762A65FF78B75.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "340";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "861146AFFF7C0F7FDDA435FB93F96D8DD9A87430D54F1E7535F762A65FF78B75.html" .
+
+<http://schema.org/CreativeWork880B5D91045DE833896DE82B4096EF2F07576040EE4BF66ACC1BC7B29DF06121.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "26";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "880B5D91045DE833896DE82B4096EF2F07576040EE4BF66ACC1BC7B29DF06121.html" .
+
+<http://schema.org/CreativeWork8A4FE7F17B3BE49414632B3E3998DF4B6DD2D601A9933A8E7EE6D155B6D9BA20.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "4";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "8A4FE7F17B3BE49414632B3E3998DF4B6DD2D601A9933A8E7EE6D155B6D9BA20.html" .
+
+<http://schema.org/CreativeWork8E72B09298FA156E7F327D554713CE490A2A5A1F46D1FF93AC2360F8F407D495.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "324";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "8E72B09298FA156E7F327D554713CE490A2A5A1F46D1FF93AC2360F8F407D495.html" .
+
+<http://schema.org/CreativeWork9167319F91EDA83DDB2DEDC3545220F309E992600C31101C282D4C08FB5B5980.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "23";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "9167319F91EDA83DDB2DEDC3545220F309E992600C31101C282D4C08FB5B5980.html" .
+
+<http://schema.org/CreativeWork9542A393487900172133F0F20F3D0E03BA07CC9019118132E9D069576014C773.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "691";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "9542A393487900172133F0F20F3D0E03BA07CC9019118132E9D069576014C773.html" .
+
+<http://schema.org/CreativeWork9F08F66016FBEBAF616408D5954511D9B28CCD04B14C4D6D6D53AF9C7D433F34.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "214";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "9F08F66016FBEBAF616408D5954511D9B28CCD04B14C4D6D6D53AF9C7D433F34.html" .
+
+<http://schema.org/CreativeWorkA1816A87F876C7DA8B46B7FC3C0508455B6AC031DDC7EFE71C2751F088385D65.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "37";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "A1816A87F876C7DA8B46B7FC3C0508455B6AC031DDC7EFE71C2751F088385D65.html" .
+
+<http://schema.org/CreativeWorkA3123B8BD111EC5C4A09E6F6B63F1C5863040E2249C55ACED2EF978724A1138B.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "35,608";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "A3123B8BD111EC5C4A09E6F6B63F1C5863040E2249C55ACED2EF978724A1138B.html" .
+
+<http://schema.org/CreativeWorkA467525B39A3B1FE423A0BB181DE1F7AA3A1AA465EE8422E5F7306CE261C4EBE.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "787";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "A467525B39A3B1FE423A0BB181DE1F7AA3A1AA465EE8422E5F7306CE261C4EBE.html" .
+
+<http://schema.org/CreativeWorkA64F20DE00B7EC85476A0887333FCA5787790761A3B11CFE1C7EA871F558C442.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "132";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "A64F20DE00B7EC85476A0887333FCA5787790761A3B11CFE1C7EA871F558C442.html" .
+
+<http://schema.org/CreativeWorkA7971EA8145EA1FA0D82063956AB4E325DA717AAEDC128FF1743930365E2A377.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "14";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "A7971EA8145EA1FA0D82063956AB4E325DA717AAEDC128FF1743930365E2A377.html" .
+
+<http://schema.org/CreativeWorkAF27F0867D79D1A594447C3CBED25A52FDF5C4CCF35779B969D5CB6C2DFCB59C.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "736";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "AF27F0867D79D1A594447C3CBED25A52FDF5C4CCF35779B969D5CB6C2DFCB59C.html" .
+
+<http://schema.org/CreativeWorkB18B212453B188F75DE0CF94E8617B02FD856A1E02CD8ABBCD76C3AF29BC4298.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "1,266";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "B18B212453B188F75DE0CF94E8617B02FD856A1E02CD8ABBCD76C3AF29BC4298.html" .
+
+<http://schema.org/CreativeWorkB2A74F9CD12E88903EA1AFD487641668AE98814ADA47C651EE15E5C7E529F1D5.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "1,265";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "B2A74F9CD12E88903EA1AFD487641668AE98814ADA47C651EE15E5C7E529F1D5.html" .
+
+<http://schema.org/CreativeWorkB30ADA9114F86BFB9BA6A10812EEB8BDC698B7DA82F9F4FFBAFDC96C9D248AB3.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "5,267";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "B30ADA9114F86BFB9BA6A10812EEB8BDC698B7DA82F9F4FFBAFDC96C9D248AB3.html" .
+
+<http://schema.org/CreativeWorkB41CECF775EE894419F36C9813A6659FBBE95641674B0A5513E4E0CC2A627980.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "323";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "B41CECF775EE894419F36C9813A6659FBBE95641674B0A5513E4E0CC2A627980.html" .
+
+<http://schema.org/CreativeWorkB45B19D15BAFE02022FEC0F659997A692133D8E5518F1741C1D22352F40BD195.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "147";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "B45B19D15BAFE02022FEC0F659997A692133D8E5518F1741C1D22352F40BD195.html" .
+
+<http://schema.org/CreativeWorkBAC3FFFDD95CBB1EBF4F9234A4821E441EC90C776D2D30020A5C7DCFAD1A4660.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "671";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "BAC3FFFDD95CBB1EBF4F9234A4821E441EC90C776D2D30020A5C7DCFAD1A4660.html" .
+
+<http://schema.org/CreativeWorkC1235E8A3945B2DA45AD0C592DAC7F31539C5F5443FDA0CC6E65F6E04A048610.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "507";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "C1235E8A3945B2DA45AD0C592DAC7F31539C5F5443FDA0CC6E65F6E04A048610.html" .
+
+<http://schema.org/CreativeWorkC1A0FF06842BC8AA8E7D67EBCAA0B8218950CB83D8382ADFBD4F3A05EC7A8F26.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "60";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "C1A0FF06842BC8AA8E7D67EBCAA0B8218950CB83D8382ADFBD4F3A05EC7A8F26.html" .
+
+<http://schema.org/CreativeWorkC94ABE4624EAB671690CF99C0CFCC1376D2209054D413E6AD4F76B95479F4436.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "205";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "C94ABE4624EAB671690CF99C0CFCC1376D2209054D413E6AD4F76B95479F4436.html" .
+
+<http://schema.org/CreativeWorkCC1EB061C22C8A5833FDBADE3A459EBF81275DE30F051AA27681ADCF90723F2C.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "5,679";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "CC1EB061C22C8A5833FDBADE3A459EBF81275DE30F051AA27681ADCF90723F2C.html" .
+
+<http://schema.org/CreativeWorkD3C046CA258A74069C7B99BEF92330D0BF3DCCE5DC64C06DD5CDA40C3FFEA67B.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "202";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "D3C046CA258A74069C7B99BEF92330D0BF3DCCE5DC64C06DD5CDA40C3FFEA67B.html" .
+
+<http://schema.org/CreativeWorkD75E3F7B1DC5A8DB44CA38423F121F9953A28E42D55D11377FF3F0FC43B20D59.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "318";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "D75E3F7B1DC5A8DB44CA38423F121F9953A28E42D55D11377FF3F0FC43B20D59.html" .
+
+<http://schema.org/CreativeWorkD81F3199232081298D479B0F0B6AFA223BEB687AF5C3C9BF5DDC01B6379C8D90.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "2,987";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "D81F3199232081298D479B0F0B6AFA223BEB687AF5C3C9BF5DDC01B6379C8D90.html" .
+
+<http://schema.org/CreativeWorkD89A13B0BFF03ADCA7ED99B06471A7E82F673F1DB4C7A9A624E139B9CA47F095.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "6,573";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "D89A13B0BFF03ADCA7ED99B06471A7E82F673F1DB4C7A9A624E139B9CA47F095.html" .
+
+<http://schema.org/CreativeWorkD9D8D564D3D915E902F5D0AF74F8F5CB491AE72B5F7D364ACF6FC61C3D41CE49.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "346";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "D9D8D564D3D915E902F5D0AF74F8F5CB491AE72B5F7D364ACF6FC61C3D41CE49.html" .
+
+<http://schema.org/CreativeWorkDBADFD11F6786DE62E6BF29BE5A1DA49AE20BD58B1A17CA000E3DB38BF44F5AD.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "2,824";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "DBADFD11F6786DE62E6BF29BE5A1DA49AE20BD58B1A17CA000E3DB38BF44F5AD.html" .
+
+<http://schema.org/CreativeWorkDD3C8A9E1AB1D3862DF04FE29D0F82DA03C847EB7D3182CDB02290C0AD93EBFE.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "147";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "DD3C8A9E1AB1D3862DF04FE29D0F82DA03C847EB7D3182CDB02290C0AD93EBFE.html" .
+
+<http://schema.org/CreativeWorkDF8AF8EA1F4D7840A5224F3333164614E43B0143E39204D92F5D98F52EE36CBC.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "2,798";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "DF8AF8EA1F4D7840A5224F3333164614E43B0143E39204D92F5D98F52EE36CBC.html" .
+
+<http://schema.org/CreativeWorkF02B9858925DDA83944E1AED7E848B88E154EF710351F5947EAE6FDEB5CC11AB.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "338";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "F02B9858925DDA83944E1AED7E848B88E154EF710351F5947EAE6FDEB5CC11AB.html" .
+
+<http://schema.org/CreativeWorkF10789FDA2DDAB15926EA0C464DB2CE27E934413702CCF3CF9AA9E0810DF8A11.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "5,231";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "F10789FDA2DDAB15926EA0C464DB2CE27E934413702CCF3CF9AA9E0810DF8A11.html" .
+
+<http://schema.org/CreativeWorkF3D865CC96B8CE45FF0E4977BF9426A74C933B1C106921D408BCA4F049088572.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "1,395";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "F3D865CC96B8CE45FF0E4977BF9426A74C933B1C106921D408BCA4F049088572.html" .
+
+<http://schema.org/CreativeWorkF51A1A225260BDC63C3A728E578F0170775478E9CF6706222BF10F0A931E67E0.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "90";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "F51A1A225260BDC63C3A728E578F0170775478E9CF6706222BF10F0A931E67E0.html" .
+
+<http://schema.org/CreativeWorkF8EB13FF6C9F342A6A56189C0F9635C765C209E612B7D8266BF7BEA380DA8ACA.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "107";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "F8EB13FF6C9F342A6A56189C0F9635C765C209E612B7D8266BF7BEA380DA8ACA.html" .
+
+<http://schema.org/CreativeWorkFC6A200D94324AC23AEE687EF4DAB3BA59E4CEB70ED822B5C3A78A8F4CEBAD59.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "21";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "FC6A200D94324AC23AEE687EF4DAB3BA59E4CEB70ED822B5C3A78A8F4CEBAD59.html" .
+
+<http://schema.org/CreativeWorkFD7B6CEE70A94834439EC2ABECE3FACD1B5815E059EC741313172CFFCF9B6C22.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "1,541";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "FD7B6CEE70A94834439EC2ABECE3FACD1B5815E059EC741313172CFFCF9B6C22.html" .
+
+<http://schema.org/CreativeWorkFE81276656EAA19ED8F97A675449108AD14A23FEB77BF1CD53C07D7D4D1F8672.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.dig.isi.edu/ontology/unidentifiedNumber> "202";
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "FE81276656EAA19ED8F97A675449108AD14A23FEB77BF1CD53C07D7D4D1F8672.html" .
+
+<http://schema.org/Offer44%20mag%20Ruger%20Super%20Redhawk> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceCarrollton>;
+  <http://schema.org/description> "Up for trade or sale is a 44 mag Ruger Super Redhawk with 7.5 barrel.This gun is a 1 owner that I purchased from the first batch of these Ruger produced back in 1987.It has had about 100 rounds through it and comes with the stock quick detatch scope rings.Thanks for looking!";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm44%20mag%20Ruger%20Super%20Redhawk>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork11EC51FC0E711EA8435E6397D3AA472D555F7041E05C41DFBC800018F940671F.html>;
+  <http://schema.org/name> "44 mag Ruger Super Redhawk";
+  <http://schema.org/price> "650";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer5.56%20custom%20built%20upper%20%20Prs%20Stock> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place30501>;
+  <http://schema.org/description> "Ive got an unfired SPR built upper for sale. All items are practically new so price is firm. I just built it and then just decided to go a different route. Parts list as follows:    Spikes flat top upper receiver ($80)  FN 18 1/7 twist CHF barrel (rifle gas) ($375)  15 Troy M-lok Rail ($200)  Aac 5.56 Blackout flash hider ($90)    No bcg or charging handle included.  Patrial trades are welcomed, but mainly looking for cash. Thanks for looking.";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm5.56%20custom%20built%20upper%20%20Prs%20Stock>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkF8EB13FF6C9F342A6A56189C0F9635C765C209E612B7D8266BF7BEA380DA8ACA.html>;
+  <http://schema.org/name> "5.56 custom built upper  Prs Stock";
+  <http://schema.org/price> "650 upper w/ no bcg or ch";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferAuto%20Ordnance%20.45%20ACP%201911> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceLagrange%20ga%2030241>;
+  <http://schema.org/description> "auto ordnance .45 acp 1911 frame.these guns are made by Kahr Arms co and very well made for a cheaper priced .45.i have owned for a short time and have only shot it 100 times or less.it shows a little holster wear from carry use.it also has a a little place from the holster you can see in the pictures.i have the box, manual,2 clips and the original polmer walnut colored grips.i changed them to the black shown in the pictures.would consider a trade for decent .357 or .44 magnum";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmAuto%20Ordnance%20.45%20ACP%201911>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkA1816A87F876C7DA8B46B7FC3C0508455B6AC031DDC7EFE71C2751F088385D65.html>;
+  <http://schema.org/name> "Auto Ordnance .45 ACP 1911";
+  <http://schema.org/price> "400";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferBNIB%20Ruger%20SR1911%20Talo%20Night%20Watchmen%20Edition%20and%20Custom%20OWB%20Holster>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceAcworth%2C%20GA>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmBNIB%20Ruger%20SR1911%20Talo%20Night%20Watchmen%20Edition%20and%20Custom%20OWB%20Holster>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkB41CECF775EE894419F36C9813A6659FBBE95641674B0A5513E4E0CC2A627980.html>;
+  <http://schema.org/name> "BNIB Ruger SR1911 Talo Night Watchmen Edition and Custom OWB Holster";
+  <http://schema.org/price> "820";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferBushmaster%20XM15-E2S> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceEllijay>;
+  <http://schema.org/description> "I have a Bushmaster that is in excellent condition with a round count of around 150. Currently there is a Redfield Battlezone mounted on it. Also, have 4 Magpul mags. Manufactured in 2006 per Bushmaster customer service. Scope is in excellent condition as well. Stored in hard case.";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmBushmaster%20XM15-E2S>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork7089CA6C2FF959A21C40DA82505F3ED781CF6B96D61F9F4BF227652429D87579.html>;
+  <http://schema.org/name> "Bushmaster XM15-E2S";
+  <http://schema.org/price> "$800";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferChiappa%20.22lr%20Upper%20and%20Mag> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceRockmart%2C%20Ga.>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmChiappa%20.22lr%20Upper%20and%20Mag>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkB18B212453B188F75DE0CF94E8617B02FD856A1E02CD8ABBCD76C3AF29BC4298.html>;
+  <http://schema.org/name> "Chiappa .22lr Upper and Mag";
+  <http://schema.org/price> "$75.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferDPMS%20Panther%20AR10%20300%20SAUM%2F260%20Remington> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceWest%20Cobb%20County>;
+  <http://schema.org/description> "This is a big boy gun. DPMS Panther AR10 300 SAUM lower with 260 Rem upper. Heavy stainless barrel, bi-pod, 1 mag. Flat top ready for optic. Excellent condition. Prefer to sell but trade offers welcome. Probably need to meet fairly close to me.";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmDPMS%20Panther%20AR10%20300%20SAUM%2F260%20Remington>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork57F1785F664FF460F1229F7A94A4B878CC47A672144AE6D5DEF29BF331A181E3.html>;
+  <http://schema.org/name> "DPMS Panther AR10 300 SAUM/260 Remington";
+  <http://schema.org/price> "775.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferFour%20Rifles%20For%20Sale> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceDublin>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmFive%20Rifles%20For%20Sale>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork6C11E5FBC99507B121AC3799DE460920FB1DBC15A4CE3D7058F73DED81594306.html>;
+  <http://schema.org/name> "Four Rifles For Sale";
+  <http://schema.org/price> "Various";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferGalco%20hoslter%20super%20chea> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceMariett>;
+  <http://schema.org/description> "I have a nice lightly use galco holster for sig sauer p226s. It might fit other handguns as well. Super cheap $10 or trade for a box on 9mm ammo";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmGalco%20hoslter%20super%20chea>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkC94ABE4624EAB671690CF99C0CFCC1376D2209054D413E6AD4F76B95479F4436.html>;
+  <http://schema.org/name> "Galco hoslter super chea";
+  <http://schema.org/price> "10";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferGlock%2021%20SF%20gen%203%20with%202%20mags> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceVilla%20Rica%20Ga.>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm.%20Glock%2021%20SF%20gen%203%20with%202%20mags>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork7864CF5D6CEB9619E8CE69CDCDDEF4E11E54090A0E1F99D423BF43FDFEA9E80E.html>;
+  <http://schema.org/name> "Glock 21 SF gen 3 with 2 mags";
+  <http://schema.org/price> "$581.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferGlock%2026%20gen%203%20FDE> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Placeatant>;
+  <http://schema.org/description> "Excellent condition glock 26 gen 3 FDE. Less than 100 rounds through it. Build in 2014. 2 mags one with Vickers FDE baseplate one with pearce pinky extention baseplate. I put glock factory night sights on it that I had laying around, the finish on the sights are worn pretty bad from a bad install but they function fine and are still brite.";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmGlock%2026%20gen%203%20FDE>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkDD3C8A9E1AB1D3862DF04FE29D0F82DA03C847EB7D3182CDB02290C0AD93EBFE.html>;
+  <http://schema.org/name> "Glock 26 gen 3 FDE";
+  <http://schema.org/price> "";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferGlock%2027%20Magazine> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceRome%2C%20GA>;
+  <http://schema.org/description> "For sale a Glock 27 magazine holds nine rounds. Used one time at the range.     will ship for $24 using paypal";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmGlock%2027%20Magazine>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkB30ADA9114F86BFB9BA6A10812EEB8BDC698B7DA82F9F4FFBAFDC96C9D248AB3.html>;
+  <http://schema.org/name> "Glock 27 Magazine";
+  <http://schema.org/price> "20";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferGlock%2027%20gen%204> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceRome%20g>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmGlock%2027%20gen%204>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork636D7DF3F86D18B0AA3299A03B13C31F567BA5A135044C361C77B135030B6306.html>;
+  <http://schema.org/name> "Glock 27 gen 4";
+  <http://schema.org/price> "475";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferHK%20416%20piston%20upper%20MR556%20brand%20new> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Placeroswell%20GA%2F%20ATL>;
+  <http://schema.org/description> "HK now offers the long awaited civilian variant of the popular 416 upper. This MR556, match grade upper receiver assembly comes complete and ready to pin onto any standard AR-15 lower receiver. The short stroke gas piston design ensures cooler, cleaner operation of this upper for reliabilty and less time scrubbing residue out of the receiver after extended shooting sessions. Upper Receiver: MR556 Flat-Top Barrel Length: 16.5 Barrel Contour: Heavy Barrel Material: Hammer Forged Chrome Moly Steel Muzzle Thread Pattern: 1/2-28 Chrome Lined: No Barrel Finish: Parkerized Twist Rate: 1 in 7 Chamber: 5.56x45mm NATO M4 Feed Ramps: Yes Muzzle Device: A2 flash hider Gas System Length: Carbine, short stroke gas piston Gas Block Diameter: 0.750 Handguard: 9 Free Float Quad Rail  As for trades Im open to glocks,ARs,1911s something cool";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmHK%20416%20piston%20upper%20MR556%20brand%20new>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork10F09BCE07FDF8B1C2F7B5730C828BDE289838CA0EB5D27DF2E778564496A780.html>;
+  <http://schema.org/name> "HK 416 piston upper MR556 brand new";
+  <http://schema.org/price> "$1800";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferHR%20Handi%20Rifle%20in%20243%20With%20Osprey%20Scope> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceCumming>;
+  <http://schema.org/description> "I have an HR Handi Rifle in 243. Great shape. Very few rounds fired. Without Scope and rings. Would rather trade but will take $225 cash FIRM. No scope";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmHR%20Handi%20Rifle%20in%20243%20With%20Osprey%20Scope>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork3851D1C6B6CD91E940174E8D7F9018B5955682F7064B490EB8DB155A27DB7F71.html>;
+  <http://schema.org/name> "HR Handi Rifle in 243 With Osprey Scope";
+  <http://schema.org/price> "$225";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferIO%20INC%20Sporter%20Wood%20Furniture%20AK47%207.62x39> a
+    <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceChattanoog>;
+  <http://schema.org/description> "";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork8A4FE7F17B3BE49414632B3E3998DF4B6DD2D601A9933A8E7EE6D155B6D9BA20.html>;
+  <http://schema.org/name> "IO INC Sporter Wood Furniture AK47 7.62x39";
+  <http://schema.org/price> "";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferImmaculate%201975%20Ruger%20M77%207mm%20mag> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceAlbany%2C%20GA>;
+  <http://schema.org/description> "Pristine 1975 M77 tang safety red butt pad 7 mag. 2nd owner. This one has been a safe queen most all of its life. I know the gentleman I bought it from and he swears it has been fired less than 20 times since he bought it new. I have shot it six times after I got it just so I could say it functioned properly if I ever decided to let it go. Includes Simmons Pro 50 scope, Leupold bases and rings and 2 boxes minus 6 rounds of 150 grain ammo. Put 3 rounds in less than a 1 inch group at 100 yards.   Prefer to sell but will certainly entertain trade or trade + cash offers on another bolt action deer rifle. I love Ruger all weathers, Brownings, Tikkas, some Winchesters, some Remingtons, T/C, etc. but wouldnt be opposed to others as well.";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmImmaculate%201975%20Ruger%20M77%207mm%20mag>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork1A9DD999BDCD1431EFDAACD08C122903C9E4839A1FBA62DCBDA34CA0C7C8FE51.html>;
+  <http://schema.org/name> "Immaculate 1975 Ruger M77 7mm mag";
+  <http://schema.org/price> "600.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferKel-Tec%20SU-2000%20Carbine%2C%20NIB> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceFitzgerald>;
+  <http://schema.org/description> "Brand new, never fired, in the box with all the extras, Kel-Tec SU-2000 in .40 cal. This one accepts Glock 22 mags, comes with one mag. It has the sling attached and a grip sleeve. These are real neat as the fold up into a very compact package for a GET  GO bag. Pair it with a Glock 22, takes the same mags and ammo but allows for more range and steadier shooting platform. I live in Fitzgerald. Trades will be listened to but I am trying to cut back on my addiction.";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmKel-Tec%20SU-2000%20Carbine%2C%20NIB>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkFD7B6CEE70A94834439EC2ABECE3FACD1B5815E059EC741313172CFFCF9B6C22.html>;
+  <http://schema.org/name> "Kel-Tec SU-2000 Carbine, NIB";
+  <http://schema.org/price> "500";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferKimber%20TLE%2FRL%20II> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceGainesville%2FTucker%2FMonticello>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmKimber%20TLE%2FTL%20II>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkF02B9858925DDA83944E1AED7E848B88E154EF710351F5947EAE6FDEB5CC11AB.html>;
+  <http://schema.org/name> "Kimber TLE/RL II";
+  <http://schema.org/price> "$750 firm";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferLNIB%20WALTHER%20P99%20AS> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceSmyrna%2C%20G>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmLNIB%20WALTHER%20P99%20AS>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork59CB645F1A69D7FDB46C8D75C68D755615BAD32622CFD5893ADFBEEFD205BF53.html>;
+  <http://schema.org/name> "LNIB WALTHER P99 AS";
+  <http://schema.org/price> "600 obo";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferMagpul%20vertical%20foregri> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceGwinnett>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmMagpul%20vertical%20foregri>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork4A78B957ADA849CFA02CE71AA2BEB88D9B5330D687E54837797A849FDCEBDB64.html>;
+  <http://schema.org/name> "Magpul vertical foregri";
+  <http://schema.org/price> "$15obo";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferMossberg%209200%20FS%2FFT> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceHomer%20GA>;
+  <http://schema.org/description> "Nice Mossberg 9200 semi-auto for sale. 24 barrel, very nice condition, appears to have been shot very little. I bought this 4 or 5 years ago and never shot it. Previous owner said it shot high brass fine but would occasionally jam on low brass. I took it apart and cleaned it, then put 25 rounds of low-brass, cheap, 7 1/2 Federal ammo through it with no problems at all. Id like to sell for $225 or maybe trade for a carry 9mm, 9mm ammo, or something else close to the same value. No Taurus or similar pistols. Comes with one choke, nothing else. Previous deal fell apart, so its back up.  Close to Banks or Jackson county. Pm please since I dont check thread often.  Thanks";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmMossberg%209200%20FS%2FFT>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork486D63EF81A09CB11DD8426C73AC2D3498CF5B9CB2ECDA0FF3F16CEBDA7E6C87.html>;
+  <http://schema.org/name> "Mossberg 9200 FS/FT";
+  <http://schema.org/price> "225";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferNIB%20Century%20C39V2%20AK-47> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceNorthwest%20Georgi>;
+  <http://schema.org/description> "NIB Century Arms C39 V2 Milled AK Rifle , RI2245-N , 100% American made! Accepts all standard AK magazines. Features a milled receiver machined from a solid 11 lb. block of 4140 ordnance quality steel, larger tee shaped magazine catch, AKM furniture compatible, bolt hold open safety and an enhanced dust cover. Chrome moly nitride treated barrel has a concentric left hand 14x1 metric thread that is suppressor ready. All test rifles passed a 5K round endurance test. Comes with two 30 rd. Magpul mags. and a 1 year manufacturers warranty.    This is a beautiful gun - excellent fit and finish!    Will trade for like new SW Model 60 or like new SW Model 63. (Cash to be added on your part depending on gun) Thanks for looking!";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmNIB%20Century%20C39V2%20AK-47>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork73B256381EAB3413762ACB99FEF42DB3379214B81C6A159C696564AF9E9C6996.html>;
+  <http://schema.org/name> "NIB Century C39V2 AK-47";
+  <http://schema.org/price> "775.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferNorinco%2084s%20.223%2F5.56%20AK%20great%20shape%20with%20several%20mags>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceRossville%2C%20GA>;
+  <http://schema.org/description> "Great shape Pre ban Norinco 84s AK in .233/5.56. Great shooter. Will sell with one 30 round mag for $1100. Extra mags can be purchased for $100 each. The mags are not easy to find thats why they are worth $100 each. If you buy everything as a package you will get 6-30 round mags and 2-15 round mags for $1500. Meet will need to be close to me on this as I am strapped for time at the moment. Only selling to put the money toward my new place that I am remodeling. PM any questions or offers. Not looking to trade unless its in my favor or something I just have to have.";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmNorinco%2084s%20.223%2F5.56%20AK%20great%20shape%20with%20several%20mags>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork63DF05A8753821D762D0D904630FEFA8D2E96FD9E8177FC9B5AD417DD37F668F.html>;
+  <http://schema.org/name> "Norinco 84s .223/5.56 AK great shape with several mags";
+  <http://schema.org/price> "$1100 to $1500";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferRemington%20597%20.22%20mag> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place30114>;
+  <http://schema.org/description> "Remington 597 .22 mag NIB unfired, never loaded. Comes with 2 extra mags, factory Picatinny rail, Volquartsen hammer and 200 rounds.";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork7B371F9B7B4FA4FE411157FE5DB125BAED652FA00DF1A518CD28361AC1690AA7.html>;
+  <http://schema.org/name> "Remington 597 .22 mag";
+  <http://schema.org/price> "$550";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferRuger%20p95> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceUnited%20States>;
+  <http://schema.org/description> "Looking to trade in my reliable tank for something a little easier to carry. The old girl comes with 2 10 and 1 15 round ruger mag, as well as a 15 round pro mag thats worked well for me.";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmRuger%20p95>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkA7971EA8145EA1FA0D82063956AB4E325DA717AAEDC128FF1743930365E2A377.html>;
+  <http://schema.org/name> "Ruger p95";
+  <http://schema.org/price> "$300.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferSW%20500%208.38> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place30501>;
+  <http://schema.org/description> "Ive got a Smith and Wesson 500 Magnum for sale or trade. Really just wanting the 500 with a 4 barrel, but will entertain other offers. Cash price is pretty firm.    Will come with box, docs, and lock. Thanks for looking.";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmSW%20500%208.38>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork06BBCA83D80E96E1D47CA964FF0FDDD4DB48CBB3F961C4DB40FF531B5CEC4C7D.html>;
+  <http://schema.org/name> "SW 500 8.38";
+  <http://schema.org/price> "950";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferSW%20629-0%20PR%2C%2044%20mag%206%20in%20stainless%2C%20Astra%2044%20mag%206%20in%20stainless%20PR.%20%2B%20ammo>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceGwinnett%20County>;
+  <http://schema.org/description> "For sale or trade, SW 629-0 44 mag stainless 6 in pinned and recessed. Also Astra 44 mag stainless 6 in pinned and recessed. Both include the factory wood grips not pictured. Also included is the following ammo:  120 Winchester Platimun Tip 250 gr  20 Federal Premium Hunting 300 gr  20 Federal Premium Hydo Shok 240 gr  100 Remington JSP 180 gr  400 GA Arms (new ammo) Gold Dot Deer Stopper 240 gr.  A total of 560 rounds. All ammo is factory loaded in factory boxes or bags. More ammo available for the right deal. Trade interests are Steyr Aug, Micro Uzi, Mini Uzi, Chinese AKs, multiple Glocks in 9mm or 45 acp, what do you have? No interest in 1911s, 40 SW, 357 Sig, or BP. Please note that both guns look almost identical at least from a short distance. Must be a GA resident, meet close to me. Please pm all offers. Thanks for looking. Additional pics available via text.";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmSW%20629-0%20PR%2C%2044%20mag%206%20in%20stainless%2C%20Astra%2044%20mag%206%20in%20stainless%20PR.%20%2B%20ammo>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork0190C983C7A97B2B88C490B8E1F9B42CBF04B99BC2D1070A97BDB1FD3943FB7F.html>;
+  <http://schema.org/name> "SW 629-0 PR, 44 mag 6 in stainless, Astra 44 mag 6 in stainless PR. + ammo";
+  <http://schema.org/price> "$1,525.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferSavage%2014%20American%20Classic%20.308%20stainless> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceNahunt>;
+  <http://schema.org/description> "I am wanting to sell or trade my savage American Classic. I am interested in a wide variety of guns, but would prefer other nice rifles in .308 or nice lever guns in rifle or pistol calibers. Ruger skeleton stocks, ruger mini 30, Remington mountain rifles or Winchester extreme weather are at the top of my list. I will also consider shotguns of equal value. Sale price for the gun is 600 without the scope, 775 with. PM call or text @ 912-288-0444";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmSavage%2014%20American%20Classic%20.308%20stainless>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork9167319F91EDA83DDB2DEDC3545220F309E992600C31101C282D4C08FB5B5980.html>;
+  <http://schema.org/name> "Savage 14 American Classic .308 stainless";
+  <http://schema.org/price> "600";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferSig%20Sauer%20P229%20SAS> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceDallas>;
+  <http://schema.org/description> "For sale or trade is a beautiful Sig Sauer P229 SAS DAK two tone. It has trijicon night sights, 4x 12 round mags (two blue, two phosphate), box and docs. Willing to drive reasonable distances.";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmSig%20Sauer%20P229%20SAS>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork25FD5581766FA5BF14F8C16FAE7CD74A6F1DBCB8F76AA0DF5D00CF5FE7E6F17D.html>,
+    <http://schema.org/CreativeWorkA467525B39A3B1FE423A0BB181DE1F7AA3A1AA465EE8422E5F7306CE261C4EBE.html>;
+  <http://schema.org/name> "Sig Sauer P229 SAS";
+  <http://schema.org/price> "$650";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferSmith%20%20Wesson%205943> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Placenorth%20georgi>;
+  <http://schema.org/description> "Smith  Wesson 5943 DAO 9mm with (2) 15rd mags and bulldog holster. Light weight and slim double stack. $385.00";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkD3C046CA258A74069C7B99BEF92330D0BF3DCCE5DC64C06DD5CDA40C3FFEA67B.html>;
+  <http://schema.org/name> "Smith  Wesson 5943";
+  <http://schema.org/price> "385.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferSmith%20and%20Wesson%20MP%209c> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Place30052>;
+  <http://schema.org/description> "Smith and Wesson MP 9c with everything it should have new. Two 12 round mags, three back straps, lock, docs, box. Just a few rounds fired. Way less than a box down the pipe. Test Fire date was 10/21/14...........Please see pics.......    Would love to trade for an MP 9c with Thumb Safety or a Full size MP 9 with a Thumb safety. Not really looking for anything else but if you think you have something I might want then by all means try me. If Im not interested Ill just say No Thanks     Sell for $415 cash  [MSRP is $569 Academy gets $479 plus tax and paper work]    Face to Face in Loganville, Youth, Walton County    Contact through the ODT PM system or    Text or Call    678-414-0327";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmSmith%20and%20Wesson%20MP%209c>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork9542A393487900172133F0F20F3D0E03BA07CC9019118132E9D069576014C773.html>;
+  <http://schema.org/name> "Smith and Wesson MP 9c";
+  <http://schema.org/price> "$415";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferSmith%20and%20Wesson%20Model%203913%20Lady%20Smith%209mm%20DA%2FSA%20Stainless%208%2B1%20Slim%20Magazine%20Nice%21%21%21>
+  a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceAtlant>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmSmith%20and%20Wesson%20Model%203913%20Lady%20Smith%209mm%20DA%2FSA%20Stainless%208%2B1%20Slim%20Magazine%20Nice%21%21%21>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork2AD8D68E779D75C9DA9425CB168317CDFFA572BF04AFF15DB9B59C2B0A9C3379.html>;
+  <http://schema.org/name> "Smith and Wesson Model 3913 Lady Smith 9mm DA/SA Stainless 8+1 Slim Magazine Nice!!!";
+  <http://schema.org/price> "450.00";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferSpringfield%20XDS%2045%20Bi-Tone> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceAtlant>;
+  <http://schema.org/description> "I have up for sale a Springfield XDS 45 Bi-Tone. I bought it and put it in the safe. Hasnt been fired outside of the factory. Comes with (1) 7 round mag and (4) 5 round mags. Asking 500 obo but will trade for an XDM compact in 45 or Spikes AR Upper in 5.56/.223 with possible cash on my end";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmSpringfield%20XDS%2045%20Bi-Tone>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork426D6E9A42DE9BC7AB2A5FEA8DDF7489CE8D95BF996C217AE6CF620218D83E68.html>;
+  <http://schema.org/name> "Springfield XDS 45 Bi-Tone";
+  <http://schema.org/price> "500";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferWinchester%20model%2094%201947> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceRockmart%20GA>;
+  <http://schema.org/description> "1947 I believe. Gun is in good condition with some surface rust. Serial number starts 141xxx.";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmWinchester%20model%2094%201947>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkFE81276656EAA19ED8F97A675449108AD14A23FEB77BF1CD53C07D7D4D1F8672.html>;
+  <http://schema.org/name> "Winchester model 94 1947";
+  <http://schema.org/price> "$650";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferXDs%2045%20LNIB%20for%20glock%2026> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceDouglasville>;
+  <http://schema.org/description> "less than a 100 rounds through it. talon grips. fiber optic sight. looking to sell or trade for a similar G26 package. Will throw in some ammo for the right trade.    I travel between douglasville and johns creek daily, so I can meet pretty much anywhere metro ATL.";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/FirearmXDs%2045%20LNIB%20for%20glock%2026>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork208086AAA46B27647D3FFA7B213E708CC80A53E9D0D8EAE6AA8058022EF52242.html>;
+  <http://schema.org/name> "XDs 45 LNIB for glock 26";
+  <http://schema.org/price> "500";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offerfactory%20psa%20handguard> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceMariett>;
+  <http://schema.org/description> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearmfactory%20psa%20handguard>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkB45B19D15BAFE02022FEC0F659997A692133D8E5518F1741C1D22352F40BD195.html>;
+  <http://schema.org/name> "factory psa handguard";
+  <http://schema.org/price> "$10";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offerwinchester%20ranger%20model%20120> a <http://schema.org/Offer>;
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Placenorth%20georgi>;
+  <http://schema.org/description> "winchester ranger model 120 12 gauge pump with a 24 inch barrel with rifle sights. i also have a 26 inch barrel that takes screw in chokes";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearmwinchester%20ranger%20model%20120>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork8E72B09298FA156E7F327D554713CE490A2A5A1F46D1FF93AC2360F8F407D495.html>;
+  <http://schema.org/name> "winchester ranger model 120";
+  <http://schema.org/price> "300";
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Place30014> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "30014" .
+
+<http://schema.org/Place30052> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "30052" .
+
+<http://schema.org/Place30114> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "30114" .
+
+<http://schema.org/Place30501> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "30501" .
+
+<http://schema.org/Place30619> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "30619" .
+
+<http://schema.org/PlaceAcworth%2C%20GA> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Acworth, GA" .
+
+<http://schema.org/PlaceAlbany%2C%20GA> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Albany, GA" .
+
+<http://schema.org/PlaceAtlant> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Atlant" .
+
+<http://schema.org/PlaceAtlanta%2C%20GA> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Atlanta, GA" .
+
+<http://schema.org/PlaceBethelhem%2C%20G> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Bethelhem, G" .
+
+<http://schema.org/PlaceBuford> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Buford" .
+
+<http://schema.org/PlaceCanton%20Ga.> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Canton Ga." .
+
+<http://schema.org/PlaceCarrollton> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Carrollton" .
+
+<http://schema.org/PlaceChattanoog> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Chattanoog" .
+
+<http://schema.org/PlaceCoweta%20County%2CG> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Coweta County,G" .
+
+<http://schema.org/PlaceCumming> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Cumming" .
+
+<http://schema.org/PlaceCumming%20G> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Cumming G" .
+
+<http://schema.org/PlaceCumming%2C%20G> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Cumming, G" .
+
+<http://schema.org/PlaceDallas> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Dallas" .
+
+<http://schema.org/PlaceDallas%2C%20G> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Dallas, G" .
+
+<http://schema.org/PlaceDouglasville> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Douglasville" .
+
+<http://schema.org/PlaceDouglasville%2C%20GA> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Douglasville, GA" .
+
+<http://schema.org/PlaceDublin> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Dublin" .
+
+<http://schema.org/PlaceEast%20Cobb%20Sno> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "East Cobb Sno" .
+
+<http://schema.org/PlaceEllijay> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Ellijay" .
+
+<http://schema.org/PlaceEmerson%2CG> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Emerson,G" .
+
+<http://schema.org/PlaceFitzgerald> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Fitzgerald" .
+
+<http://schema.org/PlaceFt%20benning%2032905> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Ft benning 32905" .
+
+<http://schema.org/PlaceGainesville%2FTucker%2FMonticello> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Gainesville/Tucker/Monticello" .
+
+<http://schema.org/PlaceGeorgia-%20The%20Good%20Ol%20Southern%20USA> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Georgia- The Good Ol Southern USA" .
+
+<http://schema.org/PlaceGwinnett> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Gwinnett" .
+
+<http://schema.org/PlaceGwinnett%20County> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Gwinnett County" .
+
+<http://schema.org/PlaceHomer%20GA> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Homer GA" .
+
+<http://schema.org/PlaceKennesaw%2C%20GA%2030152> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Kennesaw, GA 30152" .
+
+<http://schema.org/PlaceLagrange%20ga%2030241> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Lagrange ga 30241" .
+
+<http://schema.org/PlaceMONROE> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "MONROE" .
+
+<http://schema.org/PlaceMacon> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Macon" .
+
+<http://schema.org/PlaceMariett> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Mariett" .
+
+<http://schema.org/PlaceMarietta%2C%20GA> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Marietta, GA" .
+
+<http://schema.org/PlaceNA> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "NA" .
+
+<http://schema.org/PlaceNE%20GA> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "NE GA" .
+
+<http://schema.org/PlaceNE%20~%20Gwinnett> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "NE ~ Gwinnett" .
+
+<http://schema.org/PlaceNahunt> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Nahunt" .
+
+<http://schema.org/PlaceNewnan> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Newnan" .
+
+<http://schema.org/PlaceNorth%20Georgi> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "North Georgi" .
+
+<http://schema.org/PlaceNorthwest%20Georgi> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Northwest Georgi" .
+
+<http://schema.org/PlaceOTP%2FWEST> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "OTP/WEST" .
+
+<http://schema.org/PlacePaulding%20County> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Paulding County" .
+
+<http://schema.org/PlaceResaca%20g> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Resaca g" .
+
+<http://schema.org/PlaceRockmart%20GA> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Rockmart GA" .
+
+<http://schema.org/PlaceRockmart%2C%20Ga.> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Rockmart, Ga." .
+
+<http://schema.org/PlaceRome> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Rome" .
+
+<http://schema.org/PlaceRome%20g> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Rome g" .
+
+<http://schema.org/PlaceRome%2C%20GA> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Rome, GA" .
+
+<http://schema.org/PlaceRossville%2C%20GA> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Rossville, GA" .
+
+<http://schema.org/PlaceRoswell%2C%20GA%2030076> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Roswell, GA 30076" .
+
+<http://schema.org/PlaceSmyrn> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Smyrn" .
+
+<http://schema.org/PlaceSmyrna%2C%20G> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Smyrna, G" .
+
+<http://schema.org/PlaceSpalding%20County%2C%20Georgi> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Spalding County, Georgi" .
+
+<http://schema.org/PlaceStone%20Mountain%2C%20G> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Stone Mountain, G" .
+
+<http://schema.org/PlaceUnited%20States> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "United States" .
+
+<http://schema.org/PlaceVilla%20Ria%20Ga.> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Villa Ria Ga." .
+
+<http://schema.org/PlaceVilla%20Rica%20Ga.> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Villa Rica Ga." .
+
+<http://schema.org/PlaceWest%20Cobb%20County> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "West Cobb County" .
+
+<http://schema.org/PlaceWinder%20GA> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "Winder GA" .
+
+<http://schema.org/Placeatant> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "atant" .
+
+<http://schema.org/Placecherokee> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "cherokee" .
+
+<http://schema.org/Placedallas%20g> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "dallas g" .
+
+<http://schema.org/Placedouglasville%2Cga.> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "douglasville,ga." .
+
+<http://schema.org/Placejefferson> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "jefferson" .
+
+<http://schema.org/Placemariett> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "mariett" .
+
+<http://schema.org/Placemarietta%2C%20GA%2030068> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "marietta, GA 30068" .
+
+<http://schema.org/Placenorth%20georgi> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "north georgi" .
+
+<http://schema.org/Placerossville%2C%20GA> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "rossville, GA" .
+
+<http://schema.org/Placeroswell%20GA%2F%20ATL> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "roswell GA/ ATL" .
+
+<http://schema.org/Placesouth%20metro%20atlanta%28mcdonough%29> a <http://schema.org/Place>;
+  <http://schema.org/address> <http://schema.org/PostalAddress0>;
+  <http://schema.org/name> "south metro atlanta(mcdonough)" .
+
+<http://schema.org/PostalAddress0> a <http://schema.org/PostalAddress>;
+  <http://schema.org/addressRegion> "", "Central GA", "Metro Atlant", "North East GA",
+    "North West GA", "South East GA", "South West GA", "West GA" .

@@ -1,0 +1,1156 @@
+
+<http://schema.dig.isi.edu/ontology/Firearm0> a <http://schema.dig.isi.edu/ontology/Firearm>;
+  <http://schema.org/category> "", "Ammo", "Pistols", "Revolvers", "Rifles", "Shotguns";
+  <http://schema.org/manufacturer> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationALL>,
+    <http://schema.dig.isi.edu/ontology/PersonOrOrganizationAMT>, <http://schema.dig.isi.edu/ontology/PersonOrOrganizationBeretta>,
+    <http://schema.dig.isi.edu/ontology/PersonOrOrganizationBersa>, <http://schema.dig.isi.edu/ontology/PersonOrOrganizationColt>,
+    <http://schema.dig.isi.edu/ontology/PersonOrOrganizationDPMS>, <http://schema.dig.isi.edu/ontology/PersonOrOrganizationFLORIDA%20GUN%20CLASSIFIEDS>,
+    <http://schema.dig.isi.edu/ontology/PersonOrOrganizationFN>, <http://schema.dig.isi.edu/ontology/PersonOrOrganizationFNH%20USA>,
+    <http://schema.dig.isi.edu/ontology/PersonOrOrganizationFlorida%20Ammunition>, <http://schema.dig.isi.edu/ontology/PersonOrOrganizationFratelli>,
+    <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGLOCK>, <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGlock>,
+    <http://schema.dig.isi.edu/ontology/PersonOrOrganizationHK>, <http://schema.dig.isi.edu/ontology/PersonOrOrganizationHR%20Centry%20Internation%20Arm>,
+    <http://schema.dig.isi.edu/ontology/PersonOrOrganizationKeltec>, <http://schema.dig.isi.edu/ontology/PersonOrOrganizationLuger>,
+    <http://schema.dig.isi.edu/ontology/PersonOrOrganizationMouser>, <http://schema.dig.isi.edu/ontology/PersonOrOrganizationNighthawk>,
+    <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPrittchard>, <http://schema.dig.isi.edu/ontology/PersonOrOrganizationRUGER>,
+    <http://schema.dig.isi.edu/ontology/PersonOrOrganizationRemington>, <http://schema.dig.isi.edu/ontology/PersonOrOrganizationRuger>,
+    <http://schema.dig.isi.edu/ontology/PersonOrOrganizationSig%20Sauer>, <http://schema.dig.isi.edu/ontology/PersonOrOrganizationSmith%20%20Wesson>,
+    <http://schema.dig.isi.edu/ontology/PersonOrOrganizationSmith%20%24%20Wesson>, <http://schema.dig.isi.edu/ontology/PersonOrOrganizationSmith%20and%20wesson>,
+    <http://schema.dig.isi.edu/ontology/PersonOrOrganizationSpringfield>, <http://schema.dig.isi.edu/ontology/PersonOrOrganizationVarious>,
+    <http://schema.dig.isi.edu/ontology/PersonOrOrganizationWinchester>, <http://schema.dig.isi.edu/ontology/PersonOrOrganizationmarlin> .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationALL> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "Matt Adika";
+  <http://schema.org/email> "buylocalguns@gmail.com", "matt@floridagunclassifieds.com";
+  <http://schema.org/name> "ALL";
+  <http://schema.org/telephone> "954-805-3440", "9548053440" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationAMT> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "Bigshow300";
+  <http://schema.org/email> "Jimmysmith300@gmail.com";
+  <http://schema.org/name> "AMT";
+  <http://schema.org/telephone> "813.454.7944" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationBeretta> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "RWF", "bravoohio4567", "fitz59";
+  <http://schema.org/email> "bravoohio4567@outlook.com", "fitz4@gate.net", "mikekeliher5090-@gmail.com";
+  <http://schema.org/name> "Beretta";
+  <http://schema.org/telephone> "", "239-872-1566" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationBersa> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "Matt Adika";
+  <http://schema.org/email> "mattadika@gmail.com";
+  <http://schema.org/name> "Bersa";
+  <http://schema.org/telephone> "954.805.3440" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationColt> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "Colt2323";
+  <http://schema.org/email> "spencerblake92@yahoo.com";
+  <http://schema.org/name> "Colt";
+  <http://schema.org/telephone> "3523457016" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationDPMS> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "Brett401";
+  <http://schema.org/email> "trafdeputy@aol.com";
+  <http://schema.org/name> "DPMS";
+  <http://schema.org/telephone> "" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationFLORIDA%20GUN%20CLASSIFIEDS>
+  a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "Matt Adika";
+  <http://schema.org/email> "matt@floridagunclassifieds.com";
+  <http://schema.org/name> "FLORIDA GUN CLASSIFIEDS";
+  <http://schema.org/telephone> "9548053440" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationFN> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "Matt Adika";
+  <http://schema.org/email> "Moti@masafirearms.com", "matt@floridagunclassifieds.com";
+  <http://schema.org/name> "FN";
+  <http://schema.org/telephone> "954.675.4308", "9548053440" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationFNH%20USA> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "Matt Adika";
+  <http://schema.org/email> "matt@floridagunclassifieds.com";
+  <http://schema.org/name> "FNH USA";
+  <http://schema.org/telephone> "9548053440" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationFlorida%20Ammunition> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "FL_Ammunition";
+  <http://schema.org/email> "mattbooth1@verizon.net";
+  <http://schema.org/name> "Florida Ammunition";
+  <http://schema.org/telephone> "863-899-5458" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationFratelli> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "Matt Adika";
+  <http://schema.org/email> "";
+  <http://schema.org/name> "Fratelli";
+  <http://schema.org/telephone> "" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationGLOCK> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "motiadika";
+  <http://schema.org/email> "moti@masafirearms.com";
+  <http://schema.org/name> "GLOCK";
+  <http://schema.org/telephone> "9546754308" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationGlock> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "Matt Adika", "diamondjim12";
+  <http://schema.org/email> "diamondjim12@gmail.com", "matt@floridagunclassifieds.com";
+  <http://schema.org/name> "Glock";
+  <http://schema.org/telephone> "", "954-805-3440" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationHK> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "bettyville";
+  <http://schema.org/email> "bettimy@hotmail.com";
+  <http://schema.org/name> "HK";
+  <http://schema.org/telephone> "" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationHR%20Centry%20Internation%20Arm>
+  a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "spud9";
+  <http://schema.org/email> "lenny@spud9gunworks.com";
+  <http://schema.org/name> "HR Centry Internation Arm";
+  <http://schema.org/telephone> "561 706 4195" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationKeltec> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "Matt Adika";
+  <http://schema.org/email> "buylocalguns@gmail.com";
+  <http://schema.org/name> "Keltec";
+  <http://schema.org/telephone> "9548053440" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationLuger> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "John Galt";
+  <http://schema.org/email> "";
+  <http://schema.org/name> "Luger";
+  <http://schema.org/telephone> "" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationMouser> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "Busby12085";
+  <http://schema.org/email> "Spartin566@gmail.com";
+  <http://schema.org/name> "Mouser";
+  <http://schema.org/telephone> "" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationNighthawk> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "Justo83";
+  <http://schema.org/email> "Jandersoncfl@gmail.com";
+  <http://schema.org/name> "Nighthawk";
+  <http://schema.org/telephone> "" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationPrittchard> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "Jim567";
+  <http://schema.org/email> "jsloanpr@aol.com";
+  <http://schema.org/name> "Prittchard";
+  <http://schema.org/telephone> "904-655-9339" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationRUGER> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "nexus6";
+  <http://schema.org/email> "crwsfl99@aol.com";
+  <http://schema.org/name> "RUGER";
+  <http://schema.org/telephone> "954-647-6090" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationRemington> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "VT 1988", "jackgraves";
+  <http://schema.org/email> "Chuckearly4@gmail.com", "hondaamacup@yahoo.com";
+  <http://schema.org/name> "Remington";
+  <http://schema.org/telephone> "727-409-9834", "8137359097" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationRuger> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "Asimm", "Trashcan101", "oilman",
+    "spud9";
+  <http://schema.org/email> "alsimm299@yahoo.com", "lenny@spud9gunworks.com", "oilman2000@yahoo.com",
+    "trashcan101@koontznet.net";
+  <http://schema.org/name> "Ruger";
+  <http://schema.org/telephone> "", "561 706 4195", "5616020427", "941-387-5267 Text only" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationSig%20Sauer> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "Matt Adika", "donny2138", "silvenstuna";
+  <http://schema.org/email> "Mcbryan2016@gmail.com", "Moti@masafirearms.com", "iplanurwork@gmail.com",
+    "matt@floridagunclassifieds.com", "stunasilver@yahoo.com";
+  <http://schema.org/name> "Sig Sauer";
+  <http://schema.org/telephone> "(713) 999-7195", "860-227-7825", "954-805-3440", "9546754308" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationSmith%20%20Wesson> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "bela66523365";
+  <http://schema.org/email> "bela66523365@outlook.com";
+  <http://schema.org/name> "Smith  Wesson";
+  <http://schema.org/telephone> "" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationSmith%20%24%20Wesson> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "fitz59";
+  <http://schema.org/email> "fitz4@gate.net";
+  <http://schema.org/name> "Smith $ Wesson";
+  <http://schema.org/telephone> "239-872-1566" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationSmith%20and%20wesson> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "Jman16";
+  <http://schema.org/email> "Joshbra805@gmail.com";
+  <http://schema.org/name> "Smith and wesson";
+  <http://schema.org/telephone> "4075699192" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationSpringfield> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "calrinejane";
+  <http://schema.org/email> "calrinejane@gmail.com";
+  <http://schema.org/name> "Springfield";
+  <http://schema.org/telephone> "815-200-9731" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationVarious> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "Matt Adika";
+  <http://schema.org/email> "matt@floridagunclassifieds.com";
+  <http://schema.org/name> "Various";
+  <http://schema.org/telephone> "9548053440" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationWinchester> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "bigguy8080";
+  <http://schema.org/email> "xrilaw@cfl.rr.com";
+  <http://schema.org/name> "Winchester";
+  <http://schema.org/telephone> "6154408971" .
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganizationmarlin> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "jojomec";
+  <http://schema.org/email> "jgleaton@tampabay.rr.com";
+  <http://schema.org/name> "marlin";
+  <http://schema.org/telephone> "1 352 238 3921" .
+
+<http://schema.org/CreativeWork008522618859787A808DB942109F7A78DA759BACF8D6330020345B0F16E0FF77.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "008522618859787A808DB942109F7A78DA759BACF8D6330020345B0F16E0FF77.html" .
+
+<http://schema.org/CreativeWork051B6FD44EE5906A9A4A5A51B45F5D565D2B01DB076799D1C29E614EAFD5FFBD.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "051B6FD44EE5906A9A4A5A51B45F5D565D2B01DB076799D1C29E614EAFD5FFBD.html" .
+
+<http://schema.org/CreativeWork0C468258D18EED59FF7F3450733B1DEF078B75F4455093858C089D875025C28D.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "0C468258D18EED59FF7F3450733B1DEF078B75F4455093858C089D875025C28D.html" .
+
+<http://schema.org/CreativeWork0F82168CA65B9F7A32B33B8555556A5415522ACEFA0BEE72E6DED9B08DB707B7.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "0F82168CA65B9F7A32B33B8555556A5415522ACEFA0BEE72E6DED9B08DB707B7.html" .
+
+<http://schema.org/CreativeWork17D160E973911660B42388FFF1EE401879D5C0B6FF66E5414ABBEBD94AA035D2.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "17D160E973911660B42388FFF1EE401879D5C0B6FF66E5414ABBEBD94AA035D2.html" .
+
+<http://schema.org/CreativeWork184AA26A64099798EFEF472AC2BC925CFC552719081B862EDB073D946FB238BB.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "184AA26A64099798EFEF472AC2BC925CFC552719081B862EDB073D946FB238BB.html" .
+
+<http://schema.org/CreativeWork1F0E155356AD5783951C70EF417679178E1D3B58FD32433FDDCF2209CA99EDCA.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "1F0E155356AD5783951C70EF417679178E1D3B58FD32433FDDCF2209CA99EDCA.html" .
+
+<http://schema.org/CreativeWork246EF3430F9A364E2C533E2A1AFE3D7174189494EA0CB81D23401F4876F9901D.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "246EF3430F9A364E2C533E2A1AFE3D7174189494EA0CB81D23401F4876F9901D.html" .
+
+<http://schema.org/CreativeWork286D226AAD334574C19C7A9B502786AC2D4770FDFA6AF77283F1B57441A48C92.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "286D226AAD334574C19C7A9B502786AC2D4770FDFA6AF77283F1B57441A48C92.html" .
+
+<http://schema.org/CreativeWork3130F9A19AEC407AEEEF67AC0971F6B9C6D44E0FDD2C7761129BE9C6DA3ECB5A.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "3130F9A19AEC407AEEEF67AC0971F6B9C6D44E0FDD2C7761129BE9C6DA3ECB5A.html" .
+
+<http://schema.org/CreativeWork3CAD2537CA444DA5A43221AD7BDA8899DC430053A4899E2D7CF46CB95502858B.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "3CAD2537CA444DA5A43221AD7BDA8899DC430053A4899E2D7CF46CB95502858B.html" .
+
+<http://schema.org/CreativeWork4423A60B0A103463260E221BC549D8420B64A7A44D14E60BEE775458313C1C72.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "4423A60B0A103463260E221BC549D8420B64A7A44D14E60BEE775458313C1C72.html" .
+
+<http://schema.org/CreativeWork4A740FC02A604F5EFD032DF13E52B4670EBF3096F6D7FBA44765CDB607D604C9.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "4A740FC02A604F5EFD032DF13E52B4670EBF3096F6D7FBA44765CDB607D604C9.html" .
+
+<http://schema.org/CreativeWork4BA95EFD5B267A7C24BABFAA9EDD1A75C5546392C3BC22727A414083630A263A.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "4BA95EFD5B267A7C24BABFAA9EDD1A75C5546392C3BC22727A414083630A263A.html" .
+
+<http://schema.org/CreativeWork4FC3BE6B80DA108CBF711E02FC2400979313021D7DAE67DCBF2E4F4BCB57BC29.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "4FC3BE6B80DA108CBF711E02FC2400979313021D7DAE67DCBF2E4F4BCB57BC29.html" .
+
+<http://schema.org/CreativeWork513BD063A5B1913F4ACA96DA25473EFD439A0EB8541DB6B485D186CEB45DDC75.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "513BD063A5B1913F4ACA96DA25473EFD439A0EB8541DB6B485D186CEB45DDC75.html" .
+
+<http://schema.org/CreativeWork570FF5220030F1620039DC88B6E301481CDC57CD990456A1EB1CE778BFB86E8D.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "570FF5220030F1620039DC88B6E301481CDC57CD990456A1EB1CE778BFB86E8D.html" .
+
+<http://schema.org/CreativeWork5ACCBEE2C17CF88A03C8198A3C7AC6DE0FFFD8A8379326EB9E2F249B1E38AE81.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "5ACCBEE2C17CF88A03C8198A3C7AC6DE0FFFD8A8379326EB9E2F249B1E38AE81.html" .
+
+<http://schema.org/CreativeWork64EF48C496F9AE8290643AD289A75EDE85EF0DAEC06A92210A8A44FACC7AF454.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "64EF48C496F9AE8290643AD289A75EDE85EF0DAEC06A92210A8A44FACC7AF454.html" .
+
+<http://schema.org/CreativeWork6A7B77B565FE79446D02E68EF759681FB2BBC555FF3608333B8291781B348E53.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "6A7B77B565FE79446D02E68EF759681FB2BBC555FF3608333B8291781B348E53.html" .
+
+<http://schema.org/CreativeWork7888140FBDDD04051A67154CEB185BBBFD03868E341458B6FFEE14BBF747CDC9.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "7888140FBDDD04051A67154CEB185BBBFD03868E341458B6FFEE14BBF747CDC9.html" .
+
+<http://schema.org/CreativeWork7EFC3B1243C3C1A3F1547443DFCDA4EA1EC1C9748AE284B8BE87758890F0BCC3.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "7EFC3B1243C3C1A3F1547443DFCDA4EA1EC1C9748AE284B8BE87758890F0BCC3.html" .
+
+<http://schema.org/CreativeWork7FBADD98CC8EC52CC9370ACBE3D9654E3D8400B9FAFEF436C5CCAFE36B1EA257.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "7FBADD98CC8EC52CC9370ACBE3D9654E3D8400B9FAFEF436C5CCAFE36B1EA257.html" .
+
+<http://schema.org/CreativeWork807A669B38CB99461F9A6C908B69CBEF357CCA3B36046D454C1BAB20C94ABD6E.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "807A669B38CB99461F9A6C908B69CBEF357CCA3B36046D454C1BAB20C94ABD6E.html" .
+
+<http://schema.org/CreativeWork86D82F28012CBC10A4EC7822AF92159ADB035301EF7BFBCA3EE45371D6405B89.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "86D82F28012CBC10A4EC7822AF92159ADB035301EF7BFBCA3EE45371D6405B89.html" .
+
+<http://schema.org/CreativeWork88FF37737B419ECCE2F878DC18C5500D11E8EB29E11327C456035F660C636D60.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "88FF37737B419ECCE2F878DC18C5500D11E8EB29E11327C456035F660C636D60.html" .
+
+<http://schema.org/CreativeWork8905CFD9D34A2278F6264349550E87E701DF3995812A818CDA83F738A3142E10.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "8905CFD9D34A2278F6264349550E87E701DF3995812A818CDA83F738A3142E10.html" .
+
+<http://schema.org/CreativeWork8AEFF313CF6C282C00D66DFF2EAC1C7291FF04D5A6B054287CF66DD910520D18.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "8AEFF313CF6C282C00D66DFF2EAC1C7291FF04D5A6B054287CF66DD910520D18.html" .
+
+<http://schema.org/CreativeWork8CCA70571C1FD6975152A75427843A58673A707B475AF6333895A014E273F8E9.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "8CCA70571C1FD6975152A75427843A58673A707B475AF6333895A014E273F8E9.html" .
+
+<http://schema.org/CreativeWork9B29D15D1FC78E303B225234C0EBD5C717228B8C2FE0D4BE52A7F2A46187792A.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "9B29D15D1FC78E303B225234C0EBD5C717228B8C2FE0D4BE52A7F2A46187792A.html" .
+
+<http://schema.org/CreativeWork9B907DF832438C0D62FD423163E93CD29D583046D7BDCC8D2FEDC9DDAB39C1DF.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "9B907DF832438C0D62FD423163E93CD29D583046D7BDCC8D2FEDC9DDAB39C1DF.html" .
+
+<http://schema.org/CreativeWorkA179D87F07CFD2B9586871A5E0C326B643BB5CF2C8D4F1B7AE8CAA586A0834FA.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "A179D87F07CFD2B9586871A5E0C326B643BB5CF2C8D4F1B7AE8CAA586A0834FA.html" .
+
+<http://schema.org/CreativeWorkA3EA84218D200C6E86CA9458968FA56121D5BD4992F550AAE586E9813189FCE2.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "A3EA84218D200C6E86CA9458968FA56121D5BD4992F550AAE586E9813189FCE2.html" .
+
+<http://schema.org/CreativeWorkA6CCE35407338410711C58755450C51FCCB7BBF0D6413C16D7654CE2FE043185.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "A6CCE35407338410711C58755450C51FCCB7BBF0D6413C16D7654CE2FE043185.html" .
+
+<http://schema.org/CreativeWorkA9E9EEB62AF2B51D714A180CA4EDD74CDA89EBADFC46B6DFAD48D1BAF531A68C.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "A9E9EEB62AF2B51D714A180CA4EDD74CDA89EBADFC46B6DFAD48D1BAF531A68C.html" .
+
+<http://schema.org/CreativeWorkACF17A04F6BE7651488D5A2B80BEE5E3AA8466B866E804863DD44FD383EE31E6.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "ACF17A04F6BE7651488D5A2B80BEE5E3AA8466B866E804863DD44FD383EE31E6.html" .
+
+<http://schema.org/CreativeWorkB2AFC90B66920066B25D78EFA2442FB59981AC119A29F01E5E2A9ACDD2A82122.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "B2AFC90B66920066B25D78EFA2442FB59981AC119A29F01E5E2A9ACDD2A82122.html" .
+
+<http://schema.org/CreativeWorkB53457D5CA2A3AE56B59D0F53D22355260F05E5AAE5BD8CA6F147B65728DFD25.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "B53457D5CA2A3AE56B59D0F53D22355260F05E5AAE5BD8CA6F147B65728DFD25.html" .
+
+<http://schema.org/CreativeWorkBED127EA90D235ACC9E6569499057A5ACECDB2A183BCF7C077A5C08F77FACAD2.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "BED127EA90D235ACC9E6569499057A5ACECDB2A183BCF7C077A5C08F77FACAD2.html" .
+
+<http://schema.org/CreativeWorkD35484D2BF3908D837B1BBA2A697738A873D157CCC3B64A029163585142C11BB.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "D35484D2BF3908D837B1BBA2A697738A873D157CCC3B64A029163585142C11BB.html" .
+
+<http://schema.org/CreativeWorkD9A7BD1F37BEEA70ECD54A3E57824A8590F8C87A503D4F2D3BC3E2ECA78FA501.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "D9A7BD1F37BEEA70ECD54A3E57824A8590F8C87A503D4F2D3BC3E2ECA78FA501.html" .
+
+<http://schema.org/CreativeWorkDC39331E23530966C118D89BF58F4B72C8394EB0FA212FEB8A0A5D5122726ED6.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "DC39331E23530966C118D89BF58F4B72C8394EB0FA212FEB8A0A5D5122726ED6.html" .
+
+<http://schema.org/CreativeWorkE7DA7CD48E8FF388C76DB28D2EA2EE57586379C10B3BB0EA10A732C9D30D2DD8.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "E7DA7CD48E8FF388C76DB28D2EA2EE57586379C10B3BB0EA10A732C9D30D2DD8.html" .
+
+<http://schema.org/CreativeWorkE818CD62B631545C7ABD12F5753CB0041C7A8B12D7C84C20B788DFC801312808.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2016";
+  <http://schema.org/name> "E818CD62B631545C7ABD12F5753CB0041C7A8B12D7C84C20B788DFC801312808.html" .
+
+<http://schema.org/CreativeWorkEFBEF13E00600B5C2772076C65B5C64DDA33940FCE094E9F3026C8FF13BEB2C2.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "EFBEF13E00600B5C2772076C65B5C64DDA33940FCE094E9F3026C8FF13BEB2C2.html" .
+
+<http://schema.org/CreativeWorkEFC9C1D25868F19C24EC1DD3EA9F59C881D55AC27A1DF228ACFFF155E1823C27.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "EFC9C1D25868F19C24EC1DD3EA9F59C881D55AC27A1DF228ACFFF155E1823C27.html" .
+
+<http://schema.org/CreativeWorkFBFC1D1A72907E89C6B501562896BA8A880A90B52F618CA55B442EE5AF142D00.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/copyrightYear> "2015";
+  <http://schema.org/name> "FBFC1D1A72907E89C6B501562896BA8A880A90B52F618CA55B442EE5AF142D00.html" .
+
+<http://schema.org/Offer%2A%2ARUGER%2010%2F22%20TAKEDOWN%2FScope%20-NEVER%20FIRED-%20LIKENEW-MINT%2A%2A%2A%2A>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "57256b64ae830e96";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceFort%20Lauderdale>;
+  <http://schema.org/datePosted> "February 6, 2016 2:35 pm                                                           Description   MODEL NUMBER: 11100 CALIBER: 22 LR  StockBlack Synthetic  Front SightGold Bead  Rear SightAdjustable  MaterialStainless Steel  Barrel FeatureStandard   Thread Patternn/a  Capacity10  Twist1:16 RH  FinishClear Matte   Overall Length37  Barrel Length18.50  Weight4.6 lbs.  Grooves6   Easy takedown enables quick separation of the barrel from the action for ease of transportation and storage. Takedown is as simple as locking the bolt back and verifying that the rifle is unloaded, pushing a recessed lever, twisting the subassemblies and pulling them apart.  Simple reassembly allows for a secure connection of the barrel and action and returns the firearm to zero, even when receiver-mounted optics are used, ensuring consistent accuracy, shot after shot.  Patented, detachable 10-round rotary magazine features a unique rotor to separate cartridges and provide reliable feeding.  Legendary action, a tried and true Ruger design, ensures consistent, reliable performance.  Combination scope base adapter for both Weaver-style and .22 tip-off scope mounts included.  Easy-to-use extended magazine release provides smooth, no-fuss removal of flush-mounted magazine  Positive, push-button, cross-bolt manual safety.  Heat-stabilized, glass-filled, polymer trigger housing assembly is precision-made of high-tech material for improved manufacturing tolerances, impact and abrasion-resistance and unmatched ability to withstand the elements.  Precision-rifled, cold hammer-forged barrel.  Also includes: Convenient carry-case, which provides ample storage with extra pockets and magazine pouches.   **Extras**  Nikon 3-9X40 ProStaff Rimfire Scope  Leopold mounting rings  1 RUG-BX1-CLR  Clear 10 round rotary magazine  1 RUG-BX1  Black 10 round rotary magazine  1 RUG-BX-25  Black 25 round magaxine   **NEVER FIRED- LIKE NEW-MINT***     Share this for another entry into the contest!        Click to share on Facebook (Opens in new window)        Click to share on Reddit (Opens in new window)        Click to share on Twitter (Opens in new window)        Click to share on Google+ (Opens in new window)        Click to share on Pinterest (Opens in new window)        Click to share on Tumblr (Opens in new window)        Click to share on LinkedIn (Opens in new window)        Click to email this to a friend (Opens in new window)           Like this:    Like    Loading...            Related          No Tags   1 total views, 1 today          Listing ID:  57256b64ae830e96                          Leave a Reply     Cancel Reply     You must be  logged in  to post a comment.                             Map";
+  <http://schema.org/description> "  MODEL NUMBER: 11100 CALIBER: 22 LR  StockBlack Synthetic  Front SightGold Bead  Rear SightAdjustable  MaterialStainless Steel  Barrel FeatureStandard   Thread Patternn/a  Capacity10  Twist1:16 RH  FinishClear Matte   Overall Length37  Barrel Length18.50  Weight4.6 lbs.  Grooves6   Easy takedown enables quick separation of the barrel from the action for ease of transportation and storage. Takedown is as simple as locking the bolt back and verifying that the rifle is unloaded, pushing a recessed lever, twisting the subassemblies and pulling them apart.  Simple reassembly allows for a secure connection of the barrel and action and returns the firearm to zero, even when receiver-mounted optics are used, ensuring consistent accuracy, shot after shot.  Patented, detachable 10-round rotary magazine features a unique rotor to separate cartridges and provide reliable feeding.  Legendary action, a tried and true Ruger design, ensures consistent, reliable performance.  Combination scope base adapter for both Weaver-style and .22 tip-off scope mounts included.  Easy-to-use extended magazine release provides smooth, no-fuss removal of flush-mounted magazine  Positive, push-button, cross-bolt manual safety.  Heat-stabilized, glass-filled, polymer trigger housing assembly is precision-made of high-tech material for improved manufacturing tolerances, impact and abrasion-resistance and unmatched ability to withstand the elements.  Precision-rifled, cold hammer-forged barrel.  Also includes: Convenient carry-case, which provides ample storage with extra pockets and magazine pouches.   **Extras**  Nikon 3-9X40 ProStaff Rimfire Scope  Leopold mounting rings  1 RUG-BX1-CLR  Clear 10 round rotary magazine  1 RUG-BX1  Black 10 round rotary magazine  1 RUG-BX-25  Black 25 round magaxine   **NEVER FIRED- LIKE NEW-MINT***";
+  <http://schema.org/expires> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork008522618859787A808DB942109F7A78DA759BACF8D6330020345B0F16E0FF77.html>;
+  <http://schema.org/name> "**RUGER 10/22 TAKEDOWN/Scope -NEVER FIRED- LIKENEW-MINT****";
+  <http://schema.org/price> "400";
+  <http://schema.org/relatedTo> <http://schema.org/Offer%2A%2ARUGER%2010%2F22%20TAKEDOWN%2FScope%20-NEVER%20FIRED-%20LIKENEW-MINT%2A%2A%2A%2A>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationRUGER> .
+
+<http://schema.org/Offer.22%20Caliber%20Ruger%2010%2F22%20Carbine%20%2B%20Bushnell%20Scope>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "684561a922dd5301";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceJupiter>;
+  <http://schema.org/datePosted> "October 11, 2015 12:45 pm";
+  <http://schema.org/description> "  .22 Caliber Ruger 10/22 Carbine with Sighted-In Bushnell Scope   Blued Steel – LIKE NEW Condition   Walnut Stock   10-shot Rotary Magazine   Original Box + Owner’s Manual   No trades. Must pick up in person. Palm Beach County, Florida.";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork4A740FC02A604F5EFD032DF13E52B4670EBF3096F6D7FBA44765CDB607D604C9.html>;
+  <http://schema.org/name> ".22 Caliber Ruger 10/22 Carbine + Bushnell Scope";
+  <http://schema.org/price> "270";
+  <http://schema.org/relatedTo> <http://schema.org/Offer.22%20Caliber%20Ruger%2010%2F22%20Carbine%20%2B%20Bushnell%20Scope>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationRuger> .
+
+<http://schema.org/Offer1805%20Pritchard%20Camel%20Gun%20English%20Lock> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "720569e6182774ea";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceJacksonville>;
+  <http://schema.org/datePosted> "January 19, 2016 11:17 am";
+  <http://schema.org/description> "  Middle Eastern, lock English";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkE818CD62B631545C7ABD12F5753CB0041C7A8B12D7C84C20B788DFC801312808.html>;
+  <http://schema.org/name> "1805 Pritchard Camel Gun English Lock";
+  <http://schema.org/price> "400";
+  <http://schema.org/relatedTo> <http://schema.org/Offer1805%20Pritchard%20Camel%20Gun%20English%20Lock>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationPrittchard> .
+
+<http://schema.org/OfferAMT%20.380%209mm%20Kurz%20backup> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "42156b432aabb654", "5956b4341eb1071";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceTampa>;
+  <http://schema.org/datePosted> "February 5, 2016 12:27 am", "February 5, 2016 12:33 am";
+  <http://schema.org/description> "  This is a great weapon for either backup or your primary conceal carry. Small, strong, and easily concealable. Fired about 100 rounds through it and it works great. Minor wear from every day conceal carry. Only selling because Ive got too many weapons and too many bills.";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork4FC3BE6B80DA108CBF711E02FC2400979313021D7DAE67DCBF2E4F4BCB57BC29.html>,
+    <http://schema.org/CreativeWork9B29D15D1FC78E303B225234C0EBD5C717228B8C2FE0D4BE52A7F2A46187792A.html>;
+  <http://schema.org/name> "AMT .380 9mm Kurz backup";
+  <http://schema.org/price> "350";
+  <http://schema.org/relatedTo> <http://schema.org/OfferAMT%20.380%209mm%20Kurz%20backup>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationAMT> .
+
+<http://schema.org/OfferBeretta%20M9A1> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "41756c1eada0d680";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlacePalm%20Harbor>;
+  <http://schema.org/datePosted> "February 15, 2016 10:12 am";
+  <http://schema.org/description> "  Beretta M9A1 9mm  3 mea-gar 18 rnd mags  Wilson combat ultra thin g10 grips (made by VZ)  Original box, paper work, grips   $650 no trades  Palm Harbor/Clearwater";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork4423A60B0A103463260E221BC549D8420B64A7A44D14E60BEE775458313C1C72.html>;
+  <http://schema.org/name> "Beretta M9A1";
+  <http://schema.org/price> "650";
+  <http://schema.org/relatedTo> <http://schema.org/OfferBeretta%20M9A1>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationBeretta> .
+
+<http://schema.org/OfferBeretta%20tomcat%2032%20twotone%2Fextras> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "487569d04743084a";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceFt.Myers>;
+  <http://schema.org/datePosted> "January 18, 2016 10:29 am";
+  <http://schema.org/description> "  stainless wide slide / blue frame 32acp  very good condition  4 mags/ambi-holster with mag pouch  100rds.target and 50rds.HP ammo  original box and papers";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork8905CFD9D34A2278F6264349550E87E701DF3995812A818CDA83F738A3142E10.html>;
+  <http://schema.org/name> "Beretta tomcat 32 twotone/extras";
+  <http://schema.org/price> "500";
+  <http://schema.org/relatedTo> <http://schema.org/OfferBeretta%20tomcat%2032%20twotone%2Fextras>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationBeretta> .
+
+<http://schema.org/OfferBersa%20Thunder%20.380> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "99153a9c338ac9c7";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceCoral%20Springs>;
+  <http://schema.org/datePosted> "June 24, 2014 6:32 pm";
+  <http://schema.org/description> "  NIB Bersa thunder 380 matte black 7+1 traditional double action. Brand new.";
+  <http://schema.org/expires> "This ad has expired";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork570FF5220030F1620039DC88B6E301481CDC57CD990456A1EB1CE778BFB86E8D.html>;
+  <http://schema.org/name> "Bersa Thunder .380";
+  <http://schema.org/price> "325";
+  <http://schema.org/relatedTo> <http://schema.org/OfferBersa%20Thunder%20.380>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationBersa> .
+
+<http://schema.org/OfferColt%20mustang%20LW> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "20756b2fb0d026fd";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceBrooksville%2Fhomosassa>;
+  <http://schema.org/datePosted> "February 4, 2016 2:18 am";
+  <http://schema.org/description> "  Great condition little gun no wear low round count they do not make these anymore 3523457016  Also selling a Winchester model 77.$350";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork7FBADD98CC8EC52CC9370ACBE3D9654E3D8400B9FAFEF436C5CCAFE36B1EA257.html>;
+  <http://schema.org/name> "Colt mustang LW";
+  <http://schema.org/price> "650";
+  <http://schema.org/relatedTo> <http://schema.org/OfferColt%20mustang%20LW>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationColt> .
+
+<http://schema.org/OfferD.P.M.S.%20AR%2015> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "478545ab78be800d";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceFt%20Pierce%20%2F%20Pt%20St%20Lucie>;
+  <http://schema.org/datePosted> "November 5, 2014 11:53 pm";
+  <http://schema.org/description> "  D.P.M.S. AR15 For Sale. $800 or trades.This is their standard A2 AR15 Panther, not the light version. It has a removable carry handle to add an optic. I took the original collapsible stock and round forearm off and added Magpul furniture with rails. Rifle comes with one 30 rd mag and hard case.Looking at possible trade for a Glock 30 and cash.Located in St Lucie county";
+  <http://schema.org/expires> "This ad has expired";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkEFBEF13E00600B5C2772076C65B5C64DDA33940FCE094E9F3026C8FF13BEB2C2.html>;
+  <http://schema.org/name> "D.P.M.S. AR 15";
+  <http://schema.org/price> "700";
+  <http://schema.org/relatedTo> <http://schema.org/OfferD.P.M.S.%20AR%2015>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationDPMS> .
+
+<http://schema.org/OfferExcellent%20Sig%20Sauer%20hand%20gun%20for%20sale> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "65256c99d345c2ba";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceFlorida%20City%2CMiami>;
+  <http://schema.org/datePosted> "February 21, 2016 6:20 am";
+  <http://schema.org/description> "  Sig Sauer Pistol for sale and it cery cheap and it is a Notional Gun Trader which which i is it can be ship as well.It Will be Ship    to any interested buyer out of my location and a very low fee.Ship as seen in the pics above with a Gun Case and a Manual for Sig    Sauer pistol.Contact me now at superbryan@yandex.com.Or you can text me at (713) 999-7195 for more details.Contact me if you are in    USA, Canada Only.";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork7888140FBDDD04051A67154CEB185BBBFD03868E341458B6FFEE14BBF747CDC9.html>;
+  <http://schema.org/name> "Excellent Sig Sauer hand gun for sale";
+  <http://schema.org/price> "350";
+  <http://schema.org/relatedTo> <http://schema.org/OfferExcellent%20Sig%20Sauer%20hand%20gun%20for%20sale>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationSig%20Sauer> .
+
+<http://schema.org/OfferFN%20Five%20seveN%20MKII%20Black> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "75056705071a18d9";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Placecoral%20springs>;
+  <http://schema.org/datePosted> "December 15, 2015 12:40 pm";
+  <http://schema.org/description> "  FN Five seveN MKII Black for sale! we have 8 left! @$1299   ADD MILITARY  LEO AMMO FOR $400 PER CASE  add holster and mag pouch for $100   Buy the gun $1299 or total package $1799";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkD35484D2BF3908D837B1BBA2A697738A873D157CCC3B64A029163585142C11BB.html>;
+  <http://schema.org/name> "FN Five seveN MKII Black";
+  <http://schema.org/price> "1,299";
+  <http://schema.org/relatedTo> <http://schema.org/OfferFN%20Five%20seveN%20MKII%20Black>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationFN> .
+
+<http://schema.org/OfferFS%20%2F%20FT%20MP%20Vtac%2040%20%2F%20extras> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "99356aa3b754c64e";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceSouth%20Ft.Myers>;
+  <http://schema.org/datePosted> "January 28, 2016 11:02 am";
+  <http://schema.org/description> "  MP Vtac 40cal. FDE  Excellent Condition  Fiber Optic Day Sights / Tritium Night Sights  box / paperwork / lock / fired shell  3 Backstraps / 2-15rd mags  3 Extra 15rd mags  695 rds of ammo   will also trade for a Glock 26 gen4 fde or green frame model  plus ammo/cash or accrssories";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork0F82168CA65B9F7A32B33B8555556A5415522ACEFA0BEE72E6DED9B08DB707B7.html>;
+  <http://schema.org/name> "FS / FT MP Vtac 40 / extras";
+  <http://schema.org/price> "850";
+  <http://schema.org/relatedTo> <http://schema.org/OfferFS%20%2F%20FT%20MP%20Vtac%2040%20%2F%20extras>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationSmith%20%24%20Wesson> .
+
+<http://schema.org/OfferFlorida%20Ammunition%20Inc.%20Website> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "5256c1000c6e64b";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceLakeland>;
+  <http://schema.org/datePosted> "February 14, 2016 5:31 pm";
+  <http://schema.org/description> "  Thanks to everyone for checking out our posts here on floridagunclassifieds.com! Our website is live now. You can place your order and pick it up locally or we can ship it to you. Check back often we will be adding new items daily.  www.flammunition.com";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork88FF37737B419ECCE2F878DC18C5500D11E8EB29E11327C456035F660C636D60.html>;
+  <http://schema.org/name> "Florida Ammunition Inc. Website";
+  <http://schema.org/price> "";
+  <http://schema.org/relatedTo> <http://schema.org/OfferFlorida%20Ammunition%20Inc.%20Website>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationFlorida%20Ammunition> .
+
+<http://schema.org/OfferFlorida%20Gun%20Classifieds%20%40%20GUN%20SHOW%20THIS%20WEEKEND>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "8315555345884376";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlacePompano%20Beach>;
+  <http://schema.org/datePosted> "May 14, 2015 7:48 pm";
+  <http://schema.org/description> "  Florida Gun Classifieds will be at the ELK LODGE GUN SHOW this weekend in pompano beach, fl.   Come check out our great deals. We will be having a blow out sale!";
+  <http://schema.org/expires> "This ad has expired";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork7EFC3B1243C3C1A3F1547443DFCDA4EA1EC1C9748AE284B8BE87758890F0BCC3.html>;
+  <http://schema.org/name> "Florida Gun Classifieds @ GUN SHOW THIS WEEKEND";
+  <http://schema.org/price> "";
+  <http://schema.org/relatedTo> <http://schema.org/OfferFlorida%20Gun%20Classifieds%20%40%20GUN%20SHOW%20THIS%20WEEKEND>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationFLORIDA%20GUN%20CLASSIFIEDS> .
+
+<http://schema.org/OfferFratelli%20Constable%20II%20w%2F%20military%20marks> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "3624e0d2963459f9";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceCoral%20Springs%20%20%20%20Listed%3A%20%20June%207%2C%202014%205%3A00%20pm%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Description%20%20%20%20Excellent%20italian%20fine%20gun.%20You%20can%20feel%20the%20quality%20of%20these%20older%20model%20Fraterlli.%20Imported%20into%20Miami%20from%20FIE%20and%20shoots%20.380%20%20%20%20%20Share%20this%20for%20another%20entry%20into%20the%20contest%21%20%20%20%20%20%20%20%20Share%20on%20Facebook%20%28Opens%20in%20new%20window%29>;
+  <http://schema.org/datePosted> "June 7, 2014 5:00 pm                                  Description    Excellent italian fine gun. You can feel the quality of these older model Fraterlli. Imported into Miami from FIE and shoots .380     Share this for another entry into the contest!        Share on Facebook (Opens in new window)        Click to share on Reddit (Opens in new window)        Click to share on Twitter (Opens in new window)        Click to share on Google+ (Opens in new window)        Click to share on Pinterest (Opens in new window)        Click to share on Tumblr (Opens in new window)        Click to share on LinkedIn (Opens in new window)        Click to email this to a friend (Opens in new window)           Like this:    Like    Loading...            Related           cheap guns for sale   Guns for sale    267 total views, 1 today          Listing ID:  3624e0d2963459f9                          Leave a Reply     Cancel Reply     You must be  logged in  to post a comment.                             Map";
+  <http://schema.org/description> "   Excellent italian fine gun. You can feel the quality of these older model Fraterlli. Imported into Miami from FIE and shoots .380";
+  <http://schema.org/expires> "";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkBED127EA90D235ACC9E6569499057A5ACECDB2A183BCF7C077A5C08F77FACAD2.html>;
+  <http://schema.org/name> "Fratelli Constable II w/ military marks";
+  <http://schema.org/price> "299";
+  <http://schema.org/relatedTo> <http://schema.org/OfferFratelli%20Constable%20II%20w%2F%20military%20marks>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationFratelli> .
+
+<http://schema.org/OfferGLOCK%2026%20GEN%204%20FDE> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "348555a5a861a908";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceCoral%20Springs>;
+  <http://schema.org/datePosted> "May 18, 2015 5:33 pm";
+  <http://schema.org/description> "  BRAND NEW IN BOX GLOCK 26 GEN 4 FDE";
+  <http://schema.org/expires> "This ad has expired";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork513BD063A5B1913F4ACA96DA25473EFD439A0EB8541DB6B485D186CEB45DDC75.html>;
+  <http://schema.org/name> "GLOCK 26 GEN 4 FDE";
+  <http://schema.org/price> "569";
+  <http://schema.org/relatedTo> <http://schema.org/OfferGLOCK%2026%20GEN%204%20FDE>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGLOCK> .
+
+<http://schema.org/OfferGUN%20SHOW%20SUPER%20SALE> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "1695529b158dd3e6";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceWest%20Palm%20Beach>;
+  <http://schema.org/datePosted> "April 11, 2015 7:42 pm";
+  <http://schema.org/description> "  The gun show is tomorrow from 9am-4pm. We have amazing deals on all our firearms!   NEW GEN 3 GLOCKS  $450  NEW GEN 4 GLOCKS  $525  DOUBLE TAP .45 PORTED -$250 OTD  NEW PISTOL 10.5 WITH SIG BRACE  $825  LIKE NEW SPIKES TACTICAL FULLY LOADED  $1399  SHIELD 9mm  $399 OTD!  SW MP  $425 OTD! w/ 3 free additional mags from smith  Colt LE6920 FDE Magpul  $999  Beretta 92FS  $600 OTD  Ruger MKIII Fluted Barrel Target  $649!  Ruger 22/45 Lite Blue  $499  Cankik 9mm 18+1  $379  Kahr CW 45  $325   and much much more! The ones that say OTD are out the background and tax and are CASH PRICES ONLY!     Another Quality Firearm brought to you by Florida Gun Classifieds. We stand behind all our new and pre-owned firearms. We take trades and offer more than any other shop around. Come check us out, well be the last shop youll ever use. Register on our site for a chance to win a Glock 42!   Matt Adika  president  Florida Gun Classifieds  11070 wiles rd  coral springs, Fl. 33076  954.805.3440  matt@floridagunclassifieds.com  http://floridagunclassifieds.com  http://FFLGUNS.com";
+  <http://schema.org/expires> "This ad has expired";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkB2AFC90B66920066B25D78EFA2442FB59981AC119A29F01E5E2A9ACDD2A82122.html>;
+  <http://schema.org/name> "GUN SHOW SUPER SALE";
+  <http://schema.org/price> "200";
+  <http://schema.org/relatedTo> <http://schema.org/OfferGUN%20SHOW%20SUPER%20SALE>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationALL> .
+
+<http://schema.org/OfferGlock%2023%20.40%20Pistol%20w%2F%20Trijicon%20Night%20Sights%20%20MORE>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "42756787be84f657";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceTampa>;
+  <http://schema.org/datePosted> "December 21, 2015 5:23 pm";
+  <http://schema.org/description> "  For sale is a Glock model 23 .40 pistol . I have added Trijicon Night Sights($100 value) and a custom rubber grip($60 value). It comes with 2 magazines($60 value) and a black carbon-fiber custom holster($80 value). I will also throw in some .40 amunition that i have. Please see photos of actual gun for sale. I have fired around 500 rounds through this gun and never any issues. I respond to questions prompt. I am located in the Tampa area. This can be yours for $500, or will trade for Glock 26 or 43. Thank you for looking!";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkEFC9C1D25868F19C24EC1DD3EA9F59C881D55AC27A1DF228ACFFF155E1823C27.html>;
+  <http://schema.org/name> "Glock 23 .40 Pistol w/ Trijicon Night Sights  MORE";
+  <http://schema.org/price> "500";
+  <http://schema.org/relatedTo> <http://schema.org/OfferGlock%2023%20.40%20Pistol%20w%2F%20Trijicon%20Night%20Sights%20%20MORE>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGlock> .
+
+<http://schema.org/OfferGlock%2036%20gen%203%20.45%20ACP%20W%2F%206%20EXT%20MAGS%21>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "824560b6c314810a";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceCoral%20Springs>;
+  <http://schema.org/datePosted> "September 30, 2015 12:59 am";
+  <http://schema.org/description> "  GLOCK WITH 6 MAGS .45ACP for only $450! GUN IS MINT!   PEOPLE HOW ARE YOU NOT SCOOPING THIS UP?   Matt Adika  Florida Gun Classifieds  11070 wiles rd  coral springs, fl 33076  954.805.3440  matt@floridagunclassifieds.com";
+  <http://schema.org/expires> "24 days, 18 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork17D160E973911660B42388FFF1EE401879D5C0B6FF66E5414ABBEBD94AA035D2.html>;
+  <http://schema.org/name> "Glock 36 gen 3 .45 ACP W/ 6 EXT MAGS!";
+  <http://schema.org/price> "449";
+  <http://schema.org/relatedTo> <http://schema.org/OfferGlock%2036%20gen%203%20.45%20ACP%20W%2F%206%20EXT%20MAGS%21>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGlock> .
+
+<http://schema.org/OfferGlock%2043> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "21558e29fbe6b61";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceCoral%20Springs>;
+  <http://schema.org/datePosted> "June 27, 2015 12:43 am";
+  <http://schema.org/description> "    Another Quality Firearm brought to you by Florida Gun Classifieds. We stand behind all our new and pre-owned firearms. We take trades and offer more than any other shop around. Come check us out, well be the last shop youll ever use. Register on our site for a chance to win a Glock 42!   Matt Adika  president  Florida Gun Classifieds  11070 wiles rd  coral springs, Fl. 33076  954.805.3440  matt@floridagunclassifieds.com  http://floridagunclassifieds.com  http://FFLGUNS.com";
+  <http://schema.org/expires> "This ad has expired";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork807A669B38CB99461F9A6C908B69CBEF357CCA3B36046D454C1BAB20C94ABD6E.html>;
+  <http://schema.org/name> "Glock 43";
+  <http://schema.org/price> "549";
+  <http://schema.org/relatedTo> <http://schema.org/OfferGlock%2043>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationGlock> .
+
+<http://schema.org/OfferHK%2093%20.223-5.56> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "59054b30b8f6e4f6";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlacePembroke%20Pines>;
+  <http://schema.org/datePosted> "January 11, 2015 11:52 pm";
+  <http://schema.org/description> "  Pre-ban from my personal collection. Doing a little sealing down. Gun in excellent condition with a lot of mags as you can see. Early date rifle. You know we are dealing with a high end firearm  Call me we can always talk.";
+  <http://schema.org/expires> "This ad has expired";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkDC39331E23530966C118D89BF58F4B72C8394EB0FA212FEB8A0A5D5122726ED6.html>;
+  <http://schema.org/name> "HK 93 .223-5.56";
+  <http://schema.org/price> "3,250";
+  <http://schema.org/relatedTo> <http://schema.org/OfferHK%2093%20.223-5.56>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationHK> .
+
+<http://schema.org/OfferI%20HAVE%20TOO%20MUCH%20AMMO%21%20COME%20TAKE%20IT%21> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "64156c6ad1b70adb";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Placecoral%20springs>;
+  <http://schema.org/datePosted> "February 19, 2016 12:50 am";
+  <http://schema.org/description> "  Check out these great deals on all this ammo!   American Eagle .40 SW FMJ  1300rnd $300  PMC .40 SW FMJ  800rnd  $225  PMC .40 SW FMJ  (1) case 1000rnd -$280  Target .40 SW FMJ  500 rnds  $150  PMC .40 SW battle pack  300rnds  $125  Hornady critical Defense .40 HP  (8) boxes  $15 per  Winchester PDX supreme JHP  (4) boxes  $20 per  Federal Hydrashok .40 HP  (1) box  $15  Golden saber .40 HP  (1) box  $15    Magtech 9mm FMJ  1000rnds  $225  Magtech 9mm FMJ (2) 450rnds  $100 per  Fioocchi 9mm FMJ  (2) 1000rnd case  $250 per  ZVT 9mm FMJ  700rnd $175  Wolf military classic 9mm  (2) 500rnd case  $75 per  PMC 9mm FMJ  350 rnds  $100  Winchester 9mm  100rnds  $30  Hornady critical defense/duty 9mm  (3) boxes $15  TacOps 9mm defense  5 boxes  $20   PMC .380 FMJ  (1) case 1000rnds  $275  Magtech FMJ  (1) case 350rnds  $125  Magtech JHP  (3) boxes 150rnds  $60   22lr  800 rnds  $75  CCI minimag 22lr  (6) 100rnd boxes  $20 each  CCI Velocator 22lr (6) 50rnd boxes  $15  CCI segmented HP (5) 50rnd boxes  $10   Hornady critical defense .38 lite  (9) boxes  $15  Estate .38 spec  (3) boxes 50rns  $15 each  Winchester .357 magnum JHP  $25   Hornady custom .50AE JHP (4) boxes  $35 each    FN 5.7x28mm  ss197 blue tip  10,000 rnd FN  ($25 per box, $225 per 500, $800 per 2000)  5.7x28mm  ss198lf green tip  4000 rnd  ($40 per box, $375 per 500, $1450 per 2000)  American Eagle 5.7x28mm  3000 rnds  ($150 per 500)   Winchester 12 GA  (6) boxes of 00 buck  $10 per  Winchester .410  (1) box of 00 buck  $5   florida gun classifieds  11070 wiles rd  coral springs, fl 33076  954.805.3440";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork3130F9A19AEC407AEEEF67AC0971F6B9C6D44E0FDD2C7761129BE9C6DA3ECB5A.html>;
+  <http://schema.org/name> "I HAVE TOO MUCH AMMO! COME TAKE IT!";
+  <http://schema.org/price> "100";
+  <http://schema.org/relatedTo> <http://schema.org/OfferI%20HAVE%20TOO%20MUCH%20AMMO%21%20COME%20TAKE%20IT%21>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationVarious> .
+
+<http://schema.org/OfferKeltex%20KSG%2012GA> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "38654f49999debdc";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceCoral%20Springs>;
+  <http://schema.org/datePosted> "March 2, 2015 5:40 pm";
+  <http://schema.org/description> "  KSG $799! Awesome shotgun. Comes with Slugs and ammo!";
+  <http://schema.org/expires> "This ad has expired";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork0C468258D18EED59FF7F3450733B1DEF078B75F4455093858C089D875025C28D.html>;
+  <http://schema.org/name> "Keltex KSG 12GA";
+  <http://schema.org/price> "799";
+  <http://schema.org/relatedTo> <http://schema.org/OfferKeltex%20KSG%2012GA>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationKeltec> .
+
+<http://schema.org/OfferLN%20Remington%20R1%20Enhanced> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "50256c1462c1f140";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceVALRICO>;
+  <http://schema.org/datePosted> "February 14, 2016 10:30 pm";
+  <http://schema.org/description> "  Like New Remington R1 Enhanced with front fiber optic sight. Modded with Wilson Combat FL Guide Rod and VZ Starburst Grips. Probably 50 rounds down the pipe. Bought from Buds for 879.00. Call/Text me if interested 813-735-9097 Jack";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkD9A7BD1F37BEEA70ECD54A3E57824A8590F8C87A503D4F2D3BC3E2ECA78FA501.html>;
+  <http://schema.org/name> "LN Remington R1 Enhanced";
+  <http://schema.org/price> "850";
+  <http://schema.org/relatedTo> <http://schema.org/OfferLN%20Remington%20R1%20Enhanced>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationRemington> .
+
+<http://schema.org/OfferModel%201893%20Spanish%20Mouser%20made%201896> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "98455ca6ec72cc0a";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceSaint%20Cloud>;
+  <http://schema.org/datePosted> "August 11, 2015 5:53 pm";
+  <http://schema.org/description> "  I did some research online and have figured out this fire arm was produced in 1896. Though I believe it may have been used during the Spanish American war I am looking to sell the firearm. I have one box of ammo to go with it. 7mmX57. Price is not 100% firm will look at reasonable offers.";
+  <http://schema.org/expires> "This ad has expired";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkFBFC1D1A72907E89C6B501562896BA8A880A90B52F618CA55B442EE5AF142D00.html>;
+  <http://schema.org/name> "Model 1893 Spanish Mouser made 1896";
+  <http://schema.org/price> "400";
+  <http://schema.org/relatedTo> <http://schema.org/OfferModel%201893%20Spanish%20Mouser%20made%201896>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationMouser> .
+
+<http://schema.org/OfferModel%2085%209mm%20Luger> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "11256c36671b2b27";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceDeltona>;
+  <http://schema.org/datePosted> "February 16, 2016 1:13 pm";
+  <http://schema.org/description> "  Luger model 85 9mm semiauto, 16 round capacity. Only signs of wear anywhere are under the safety(shown in picture)";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork64EF48C496F9AE8290643AD289A75EDE85EF0DAEC06A92210A8A44FACC7AF454.html>;
+  <http://schema.org/name> "Model 85 9mm Luger";
+  <http://schema.org/price> "400";
+  <http://schema.org/relatedTo> <http://schema.org/OfferModel%2085%209mm%20Luger>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationLuger> .
+
+<http://schema.org/OfferNIB%20FN%20FNX%20.45%20Tactical%20FDE%20for%20sale%20-%20Florida%20Gun%20Classifieds>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "76253bed2fef14d7";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceCoral%20Springs>;
+  <http://schema.org/datePosted> "July 10, 2014 5:59 pm";
+  <http://schema.org/description> "  One of the best tactical firearms available. FN FNX .45  15 round .45acp FDE. 3 mags, optics ready. Call  Masa firearms  11070 wiles rd Coral Springs, FL. 33076";
+  <http://schema.org/expires> "This ad has expired";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork184AA26A64099798EFEF472AC2BC925CFC552719081B862EDB073D946FB238BB.html>;
+  <http://schema.org/name> "NIB FN FNX .45 Tactical FDE for sale - Florida Gun Classifieds";
+  <http://schema.org/price> "1,199";
+  <http://schema.org/relatedTo> <http://schema.org/OfferNIB%20FN%20FNX%20.45%20Tactical%20FDE%20for%20sale%20-%20Florida%20Gun%20Classifieds>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationFN> .
+
+<http://schema.org/OfferPerfect%20Sig%20Sauer%20P229%2CFor%20sale> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "9956c9a37da5cb1";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceFlorida%2CLos%20Angeles>;
+  <http://schema.org/datePosted> "February 21, 2016 6:46 am";
+  <http://schema.org/description> "  Sig Sauer Pistol for sale and it cery cheap and it is a Notional Gun Trader which which i is it can be ship as well.It Will be Ship to any interested buyer out of my location and a very low fee.Ship as seen in the pics above with a Gun Case and a Manual for Sig Sauer pistol.Contact me now at superbryan@yandex.com.Or you can text me at (713) 999-7195 for more details.Contact me if you are in USA,";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork86D82F28012CBC10A4EC7822AF92159ADB035301EF7BFBCA3EE45371D6405B89.html>;
+  <http://schema.org/name> "Perfect Sig Sauer P229,For sale";
+  <http://schema.org/price> "350";
+  <http://schema.org/relatedTo> <http://schema.org/OfferPerfect%20Sig%20Sauer%20P229%2CFor%20sale>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationSig%20Sauer> .
+
+<http://schema.org/OfferRARE%20REM%20700%20222%20BDL> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "90156c4ebd6a9bb6";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlacePinellas%20park>;
+  <http://schema.org/datePosted> "February 17, 2016 4:53 pm";
+  <http://schema.org/description> "  Rare rem 700 bdl 222 rem or 222 mag or 223 rem all mint text 727-409-9834 have others guns also text me";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork8CCA70571C1FD6975152A75427843A58673A707B475AF6333895A014E273F8E9.html>;
+  <http://schema.org/name> "RARE REM 700 222 BDL";
+  <http://schema.org/price> "1,200";
+  <http://schema.org/relatedTo> <http://schema.org/OfferRARE%20REM%20700%20222%20BDL>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationRemington> .
+
+<http://schema.org/OfferRuger%2010%2F22%20Tactical%20AR> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "366548ce9153699a";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceDeerfield%20Beach>;
+  <http://schema.org/datePosted> "December 14, 2014 1:39 am";
+  <http://schema.org/description> "  Ruger 10/22 Archagnel kit. Comes with 1  BX25 magazine, Flash hider and Barska Red Dot. This is a used stock in very good condition and the 10/22 was parts built with a new trigger assembly. Barrel cut and crowned at 16.5.    Price is firm and must be shipped to FFL.  Shipping options  USPS Ground  $25  USPS Priority  $35    For more photos please visit our website, for more info please email, text or call.  Thanks for looking.    We are located at 140 SE 3 St. Deerfield Beach Florida 33441. We are a Specialty Gun Shop. But dont let that fool you. We also do general gunsmithing, cleaning, new and used firearms sales, accessories and FFL transfers and more. We are a small local shop here to meet the needs of local gun owners that want a more of a personal experience rather than being treated like a number at the big box stores. Give us a call or come in or email us and lets see what we can do for you.    lenny@spud9gunworks.com  www.spud9gunworks.com  561 706 4195";
+  <http://schema.org/expires> "This ad has expired";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkE7DA7CD48E8FF388C76DB28D2EA2EE57586379C10B3BB0EA10A732C9D30D2DD8.html>;
+  <http://schema.org/name> "Ruger 10/22 Tactical AR";
+  <http://schema.org/price> "379";
+  <http://schema.org/relatedTo> <http://schema.org/OfferRuger%2010%2F22%20Tactical%20AR>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationRuger> .
+
+<http://schema.org/OfferRuger%20Mini%2014%20Ranch%20Rifle%2C%20Stainless%2C%20w%2F%20extras>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "283569932f14e683";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceWeeki%20Wachee>;
+  <http://schema.org/datePosted> "January 15, 2016 12:57 pm";
+  <http://schema.org/description> "  Ruger Mini 14 Ranch Rifle. Stainless receiver  barrel, synthetic stock. Includes bipod, folding stock, extra 20- and 30-rd mags, scope rings. Contact for pictures and with any questions. Also have a Mini 30 with similar setup. Buy both! Selling to fund another rifle purchase.";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkA9E9EEB62AF2B51D714A180CA4EDD74CDA89EBADFC46B6DFAD48D1BAF531A68C.html>;
+  <http://schema.org/name> "Ruger Mini 14 Ranch Rifle, Stainless, w/ extras";
+  <http://schema.org/price> "600";
+  <http://schema.org/relatedTo> <http://schema.org/OfferRuger%20Mini%2014%20Ranch%20Rifle%2C%20Stainless%2C%20w%2F%20extras>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationRuger> .
+
+<http://schema.org/OfferRuger%20Mini%2030%20Ranch%20Rifle%2C%20Stainless%2C%20w%2F%20extras>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "882569933989273c";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceWeeki%20Wachee>;
+  <http://schema.org/datePosted> "January 15, 2016 1:00 pm";
+  <http://schema.org/description> "  Ruger Mini 30 Ranch Rifle. Stainless receiver  barrel, synthetic stock. Includes folding stock, extra 20-rd mags, scope rings. Contact for pictures and with any questions. Also have a Mini 14 with similar setup. Buy both! Selling to fund another rifle purchase.";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkA179D87F07CFD2B9586871A5E0C326B643BB5CF2C8D4F1B7AE8CAA586A0834FA.html>;
+  <http://schema.org/name> "Ruger Mini 30 Ranch Rifle, Stainless, w/ extras";
+  <http://schema.org/price> "600";
+  <http://schema.org/relatedTo> <http://schema.org/OfferRuger%20Mini%2030%20Ranch%20Rifle%2C%20Stainless%2C%20w%2F%20extras>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationRuger> .
+
+<http://schema.org/OfferRuger%20SP%20101%2038%20spcl> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "5356c4964ef22c4";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceSarasota>;
+  <http://schema.org/datePosted> "February 17, 2016 10:48 am";
+  <http://schema.org/description> "  SP 101 38 special, like new in box with all the papers. Only half a box of ammo through it. Bought it for my GF, but she says its too heavy.";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork3CAD2537CA444DA5A43221AD7BDA8899DC430053A4899E2D7CF46CB95502858B.html>;
+  <http://schema.org/name> "Ruger SP 101 38 spcl";
+  <http://schema.org/price> "500";
+  <http://schema.org/relatedTo> <http://schema.org/OfferRuger%20SP%20101%2038%20spcl>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationRuger> .
+
+<http://schema.org/OfferSCAR%2017s%20Black%20.308%20-%20Limited%20supply> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "44556729add847e8";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceCoral%20Springs>;
+  <http://schema.org/datePosted> "December 17, 2015 6:22 am";
+  <http://schema.org/description> "  FNH SCAR17S BLACK   *IN STOCK*   FN SCAR® 17S   Experience the long-range accuracy, downrange power, exceptional reliability and match winning versatility of the FN SCAR® 17S, the semi-auto only version of the U.S. Special Operations Command’s newest service rifle. Chambered in 7.62x51mm, the FN SCAR® 17S features a free-floating, cold hammer-forged MIL-SPEC barrel with hard chromed bore. Fully-ambidextrous operating controls instantly adapt the FN SCAR® 17S to any user or any shooting position. The receiver-integrated MIL-STD 1913 optical rail plus three accessory rails enable mounting of a wide variety of scopes, electronic sights, tactical lights and lasers. The telescoping, side-folding polymer stock is fully adjustable for comb height and length of pull, making it ideal for Heavy Metal 3-Gun matches.   GENERAL SPECIFICATIONS   Semi-auto only  Short-stroke gas piston  Rotating, locking bolt  RECEIVER   Hard-anodized monolithic aluminum  MIL-STD 1913 accessory rails at the 3, 6, 9 and 12 o’clock positions  Adjustable folding front and folding/removable rear iron sights  BARREL   Hammer-forged, chrome-lined, fully free-floating  Compensator  STOCK   Telescoping side-folding polymer stock  Adjustable cheekpiece  A2-style pistol grip  OPERATING CONTROLS   Ambidextrous safety lever and magazine release  Charging handle may be mounted on right or left side  Enlarged trigger guard for easier access when wearing gloves  Composite polymer trigger module  MAGAZINE   Steel or aluminum body  Low friction follower  SPECIFICATIONS   Caliber: 7.62x51mm  Twist Rate: 1 in 12  Barrel Length: 16.25  Overall Length: 28.5” to 38.5”  Weight: 8.0 lbs. empty  Ammunition Capacity: 10 or 20-round detachable box magazine  If you would like to avoid the 3% credit card fee which is $88, you can purchase the gun and chose other payment method which your choices are:   Send a Certified check or money order for $2950 to Florida Gun Classifieds  Direct Deposit to our business checking account  Postal Money order.   954.805.3440   matt@floridagunclassifieds.com";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkB53457D5CA2A3AE56B59D0F53D22355260F05E5AAE5BD8CA6F147B65728DFD25.html>;
+  <http://schema.org/name> "SCAR 17s Black .308 - Limited supply";
+  <http://schema.org/price> "2,899";
+  <http://schema.org/relatedTo> <http://schema.org/OfferSCAR%2017s%20Black%20.308%20-%20Limited%20supply>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationFNH%20USA> .
+
+<http://schema.org/OfferSW%20Sigma%2040%20calibre%20for%20sale> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "485567062cfd9977";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Placenorth%20florida>;
+  <http://schema.org/datePosted> "December 15, 2015 1:58 pm";
+  <http://schema.org/description> "  Smith  Wesson Sigma .40 for sale for $300. The sigma comes with a hardcase, 2 magazines, paperwork, and 40 rounds of ammo. It looks almost brand new and is in great condition and works flawlessly . text or call (909) 300-5041";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork6A7B77B565FE79446D02E68EF759681FB2BBC555FF3608333B8291781B348E53.html>;
+  <http://schema.org/name> "SW Sigma 40 calibre for sale";
+  <http://schema.org/price> "300";
+  <http://schema.org/relatedTo> <http://schema.org/OfferSW%20Sigma%2040%20calibre%20for%20sale>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationSmith%20%20Wesson> .
+
+<http://schema.org/OfferSig%20Sauer%20716%20Patrol.308%2F7.62%20NATO%20AR10> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "5945681ba8d25178";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceVicksburg%2C%20MS>;
+  <http://schema.org/datePosted> "December 28, 2015 5:41 pm";
+  <http://schema.org/description> "  Sig Sauer 716 Patrol.308/7.62 NATO, with Burris EliminatorIII Scope, 4-16X50 mm. The Rifle was purchased New by me in the Fall of 2014. I had  Gisele 2 stage Trigger installed. 4-20 Round MagPul Magazines. Custom Cerakote, Desert Tan Upper and Lower. The Rifle has been shot less than 20 rounds, only to Zero in the Scope.  I have about $ 4000.00 into this Mint condition Rifle. Im firm on the selling price.";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkA6CCE35407338410711C58755450C51FCCB7BBF0D6413C16D7654CE2FE043185.html>;
+  <http://schema.org/name> "Sig Sauer 716 Patrol.308/7.62 NATO AR10";
+  <http://schema.org/price> "3,200";
+  <http://schema.org/relatedTo> <http://schema.org/OfferSig%20Sauer%20716%20Patrol.308%2F7.62%20NATO%20AR10>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationSig%20Sauer> .
+
+<http://schema.org/OfferSig%20Sauer%20MPX%209mm%20Pistol%20-%20SBR> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "224557516adccae1";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceCoral%20Springs>;
+  <http://schema.org/datePosted> "June 8, 2015 12:14 am";
+  <http://schema.org/description> "  Sig Sauer MPX 9mm Sub Machine Gun  $1499. or $2499 SBR.   Check out the video! amazing!         This 9mm pistol gun is the newest gun added to the Sig Sauer line. The gun is similar to a MP5, but is based off an AR platform. The gun performs amazing with almost no recoil and has the ability to be converted quickly to a SBR.   Pistol:  *Comes with (1) 30 round mag, sling, and hard case  $1499   SBR:  We have (3) 30 round mags, triple mag pouch  $200  We also have a 3 position telescoping stock  $400   Total price with Gun, (3) mags, mag pouch, telescoping stock, a firearms trust and all the paperwork to the ATF to obtain the SBR is $2499.    SIG SAUER MPX (as shown)  $1499  SIG SAUER MPX SBR w/ 4 mags and Firearms Trust  $2499  (if you purchase the SBR you can take the pistol immediately while we file the paperwork. Once you get the Tax Stamp, we can then install the stock)   Coral Springs, Fl,  954.805.3440     Another Quality Firearm brought to you by Florida Gun Classifieds. We stand behind all our new and pre-owned firearms. We take trades and offer more than any other shop around. Come check us out, well be the last shop youll ever use. Register on our site for a chance to win a Glock 42!   Matt Adika  president  Florida Gun Classifieds  11070 wiles rd  coral springs, Fl. 33076  954.805.3440  matt@floridagunclassifieds.com  http://floridagunclassifieds.com  http://FFLGUNS.com";
+  <http://schema.org/expires> "This ad has expired";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork5ACCBEE2C17CF88A03C8198A3C7AC6DE0FFFD8A8379326EB9E2F249B1E38AE81.html>;
+  <http://schema.org/name> "Sig Sauer MPX 9mm Pistol - SBR";
+  <http://schema.org/price> "1,499";
+  <http://schema.org/relatedTo> <http://schema.org/OfferSig%20Sauer%20MPX%209mm%20Pistol%20-%20SBR>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationSig%20Sauer> .
+
+<http://schema.org/OfferSig%20Sauer%20mosquito%2022lr> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "62153f3777b186c2";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceCoral%20Springs>;
+  <http://schema.org/datePosted> "August 19, 2014 4:14 pm";
+  <http://schema.org/description> "  Sig Sauer 22lr mosquito like new in box";
+  <http://schema.org/expires> "This ad has expired";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork8AEFF313CF6C282C00D66DFF2EAC1C7291FF04D5A6B054287CF66DD910520D18.html>;
+  <http://schema.org/name> "Sig Sauer mosquito 22lr";
+  <http://schema.org/price> "299";
+  <http://schema.org/relatedTo> <http://schema.org/OfferSig%20Sauer%20mosquito%2022lr>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationSig%20Sauer> .
+
+<http://schema.org/OfferSmith%20and%20wesson%20mp%20shield> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "816568e6c1cc18e8";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlacePoinciana>;
+  <http://schema.org/datePosted> "January 7, 2016 8:46 am";
+  <http://schema.org/description> "  Selling Smith and Wesson M and p shield 9 mm comes with 80 rounds of brass,18 rounds of hollow rounds, desantis iside the waist band holster,box papers and extra mag.there are two versions of this gun safety or no safety I have the one with no safety.    Asking 500 obo   Contact me at 4075699192";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkACF17A04F6BE7651488D5A2B80BEE5E3AA8466B866E804863DD44FD383EE31E6.html>;
+  <http://schema.org/name> "Smith and wesson mp shield";
+  <http://schema.org/price> "";
+  <http://schema.org/relatedTo> <http://schema.org/OfferSmith%20and%20wesson%20mp%20shield>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationSmith%20and%20wesson> .
+
+<http://schema.org/OfferSpringfield%201911-A1%20.45.> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "29256c1272e06a9e";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceFlorida>;
+  <http://schema.org/datePosted> "February 14, 2016 8:17 pm";
+  <http://schema.org/description> "  I am selling my Springfield 1911-A1 .45. Old w/5 digit serial # but still shoots flawlessly. Must sell to fund another project. All reasonable offers considered. Text is best for contact. 815-200-9731";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkA3EA84218D200C6E86CA9458968FA56121D5BD4992F550AAE586E9813189FCE2.html>;
+  <http://schema.org/name> "Springfield 1911-A1 .45.";
+  <http://schema.org/price> "400";
+  <http://schema.org/relatedTo> <http://schema.org/OfferSpringfield%201911-A1%20.45.>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationSpringfield> .
+
+<http://schema.org/OfferUsed%2012%20gauge%20Home%20Defense%20Shotguns> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "413548cea75948dc";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceDeerfield%20Beach>;
+  <http://schema.org/datePosted> "December 14, 2014 1:44 am";
+  <http://schema.org/description> "  We have a couple of used 12 gauge shotguns. HR Pardner pump and CIA Ultra 87. Both are in good condition, 5+1 rounds, pump, black and inexpensive. Perfect for home defense. Your choice $159.00.    Price is firm and must be shipped to FFL.  Shipping options  USPS Ground  $25  USPS Priority  $35    For more photos please visit our website, for more info please email, text or call.  Thanks for looking.    We are located at 140 SE 3 St. Deerfield Beach Florida 33441. We are a Specialty Gun Shop. But dont let that fool you. We also do general gunsmithing, cleaning, new and used firearms sales, accessories and FFL transfers and more. We are a small local shop here to meet the needs of local gun owners that want a more of a personal experience rather than being treated like a number at the big box stores. Give us a call or come in or email us and lets see what we can do for you.    lenny@spud9gunworks.com  www.spud9gunworks.com  561 706 4195";
+  <http://schema.org/expires> "This ad has expired";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork246EF3430F9A364E2C533E2A1AFE3D7174189494EA0CB81D23401F4876F9901D.html>;
+  <http://schema.org/name> "Used 12 gauge Home Defense Shotguns";
+  <http://schema.org/price> "159";
+  <http://schema.org/relatedTo> <http://schema.org/OfferUsed%2012%20gauge%20Home%20Defense%20Shotguns>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationHR%20Centry%20Internation%20Arm> .
+
+<http://schema.org/OfferVisit%20Florida%20Gun%20Classifieds%20at%20the%20Ft%20Lauderdale%20Gun%20Show>
+  a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "44154e97f4d43f98";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceFt%20Lauderdale>;
+  <http://schema.org/datePosted> "February 22, 2015 7:05 am";
+  <http://schema.org/description> "  Come see Florida Gun Classifieds at the War Memorial in Ft Lauderdale";
+  <http://schema.org/expires> "This ad has expired";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork9B907DF832438C0D62FD423163E93CD29D583046D7BDCC8D2FEDC9DDAB39C1DF.html>;
+  <http://schema.org/name> "Visit Florida Gun Classifieds at the Ft Lauderdale Gun Show";
+  <http://schema.org/price> "10";
+  <http://schema.org/relatedTo> <http://schema.org/OfferVisit%20Florida%20Gun%20Classifieds%20at%20the%20Ft%20Lauderdale%20Gun%20Show>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationALL> .
+
+<http://schema.org/OfferWTT%20Nighthawk%20GRP> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "353568d39bc19670";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceBrevard>;
+  <http://schema.org/datePosted> "January 6, 2016 10:59 am";
+  <http://schema.org/description> "  WTT used nighthawk Grp, comes with all original paperwork, bag and 2 magazines. Gun has been used and has a few slight wear marks from a previous owner.   Looking for a two gun trade or one and cash, 4 inch 1911 9 or 45, AR, AK.   Trades need to equal $2000";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork1F0E155356AD5783951C70EF417679178E1D3B58FD32433FDDCF2209CA99EDCA.html>;
+  <http://schema.org/name> "WTT Nighthawk GRP";
+  <http://schema.org/price> "2,000";
+  <http://schema.org/relatedTo> <http://schema.org/OfferWTT%20Nighthawk%20GRP>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationNighthawk> .
+
+<http://schema.org/OfferWinchester%20Ranger%209mm> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "14256c38059ee792";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceNew%20Smyrna%20Beach>;
+  <http://schema.org/datePosted> "February 16, 2016 3:02 pm";
+  <http://schema.org/description> "  One box of 50 Winchester Ranger 127gr +P+";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork051B6FD44EE5906A9A4A5A51B45F5D565D2B01DB076799D1C29E614EAFD5FFBD.html>;
+  <http://schema.org/name> "Winchester Ranger 9mm";
+  <http://schema.org/price> "40";
+  <http://schema.org/relatedTo> <http://schema.org/OfferWinchester%20Ranger%209mm>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationWinchester> .
+
+<http://schema.org/Offermarlin%20336%20cs%203030%20jm%20barrel> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "231569b965624637";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/Placebrooksville>;
+  <http://schema.org/datePosted> "January 17, 2016 8:25 am";
+  <http://schema.org/description> "  very nice 3030 with scope and sling with 50 rounds of ammo it was made in 1983";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork4BA95EFD5B267A7C24BABFAA9EDD1A75C5546392C3BC22727A414083630A263A.html>;
+  <http://schema.org/name> "marlin 336 cs 3030 jm barrel";
+  <http://schema.org/price> "450";
+  <http://schema.org/relatedTo> <http://schema.org/Offermarlin%20336%20cs%203030%20jm%20barrel>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationmarlin> .
+
+<http://schema.org/Offerwhite%20wing> a <http://schema.org/Offer>;
+  <http://schema.dig.isi.edu/ontology/identifier> "368568ac24897c01";
+  <http://schema.org/availableAtOrFrom> <http://schema.org/PlaceWest%20Palm%20Bch.>;
+  <http://schema.org/datePosted> "January 4, 2016 2:05 pm";
+  <http://schema.org/description> "  white wing, o/u, 20 gauge, orig. box, 3 chokes, 95 to 98% all factory.";
+  <http://schema.org/expires> "44 days, 23 hours";
+  <http://schema.org/itemOffered> <http://schema.dig.isi.edu/ontology/Firearm0>;
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork286D226AAD334574C19C7A9B502786AC2D4770FDFA6AF77283F1B57441A48C92.html>;
+  <http://schema.org/name> "white wing";
+  <http://schema.org/price> "900";
+  <http://schema.org/relatedTo> <http://schema.org/Offerwhite%20wing>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganizationBeretta> .
+
+<http://schema.org/PlaceBrevard> a <http://schema.org/Place>;
+  <http://schema.org/name> "Brevard" .
+
+<http://schema.org/PlaceBrooksville%2Fhomosassa> a <http://schema.org/Place>;
+  <http://schema.org/name> "Brooksville/homosassa" .
+
+<http://schema.org/PlaceCoral%20Springs> a <http://schema.org/Place>;
+  <http://schema.org/name> "Coral Springs" .
+
+<http://schema.org/PlaceCoral%20Springs%20%20%20%20Listed%3A%20%20June%207%2C%202014%205%3A00%20pm%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Description%20%20%20%20Excellent%20italian%20fine%20gun.%20You%20can%20feel%20the%20quality%20of%20these%20older%20model%20Fraterlli.%20Imported%20into%20Miami%20from%20FIE%20and%20shoots%20.380%20%20%20%20%20Share%20this%20for%20another%20entry%20into%20the%20contest%21%20%20%20%20%20%20%20%20Share%20on%20Facebook%20%28Opens%20in%20new%20window%29>
+  a <http://schema.org/Place>;
+  <http://schema.org/name> "Coral Springs    Listed:  June 7, 2014 5:00 pm                                  Description    Excellent italian fine gun. You can feel the quality of these older model Fraterlli. Imported into Miami from FIE and shoots .380     Share this for another entry into the contest!        Share on Facebook (Opens in new window)" .
+
+<http://schema.org/PlaceDeerfield%20Beach> a <http://schema.org/Place>;
+  <http://schema.org/name> "Deerfield Beach" .
+
+<http://schema.org/PlaceDeltona> a <http://schema.org/Place>;
+  <http://schema.org/name> "Deltona" .
+
+<http://schema.org/PlaceFlorida> a <http://schema.org/Place>;
+  <http://schema.org/name> "Florida" .
+
+<http://schema.org/PlaceFlorida%20City%2CMiami> a <http://schema.org/Place>;
+  <http://schema.org/name> "Florida City,Miami" .
+
+<http://schema.org/PlaceFlorida%2CLos%20Angeles> a <http://schema.org/Place>;
+  <http://schema.org/name> "Florida,Los Angeles" .
+
+<http://schema.org/PlaceFort%20Lauderdale> a <http://schema.org/Place>;
+  <http://schema.org/name> "Fort Lauderdale" .
+
+<http://schema.org/PlaceFt%20Lauderdale> a <http://schema.org/Place>;
+  <http://schema.org/name> "Ft Lauderdale" .
+
+<http://schema.org/PlaceFt%20Pierce%20%2F%20Pt%20St%20Lucie> a <http://schema.org/Place>;
+  <http://schema.org/name> "Ft Pierce / Pt St Lucie" .
+
+<http://schema.org/PlaceFt.Myers> a <http://schema.org/Place>;
+  <http://schema.org/name> "Ft.Myers" .
+
+<http://schema.org/PlaceJacksonville> a <http://schema.org/Place>;
+  <http://schema.org/name> "Jacksonville" .
+
+<http://schema.org/PlaceJupiter> a <http://schema.org/Place>;
+  <http://schema.org/name> "Jupiter" .
+
+<http://schema.org/PlaceLakeland> a <http://schema.org/Place>;
+  <http://schema.org/name> "Lakeland" .
+
+<http://schema.org/PlaceNew%20Smyrna%20Beach> a <http://schema.org/Place>;
+  <http://schema.org/name> "New Smyrna Beach" .
+
+<http://schema.org/PlacePalm%20Harbor> a <http://schema.org/Place>;
+  <http://schema.org/name> "Palm Harbor" .
+
+<http://schema.org/PlacePembroke%20Pines> a <http://schema.org/Place>;
+  <http://schema.org/name> "Pembroke Pines" .
+
+<http://schema.org/PlacePinellas%20park> a <http://schema.org/Place>;
+  <http://schema.org/name> "Pinellas park" .
+
+<http://schema.org/PlacePoinciana> a <http://schema.org/Place>;
+  <http://schema.org/name> "Poinciana" .
+
+<http://schema.org/PlacePompano%20Beach> a <http://schema.org/Place>;
+  <http://schema.org/name> "Pompano Beach" .
+
+<http://schema.org/PlaceSaint%20Cloud> a <http://schema.org/Place>;
+  <http://schema.org/name> "Saint Cloud" .
+
+<http://schema.org/PlaceSarasota> a <http://schema.org/Place>;
+  <http://schema.org/name> "Sarasota" .
+
+<http://schema.org/PlaceSouth%20Ft.Myers> a <http://schema.org/Place>;
+  <http://schema.org/name> "South Ft.Myers" .
+
+<http://schema.org/PlaceTampa> a <http://schema.org/Place>;
+  <http://schema.org/name> "Tampa" .
+
+<http://schema.org/PlaceVALRICO> a <http://schema.org/Place>;
+  <http://schema.org/name> "VALRICO" .
+
+<http://schema.org/PlaceVicksburg%2C%20MS> a <http://schema.org/Place>;
+  <http://schema.org/name> "Vicksburg, MS" .
+
+<http://schema.org/PlaceWeeki%20Wachee> a <http://schema.org/Place>;
+  <http://schema.org/name> "Weeki Wachee" .
+
+<http://schema.org/PlaceWest%20Palm%20Bch.> a <http://schema.org/Place>;
+  <http://schema.org/name> "West Palm Bch." .
+
+<http://schema.org/PlaceWest%20Palm%20Beach> a <http://schema.org/Place>;
+  <http://schema.org/name> "West Palm Beach" .
+
+<http://schema.org/Placebrooksville> a <http://schema.org/Place>;
+  <http://schema.org/name> "brooksville" .
+
+<http://schema.org/Placecoral%20springs> a <http://schema.org/Place>;
+  <http://schema.org/name> "coral springs" .
+
+<http://schema.org/Placenorth%20florida> a <http://schema.org/Place>;
+  <http://schema.org/name> "north florida" .

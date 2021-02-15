@@ -1,0 +1,402 @@
+
+<http://schema.dig.isi.edu/ontology/PersonOrOrganization0> a <http://schema.dig.isi.edu/ontology/PersonOrOrganization>;
+  <http://schema.dig.isi.edu/ontology/identifier> "737melton", "BAD KITTY", "Chrismda",
+    "Gshock22", "HomeoftheBrave", "Howarde", "Jeremy", "Joshrod2013", "Navy14", "Nergelovic",
+    "Rjmoreno007", "SandPit123", "Tap915", "TonzaGunz", "aestates", "blackhawkkid", "brnrdrgn",
+    "chumari777", "ddanrent", "dogofwar", "jrayk0516", "marcapod", "matt113", "powersmoke",
+    "soto2635", "static1899", "wild.thang";
+  <http://schema.org/telephone> "(915) 206-4291", "407 687 9338", "5122934241", "6379708",
+    "845-380-8449", "915 1111111", "915 3172989", "915 491-8459", "915-206-0248", "915-217-9116",
+    "915-238-7980", "915-240-5767; chlnraelpaso@gmail.com", "915-328-3483", "915-356-0305",
+    "915-525-3913", "915-630-9183", "915-630-9283", "915-799-3160 Text prefered", "915/867/Eght5Eight6  xplosif357@yahoo.com  antoniodh10@gmail.com",
+    "9154740158", "916 4207558", "Call text 915 630 7147", "Lee 915 5030446", "Lee 9155030446",
+    "Text (575)650-2475", "Text 915 276 3865", "Text 915-799-1687", "Text Daniel 915-637-5472",
+    "Text to 575-520-8420 or email to marc_nm@hotmail.com for pics.", "call or text 915-491-7702" .
+
+<http://schema.org/CreativeWork01A25EC49B86501FC1167A8FC367C571698028E639678A4B009D057EA4B7E68B.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "01A25EC49B86501FC1167A8FC367C571698028E639678A4B009D057EA4B7E68B.html" .
+
+<http://schema.org/CreativeWork0B532ADFD78CE9384774D235EBDCFEDBD97B1190564758CDF80EA3B6F925F27C.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "0B532ADFD78CE9384774D235EBDCFEDBD97B1190564758CDF80EA3B6F925F27C.html" .
+
+<http://schema.org/CreativeWork0E725A334D03FF2ABD4EDC67AFF253B7C8BECD23DD91A507708AC27A0C9A5251.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "0E725A334D03FF2ABD4EDC67AFF253B7C8BECD23DD91A507708AC27A0C9A5251.html" .
+
+<http://schema.org/CreativeWork1CD9F94848756FF74702E49A487AFB64937D0AF0F38A7E2DFE9B6E88905D25D0.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "1CD9F94848756FF74702E49A487AFB64937D0AF0F38A7E2DFE9B6E88905D25D0.html" .
+
+<http://schema.org/CreativeWork34233F43DA419C64AEC225B599CB45357F09960837B1114EC17549C0E83D6AF0.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "34233F43DA419C64AEC225B599CB45357F09960837B1114EC17549C0E83D6AF0.html" .
+
+<http://schema.org/CreativeWork43EB69463522DE177B079337ED216239C0FD74DDBFE6F58E81960B7E92FCFFA7.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "43EB69463522DE177B079337ED216239C0FD74DDBFE6F58E81960B7E92FCFFA7.html" .
+
+<http://schema.org/CreativeWork445EBACE471792EF3D7BD653D033F649D074E8EDA321BE947CE86B349C32BAAE.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "445EBACE471792EF3D7BD653D033F649D074E8EDA321BE947CE86B349C32BAAE.html" .
+
+<http://schema.org/CreativeWork4B0DF0EE72E7E362ED6FB77CE55B57564C447F32976A3D7288769901066AD2ED.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "4B0DF0EE72E7E362ED6FB77CE55B57564C447F32976A3D7288769901066AD2ED.html" .
+
+<http://schema.org/CreativeWork54802E88E1CA8256ADFCB688EAE5FF9E74455DF01FFDF03607B6378B518C4278.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "54802E88E1CA8256ADFCB688EAE5FF9E74455DF01FFDF03607B6378B518C4278.html" .
+
+<http://schema.org/CreativeWork5E8017EE00BABCA227A5D1E2C8CFC388682A376FE53500F6AC0F2D00A51DF9B6.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "5E8017EE00BABCA227A5D1E2C8CFC388682A376FE53500F6AC0F2D00A51DF9B6.html" .
+
+<http://schema.org/CreativeWork63E2B10A8C4BED9D22E8D47DD27BA06661116EEE9B9F21ED0BE84570B2077A11.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "63E2B10A8C4BED9D22E8D47DD27BA06661116EEE9B9F21ED0BE84570B2077A11.html" .
+
+<http://schema.org/CreativeWork6C5FA54BA1A3C0012AD68A8EB49FA82070BB8D90949B00F0DE14E9B5596B6CE1.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "6C5FA54BA1A3C0012AD68A8EB49FA82070BB8D90949B00F0DE14E9B5596B6CE1.html" .
+
+<http://schema.org/CreativeWork6D139BABB688DE6380A6BA858B8096C12BA7DF2FBC1E624227A5F0D0813D026A.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "6D139BABB688DE6380A6BA858B8096C12BA7DF2FBC1E624227A5F0D0813D026A.html" .
+
+<http://schema.org/CreativeWork776984B080285AC74F37E1A127E18D8FC9DC9E0D451A3CC901228FF0B390DFF0.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "776984B080285AC74F37E1A127E18D8FC9DC9E0D451A3CC901228FF0B390DFF0.html" .
+
+<http://schema.org/CreativeWork789712CBE8922801599346301A27A3C1D5AE0539770638598983EFD6F3C8C684.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "789712CBE8922801599346301A27A3C1D5AE0539770638598983EFD6F3C8C684.html" .
+
+<http://schema.org/CreativeWork97F0AACC7BDD832AE70774E91440B711536A947D74BEBF8F76B37162150B89C1.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "97F0AACC7BDD832AE70774E91440B711536A947D74BEBF8F76B37162150B89C1.html" .
+
+<http://schema.org/CreativeWork9A10F73604A05AAA7CBE9658905B299DC6A160F4B8E967D92944F54CFCE45F90.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "9A10F73604A05AAA7CBE9658905B299DC6A160F4B8E967D92944F54CFCE45F90.html" .
+
+<http://schema.org/CreativeWork9F2B5F60C8E03A8495622AB64BA6B945D647F6B25CF87663A96A5E7EB685914B.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "9F2B5F60C8E03A8495622AB64BA6B945D647F6B25CF87663A96A5E7EB685914B.html" .
+
+<http://schema.org/CreativeWork9F4057BEE37832B4FB43474E7F9036FF262412EBB648656784CC6EE3C64CC9D4.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "9F4057BEE37832B4FB43474E7F9036FF262412EBB648656784CC6EE3C64CC9D4.html" .
+
+<http://schema.org/CreativeWorkA4D81E4C8BB82D59AB2EFA4F9A5C088D39A4A1A9024D2825292CB1CDB1228D78.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "A4D81E4C8BB82D59AB2EFA4F9A5C088D39A4A1A9024D2825292CB1CDB1228D78.html" .
+
+<http://schema.org/CreativeWorkAB01CA21D33E6164CEDEBF37C78F2226404740A60047CFD9098437DA99FBE6C2.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "AB01CA21D33E6164CEDEBF37C78F2226404740A60047CFD9098437DA99FBE6C2.html" .
+
+<http://schema.org/CreativeWorkC175B35954EEC947464AD8B1B6A04CF645CF2E4D7A5EF7AF77B5D144479DF3A9.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "C175B35954EEC947464AD8B1B6A04CF645CF2E4D7A5EF7AF77B5D144479DF3A9.html" .
+
+<http://schema.org/CreativeWorkCC4C7CCE0D60C071A5265B65E5E8382CFCCC523CA4B90AF7DEAEE01122EEE80E.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "CC4C7CCE0D60C071A5265B65E5E8382CFCCC523CA4B90AF7DEAEE01122EEE80E.html" .
+
+<http://schema.org/CreativeWorkD4DC361DA2FAEB1C240BFE5E70774117BA35B37B85999F9E53FB47BA568481BE.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "D4DC361DA2FAEB1C240BFE5E70774117BA35B37B85999F9E53FB47BA568481BE.html" .
+
+<http://schema.org/CreativeWorkD6D664D52E65F1C3EEC4E556D2CD183FCCF881A299A956FC6F32CAA4FE22FBF9.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "D6D664D52E65F1C3EEC4E556D2CD183FCCF881A299A956FC6F32CAA4FE22FBF9.html" .
+
+<http://schema.org/CreativeWorkD8231FE7B23AE45134F3AEB3204A5B25189786DD090AC6E84B0C27552786882D.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "D8231FE7B23AE45134F3AEB3204A5B25189786DD090AC6E84B0C27552786882D.html" .
+
+<http://schema.org/CreativeWorkDB7636BF53940F432E06738F5B771C765C90B2FCFE91881AE5F8265D408DABA0.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "DB7636BF53940F432E06738F5B771C765C90B2FCFE91881AE5F8265D408DABA0.html" .
+
+<http://schema.org/CreativeWorkE03CDB8F6114FACB63C2C280E0C9B8C1B5EB2205D7338761AA2DFB3BC45CC7EA.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "E03CDB8F6114FACB63C2C280E0C9B8C1B5EB2205D7338761AA2DFB3BC45CC7EA.html" .
+
+<http://schema.org/CreativeWorkE402065AA4ED2579DD2C00E418ECE2CFF57DFF744F42183BD4882FD784E09F8B.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "E402065AA4ED2579DD2C00E418ECE2CFF57DFF744F42183BD4882FD784E09F8B.html" .
+
+<http://schema.org/CreativeWorkE8777DAED1FB19C6386F310C9984F40AA819E0511A97C1A4BE7C906355545211.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "E8777DAED1FB19C6386F310C9984F40AA819E0511A97C1A4BE7C906355545211.html" .
+
+<http://schema.org/CreativeWorkED1A5B657320BDEB9C092E4B53B8B51A9791B51B90CE80CB809D4952FF89A7DD.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "ED1A5B657320BDEB9C092E4B53B8B51A9791B51B90CE80CB809D4952FF89A7DD.html" .
+
+<http://schema.org/CreativeWorkEE3A914E9FB587D8906F4D6A7656147BECC508A08CAE451390C533847DB4B712.html>
+  a <http://schema.org/CreativeWork>;
+  <http://schema.org/name> "EE3A914E9FB587D8906F4D6A7656147BECC508A08CAE451390C533847DB4B712.html" .
+
+<http://schema.org/Offer308%20ammo> a <http://schema.org/Offer>;
+  <http://schema.org/description> "Federal Lake City M80 308/7.62x51 149 gr $175 for 250 $325 for 500 $600 for 1000 Text (915) 206-4291 If interested.";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork0B532ADFD78CE9384774D235EBDCFEDBD97B1190564758CDF80EA3B6F925F27C.html>;
+  <http://schema.org/name> "308 ammo";
+  <http://schema.org/price> "Varies";
+  <http://schema.org/relatedTo> <http://schema.org/Offer308%20ammo>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer338%20ammo%20%28bulk%20lot%29> a <http://schema.org/Offer>;
+  <http://schema.org/description> "For sale:   Federal Premium Vital Shock .338 Win Mag 225 grain BTHP  Retail: $67.99 ea ($203.97) Selling 3 boxes: $175.00  Remington High Velocity Win mag .338 Soft Point 250 grain             Retail: $130.09    Selling 1 box: $100.00  Federal Premium Safari .338 Win Mag Soft Point 210 grain             Retail: $88.04 ea ($176.08)       Selling 2 boxes: $150.00      Winchester Supreme .338 BTHP 230 grain                     Retail: $66.99 ea ($267.96)         Selling 4 boxes: Sell $240.00  Winchester Win Mag .338 XLC-HP 225 Grain                     Retail: $48.95 ea ($97.90)    Selling 2 boxes: $80.00  Nosler Trophy Grade .338 Win Mag 225 grain                     Retail: $80.99 ea ($323.96) Selling 4 boxes: $275.00  Remington Ultra Win Mag .338 225 grain                     Retail: $71.99   Selling 1 box: $60.00  As noted above, the 338 ammo combined is $1270.00 retail. Selling for $900.00 if purchased together or individually at prices listed above.   Contact with specific questions. No TRADES and serious inquiries only.";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork97F0AACC7BDD832AE70774E91440B711536A947D74BEBF8F76B37162150B89C1.html>;
+  <http://schema.org/name> "338 ammo (bulk lot)";
+  <http://schema.org/price> "1";
+  <http://schema.org/relatedTo> <http://schema.org/Offer338%20ammo%20%28bulk%20lot%29>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offer80%27s%20Marlin%20336%2030-30%20for%20TRADE> a <http://schema.org/Offer>;
+  <http://schema.org/description> "80's Marlin 336 30-30 for TRADE... good conditions. preference looking for a SKS, or a bolt action rifle in 223,... but let me know what you have   TEXT 915-206-0248   BILL OF SALES REQUIRED.   Thanks";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkEE3A914E9FB587D8906F4D6A7656147BECC508A08CAE451390C533847DB4B712.html>;
+  <http://schema.org/name> "80's Marlin 336 30-30 for TRADE";
+  <http://schema.org/price> "450";
+  <http://schema.org/relatedTo> <http://schema.org/Offer80%27s%20Marlin%20336%2030-30%20for%20TRADE>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferBOND%20ARMS%2045LC%2F410%20SS%203IN%20BL%20NEW> a <http://schema.org/Offer>;
+  <http://schema.org/description> "As new doesn't appear to be fired comes with a small bowl stir all stainless steel you can buy interchangeable calibers for this Derringer its top-of-the-line 425 takes it or best offer";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork43EB69463522DE177B079337ED216239C0FD74DDBFE6F58E81960B7E92FCFFA7.html>;
+  <http://schema.org/name> "BOND ARMS 45LC/410 SS 3IN BL NEW";
+  <http://schema.org/price> "425.00 obo";
+  <http://schema.org/relatedTo> <http://schema.org/OfferBOND%20ARMS%2045LC%2F410%20SS%203IN%20BL%20NEW>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferBaby%20desert%20eagle%20ll%209mm> a <http://schema.org/Offer>;
+  <http://schema.org/description> "This is a baby desert eagle ll 9mm steel model. Comes with 3 mags case cleaning rods only about 150 rnds put down tube. Great condition";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork01A25EC49B86501FC1167A8FC367C571698028E639678A4B009D057EA4B7E68B.html>;
+  <http://schema.org/name> "Baby desert eagle ll 9mm";
+  <http://schema.org/price> "";
+  <http://schema.org/relatedTo> <http://schema.org/OfferBaby%20desert%20eagle%20ll%209mm>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferCMI%20M1A%20Magazines%2020%20rds> a <http://schema.org/Offer>;
+  <http://schema.org/description> "4x M1a CMI magazines $20 apiece or $80 for all four including ammo in magazine (20 or so rds).";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork63E2B10A8C4BED9D22E8D47DD27BA06661116EEE9B9F21ED0BE84570B2077A11.html>;
+  <http://schema.org/name> "CMI M1A Magazines 20 rds";
+  <http://schema.org/price> "20";
+  <http://schema.org/relatedTo> <http://schema.org/OfferCMI%20M1A%20Magazines%2020%20rds>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferCentury%20arms%20c308> a <http://schema.org/Offer>;
+  <http://schema.org/description> "Box.3 mags.manual.made by century arms with ptr parts.really nice.trade for a colt 1911 or hk usp. Not for sale";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkDB7636BF53940F432E06738F5B771C765C90B2FCFE91881AE5F8265D408DABA0.html>;
+  <http://schema.org/name> "Century arms c308";
+  <http://schema.org/price> "Trade only";
+  <http://schema.org/relatedTo> <http://schema.org/OfferCentury%20arms%20c308>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferChicago%20Typewriter> a <http://schema.org/Offer>;
+  <http://schema.org/description> "Selling my semi-auto Tommy Gun to pay bills. Comes with hard fitted case and guitar case as well. Stick + drum magazine and manual included.       If it doesn't sell by the end of the day, which I consider midnight, it'll go back into storage and find another way to get the cash. I am very hesitant on listing it because I really like it.";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkD8231FE7B23AE45134F3AEB3204A5B25189786DD090AC6E84B0C27552786882D.html>;
+  <http://schema.org/name> "Chicago Typewriter";
+  <http://schema.org/price> "1200";
+  <http://schema.org/relatedTo> <http://schema.org/OfferChicago%20Typewriter>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferComplete%20ar15%20lower> a <http://schema.org/Offer>;
+  <http://schema.org/description> "magpul stock, spikes tactical parts.";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork4B0DF0EE72E7E362ED6FB77CE55B57564C447F32976A3D7288769901066AD2ED.html>;
+  <http://schema.org/name> "Complete ar15 lower";
+  <http://schema.org/price> "300";
+  <http://schema.org/relatedTo> <http://schema.org/OfferComplete%20ar15%20lower>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferConcealed%20Handgun%20License%20Class%20%2470> a <http://schema.org/Offer>;
+  <http://schema.org/description> "Next regular CHL class is on Saturday, OCT 24th ($70 pre-pay and discounts for MIL & LEOs). In the interim we are open f";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork0E725A334D03FF2ABD4EDC67AFF253B7C8BECD23DD91A507708AC27A0C9A5251.html>;
+  <http://schema.org/name> "Concealed Handgun License Class $70";
+  <http://schema.org/price> "70";
+  <http://schema.org/relatedTo> <http://schema.org/OfferConcealed%20Handgun%20License%20Class%20%2470>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferFNX-9> a <http://schema.org/Offer>;
+  <http://schema.org/description> "Looking to sell my FNX-9. MISSING backstraps.Comes with 50 high quality hollow points. Looking for a FNX-45 to trade. Comes with everything in the picture plus hollow points.";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkAB01CA21D33E6164CEDEBF37C78F2226404740A60047CFD9098437DA99FBE6C2.html>;
+  <http://schema.org/name> "FNX-9";
+  <http://schema.org/price> "650/obo/trade";
+  <http://schema.org/relatedTo> <http://schema.org/OfferFNX-9>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferGlock%2022%20f%2Fs%20f%2Ft> a <http://schema.org/Offer>;
+  <http://schema.org/description> "Glock 22, gen 3 .40 caliber. Used. Has JP Magazine well installed. Ghost connector installed. Warren tactical fiber optic sights. Extended magazine release. Magazines have magpul base pads.    Looking to trade for a Glock 30S or a Glock 36, a gen 4 26, or a 19.   text 915 276 3865";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkCC4C7CCE0D60C071A5265B65E5E8382CFCCC523CA4B90AF7DEAEE01122EEE80E.html>;
+  <http://schema.org/name> "Glock 22 f/s f/t";
+  <http://schema.org/price> "Negotiable";
+  <http://schema.org/relatedTo> <http://schema.org/OfferGlock%2022%20f%2Fs%20f%2Ft>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferHungarian%20Feg%20ak%2047%20new%20never%20fired> a <http://schema.org/Offer>;
+  <http://schema.org/description> "This is a unfired Hungarian feg ak 47 this price includes 10 each 30 round mags molle voodoo bag with 4 mag pouches each holding 2 30 rd mags also included 1100 rounds of 7.62x39 ammo anyone can see the winds of change on assault rifles talk of banning importation mag cap. But if you have one it'll be grandfathered like the last ban";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkC175B35954EEC947464AD8B1B6A04CF645CF2E4D7A5EF7AF77B5D144479DF3A9.html>;
+  <http://schema.org/name> "Hungarian Feg ak 47 new never fired";
+  <http://schema.org/price> "$1000.00";
+  <http://schema.org/relatedTo> <http://schema.org/OfferHungarian%20Feg%20ak%2047%20new%20never%20fired>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferKel%20Tec%20RFB%20for%20sale%20with%20Sightmark%20Optics>
+  a <http://schema.org/Offer>;
+  <http://schema.org/description> "For sale is a hard to find KelTec RFB (rifle forward ejecting bullpup) 24” hunter. The trigger performance on the RFB blows away other triggers on bullpup designs. Any right or left handed shooter can fire the rifle since the shells eject out the front and not towards anyone’s face or torso. The rifle features a 24” heavy barrel effective at 1200 yards. The added accessories are an extra FAL metric 20 round magazine, the tactical charging handle, front sight riser, and the quad rail/ forward handguard which is made of aircraft aluminum and is anodized black. Round count is 240 rounds with no issues. Sight mark ultra-dual shot pro spec night vision quick detach with red laser. It has four reticle patterns, three brightness settings and, 2 night vision brightness settings. Reticle and laser color is red. Alsotwo sight mark 7x zoom tactical slide to side magnifiers. One in tan and one in black. For sale is a brand new Sight mark 2x24 Ghost hunter NVRS kit. This night vision scope can be used as a standalone observational device or mounted behind the reflex sight. Retail for these items and rifle are $2200 to $2300 ($1800 for the rifle and $500 for the optics). Asking for a fair and firm $1800.00. Thank you for reading and hope to hear from you soon.";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork5E8017EE00BABCA227A5D1E2C8CFC388682A376FE53500F6AC0F2D00A51DF9B6.html>;
+  <http://schema.org/name> "Kel Tec RFB for sale with Sightmark Optics";
+  <http://schema.org/price> "1800.00";
+  <http://schema.org/relatedTo> <http://schema.org/OfferKel%20Tec%20RFB%20for%20sale%20with%20Sightmark%20Optics>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferMaverick%2088%2012ga%20security> a <http://schema.org/Offer>;
+  <http://schema.org/description> "I have maverick 88 12 ga shotgun with security  barrel. Come with few shells  and slugs too asking for 150.        9164207558 ....bill";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork6D139BABB688DE6380A6BA858B8096C12BA7DF2FBC1E624227A5F0D0813D026A.html>;
+  <http://schema.org/name> "Maverick 88 12ga security";
+  <http://schema.org/price> "150";
+  <http://schema.org/relatedTo> <http://schema.org/OfferMaverick%2088%2012ga%20security>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferMossberg%20702%20Plinkster%2022%20lr%20with%20Bushnell%20scope%20-%20price%20lowered>
+  a <http://schema.org/Offer>;
+  <http://schema.org/description> "Mossberg 702 Plinkster 22 lr   with Bushnell Sportview scope   open to trades for a nice carry pistol (will pay difference)   this would make a nice youth rifle";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork34233F43DA419C64AEC225B599CB45357F09960837B1114EC17549C0E83D6AF0.html>;
+  <http://schema.org/name> "Mossberg 702 Plinkster 22 lr with Bushnell scope - price lowered";
+  <http://schema.org/price> "$145.00 obo or trade";
+  <http://schema.org/relatedTo> <http://schema.org/OfferMossberg%20702%20Plinkster%2022%20lr%20with%20Bushnell%20scope%20-%20price%20lowered>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferNoveske%2016%22%20RECCE%20basic> a <http://schema.org/Offer>;
+  <http://schema.org/description> "Noveske 16\" RECCE basic with 9\" Daniel Defense Omega Rail. Has 300 rounds through it without any issues.  Must be willing to to sign a bill of sale.  Prefer CHL.";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork6C5FA54BA1A3C0012AD68A8EB49FA82070BB8D90949B00F0DE14E9B5596B6CE1.html>;
+  <http://schema.org/name> "Noveske 16\" RECCE basic";
+  <http://schema.org/price> "$1500";
+  <http://schema.org/relatedTo> <http://schema.org/OfferNoveske%2016%22%20RECCE%20basic>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferRemington%20R15%20VTR%20PREDATOR> a <http://schema.org/Offer>;
+  <http://schema.org/description> "For sale is a Remington R15 VTR predator semiauto rifle in .233.  Comes with camo'd Magpul furniture, 18 inch threaded barrel with a suppressor ready compensator attached.  Comes with Nikon 3x9 BDC 600 reticled scope mounted in a Nikon M223 one piece mount. Comes with carrying case. Factory 10 round magazine. No trades.";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork9F4057BEE37832B4FB43474E7F9036FF262412EBB648656784CC6EE3C64CC9D4.html>;
+  <http://schema.org/name> "Remington R15 VTR PREDATOR";
+  <http://schema.org/price> "$1300";
+  <http://schema.org/relatedTo> <http://schema.org/OfferRemington%20R15%20VTR%20PREDATOR>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferRuger%20SP%20101%20357%20mag%203%22%20barrel%20SS> a <http://schema.org/Offer>;
+  <http://schema.org/description> "Ruger SP 101 357 mag  3\" barrell  SS   like new, only 10 rounds fired   comes with original box and paperwork   nice carry gun   open to offers or trades for other guns, no shotguns or BB guns   prefer a trade for a SW 686 357 mag or other Colt or SW 357 pistols";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkED1A5B657320BDEB9C092E4B53B8B51A9791B51B90CE80CB809D4952FF89A7DD.html>;
+  <http://schema.org/name> "Ruger SP 101 357 mag 3\" barrel SS";
+  <http://schema.org/price> "$500.00 obo";
+  <http://schema.org/relatedTo> <http://schema.org/OfferRuger%20SP%20101%20357%20mag%203%22%20barrel%20SS>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferS%20%26%20W%20model%2028-2%20357%20mag%20price%20lowered>
+  a <http://schema.org/Offer>;
+  <http://schema.org/description> "hard to find, S  W model 28-2 357 mag   4\" barrel   N frame   N serial number    Pachmayr grips   sorry no trades";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkE402065AA4ED2579DD2C00E418ECE2CFF57DFF744F42183BD4882FD784E09F8B.html>;
+  <http://schema.org/name> "S & W model 28-2 357 mag price lowered";
+  <http://schema.org/price> "665.00 obo";
+  <http://schema.org/relatedTo> <http://schema.org/OfferS%20%26%20W%20model%2028-2%20357%20mag%20price%20lowered>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferSOLD%20Springfield%20XDm%203.8%2045> a <http://schema.org/Offer>;
+  <http://schema.org/description> "Looking to sell my Springfield XDM 3.8 in 45. Pretty much brand new with the full kit. I WILL trade for a Glock 17 Gen 3 or 4, either one. Other than that 550,";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkE03CDB8F6114FACB63C2C280E0C9B8C1B5EB2205D7338761AA2DFB3BC45CC7EA.html>;
+  <http://schema.org/name> "SOLD Springfield XDm 3.8 45";
+  <http://schema.org/price> "550";
+  <http://schema.org/relatedTo> <http://schema.org/OfferSOLD%20Springfield%20XDm%203.8%2045>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferSavage%2012BVSS%20308%2C%20Viper%20Vortex%206-24x50%20PST%2C%20bipod>
+  a <http://schema.org/Offer>;
+  <http://schema.org/description> "Savage 12BVSS 308 with 1:12 twist. Laminated stock. 26 inch stainless steel fluted barrel. Internal box magazine. Viper Vortex PST 6-24x50 scope, EBR-1, Mrad. Caldwell 6\"-9\" swivel bipod. Complete package for $1250. Excellent condition with less than 100 rounds total fired. Very accurate with 168gr Federal GMM";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork789712CBE8922801599346301A27A3C1D5AE0539770638598983EFD6F3C8C684.html>;
+  <http://schema.org/name> "Savage 12BVSS 308, Viper Vortex 6-24x50 PST, bipod";
+  <http://schema.org/price> "1250";
+  <http://schema.org/relatedTo> <http://schema.org/OfferSavage%2012BVSS%20308%2C%20Viper%20Vortex%206-24x50%20PST%2C%20bipod>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferTaurus%20.44> a <http://schema.org/Offer>;
+  <http://schema.org/description> "Not looking for trades. Asking $530 have a little over 50 rounds that come with it. Only selling cause I'm done playing with it. 915-630-9283";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork54802E88E1CA8256ADFCB688EAE5FF9E74455DF01FFDF03607B6378B518C4278.html>;
+  <http://schema.org/name> "Taurus .44";
+  <http://schema.org/price> "530";
+  <http://schema.org/relatedTo> <http://schema.org/OfferTaurus%20.44>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferTaurus%201911-AR%20.45> a <http://schema.org/Offer>;
+  <http://schema.org/description> "Hey all. I'm upgrading from my current 1911 and instead of trading it up I'd rather sell it myself. It's a Taurus PT1911-AR .45, about 2 years old, with about 250 rounds fired, always brass Winchester or Remington.   Comes with:   2 factory mags   cleaning brush   2 trigger keys   Tagua holster   Taurus Case   Ill also throw in whatever rounds I have left. About 60.   Bought it locally for $699, asking for $425, no trades. Gun has always been cleaned, lubed, and case kept. Taurus also comes with a lifetime repair warranty thats transferable. Gun of course is legal and Im the only owner, will include bill of sale transferring it to you.";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork9F2B5F60C8E03A8495622AB64BA6B945D647F6B25CF87663A96A5E7EB685914B.html>;
+  <http://schema.org/name> "Taurus 1911-AR .45";
+  <http://schema.org/price> "425";
+  <http://schema.org/relatedTo> <http://schema.org/OfferTaurus%201911-AR%20.45>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferTaurus%20357%20magnum> a <http://schema.org/Offer>;
+  <http://schema.org/description> "Got this for my wife but she didn't like it.";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork1CD9F94848756FF74702E49A487AFB64937D0AF0F38A7E2DFE9B6E88905D25D0.html>;
+  <http://schema.org/name> "Taurus 357 magnum";
+  <http://schema.org/price> "300";
+  <http://schema.org/relatedTo> <http://schema.org/OfferTaurus%20357%20magnum>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferTommy%20Gun> a <http://schema.org/Offer>;
+  <http://schema.org/description> "Tommy Gun with stick mag. Yes its a real Auto Ordinance Thompson semi-auto Tommy Gun. Yes its 45acp, Yes it is in great condition. No I don't want small caliber pistols, Bows, Buggies, bikes .trailers, dogs, kids(i have enough already) No I wont take 500, 600, 700, 800, 900, because you have it in your pocket right now. I will take $1200 or a Trade value of $1300 at least if its something that catches my eye. Thank You IA.";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkD4DC361DA2FAEB1C240BFE5E70774117BA35B37B85999F9E53FB47BA568481BE.html>;
+  <http://schema.org/name> "Tommy Gun";
+  <http://schema.org/price> "1200";
+  <http://schema.org/relatedTo> <http://schema.org/OfferTommy%20Gun>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferVOLQUARTSEN%20CUSTOM%2010%2F22%20LR> a <http://schema.org/Offer>;
+  <http://schema.org/description> "Volquartsen snake ported stainless barrel,  kidd trigger assembly, Jdm bolt and sing guide engraved with 2nd amendment,  volquartsen buffer, and a extra fancy xxxxx high gloss walnut custom stock that is beautiful.  Has scope base , leupold quick release rings with a sweet 22lr scope. All is brand new only test fired.";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkA4D81E4C8BB82D59AB2EFA4F9A5C088D39A4A1A9024D2825292CB1CDB1228D78.html>;
+  <http://schema.org/name> "VOLQUARTSEN CUSTOM 10/22 LR";
+  <http://schema.org/price> "1500 obo";
+  <http://schema.org/relatedTo> <http://schema.org/OfferVOLQUARTSEN%20CUSTOM%2010%2F22%20LR>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/OfferWinchester%2012%20ga%20Model%2050> a <http://schema.org/Offer>;
+  <http://schema.org/description> "Winchester 12 ga Model 50. Full choke barrel 2 3/4 \" chamber. Very nice condition. No trades.";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkD6D664D52E65F1C3EEC4E556D2CD183FCCF881A299A956FC6F32CAA4FE22FBF9.html>;
+  <http://schema.org/name> "Winchester 12 ga Model 50";
+  <http://schema.org/price> "500";
+  <http://schema.org/relatedTo> <http://schema.org/OfferWinchester%2012%20ga%20Model%2050>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offerar%2015> a <http://schema.org/Offer>;
+  <http://schema.org/description> "custom ar 15, mag tactical lower with spikes lpk, anderson upper with wes 1:7 barrel. $700 comes with hard case & 3 mags";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork776984B080285AC74F37E1A127E18D8FC9DC9E0D451A3CC901228FF0B390DFF0.html>;
+  <http://schema.org/name> "ar 15";
+  <http://schema.org/price> "$700";
+  <http://schema.org/relatedTo> <http://schema.org/Offerar%2015>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offerbrand%20new%20Walther%20P22%20FDE> a <http://schema.org/Offer>;
+  <http://schema.org/description> "brand new Walther P22 in all FDE.  Looking for trade in 223/5.56 cal.  915-238-7980";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWorkE8777DAED1FB19C6386F310C9984F40AA819E0511A97C1A4BE7C906355545211.html>;
+  <http://schema.org/name> "brand new Walther P22 FDE";
+  <http://schema.org/price> "trade";
+  <http://schema.org/relatedTo> <http://schema.org/Offerbrand%20new%20Walther%20P22%20FDE>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offerglock%2019%20Gen%203> a <http://schema.org/Offer>;
+  <http://schema.org/description> "For sale glock 19 Gen 3";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork9A10F73604A05AAA7CBE9658905B299DC6A160F4B8E967D92944F54CFCE45F90.html>;
+  <http://schema.org/name> "glock 19 Gen 3";
+  <http://schema.org/price> "430";
+  <http://schema.org/relatedTo> <http://schema.org/Offerglock%2019%20Gen%203>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .
+
+<http://schema.org/Offertaurus.%2022%20mag> a <http://schema.org/Offer>;
+  <http://schema.org/description> "Taurus 22 mag 8 shot revolver";
+  <http://schema.org/mainEntityOfPage> <http://schema.org/CreativeWork445EBACE471792EF3D7BD653D033F649D074E8EDA321BE947CE86B349C32BAAE.html>;
+  <http://schema.org/name> "taurus. 22 mag";
+  <http://schema.org/price> "300";
+  <http://schema.org/relatedTo> <http://schema.org/Offertaurus.%2022%20mag>;
+  <http://schema.org/seller> <http://schema.dig.isi.edu/ontology/PersonOrOrganization0> .

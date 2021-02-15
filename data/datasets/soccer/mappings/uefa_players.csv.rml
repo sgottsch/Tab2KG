@@ -1,0 +1,135 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#>.
+@prefix rml: <http://semweb.mmlab.be/ns/rml#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix ex: <http://example.com/resource/>.
+@prefix ql: <http://semweb.mmlab.be/ns/ql#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix csvw: <http://www.w3.org/ns/csvw#>.
+ex:File
+	rdf:type rml:source ;
+	rml:source ex:FileSource ;
+	rml:referenceFormulation ql:CSV .
+ex:FileSource a csvw:Table;
+	csvw:url "/storage/home/gottschalk/www21/data/soccer/tables/uefa_players.csv" ;
+	csvw:dialect [
+		a csvw:Dialect;
+		csvw:delimiter ",";
+] .
+ex:Mapping0
+	rdf:type rr:TriplesMap ;
+	rml:logicalSource ex:File ;
+	rr:subjectMap [
+		rr:class <http://schema.org/Player> ;
+		rr:template "http://schema.org/Player{sn}" ;
+];
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/givenName> ;
+	rr:objectMap [
+		rml:reference "fn";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/familyName> ;
+	rr:objectMap [
+		rml:reference "ln";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/age> ;
+	rr:objectMap [
+		rml:reference "ag";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/name> ;
+	rr:objectMap [
+		rml:reference "sn";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/height> ;
+	rr:objectMap [
+		rml:reference "ht";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/playPosition> ;
+	rr:objectMap [
+		rml:reference "ps";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/tag> ;
+	rr:objectMap [
+		rml:reference "no";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/birthDate> ;
+	rr:objectMap [
+		rml:reference "db";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/goalScored> ;
+	rr:objectMap [
+		rml:reference "go/at";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/inClub> ;
+	rr:objectMap [
+		rr:template "http://schema.org/SportsClub{cb}";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/inNationalTeam> ;
+	rr:objectMap [
+		rr:template "http://schema.org/SportsTeam{nt}";
+	]
+] .
+ex:Mapping1
+	rdf:type rr:TriplesMap ;
+	rml:logicalSource ex:File ;
+	rr:subjectMap [
+		rr:class <http://schema.org/SportsClub> ;
+		rr:template "http://schema.org/SportsClub{cb}" ;
+];
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/name> ;
+	rr:objectMap [
+		rml:reference "cb";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/inLeague> ;
+	rr:objectMap [
+		rr:template "http://schema.org/League{cn}";
+	]
+] .
+ex:Mapping2
+	rdf:type rr:TriplesMap ;
+	rml:logicalSource ex:File ;
+	rr:subjectMap [
+		rr:class <http://schema.org/SportsTeam> ;
+		rr:template "http://schema.org/SportsTeam{nt}" ;
+];
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/name> ;
+	rr:objectMap [
+		rml:reference "nt";
+	]
+] .
+ex:Mapping3
+	rdf:type rr:TriplesMap ;
+	rml:logicalSource ex:File ;
+	rr:subjectMap [
+		rr:class <http://schema.org/League> ;
+		rr:template "http://schema.org/League{cn}" ;
+];
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/name> ;
+	rr:objectMap [
+		rml:reference "cn";
+	]
+] .
