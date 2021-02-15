@@ -1,0 +1,8 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>de.l3s.simpleml</groupId>
+  <artifactId>tab2kg</artifactId>
+  <version>1.0</version>
+  <name>Tab2KG</name>
+  <description>Tab2KG is a semantic table interpretation tool based on semantic profiles.</description>
+</project>
