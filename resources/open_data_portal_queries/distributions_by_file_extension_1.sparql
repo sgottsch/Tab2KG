@@ -1,0 +1,11 @@
+SELECT ?dataset ?distribution ?url
+FROM <https://data.wu.ac.at/portalwatch/ld/2002>
+WHERE {
+	?dataset a dcat:Dataset.
+	?dataset dcat:distribution ?distribution .
+
+	?distribution dcat:accessURL ?url .
+	?distribution dct:title ?distributionTitle .
+
+	FILTER(STRENDS(STR(?url), ".@extension@")) .
+} GROUP BY ?dataset

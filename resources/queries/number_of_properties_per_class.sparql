@@ -1,0 +1,13 @@
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?class ?p (COUNT(DISTINCT(?i)) AS ?cnt)  {
+	?i rdf:type ?class .
+	?i ?p ?v .
+	
+	FILTER(ISLITERAL(?v)) .
+	
+	FILTER(?p != rdf:type) .
+	FILTER(?class != owl:NamedIndividual) .
+	
+} GROUP BY ?class ?p

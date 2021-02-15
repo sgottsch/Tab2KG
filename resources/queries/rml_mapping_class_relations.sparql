@@ -1,0 +1,26 @@
+prefix rr: <http://www.w3.org/ns/r2rml#>
+prefix rml: <http://semweb.mmlab.be/ns/rml#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+prefix sml: <http://simple-ml.de/resource/>
+prefix ql: <http://semweb.mmlab.be/ns/ql#>
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix csvw: <http://www.w3.org/ns/csvw#>
+
+SELECT (?class AS ?subject) ?predicate ?object WHERE {
+
+?mapping rr:subjectMap [
+	rr:class ?class ;
+] ;
+rr:predicateObjectMap [
+	rr:predicate ?predicate ;
+	rr:objectMap [
+		rr:template ?template;
+	]
+] .
+
+?x rr:class ?object .
+FILTER(CONTAINS(?template, CONCAT(STR(?object),"{"))).
+
+
+
+}

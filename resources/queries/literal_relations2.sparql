@@ -1,0 +1,28 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?subjectType ?property (SAMPLE(?object) AS ?objectSample) (GROUP_CONCAT(?objectTypeTmp; SEPARATOR=" ") AS ?objectType) (COUNT(*) AS ?count) WHERE {
+
+	?subject rdf:type ?subjectType .
+	FILTER NOT EXISTS { ?subject rdf:type/rdfs:subClassOf* rdf:Property } .
+	FILTER NOT EXISTS { ?subject rdf:type rdfs:Class } .
+	FILTER NOT EXISTS { ?subject rdfs:subClassOf* rdfs:Class } .
+	
+	?subject ?property ?object .
+
+	FILTER(isLITERAL(?object)) .
+	
+	BIND(DATATYPE(?object) AS ?objectTypeTmp)
+	
+	FILTER(!STRSTARTS(STR(?subjectType),"http://www.w3.org/2002/07/owl#")) .
+	FILTER(!STRSTARTS(STR(?subjectType),"http://rdfs.org/ns/void#")) .
+	
+	# each property needs to have at least two different values
+	FILTER EXISTS {
+		?subject2 ?property ?object2 .
+		?subject2 rdf:type ?subjectType .
+		FILTER(isLITERAL(?object2)) .
+		FILTER(STR(?object) != STR(?object2) ) .
+	}
+
+} GROUP BY ?subjectType ?property ?objectType

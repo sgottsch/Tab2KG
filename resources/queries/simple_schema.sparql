@@ -1,0 +1,71 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?s ?p ?o ?type WHERE{
+
+	{
+	
+		# literals: x p l
+		
+		SELECT DISTINCT ?s ?p ?o (0 AS ?type) WHERE {
+			?s ?p ?o .
+			?s rdf:type ?t0 .
+			FILTER(isLITERAL(?o)) .
+			FILTER(!STRSTARTS(STR(?t0),"http://www.w3.org/2002/07/owl#")) .
+			FILTER(!STRSTARTS(STR(?t0),"http://rdfs.org/ns/void#")) .
+		}
+	
+	}
+	
+	UNION
+	
+	{
+	
+		# connection: x p x
+		
+		SELECT DISTINCT ?s ?p ?o (1 AS ?type) WHERE {
+			?s ?p ?o .
+			FILTER(?p != rdf:type) .
+			?s rdf:type ?t0 .
+			?o rdf:type ?t1 .
+			FILTER(!STRSTARTS(STR(?t0),"http://www.w3.org/2002/07/owl#")) .
+			FILTER(!STRSTARTS(STR(?t0),"http://rdfs.org/ns/void#")) .
+			FILTER(!STRSTARTS(STR(?t1),"http://www.w3.org/2002/07/owl#")) .
+			FILTER(!STRSTARTS(STR(?t1),"http://rdfs.org/ns/void#")) .
+			FILTER(?s != ?o) .
+		}
+	
+	}
+	
+	UNION
+	
+		# types: x rdf:type t
+		
+		{
+		
+		SELECT DISTINCT ?s (rdf:type AS ?p) ?o (2 AS ?type) WHERE {
+			?s rdf:type ?o .
+			FILTER(!STRSTARTS(STR(?o),"http://www.w3.org/2002/07/owl#")) .
+			FILTER(!STRSTARTS(STR(?o),"http://rdfs.org/ns/void#")) .
+		}
+	
+	}
+	
+	UNION
+	
+	{
+	
+		# type connections: t p t
+		
+		SELECT DISTINCT ?s ?p ?o (3 AS ?type) WHERE {
+			?x ?p2 ?s .
+			FILTER(?p2 = rdf:type || ?p2 = rdfs:subClassOf) .
+			?s ?p ?o .
+			FILTER(!STRSTARTS(STR(?s),"http://www.w3.org/2002/07/owl#")) .
+			FILTER(!STRSTARTS(STR(?s),"http://rdfs.org/ns/void#")) .
+			FILTER(!isLITERAL(?o)) .
+		}
+	
+	}
+	
+}

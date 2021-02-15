@@ -1,0 +1,19 @@
+SELECT ?dataset ?distribution ?datasetTitle ?distributionTitle ?size ?url ?datasetDescription ?distributionDescription ?distributionMediaType
+FROM <https://data.wu.ac.at/portalwatch/ld/2002>
+
+WHERE {
+	?dataset a dcat:Dataset.
+	?dataset dcat:distribution ?distribution .
+
+	?distribution dcat:mediaType "@mediaType@" .
+	
+	?distribution dcat:accessURL ?url .
+	
+	?distribution dct:title ?distributionTitle .
+	OPTIONAL { ?distribution dct:description ?distributionDescription } .
+	OPTIONAL { ?distribution dcat:byteSize ?size } . 
+	OPTIONAL { ?distribution dcat:mediaType ?distributionMediaType } .
+	
+	OPTIONAL { ?dataset dct:title ?datasetTitle } .
+	OPTIONAL { ?dataset dct:description ?datasetDescription } .
+} GROUP BY ?dataset

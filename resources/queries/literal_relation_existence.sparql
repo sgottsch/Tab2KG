@@ -1,0 +1,5 @@
+ASK {
+	?subject <@property@> ?object .
+	?subject a <@type@> .
+	FILTER(isLITERAL(?object)) .
+}

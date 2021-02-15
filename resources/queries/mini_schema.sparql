@@ -1,0 +1,17 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?subjectType ?property ?objectType WHERE {
+
+	?subject ?property ?object .
+	
+	?subject rdf:type ?subjectType .
+	?object rdf:type ?objectType .
+	
+	FILTER(!isLITERAL(?object)) .
+	
+	FILTER(!STRSTARTS(STR(?subjectType),"http://www.w3.org/2002/07/owl#")) .
+	FILTER(!STRSTARTS(STR(?subjectType),"http://rdfs.org/ns/void#")) .
+	FILTER(!STRSTARTS(STR(?objectType),"http://www.w3.org/2002/07/owl#")) .
+	FILTER(!STRSTARTS(STR(?objectType),"http://rdfs.org/ns/void#")) .
+
+} GROUP BY ?subjectType ?property ?objectType

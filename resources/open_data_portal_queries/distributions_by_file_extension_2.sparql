@@ -1,0 +1,12 @@
+SELECT (<@dataset@> AS ?dataset) (<@distribution@> AS ?distribution) (<@url@> AS ?url) ?datasetTitle ?distributionTitle ?size ?datasetDescription ?distributionDescription ?distributionMediaType
+FROM <https://data.wu.ac.at/portalwatch/ld/2002>
+
+WHERE {
+	OPTIONAL { <@distribution@> dct:title ?distributionTitle } .
+	<@distribution@> dct:description ?distributionDescription .
+	OPTIONAL { <@distribution@> dcat:byteSize ?size } . 
+	OPTIONAL { <@distribution@> dcat:mediaType ?distributionMediaType } .
+	
+	OPTIONAL { <@dataset@> dct:title ?datasetTitle } .
+	OPTIONAL { <@dataset@> dct:description ?datasetDescription } .
+}
