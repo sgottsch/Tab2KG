@@ -8,12 +8,6 @@
 	<name>Tab2KG</name>
 	<description>Tab2KG is a semantic table interpretation tool based on semantic profiles.</description>
 
-	<properties>
-		<jena.version>3.13.1</jena.version>
-		<jdk.version>1.8</jdk.version>
-		<jdk.version>1.8</jdk.version>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-	</properties>
 
 	<dependencies>
 		<dependency>
@@ -25,7 +19,7 @@
 			<groupId>org.apache.jena</groupId>
 			<artifactId>apache-jena-libs</artifactId>
 			<type>pom</type>
-			<version>${jena.version}</version>
+			<version>3.13.1</version>
 		</dependency>
 		<dependency>
 			<groupId>log4j</groupId>
@@ -75,18 +69,7 @@
 		</dependency>
 	</dependencies>
 
-
 	<build>
-		<sourceDirectory>src</sourceDirectory>
-		<resources>
-			<resource>
-				<directory>resources</directory>
-				<excludes>
-					<exclude>**/*.java</exclude>
-				</excludes>
-			</resource>
-		</resources>
-
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
@@ -98,6 +81,7 @@
 			</plugin>
 		</plugins>
 	</build>
+
 
 	<repositories>
 		<repository>

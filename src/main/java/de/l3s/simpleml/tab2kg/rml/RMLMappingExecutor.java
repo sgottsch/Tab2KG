@@ -56,16 +56,7 @@ public class RMLMappingExecutor {
 			// Set up the functions used during the mapping
 			@SuppressWarnings("rawtypes")
 			Map<String, Class> libraryMap = new HashMap<String, Class>();
-			// libraryMap.put("GrelFunctions", GrelProcessor.class);
 			libraryMap.put("IDLabFunctions", IDLabFunctions.class);
-
-			// URL url = Resources.getResource("rml/functions.ttl");
-			// File functionsFile = new File(url.toURI());
-			//
-			// File functionsFile = new
-			// File(getClass().getClassLoader().getResource("rml/functions.ttl").getFile());
-
-			// File functionsFile = new File(Config.getPath(FileLocation.FUNCTIONS_TTL));
 
 			FunctionLoader functionLoader = new FunctionLoader(null, libraryMap);
 			// FunctionLoader functionLoader = new FunctionLoader(null, null,
