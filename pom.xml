@@ -68,6 +68,11 @@
 			<artifactId>dateparser</artifactId>
 			<version>1.0.4</version>
 		</dependency>
+		<dependency>
+			<groupId>be.ugent.rml</groupId>
+			<artifactId>rmlmapper</artifactId>
+			<version>4.9.1</version>
+		</dependency>
 	</dependencies>
 
 
