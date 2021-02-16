@@ -217,6 +217,7 @@ public class RMLMappingCreator {
 			lines.add("\t\tcsvw:delimiter \"\t\";");
 		else
 			lines.add("\t\tcsvw:delimiter \"" + delimiter + "\";");
+				
 		lines.add("] .");
 
 		return lines;

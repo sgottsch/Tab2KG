@@ -1,6 +1,8 @@
 # Tab2KG
 
-Tab2KG is a method to automatically infer tabular data semantics and transform such data into a semantic data graph.
+Tab2KG is a method for semantic table interpreation (STI). It automatically infers tabular data semantics and transform such data into a semantic data graph, only based on a table profile and a domain profile.
+
+Please refer to our article for more information about Tab2KG: TBA.
 
 ## Semantic Profiles: Schema
 
@@ -9,6 +11,56 @@ You can find Tab2KG's extension of the DCAT and SEAS vocabulary for representing
 ## Configuration
 
 Create a directory for Tab2KG in your file system (e.g. "/Documents/Tab2KG/"). Insert that path in de.l3s.simpleml.tab2kg.util.Config. Optionally, you can also distinguish between a local and a server path there.
+
+Within that folder, create a "data" folder and move the pre-trained model weights ([weights.h5](https://github.com/sgottsch/Tab2KG/tree/main/data/weights.h5)) and the batch processor there ([column_matcher_batch.py](https://github.com/sgottsch/Tab2KG/blob/main/src/main/python/column_matcher_batch.py)).
+
+## Example Walk Through
+
+The Example class provides a walk through the different components in Tab2KG. It shows the creation of a semantic RDF data table profile and the semantic table interpretation on a single example data table.
+
+You can run de.l3s.simpleml.tab2kg.examples.Example. via:
+
+> java -jar Example.jar soccer/tables/all_world_cup_players.csv soccer/graphs/world_cup_2014_squads.csv.ttl WorldCupPlayers profile.ttl kg.ttl
+
+Here, the first parameter are as follows:
+- soccer/tables/all_world_cup_players.csv: the input data table
+- soccer/graphs/world_cup_2014_squads.csv.ttl: the domain knowledge graph
+
+The folder data/example contains the expected output given this configuration.
+
+### Semantic profile creation
+
+First, a semantic profile of the data table is created and stored into profile.ttl.
+
+### Creation of a pair of normalized profiles
+
+The normalized column and data type profiles between a data table and a graph from the soccer domain using de.l3s.simpleml.tab2kg.profiles.ProfilePairNormaliser are created and printed.
+
+    Output:
+	--- Team ---
+	http://schema.org/Player http://schema.org/playPosition
+	[0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, ... , 0.0231917 , ...]
+	[0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, ... , 0.5661216 , ...]
+    ...
+
+### Semantic Table Interpretation
+
+The mappings to create the knowledge graph from the data table are printed.
+
+	L: http://schema.org/SportsTeam http://schema.org/name - Team
+	L: http://schema.org/Player http://schema.org/name - FullName
+	L: http://schema.org/Player http://schema.org/isCaptain - IsCaptain
+	L: http://schema.org/SportsClub http://schema.org/name - Club
+	L: http://schema.org/Player http://schema.org/playPosition - Position
+	L: http://schema.org/Player http://schema.org/birthDate - DateOfBirth
+	L: http://schema.org/Player http://schema.org/tag - Number
+	C: http://schema.org/Player http://schema.org/inClub http://schema.org/SportsClub
+	C: http://schema.org/Player http://schema.org/inNationalTeam http://schema.org/SportsTeam
+
+(L: Literal relation, C: class relation)
+
+The RDF Mapping Language (RML) definitions for this mapping are stored in mapping.rml.
+The resultings knowledge graph is stored as kg.ttl.
 
 ## Datasets
 
@@ -45,32 +97,13 @@ To create datasets yourself, run the following processes:
 	5.1 Copy the file in resources/data/gold_standard_classes.csv to your data folder.
 
 For each of the five data sets GITHUB, SEMTAB, WEAPONS, SOCCER and SEMTAB_EASY, run the de.l3s.simpleml.tab2kg.data.TableGraphPairsFinder (with the dataset identifier as argument).
-	 
-## Profile Generation
+	     
+## Training and Evaluation
 
-With Tab2KG, you can create data type relation profiles and column profiles.
+### Batch Evaluation
 
-Example usage: Get the normalized column and data type profiles between a data table and a graph from the soccer domain using de.l3s.simpleml.tab2kg.profiles.ProfilePairNormaliser.
+Run de.l3s.simpleml.tab2kg.evaluation.DataSetEvaluation with the required parameters (e.g., "-source SOCCER") to evaluate the semantic table interpretation performance for a single dataset.
 
-> java -jar ProfilePairNormaliser
-> soccer/tables/all_world_cup_players.csv
-> soccer/graphs/world_cup_player_ages.csv.ttl
+## Training the Siamese Network
 
-    Output:
-	--- Team ---
-	http://schema.org/Player http://schema.org/playPosition
-	[0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, ... , 0.0231917 , ...]
-	[0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, ... , 0.5661216 , ...]
-    ...
-
-## Semantic Table Interpretation
-
-## Evaluation
-
-Run de.l3s.simpleml.tab2kg.evaluation.DataSetEvaluation with the required parameters to evaluate the semantic table interpretation performance for a single dataset.
-
-
-
-## Profile Similarity Computation
-
-* siamese_column.py: The Python script to learn profile similarity from a set of positive and negative profile pairs.
+Use the Python script "siamese_column.py" to learn profile similarity from a set of positive and negative profile pairs yourself. In the data folder, we provide a pre-trained model.

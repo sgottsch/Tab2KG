@@ -39,7 +39,6 @@ public class RMLMappingExecutor {
 	public boolean run(String outputFileName, Set<Statement> typeStatements) {
 
 		try {
-
 			String mapPath = this.mappingFileName;
 			File mappingFile = new File(mapPath);
 
@@ -56,9 +55,13 @@ public class RMLMappingExecutor {
 			// Set up the functions used during the mapping
 			@SuppressWarnings("rawtypes")
 			Map<String, Class> libraryMap = new HashMap<String, Class>();
+			// libraryMap.put("IDLabFunctions", IDLabFunctions.class);
+			// libraryMap.put("GrelFunctions", GrelProcessor.class);
 			libraryMap.put("IDLabFunctions", IDLabFunctions.class);
 
 			FunctionLoader functionLoader = new FunctionLoader(null, libraryMap);
+
+			// FunctionLoader functionLoader = new FunctionLoader(null, libraryMap);
 			// FunctionLoader functionLoader = new FunctionLoader(null, null,
 			// libraryMap);
 
@@ -106,7 +109,6 @@ public class RMLMappingExecutor {
 			}
 
 		} catch (Exception e) {
-			// e.printStackTrace();
 			System.out.println("Error when executing mapping: " + e.getMessage());
 			return false;
 		}

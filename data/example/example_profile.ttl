@@ -1,0 +1,944 @@
+@base <https://simple-ml.de/resource/> .
+
+@prefix sml: <https://simple-ml.de/resource/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix sml: <https://example.org/resource/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix csvw: <http://www.w3.org/ns/csvw#> .
+@prefix seas: <https://w3id.org/seas/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+### Dataset: AllWorldCupPlayers
+<ExampleCatalog> dcat:dataset <AllWorldCupPlayers> .
+<AllWorldCupPlayers> a dcat:Dataset ;
+ sml:numberOfInstances "9443"^^xsd:nonNegativeInteger .
+
+### File (AllWorldCupPlayers)
+
+<AllWorldCupPlayers> <hasFile> <AllWorldCupPlayersFile> .
+<AllWorldCupPlayersFile> a <TextFile> ;
+ <fileLocation> "all_world_cup_players.csv" ;
+ dcterms:format "text/comma-separated-values" ;
+ csvw:separator "," ;
+ csvw:header "true"^^xsd:boolean ;
+ csvw:null "" .
+
+### Attributes (AllWorldCupPlayers)
+
+<AllWorldCupPlayers> <hasAttribute> <AllWorldCupPlayersAttributeTeam> .
+<AllWorldCupPlayersAttributeTeam> a <Attribute> ;
+ dcterms:identifier "Team" ;
+ <columnIndex> "0"^^xsd:integer .
+
+<AllWorldCupPlayers> <hasAttribute> <AllWorldCupPlayersAttributeNumber> .
+<AllWorldCupPlayersAttributeNumber> a <Attribute> ;
+ dcterms:identifier "Number" ;
+ <columnIndex> "1"^^xsd:integer .
+
+<AllWorldCupPlayers> <hasAttribute> <AllWorldCupPlayersAttributePosition> .
+<AllWorldCupPlayersAttributePosition> a <Attribute> ;
+ dcterms:identifier "Position" ;
+ <columnIndex> "2"^^xsd:integer .
+
+<AllWorldCupPlayers> <hasAttribute> <AllWorldCupPlayersAttributeFullName> .
+<AllWorldCupPlayersAttributeFullName> a <Attribute> ;
+ dcterms:identifier "FullName" ;
+ <columnIndex> "3"^^xsd:integer .
+
+<AllWorldCupPlayers> <hasAttribute> <AllWorldCupPlayersAttributeClub> .
+<AllWorldCupPlayersAttributeClub> a <Attribute> ;
+ dcterms:identifier "Club" ;
+ <columnIndex> "4"^^xsd:integer .
+
+<AllWorldCupPlayers> <hasAttribute> <AllWorldCupPlayersAttributeDateOfBirth> .
+<AllWorldCupPlayersAttributeDateOfBirth> a <Attribute> ;
+ dcterms:identifier "DateOfBirth" ;
+ <columnIndex> "5"^^xsd:integer .
+
+<AllWorldCupPlayers> <hasAttribute> <AllWorldCupPlayersAttributeIsCaptain> .
+<AllWorldCupPlayersAttributeIsCaptain> a <Attribute> ;
+ dcterms:identifier "IsCaptain" ;
+ <columnIndex> "6"^^xsd:integer .
+
+
+### Statistics (AllWorldCupPlayers)
+<AllWorldCupPlayers> <numberOfInstances> "9443"^^xsd:integer .
+### Statistics for "Team" (AllWorldCupPlayers)
+<AllWorldCupPlayersAttributeTeam> sml:numberOfValues "9443"^^xsd:nonNegativeInteger ;
+ sml:numberOfNullValues "0"^^xsd:nonNegativeInteger ;
+ sml:numberOfValidValues "9443"^^xsd:nonNegativeInteger ;
+ sml:numberOfValidNonNullValues "9443"^^xsd:nonNegativeInteger ;
+ sml:numberOfInvalidValues "0"^^xsd:nonNegativeInteger ;
+ sml:averageNumberOfDigits "0.0"^^xsd:double ;
+ sml:averageNumberOfCharacters "6.682092555331992"^^xsd:double ;
+ sml:averageNumberOfTokens "1.1404214762257756"^^xsd:double ;
+ sml:averageNumberOfCapitalisedValues "1.0"^^xsd:double ;
+ sml:averageNumberOfSpecialCharacters "0.17557979455681458"^^xsd:double ;
+ sml:numberOfDistinctValues "134"^^xsd:nonNegativeInteger ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamMinimum> ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamMaximum> ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamMedian> ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamMean> ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamStandardDeviation> ;
+ sml:numberOfOutliersBelow "0.0"^^xsd:double ;
+ sml:numberOfOutliersAbove "219.0"^^xsd:double ;
+ sml:histogram "2875"^^xsd:nonNegativeInteger ;
+ sml:histogram "782"^^xsd:nonNegativeInteger ;
+ sml:histogram "1303"^^xsd:nonNegativeInteger ;
+ sml:histogram "1729"^^xsd:nonNegativeInteger ;
+ sml:histogram "786"^^xsd:nonNegativeInteger ;
+ sml:histogram "334"^^xsd:nonNegativeInteger ;
+ sml:histogram "152"^^xsd:nonNegativeInteger ;
+ sml:histogram "511"^^xsd:nonNegativeInteger ;
+ sml:histogram "247"^^xsd:nonNegativeInteger ;
+ sml:histogram "505"^^xsd:nonNegativeInteger ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamQuartile0> ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamQuartile1> ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamQuartile2> ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamQuartile3> ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamQuartile4> ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamDecile0> ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamDecile1> ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamDecile2> ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamDecile3> ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamDecile4> ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamDecile5> ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamDecile6> ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamDecile7> ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamDecile8> ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamDecile9> ;
+ seas:evaluation <AllWorldCupPlayersAttributeTeamDecile10> .
+<AllWorldCupPlayersAttributeTeamMinimum> rdf:type seas:DistributionMinimumEvaluation ;
+ seas:evaluatedValue "3"^^xsd:nonNegativeInteger ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamMaximum> rdf:type seas:DistributionMaximumEvaluation ;
+ seas:evaluatedValue "22"^^xsd:nonNegativeInteger ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamMedian> rdf:type seas:DistributionMedianEvaluation ;
+ seas:evaluatedValue "6.0"^^xsd:double ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamMean> rdf:type seas:DistributionMeanEvaluation ;
+ seas:evaluatedValue "6.682092555331983"^^xsd:double ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamStandardDeviation> rdf:type seas:DistributionStandardDeviationEvaluation ;
+ seas:evaluatedValue "3.5851614962147282"^^xsd:double ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamNumberOfOutliersBelow> sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamNumberOfOutliersAbove> sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamHistogram0> sml:bucketMaximum "4"^^xsd:integer ;
+ sml:bucketMinimum "3"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamHistogram1> sml:comment "string length"^^xsd:string ;
+ sml:bucketMinimum "5"^^xsd:integer ;
+ sml:bucketMaximum "5"^^xsd:integer .
+<AllWorldCupPlayersAttributeTeamHistogram2> sml:comment "string length"^^xsd:string ;
+ sml:bucketMinimum "6"^^xsd:integer ;
+ sml:bucketMaximum "6"^^xsd:integer .
+<AllWorldCupPlayersAttributeTeamHistogram3> sml:comment "string length"^^xsd:string ;
+ sml:bucketMaximum "7"^^xsd:integer ;
+ sml:bucketMinimum "7"^^xsd:integer .
+<AllWorldCupPlayersAttributeTeamHistogram4> sml:bucketMaximum "8"^^xsd:integer ;
+ sml:bucketMinimum "8"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamHistogram5> sml:comment "string length"^^xsd:string ;
+ sml:bucketMaximum "9"^^xsd:integer ;
+ sml:bucketMinimum "9"^^xsd:integer .
+<AllWorldCupPlayersAttributeTeamHistogram6> sml:comment "string length"^^xsd:string ;
+ sml:bucketMinimum "10"^^xsd:integer ;
+ sml:bucketMaximum "10"^^xsd:integer .
+<AllWorldCupPlayersAttributeTeamHistogram7> sml:comment "string length"^^xsd:string ;
+ sml:bucketMinimum "11"^^xsd:integer ;
+ sml:bucketMaximum "11"^^xsd:integer .
+<AllWorldCupPlayersAttributeTeamHistogram8> sml:comment "string length"^^xsd:string ;
+ sml:bucketMinimum "12"^^xsd:integer ;
+ sml:bucketMaximum "12"^^xsd:integer .
+<AllWorldCupPlayersAttributeTeamHistogram9> sml:bucketMinimum "13"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string ;
+ sml:bucketMaximum "14"^^xsd:integer .
+<AllWorldCupPlayersAttributeTeamQuartile0> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "3"^^xsd:integer ;
+ seas:rank "0"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamQuartile1> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "3.0"^^xsd:double ;
+ seas:rank "1"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamQuartile2> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "6.0"^^xsd:double ;
+ seas:rank "2"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamQuartile3> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "8.0"^^xsd:double ;
+ seas:rank "3"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamQuartile4> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "22"^^xsd:integer ;
+ seas:rank "4"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamDecile0> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "3"^^xsd:integer ;
+ seas:rank "0"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamDecile1> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "3.0"^^xsd:double ;
+ seas:rank "1"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamDecile2> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "3.0"^^xsd:double ;
+ seas:rank "2"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamDecile3> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "4.0"^^xsd:double ;
+ seas:rank "3"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamDecile4> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "6.0"^^xsd:double ;
+ seas:rank "4"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamDecile5> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "6.0"^^xsd:double ;
+ seas:rank "5"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamDecile6> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "7.0"^^xsd:double ;
+ seas:rank "6"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamDecile7> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "7.0"^^xsd:double ;
+ seas:rank "7"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamDecile8> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "9.0"^^xsd:double ;
+ seas:rank "8"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamDecile9> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "12.0"^^xsd:double ;
+ seas:rank "9"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeTeamDecile10> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "22"^^xsd:integer ;
+ seas:rank "10"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+### Statistics for "Number" (AllWorldCupPlayers)
+<AllWorldCupPlayersAttributeNumber> sml:numberOfValues "9443"^^xsd:nonNegativeInteger ;
+ sml:numberOfNullValues "1161"^^xsd:nonNegativeInteger ;
+ sml:numberOfValidValues "9443"^^xsd:nonNegativeInteger ;
+ sml:numberOfValidNonNullValues "8282"^^xsd:nonNegativeInteger ;
+ sml:numberOfInvalidValues "0"^^xsd:nonNegativeInteger ;
+ sml:averageNumberOfDigits "1.5962327940111085"^^xsd:double ;
+ sml:averageNumberOfCharacters "1.5962327940111085"^^xsd:double ;
+ sml:averageNumberOfTokens "1.0"^^xsd:double ;
+ sml:averageNumberOfCapitalisedValues "0.0"^^xsd:double ;
+ sml:averageNumberOfSpecialCharacters "0.0"^^xsd:double ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberMinimum> ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberMaximum> ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberMean> ;
+ sml:numberOfDistinctValues "23"^^xsd:nonNegativeInteger ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberStandardDeviation> ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberQuartile0> ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberQuartile1> ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberQuartile2> ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberQuartile3> ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberQuartile4> ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberDecile0> ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberDecile1> ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberDecile2> ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberDecile3> ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberDecile4> ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberDecile5> ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberDecile6> ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberDecile7> ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberDecile8> ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberDecile9> ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberDecile10> ;
+ sml:numberOfOutliersBelow "0"^^xsd:nonNegativeInteger ;
+ sml:numberOfOutliersAbove "0"^^xsd:nonNegativeInteger ;
+ sml:histogram "1114"^^xsd:nonNegativeInteger ;
+ sml:histogram "743"^^xsd:nonNegativeInteger ;
+ sml:histogram "743"^^xsd:nonNegativeInteger ;
+ sml:histogram "744"^^xsd:nonNegativeInteger ;
+ sml:histogram "1114"^^xsd:nonNegativeInteger ;
+ sml:histogram "739"^^xsd:nonNegativeInteger ;
+ sml:histogram "740"^^xsd:nonNegativeInteger ;
+ sml:histogram "740"^^xsd:nonNegativeInteger ;
+ sml:histogram "739"^^xsd:nonNegativeInteger ;
+ sml:histogram "866"^^xsd:nonNegativeInteger ;
+ seas:evaluation <AllWorldCupPlayersAttributeNumberMedian> .
+<AllWorldCupPlayersAttributeNumberMinimum> rdf:type seas:DistributionMinimumEvaluation ;
+ seas:evaluatedValue "1"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberMaximum> rdf:type seas:DistributionMaximumEvaluation ;
+ seas:evaluatedValue "23"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberMean> rdf:type seas:DistributionMeanEvaluation ;
+ seas:evaluatedValue "11.66409079932383"^^xsd:double .
+<AllWorldCupPlayersAttributeNumberStandardDeviation> rdf:type seas:DistributionStandardDeviationEvaluation ;
+ seas:evaluatedValue "6.453193203701437"^^xsd:double .
+<AllWorldCupPlayersAttributeNumberQuartile0> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "1"^^xsd:integer ;
+ seas:rank "0"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberQuartile1> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "6.0"^^xsd:double ;
+ seas:rank "1"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberQuartile2> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "12.0"^^xsd:double ;
+ seas:rank "2"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberQuartile3> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "17.0"^^xsd:double ;
+ seas:rank "3"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberQuartile4> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "23"^^xsd:integer ;
+ seas:rank "4"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberDecile0> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "1"^^xsd:integer ;
+ seas:rank "0"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberDecile1> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "3.0"^^xsd:double ;
+ seas:rank "1"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberDecile2> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "5.0"^^xsd:double ;
+ seas:rank "2"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberDecile3> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "7.0"^^xsd:double ;
+ seas:rank "3"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberDecile4> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "9.0"^^xsd:double ;
+ seas:rank "4"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberDecile5> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "12.0"^^xsd:double ;
+ seas:rank "5"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberDecile6> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "14.0"^^xsd:double ;
+ seas:rank "6"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberDecile7> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "16.0"^^xsd:double ;
+ seas:rank "7"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberDecile8> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "18.0"^^xsd:double ;
+ seas:rank "8"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberDecile9> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "21.0"^^xsd:double ;
+ seas:rank "9"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberDecile10> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "23"^^xsd:integer ;
+ seas:rank "10"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberHistogram0> sml:bucketMinimum "1"^^xsd:integer ;
+ sml:bucketMaximum "3"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberHistogram1> sml:bucketMaximum "5"^^xsd:integer ;
+ sml:bucketMinimum "4"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberHistogram2> sml:bucketMinimum "6"^^xsd:integer ;
+ sml:bucketMaximum "7"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberHistogram3> sml:bucketMinimum "8"^^xsd:integer ;
+ sml:bucketMaximum "9"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberHistogram4> sml:bucketMaximum "12"^^xsd:integer ;
+ sml:bucketMinimum "10"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberHistogram5> sml:bucketMaximum "14"^^xsd:integer ;
+ sml:bucketMinimum "12"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberHistogram6> sml:bucketMinimum "15"^^xsd:integer ;
+ sml:bucketMaximum "16"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberHistogram7> sml:bucketMinimum "17"^^xsd:integer ;
+ sml:bucketMaximum "18"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberHistogram8> sml:bucketMinimum "19"^^xsd:integer ;
+ sml:bucketMaximum "20"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberHistogram9> sml:bucketMaximum "23"^^xsd:integer ;
+ sml:bucketMinimum "21"^^xsd:integer .
+<AllWorldCupPlayersAttributeNumberMedian> rdf:type seas:DistributionMedianEvaluation ;
+ seas:evaluatedValue "12.0"^^xsd:double .
+### Statistics for "Position" (AllWorldCupPlayers)
+<AllWorldCupPlayersAttributePosition> sml:numberOfValues "9443"^^xsd:nonNegativeInteger ;
+ sml:numberOfNullValues "1"^^xsd:nonNegativeInteger ;
+ sml:numberOfValidValues "9443"^^xsd:nonNegativeInteger ;
+ sml:numberOfValidNonNullValues "9442"^^xsd:nonNegativeInteger ;
+ sml:numberOfInvalidValues "0"^^xsd:nonNegativeInteger ;
+ sml:averageNumberOfDigits "0.0"^^xsd:double ;
+ sml:averageNumberOfCharacters "2.0"^^xsd:double ;
+ sml:averageNumberOfTokens "1.0"^^xsd:double ;
+ sml:averageNumberOfCapitalisedValues "1.0"^^xsd:double ;
+ sml:averageNumberOfSpecialCharacters "0.0"^^xsd:double ;
+ sml:numberOfDistinctValues "4"^^xsd:nonNegativeInteger ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionMinimum> ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionMaximum> ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionMedian> ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionMean> ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionStandardDeviation> ;
+ sml:numberOfOutliersBelow "0.0"^^xsd:double ;
+ sml:numberOfOutliersAbove "0.0"^^xsd:double ;
+ sml:histogram "0"^^xsd:nonNegativeInteger ;
+ sml:histogram "0"^^xsd:nonNegativeInteger ;
+ sml:histogram "0"^^xsd:nonNegativeInteger ;
+ sml:histogram "0"^^xsd:nonNegativeInteger ;
+ sml:histogram "0"^^xsd:nonNegativeInteger ;
+ sml:histogram "0"^^xsd:nonNegativeInteger ;
+ sml:histogram "0"^^xsd:nonNegativeInteger ;
+ sml:histogram "0"^^xsd:nonNegativeInteger ;
+ sml:histogram "0"^^xsd:nonNegativeInteger ;
+ sml:histogram "9442"^^xsd:nonNegativeInteger ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionQuartile0> ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionQuartile1> ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionQuartile2> ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionQuartile3> ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionQuartile4> ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionDecile0> ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionDecile1> ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionDecile2> ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionDecile3> ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionDecile4> ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionDecile5> ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionDecile6> ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionDecile7> ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionDecile8> ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionDecile9> ;
+ seas:evaluation <AllWorldCupPlayersAttributePositionDecile10> .
+<AllWorldCupPlayersAttributePositionMinimum> rdf:type seas:DistributionMinimumEvaluation ;
+ seas:evaluatedValue "2"^^xsd:nonNegativeInteger ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionMaximum> rdf:type seas:DistributionMaximumEvaluation ;
+ seas:evaluatedValue "2"^^xsd:nonNegativeInteger ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionMedian> rdf:type seas:DistributionMedianEvaluation ;
+ seas:evaluatedValue "2.0"^^xsd:double ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionMean> rdf:type seas:DistributionMeanEvaluation ;
+ seas:evaluatedValue "2.0"^^xsd:double ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionStandardDeviation> rdf:type seas:DistributionStandardDeviationEvaluation ;
+ seas:evaluatedValue "0.0"^^xsd:double ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionNumberOfOutliersBelow> sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionNumberOfOutliersAbove> sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionHistogram0> sml:comment "string length"^^xsd:string ;
+ sml:bucketMinimum "2"^^xsd:integer ;
+ sml:bucketMaximum "2"^^xsd:integer .
+<AllWorldCupPlayersAttributePositionHistogram1> sml:comment "string length"^^xsd:string ;
+ sml:bucketMinimum "2"^^xsd:integer ;
+ sml:bucketMaximum "2"^^xsd:integer .
+<AllWorldCupPlayersAttributePositionHistogram2> sml:bucketMinimum "2"^^xsd:integer ;
+ sml:bucketMaximum "2"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionHistogram3> sml:bucketMinimum "2"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string ;
+ sml:bucketMaximum "2"^^xsd:integer .
+<AllWorldCupPlayersAttributePositionHistogram4> sml:bucketMinimum "2"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string ;
+ sml:bucketMaximum "2"^^xsd:integer .
+<AllWorldCupPlayersAttributePositionHistogram5> sml:bucketMinimum "2"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string ;
+ sml:bucketMaximum "2"^^xsd:integer .
+<AllWorldCupPlayersAttributePositionHistogram6> sml:comment "string length"^^xsd:string ;
+ sml:bucketMaximum "2"^^xsd:integer ;
+ sml:bucketMinimum "2"^^xsd:integer .
+<AllWorldCupPlayersAttributePositionHistogram7> sml:bucketMinimum "2"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string ;
+ sml:bucketMaximum "2"^^xsd:integer .
+<AllWorldCupPlayersAttributePositionHistogram8> sml:bucketMaximum "2"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string ;
+ sml:bucketMinimum "2"^^xsd:integer .
+<AllWorldCupPlayersAttributePositionHistogram9> sml:bucketMaximum "2"^^xsd:integer ;
+ sml:bucketMinimum "2"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionQuartile0> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "2"^^xsd:integer ;
+ seas:rank "0"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionQuartile1> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "2.0"^^xsd:double ;
+ seas:rank "1"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionQuartile2> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "2.0"^^xsd:double ;
+ seas:rank "2"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionQuartile3> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "2.0"^^xsd:double ;
+ seas:rank "3"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionQuartile4> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "2"^^xsd:integer ;
+ seas:rank "4"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionDecile0> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "2"^^xsd:integer ;
+ seas:rank "0"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionDecile1> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "2.0"^^xsd:double ;
+ seas:rank "1"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionDecile2> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "2.0"^^xsd:double ;
+ seas:rank "2"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionDecile3> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "2.0"^^xsd:double ;
+ seas:rank "3"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionDecile4> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "2.0"^^xsd:double ;
+ seas:rank "4"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionDecile5> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "2.0"^^xsd:double ;
+ seas:rank "5"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionDecile6> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "2.0"^^xsd:double ;
+ seas:rank "6"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionDecile7> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "2.0"^^xsd:double ;
+ seas:rank "7"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionDecile8> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "2.0"^^xsd:double ;
+ seas:rank "8"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionDecile9> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "2.0"^^xsd:double ;
+ seas:rank "9"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributePositionDecile10> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "2"^^xsd:integer ;
+ seas:rank "10"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+### Statistics for "FullName" (AllWorldCupPlayers)
+<AllWorldCupPlayersAttributeFullName> sml:numberOfValues "9443"^^xsd:nonNegativeInteger ;
+ sml:numberOfNullValues "2406"^^xsd:nonNegativeInteger ;
+ sml:numberOfValidValues "9443"^^xsd:nonNegativeInteger ;
+ sml:numberOfValidNonNullValues "7037"^^xsd:nonNegativeInteger ;
+ sml:numberOfInvalidValues "0"^^xsd:nonNegativeInteger ;
+ sml:averageNumberOfDigits "0.04433707545829189"^^xsd:double ;
+ sml:averageNumberOfCharacters "15.426460139263892"^^xsd:double ;
+ sml:averageNumberOfTokens "2.2110274264601393"^^xsd:double ;
+ sml:averageNumberOfCapitalisedValues "0.9972999857893989"^^xsd:double ;
+ sml:averageNumberOfSpecialCharacters "1.4739235469660366"^^xsd:double ;
+ sml:numberOfDistinctValues "5558"^^xsd:nonNegativeInteger ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameMinimum> ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameMaximum> ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameMedian> ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameMean> ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameStandardDeviation> ;
+ sml:numberOfOutliersBelow "27.0"^^xsd:double ;
+ sml:numberOfOutliersAbove "585.0"^^xsd:double ;
+ sml:histogram "52"^^xsd:nonNegativeInteger ;
+ sml:histogram "183"^^xsd:nonNegativeInteger ;
+ sml:histogram "301"^^xsd:nonNegativeInteger ;
+ sml:histogram "1465"^^xsd:nonNegativeInteger ;
+ sml:histogram "1993"^^xsd:nonNegativeInteger ;
+ sml:histogram "745"^^xsd:nonNegativeInteger ;
+ sml:histogram "1000"^^xsd:nonNegativeInteger ;
+ sml:histogram "274"^^xsd:nonNegativeInteger ;
+ sml:histogram "309"^^xsd:nonNegativeInteger ;
+ sml:histogram "103"^^xsd:nonNegativeInteger ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameQuartile0> ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameQuartile1> ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameQuartile2> ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameQuartile3> ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameQuartile4> ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameDecile0> ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameDecile1> ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameDecile2> ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameDecile3> ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameDecile4> ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameDecile5> ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameDecile6> ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameDecile7> ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameDecile8> ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameDecile9> ;
+ seas:evaluation <AllWorldCupPlayersAttributeFullNameDecile10> .
+<AllWorldCupPlayersAttributeFullNameMinimum> rdf:type seas:DistributionMinimumEvaluation ;
+ seas:evaluatedValue "4"^^xsd:nonNegativeInteger ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameMaximum> rdf:type seas:DistributionMaximumEvaluation ;
+ seas:evaluatedValue "147"^^xsd:nonNegativeInteger ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameMedian> rdf:type seas:DistributionMedianEvaluation ;
+ seas:evaluatedValue "14.0"^^xsd:double ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameMean> rdf:type seas:DistributionMeanEvaluation ;
+ seas:evaluatedValue "15.426460139263892"^^xsd:double ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameStandardDeviation> rdf:type seas:DistributionStandardDeviationEvaluation ;
+ seas:evaluatedValue "6.345522935944297"^^xsd:double ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameNumberOfOutliersBelow> sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameNumberOfOutliersAbove> sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameHistogram0> sml:comment "string length"^^xsd:string ;
+ sml:bucketMaximum "7"^^xsd:integer ;
+ sml:bucketMinimum "6"^^xsd:integer .
+<AllWorldCupPlayersAttributeFullNameHistogram1> sml:bucketMinimum "8"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string ;
+ sml:bucketMaximum "9"^^xsd:integer .
+<AllWorldCupPlayersAttributeFullNameHistogram2> sml:bucketMaximum "10"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string ;
+ sml:bucketMinimum "10"^^xsd:integer .
+<AllWorldCupPlayersAttributeFullNameHistogram3> sml:bucketMinimum "11"^^xsd:integer ;
+ sml:bucketMaximum "12"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameHistogram4> sml:comment "string length"^^xsd:string ;
+ sml:bucketMaximum "14"^^xsd:integer ;
+ sml:bucketMinimum "13"^^xsd:integer .
+<AllWorldCupPlayersAttributeFullNameHistogram5> sml:bucketMinimum "14"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string ;
+ sml:bucketMaximum "15"^^xsd:integer .
+<AllWorldCupPlayersAttributeFullNameHistogram6> sml:bucketMinimum "16"^^xsd:integer ;
+ sml:bucketMaximum "17"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameHistogram7> sml:comment "string length"^^xsd:string ;
+ sml:bucketMaximum "18"^^xsd:integer ;
+ sml:bucketMinimum "18"^^xsd:integer .
+<AllWorldCupPlayersAttributeFullNameHistogram8> sml:bucketMinimum "19"^^xsd:integer ;
+ sml:bucketMaximum "20"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameHistogram9> sml:bucketMaximum "22"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string ;
+ sml:bucketMinimum "21"^^xsd:integer .
+<AllWorldCupPlayersAttributeFullNameQuartile0> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "4"^^xsd:integer ;
+ seas:rank "0"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameQuartile1> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "12.0"^^xsd:double ;
+ seas:rank "1"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameQuartile2> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "14.0"^^xsd:double ;
+ seas:rank "2"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameQuartile3> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "16.0"^^xsd:double ;
+ seas:rank "3"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameQuartile4> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "147"^^xsd:integer ;
+ seas:rank "4"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameDecile0> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "4"^^xsd:integer ;
+ seas:rank "0"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameDecile1> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "11.0"^^xsd:double ;
+ seas:rank "1"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameDecile2> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "12.0"^^xsd:double ;
+ seas:rank "2"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameDecile3> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "13.0"^^xsd:double ;
+ seas:rank "3"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameDecile4> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "13.0"^^xsd:double ;
+ seas:rank "4"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameDecile5> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "14.0"^^xsd:double ;
+ seas:rank "5"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameDecile6> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "15.0"^^xsd:double ;
+ seas:rank "6"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameDecile7> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "16.0"^^xsd:double ;
+ seas:rank "7"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameDecile8> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "17.0"^^xsd:double ;
+ seas:rank "8"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameDecile9> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "20.0"^^xsd:double ;
+ seas:rank "9"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeFullNameDecile10> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "147"^^xsd:integer ;
+ seas:rank "10"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+### Statistics for "Club" (AllWorldCupPlayers)
+<AllWorldCupPlayersAttributeClub> sml:numberOfValues "9443"^^xsd:nonNegativeInteger ;
+ sml:numberOfNullValues "24"^^xsd:nonNegativeInteger ;
+ sml:numberOfValidValues "9443"^^xsd:nonNegativeInteger ;
+ sml:numberOfValidNonNullValues "9419"^^xsd:nonNegativeInteger ;
+ sml:numberOfInvalidValues "0"^^xsd:nonNegativeInteger ;
+ sml:averageNumberOfDigits "0.06455037689775985"^^xsd:double ;
+ sml:averageNumberOfCharacters "15.388045440067948"^^xsd:double ;
+ sml:averageNumberOfTokens "2.491347276780975"^^xsd:double ;
+ sml:averageNumberOfCapitalisedValues "0.9764306189616733"^^xsd:double ;
+ sml:averageNumberOfSpecialCharacters "2.579891708249283"^^xsd:double ;
+ sml:numberOfDistinctValues "1781"^^xsd:nonNegativeInteger ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubMinimum> ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubMaximum> ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubMedian> ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubMean> ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubStandardDeviation> ;
+ sml:numberOfOutliersBelow "0.0"^^xsd:double ;
+ sml:numberOfOutliersAbove "152.0"^^xsd:double ;
+ sml:histogram "44"^^xsd:nonNegativeInteger ;
+ sml:histogram "397"^^xsd:nonNegativeInteger ;
+ sml:histogram "1534"^^xsd:nonNegativeInteger ;
+ sml:histogram "2488"^^xsd:nonNegativeInteger ;
+ sml:histogram "1779"^^xsd:nonNegativeInteger ;
+ sml:histogram "1014"^^xsd:nonNegativeInteger ;
+ sml:histogram "858"^^xsd:nonNegativeInteger ;
+ sml:histogram "598"^^xsd:nonNegativeInteger ;
+ sml:histogram "392"^^xsd:nonNegativeInteger ;
+ sml:histogram "163"^^xsd:nonNegativeInteger ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubQuartile0> ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubQuartile1> ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubQuartile2> ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubQuartile3> ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubQuartile4> ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubDecile0> ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubDecile1> ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubDecile2> ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubDecile3> ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubDecile4> ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubDecile5> ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubDecile6> ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubDecile7> ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubDecile8> ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubDecile9> ;
+ seas:evaluation <AllWorldCupPlayersAttributeClubDecile10> .
+<AllWorldCupPlayersAttributeClubMinimum> rdf:type seas:DistributionMinimumEvaluation ;
+ seas:evaluatedValue "1"^^xsd:nonNegativeInteger ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubMaximum> rdf:type seas:DistributionMaximumEvaluation ;
+ seas:evaluatedValue "59"^^xsd:nonNegativeInteger ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubMedian> rdf:type seas:DistributionMedianEvaluation ;
+ seas:evaluatedValue "14.0"^^xsd:double ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubMean> rdf:type seas:DistributionMeanEvaluation ;
+ seas:evaluatedValue "15.388045440067945"^^xsd:double ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubStandardDeviation> rdf:type seas:DistributionStandardDeviationEvaluation ;
+ seas:evaluatedValue "6.150400438930845"^^xsd:double ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubNumberOfOutliersBelow> sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubNumberOfOutliersAbove> sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubHistogram0> sml:comment "string length"^^xsd:string ;
+ sml:bucketMinimum "1"^^xsd:integer ;
+ sml:bucketMaximum "4"^^xsd:integer .
+<AllWorldCupPlayersAttributeClubHistogram1> sml:bucketMinimum "4"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string ;
+ sml:bucketMaximum "7"^^xsd:integer .
+<AllWorldCupPlayersAttributeClubHistogram2> sml:comment "string length"^^xsd:string ;
+ sml:bucketMaximum "10"^^xsd:integer ;
+ sml:bucketMinimum "7"^^xsd:integer .
+<AllWorldCupPlayersAttributeClubHistogram3> sml:bucketMaximum "13"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string ;
+ sml:bucketMinimum "10"^^xsd:integer .
+<AllWorldCupPlayersAttributeClubHistogram4> sml:bucketMaximum "16"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string ;
+ sml:bucketMinimum "13"^^xsd:integer .
+<AllWorldCupPlayersAttributeClubHistogram5> sml:bucketMinimum "16"^^xsd:integer ;
+ sml:bucketMaximum "19"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubHistogram6> sml:comment "string length"^^xsd:string ;
+ sml:bucketMinimum "19"^^xsd:integer ;
+ sml:bucketMaximum "22"^^xsd:integer .
+<AllWorldCupPlayersAttributeClubHistogram7> sml:bucketMinimum "22"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string ;
+ sml:bucketMaximum "25"^^xsd:integer .
+<AllWorldCupPlayersAttributeClubHistogram8> sml:comment "string length"^^xsd:string ;
+ sml:bucketMaximum "28"^^xsd:integer ;
+ sml:bucketMinimum "25"^^xsd:integer .
+<AllWorldCupPlayersAttributeClubHistogram9> sml:bucketMinimum "28"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string ;
+ sml:bucketMaximum "31"^^xsd:integer .
+<AllWorldCupPlayersAttributeClubQuartile0> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "1"^^xsd:integer ;
+ seas:rank "0"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubQuartile1> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "11.0"^^xsd:double ;
+ seas:rank "1"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubQuartile2> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "14.0"^^xsd:double ;
+ seas:rank "2"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubQuartile3> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "19.0"^^xsd:double ;
+ seas:rank "3"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubQuartile4> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "59"^^xsd:integer ;
+ seas:rank "4"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubDecile0> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "1"^^xsd:integer ;
+ seas:rank "0"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubDecile1> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "9.0"^^xsd:double ;
+ seas:rank "1"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubDecile2> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "10.0"^^xsd:double ;
+ seas:rank "2"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubDecile3> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "12.0"^^xsd:double ;
+ seas:rank "3"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubDecile4> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "13.0"^^xsd:double ;
+ seas:rank "4"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubDecile5> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "14.0"^^xsd:double ;
+ seas:rank "5"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubDecile6> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "16.0"^^xsd:double ;
+ seas:rank "6"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubDecile7> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "17.0"^^xsd:double ;
+ seas:rank "7"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubDecile8> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "21.0"^^xsd:double ;
+ seas:rank "8"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubDecile9> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "24.0"^^xsd:double ;
+ seas:rank "9"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+<AllWorldCupPlayersAttributeClubDecile10> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "59"^^xsd:integer ;
+ seas:rank "10"^^xsd:integer ;
+ sml:comment "string length"^^xsd:string .
+### Statistics for "DateOfBirth" (AllWorldCupPlayers)
+<AllWorldCupPlayersAttributeDateOfBirth> sml:numberOfValues "9443"^^xsd:nonNegativeInteger ;
+ sml:numberOfNullValues "223"^^xsd:nonNegativeInteger ;
+ sml:numberOfValidValues "9440"^^xsd:nonNegativeInteger ;
+ sml:numberOfValidNonNullValues "9217"^^xsd:nonNegativeInteger ;
+ sml:numberOfInvalidValues "3"^^xsd:nonNegativeInteger ;
+ sml:averageNumberOfDigits "12.729955516979494"^^xsd:double ;
+ sml:averageNumberOfCharacters "12.729955516979494"^^xsd:double ;
+ sml:averageNumberOfTokens "1.0"^^xsd:double ;
+ sml:averageNumberOfCapitalisedValues "0.0"^^xsd:double ;
+ sml:averageNumberOfSpecialCharacters "0.0"^^xsd:double ;
+ sml:numberOfDistinctValues "6318"^^xsd:nonNegativeInteger ;
+ sml:numberOfOutliersBelow "0"^^xsd:nonNegativeInteger ;
+ sml:numberOfOutliersAbove "0"^^xsd:nonNegativeInteger ;
+ sml:histogram "59"^^xsd:nonNegativeInteger ;
+ sml:histogram "571"^^xsd:nonNegativeInteger ;
+ sml:histogram "339"^^xsd:nonNegativeInteger ;
+ sml:histogram "761"^^xsd:nonNegativeInteger ;
+ sml:histogram "897"^^xsd:nonNegativeInteger ;
+ sml:histogram "1059"^^xsd:nonNegativeInteger ;
+ sml:histogram "1415"^^xsd:nonNegativeInteger ;
+ sml:histogram "1713"^^xsd:nonNegativeInteger ;
+ sml:histogram "1846"^^xsd:nonNegativeInteger ;
+ sml:histogram "557"^^xsd:nonNegativeInteger ;
+ seas:evaluation <AllWorldCupPlayersAttributeDateOfBirthminimum> ;
+ seas:evaluation <AllWorldCupPlayersAttributeDateOfBirthmaximum> ;
+ seas:evaluation <AllWorldCupPlayersAttributeDateOfBirthmedian> ;
+ seas:evaluation <AllWorldCupPlayersAttributeDateOfBirthQuartile0> ;
+ seas:evaluation <AllWorldCupPlayersAttributeDateOfBirthQuartile1> ;
+ seas:evaluation <AllWorldCupPlayersAttributeDateOfBirthQuartile2> ;
+ seas:evaluation <AllWorldCupPlayersAttributeDateOfBirthQuartile3> ;
+ seas:evaluation <AllWorldCupPlayersAttributeDateOfBirthQuartile4> ;
+ seas:evaluation <AllWorldCupPlayersAttributeDateOfBirthDecile0> ;
+ seas:evaluation <AllWorldCupPlayersAttributeDateOfBirthDecile1> ;
+ seas:evaluation <AllWorldCupPlayersAttributeDateOfBirthDecile2> ;
+ seas:evaluation <AllWorldCupPlayersAttributeDateOfBirthDecile3> ;
+ seas:evaluation <AllWorldCupPlayersAttributeDateOfBirthDecile4> ;
+ seas:evaluation <AllWorldCupPlayersAttributeDateOfBirthDecile5> ;
+ seas:evaluation <AllWorldCupPlayersAttributeDateOfBirthDecile6> ;
+ seas:evaluation <AllWorldCupPlayersAttributeDateOfBirthDecile7> ;
+ seas:evaluation <AllWorldCupPlayersAttributeDateOfBirthDecile8> ;
+ seas:evaluation <AllWorldCupPlayersAttributeDateOfBirthDecile9> ;
+ seas:evaluation <AllWorldCupPlayersAttributeDateOfBirthDecile10> .
+<AllWorldCupPlayersAttributeDateOfBirthHistogram0> sml:bucketMinimum "1892-05-09T12:00:00"^^xsd:dateTime ;
+ sml:bucketMaximum "1902-10-24T12:00:00"^^xsd:dateTime .
+<AllWorldCupPlayersAttributeDateOfBirthHistogram1> sml:bucketMaximum "1913-04-09T12:00:00"^^xsd:dateTime ;
+ sml:bucketMinimum "1902-10-24T12:00:00"^^xsd:dateTime .
+<AllWorldCupPlayersAttributeDateOfBirthHistogram2> sml:bucketMaximum "1923-09-23T12:00:00"^^xsd:dateTime ;
+ sml:bucketMinimum "1913-04-09T12:00:00"^^xsd:dateTime .
+<AllWorldCupPlayersAttributeDateOfBirthHistogram3> sml:bucketMinimum "1923-09-23T12:00:00"^^xsd:dateTime ;
+ sml:bucketMaximum "1934-03-09T12:00:00"^^xsd:dateTime .
+<AllWorldCupPlayersAttributeDateOfBirthHistogram4> sml:bucketMinimum "1934-03-09T12:00:00"^^xsd:dateTime ;
+ sml:bucketMaximum "1944-08-22T12:00:00"^^xsd:dateTime .
+<AllWorldCupPlayersAttributeDateOfBirthHistogram5> sml:bucketMinimum "1944-08-22T12:00:00"^^xsd:dateTime ;
+ sml:bucketMaximum "1955-02-06T12:00:00"^^xsd:dateTime .
+<AllWorldCupPlayersAttributeDateOfBirthHistogram6> sml:bucketMaximum "1965-07-22T12:00:00"^^xsd:dateTime ;
+ sml:bucketMinimum "1955-02-06T12:00:00"^^xsd:dateTime .
+<AllWorldCupPlayersAttributeDateOfBirthHistogram7> sml:bucketMinimum "1965-07-22T12:00:00"^^xsd:dateTime ;
+ sml:bucketMaximum "1976-01-06T12:00:00"^^xsd:dateTime .
+<AllWorldCupPlayersAttributeDateOfBirthHistogram8> sml:bucketMaximum "1986-06-21T12:00:00"^^xsd:dateTime ;
+ sml:bucketMinimum "1976-01-06T12:00:00"^^xsd:dateTime .
+<AllWorldCupPlayersAttributeDateOfBirthHistogram9> sml:bucketMinimum "1986-06-21T12:00:00"^^xsd:dateTime ;
+ sml:bucketMaximum "1996-12-05T12:00:00"^^xsd:dateTime .
+<AllWorldCupPlayersAttributeDateOfBirthminimum> rdf:type seas:DistributionMinimumEvaluation ;
+ seas:evaluatedValue "1892-05-09T12:00:00"^^xsd:dateTime .
+<AllWorldCupPlayersAttributeDateOfBirthmaximum> rdf:type seas:DistributionMaximumEvaluation ;
+ seas:evaluatedValue "1996-12-05T12:00:00"^^xsd:dateTime .
+<AllWorldCupPlayersAttributeDateOfBirthmedian> rdf:type seas:DistributionMedianEvaluation ;
+ seas:evaluatedValue "1962-01-28T12:00:00"^^xsd:dateTime .
+<AllWorldCupPlayersAttributeDateOfBirthQuartile0> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "1892-05-09T12:00:00"^^xsd:dateTime ;
+ seas:rank "0"^^xsd:integer .
+<AllWorldCupPlayersAttributeDateOfBirthQuartile1> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "1941-04-08T12:00:00"^^xsd:dateTime ;
+ seas:rank "1"^^xsd:integer .
+<AllWorldCupPlayersAttributeDateOfBirthQuartile2> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "1962-01-28T12:00:00"^^xsd:dateTime ;
+ seas:rank "2"^^xsd:integer .
+<AllWorldCupPlayersAttributeDateOfBirthQuartile3> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "1976-06-28T12:00:00"^^xsd:dateTime ;
+ seas:rank "3"^^xsd:integer .
+<AllWorldCupPlayersAttributeDateOfBirthQuartile4> rdf:type seas:DistributionQuartileEvaluation ;
+ seas:evaluatedValue "1996-12-05T12:00:00"^^xsd:dateTime ;
+ seas:rank "4"^^xsd:integer .
+<AllWorldCupPlayersAttributeDateOfBirthDecile0> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "1892-05-09T12:00:00"^^xsd:dateTime ;
+ seas:rank "0"^^xsd:integer .
+<AllWorldCupPlayersAttributeDateOfBirthDecile1> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "1922-08-11T12:00:00"^^xsd:dateTime ;
+ seas:rank "1"^^xsd:integer .
+<AllWorldCupPlayersAttributeDateOfBirthDecile2> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "1935-07-26T12:00:00"^^xsd:dateTime ;
+ seas:rank "2"^^xsd:integer .
+<AllWorldCupPlayersAttributeDateOfBirthDecile3> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "1946-01-01T12:00:00"^^xsd:dateTime ;
+ seas:rank "3"^^xsd:integer .
+<AllWorldCupPlayersAttributeDateOfBirthDecile4> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "1955-02-10T12:00:00"^^xsd:dateTime ;
+ seas:rank "4"^^xsd:integer .
+<AllWorldCupPlayersAttributeDateOfBirthDecile5> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "1962-01-28T12:00:00"^^xsd:dateTime ;
+ seas:rank "5"^^xsd:integer .
+<AllWorldCupPlayersAttributeDateOfBirthDecile6> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "1968-04-22T12:00:00"^^xsd:dateTime ;
+ seas:rank "6"^^xsd:integer .
+<AllWorldCupPlayersAttributeDateOfBirthDecile7> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "1973-09-23T12:00:00"^^xsd:dateTime ;
+ seas:rank "7"^^xsd:integer .
+<AllWorldCupPlayersAttributeDateOfBirthDecile8> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "1979-02-20T12:00:00"^^xsd:dateTime ;
+ seas:rank "8"^^xsd:integer .
+<AllWorldCupPlayersAttributeDateOfBirthDecile9> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "1984-03-24T12:00:00"^^xsd:dateTime ;
+ seas:rank "9"^^xsd:integer .
+<AllWorldCupPlayersAttributeDateOfBirthDecile10> rdf:type seas:DistributionDecileEvaluation ;
+ seas:evaluatedValue "1996-12-05T12:00:00"^^xsd:dateTime ;
+ seas:rank "10"^^xsd:integer .
+### Statistics for "IsCaptain" (AllWorldCupPlayers)
+<AllWorldCupPlayersAttributeIsCaptain> sml:numberOfValues "9443"^^xsd:nonNegativeInteger ;
+ sml:numberOfNullValues "0"^^xsd:nonNegativeInteger ;
+ sml:numberOfValidValues "9443"^^xsd:nonNegativeInteger ;
+ sml:numberOfValidNonNullValues "9443"^^xsd:nonNegativeInteger ;
+ sml:numberOfInvalidValues "0"^^xsd:nonNegativeInteger ;
+ sml:averageNumberOfDigits "1.0"^^xsd:double ;
+ sml:averageNumberOfCharacters "1.0"^^xsd:double ;
+ sml:averageNumberOfTokens "1.0"^^xsd:double ;
+ sml:averageNumberOfCapitalisedValues "0.0"^^xsd:double ;
+ sml:averageNumberOfSpecialCharacters "0.0"^^xsd:double ;
+ sml:numberOfTrueValues "353"^^xsd:nonNegativeInteger ;
+ sml:numberOfFalseValues "9090"^^xsd:nonNegativeInteger ;
+ sml:numberOfDistinctValues "2"^^xsd:nonNegativeInteger .

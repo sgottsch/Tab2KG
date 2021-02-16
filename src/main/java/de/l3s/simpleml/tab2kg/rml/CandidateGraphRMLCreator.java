@@ -28,7 +28,9 @@ public class CandidateGraphRMLCreator {
 			Map<Resource, Set<Property>> allIdentifiers) {
 
 		RMLMapping mapping = new RMLMapping();
+		mapping.setDelimiter(dataTable.getDelimiter());
 		mapping.setSourceFileName(dataTable.getFileName());
+		mapping.setNullValue(dataTable.getNullValue());
 
 		Map<Resource, RMLSubjectMap> mapsPerType = new HashMap<Resource, RMLSubjectMap>();
 
@@ -50,7 +52,8 @@ public class CandidateGraphRMLCreator {
 
 			if (allIdentifiers.containsKey(type)) {
 				for (RDFNodeLiteralTriple literalRelation : graph.getMiniSchema().getLiteralTriples()) {
-					if (allIdentifiers.get(type).contains(literalRelation.getProperty())) {
+					if (literalRelation.getSubject() == type
+							&& allIdentifiers.get(type).contains(literalRelation.getProperty())) {
 						identifiers.put(type, literalRelation.getId());
 						break;
 					}
@@ -106,7 +109,8 @@ public class CandidateGraphRMLCreator {
 				lines.add("@prefix csvw: <http://www.w3.org/ns/csvw#>.");
 
 				// file
-				lines.addAll(createRMLFileDescription(mapping.getSourceFileName(), mapping.getDelimiter()));
+				lines.addAll(createRMLFileDescription(mapping.getSourceFileName(), mapping.getDelimiter(),
+						mapping.getNullValue()));
 
 				Map<Resource, Integer> resourceCounts = new HashMap<Resource, Integer>();
 
@@ -195,7 +199,7 @@ public class CandidateGraphRMLCreator {
 
 	}
 
-	private static List<String> createRMLFileDescription(String sourceFileName, String delimiter) {
+	private static List<String> createRMLFileDescription(String sourceFileName, String delimiter, String nullValue) {
 
 		List<String> lines = new ArrayList<String>();
 
@@ -209,6 +213,8 @@ public class CandidateGraphRMLCreator {
 		lines.add("\tcsvw:dialect [");
 		lines.add("\t\ta csvw:Dialect;");
 		lines.add("\t\tcsvw:delimiter \"" + delimiter + "\";");
+		lines.add("\t\tcsvw:null \"" + nullValue + "\";");
+
 		lines.add("] .");
 
 		return lines;

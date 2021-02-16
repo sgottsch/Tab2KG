@@ -6,14 +6,12 @@ import java.nio.charset.StandardCharsets;
 
 import org.apache.commons.io.IOUtils;
 
-import de.l3s.simpleml.tab2kg.graph.TypeGraphBuilder;
-
 public class FileLoader {
 
 	public static String readResourceFileToString(String fileName) throws IOException {
-		if (!Config.isLocal())
-			fileName = "resources/" + fileName;
-		InputStream is = TypeGraphBuilder.class.getResourceAsStream("/" + fileName);
+//		if (!Config.isLocal())
+//			fileName = "resources/" + fileName;
+		InputStream is = FileLoader.class.getResourceAsStream("/" + fileName);
 		return IOUtils.toString(is, StandardCharsets.UTF_8);
 	}
 

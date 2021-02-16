@@ -31,7 +31,7 @@ public class SimpleGraphProfilesCreator {
 			LiteralRelationProfileCreator profileCreator = new LiteralRelationProfileCreator(
 					typeGraphBuilder.getModel(), literalRelation);
 			Attribute attribute = profileCreator.createProfile(numbersOfQuantiles, numbersOfIntervals);
-
+			
 			if (attribute == null)
 				return false;
 

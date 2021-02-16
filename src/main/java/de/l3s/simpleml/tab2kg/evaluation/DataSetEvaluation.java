@@ -1,7 +1,10 @@
 package de.l3s.simpleml.tab2kg.evaluation;
 
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.io.PrintWriter;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.List;
 
 import com.beust.jcommander.JCommander;
@@ -102,6 +105,12 @@ public class DataSetEvaluation {
 			String comment = "";
 			if (this.comment != null)
 				comment = "_" + this.comment;
+
+			try {
+				Files.createDirectories(Paths.get(Config.getPath(FileLocation.RESULTS)));
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
 
 			writer = new PrintWriter(Config.getPath(FileLocation.RESULTS) + this.source.getName() + greedy + dsl + t2k
 					+ comment + ".txt");

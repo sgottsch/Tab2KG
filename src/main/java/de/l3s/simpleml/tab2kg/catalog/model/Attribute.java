@@ -15,6 +15,7 @@ import de.l3s.simpleml.tab2kg.catalog.model.statistics.AttributeStatistics;
 import de.l3s.simpleml.tab2kg.catalog.model.statistics.AttributeStatisticsTypeL1;
 import de.l3s.simpleml.tab2kg.model.sparql.MappedClass;
 import de.l3s.simpleml.tab2kg.model.sparql.datatypes.DataTypeClass;
+import de.l3s.simpleml.tab2kg.profiles.rdf.model.PrefixedInstance;
 import de.l3s.simpleml.tab2kg.util.GeoUtil;
 import de.l3s.simpleml.tab2kg.util.Tab2KGConfiguration;
 import de.l3s.simpleml.tab2kg.util.time.DateUtil;
@@ -72,6 +73,8 @@ public class Attribute {
 
 	private Map<Attribute, Double> similarities = new HashMap<Attribute, Double>();
 	private Map<Attribute, Double> correlations = new HashMap<Attribute, Double>();
+
+	private PrefixedInstance prefixedInstance;
 
 	public Attribute() {
 	}
@@ -408,6 +411,14 @@ public class Attribute {
 
 	public void addCorrelation(Attribute attribute, Double correlation) {
 		this.correlations.put(attribute, correlation);
+	}
+
+	public PrefixedInstance getPrefixedInstance() {
+		return prefixedInstance;
+	}
+
+	public void setPrefixedInstance(PrefixedInstance prefixedInstance) {
+		this.prefixedInstance = prefixedInstance;
 	}
 
 }

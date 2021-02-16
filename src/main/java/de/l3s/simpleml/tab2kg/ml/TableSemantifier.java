@@ -40,6 +40,8 @@ import de.l3s.simpleml.tab2kg.model.rdf.RDFNodeTriple;
 import de.l3s.simpleml.tab2kg.profiles.FeatureConfig;
 import de.l3s.simpleml.tab2kg.profiles.ProfilePairNormaliser;
 import de.l3s.simpleml.tab2kg.profiles.features.ProfileFeaturePlaceholder;
+import de.l3s.simpleml.tab2kg.util.Config;
+import de.l3s.simpleml.tab2kg.util.FileLocation;
 
 public class TableSemantifier {
 
@@ -54,8 +56,8 @@ public class TableSemantifier {
 	public static final String NULL_VALUE = "";
 	public static int MAX_NUMBER_OF_CANDIDATE_GRAPHS = 50;
 
-	private String pythonFile = ""; // anonymized
-	private String weightsFile = ""; // anonymized
+	private String pythonFile = "column_matcher_batch.py";
+	private String weightsFile = "weights.h5";
 
 	private EvaluationInstance evaluationInstance;
 
@@ -136,7 +138,7 @@ public class TableSemantifier {
 		return true;
 	}
 
-	private CandidateGraph findCandidateGraphGreedy(DataTable dataTable, SimpleGraph simpleGraph) {
+	public CandidateGraph findCandidateGraphGreedy(DataTable dataTable, SimpleGraph simpleGraph) {
 		List<Double> results = getConfidences(simpleGraph, dataTable);
 
 		List<ColumnCandidate> candidateColumns = new ArrayList<ColumnCandidate>();
@@ -413,9 +415,9 @@ public class TableSemantifier {
 				tableFeaturesStrings = tableFeaturesStringSlices.get(i);
 				graphFeatureStrings = graphFeatureStringSlices.get(i);
 
-				ProcessBuilder pb = new ProcessBuilder("python3", pythonFile, weightsFile,
-						String.valueOf(NUMBER_OF_FEATURES), StringUtils.join(graphFeatureStrings, "\n"),
-						StringUtils.join(tableFeaturesStrings, "\n"));// , StringUtils.join(weCosSimStrings, "\n"));
+				ProcessBuilder pb = new ProcessBuilder("python3", Config.getPath(FileLocation.BASE_FOLDER) + pythonFile,
+						Config.getPath(FileLocation.BASE_FOLDER) + weightsFile, String.valueOf(NUMBER_OF_FEATURES),
+						StringUtils.join(graphFeatureStrings, "\n"), StringUtils.join(tableFeaturesStrings, "\n"));
 
 				Process p = pb.start();
 				BufferedReader in = new BufferedReader(new InputStreamReader(p.getInputStream()));

@@ -4,8 +4,8 @@ import java.io.File;
 
 public class Config {
 
-	private static final String LOCAL_PREFIX = ""; // anonymized
-	private static final String SERVER_PREFIX = ""; // anonymized
+	private static final String LOCAL_PREFIX = "/home/simon/Documents/Tab2KG/data_workspace/";
+	private static final String SERVER_PREFIX = "/home/gottschalk/Tab2KG/";
 	public static final String GITHUB_ACCESS_TOKEN = ""; // anonymized
 
 	public static String getPath(FileLocation location) {
@@ -30,6 +30,8 @@ public class Config {
 	}
 
 	public static boolean isLocal() {
+		if (SERVER_PREFIX == null)
+			return true;
 		return !((new File(SERVER_PREFIX)).exists());
 	}
 

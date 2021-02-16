@@ -1,0 +1,100 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#>.
+@prefix rml: <http://semweb.mmlab.be/ns/rml#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix ex: <http://example.com/resource/>.
+@prefix ql: <http://semweb.mmlab.be/ns/ql#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix csvw: <http://www.w3.org/ns/csvw#>.
+ex:File
+	rdf:type rml:source ;
+	rml:source ex:FileSource ;
+	rml:referenceFormulation ql:CSV .
+ex:FileSource a csvw:Table;
+	csvw:url "/home/gottschalk/Tab2KG/data/soccer/tables/all_world_cup_players.csv" ;
+	csvw:dialect [
+		a csvw:Dialect;
+		csvw:delimiter ",";
+		csvw:null "";
+] .
+ex:Mapping0
+	rdf:type rr:TriplesMap ;
+	rml:logicalSource ex:File ;
+	rr:subjectMap [
+		rr:class <http://schema.org/Player> ;
+		rr:template "http://schema.org/Player{rowNumber}" ;
+];
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/name> ;
+	rr:objectMap [
+		rml:reference "FullName";
+		rr:datatype <http://www.w3.org/2001/XMLSchema#string>
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/isCaptain> ;
+	rr:objectMap [
+		rml:reference "IsCaptain";
+		rr:datatype <http://www.w3.org/2001/XMLSchema#string>
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/playPosition> ;
+	rr:objectMap [
+		rml:reference "Position";
+		rr:datatype <http://www.w3.org/2001/XMLSchema#string>
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/birthDate> ;
+	rr:objectMap [
+		rml:reference "DateOfBirth";
+		rr:datatype <http://www.w3.org/2001/XMLSchema#string>
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/tag> ;
+	rr:objectMap [
+		rml:reference "Number";
+		rr:datatype <http://www.w3.org/2001/XMLSchema#string>
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/inClub> ;
+	rr:objectMap [
+		rr:template "http://schema.org/SportsClub{rowNumber}";
+	]
+] ;
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/inNationalTeam> ;
+	rr:objectMap [
+		rr:template "http://schema.org/SportsTeam{rowNumber}";
+	]
+] .
+ex:Mapping1
+	rdf:type rr:TriplesMap ;
+	rml:logicalSource ex:File ;
+	rr:subjectMap [
+		rr:class <http://schema.org/SportsTeam> ;
+		rr:template "http://schema.org/SportsTeam{rowNumber}" ;
+];
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/name> ;
+	rr:objectMap [
+		rml:reference "Team";
+		rr:datatype <http://www.w3.org/2001/XMLSchema#string>
+	]
+] .
+ex:Mapping2
+	rdf:type rr:TriplesMap ;
+	rml:logicalSource ex:File ;
+	rr:subjectMap [
+		rr:class <http://schema.org/SportsClub> ;
+		rr:template "http://schema.org/SportsClub{rowNumber}" ;
+];
+rr:predicateObjectMap [
+	rr:predicate <http://schema.org/name> ;
+	rr:objectMap [
+		rml:reference "Club";
+		rr:datatype <http://www.w3.org/2001/XMLSchema#string>
+	]
+] .

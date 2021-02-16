@@ -2,11 +2,12 @@ package de.l3s.simpleml.tab2kg.model.sparql;
 
 public enum Prefix {
 
-	RDF("http://www.w3.org/1999/02/22-rdf-syntax-ns#", "rdf"), ANON("https://example.org/resource/", "sml"),
-	OWL("http://www.w3.org/2002/07/owl#", "owl"), DCTERMS("http://purl.org/dc/terms/", "dcterms"),
-	DCELEMENTS("http://purl.org/dc/elements/1.1/", "dcelements"), SO("http://schema.org/", "so"),
-	SIOC("http://rdfs.org/sioc/ns#", "sioc"), RDFS("http://www.w3.org/2000/01/rdf-schema#", "rdfs"),
-	XSD("http://www.w3.org/2001/XMLSchema#", "xsd"), GEO("https://www.w3.org/2003/01/geo/wgs84_pos#", "geo"),
+	RDF("http://www.w3.org/1999/02/22-rdf-syntax-ns#", "rdf"), SML("https://simple-ml.de/resource/", "sml"),
+	ANON("https://example.org/resource/", "sml"), OWL("http://www.w3.org/2002/07/owl#", "owl"),
+	DCTERMS("http://purl.org/dc/terms/", "dcterms"), DCELEMENTS("http://purl.org/dc/elements/1.1/", "dcelements"),
+	SO("http://schema.org/", "so"), SIOC("http://rdfs.org/sioc/ns#", "sioc"),
+	RDFS("http://www.w3.org/2000/01/rdf-schema#", "rdfs"), XSD("http://www.w3.org/2001/XMLSchema#", "xsd"),
+	GEO("https://www.w3.org/2003/01/geo/wgs84_pos#", "geo"),
 	GEO_OLD("http://www.w3.org/2003/01/geo/wgs84_pos#", "geo_old"), TIME("http://www.w3.org/2006/time#", "time"),
 	FOAF("http://xmlns.com/foaf/0.1/", "foaf"), GEOM("http://geovocab.org/geometry#", "geom"),
 	SPATIAL("http://geovocab.org/spatial#", "spatial"), DCAT("http://www.w3.org/ns/dcat#", "dcat"),

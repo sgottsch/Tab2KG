@@ -166,6 +166,7 @@ public class DataTableReader {
 		dataTable.setNullValue(nullValue);
 		dataTable.setHasRowNumberColumn(hasRowNumberColumn);
 		dataTable.setHasColumnTitles(hasColumnTitles);
+		dataTable.setDelimiter(delimiter);
 
 		return readDataTable(dataTable);
 	}

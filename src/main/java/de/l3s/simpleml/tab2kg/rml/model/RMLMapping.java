@@ -15,6 +15,7 @@ public class RMLMapping {
 	private Map<String, String> prefixes;
 
 	private String delimiter;
+	private String nullValue;
 
 	public String getMappingString() {
 		return mappingString;
@@ -54,6 +55,14 @@ public class RMLMapping {
 
 	public void setDelimiter(String delimiter) {
 		this.delimiter = delimiter;
+	}
+
+	public String getNullValue() {
+		return nullValue;
+	}
+
+	public void setNullValue(String nullValue) {
+		this.nullValue = nullValue;
 	}
 
 }
