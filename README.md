@@ -18,23 +18,23 @@ Within that folder, create a "data" folder and move the pre-trained model weight
 
 The Example class provides a walk through the different components in Tab2KG. It shows the creation of a semantic RDF data table profile and the semantic table interpretation on a single example data table.
 
-You can run de.l3s.simpleml.tab2kg.examples.Example. via:
+You can run [de.l3s.simpleml.tab2kg.examples.Example](https://github.com/sgottsch/Tab2KG/blob/main/src/main/java/de/l3s/simpleml/tab2kg/examples/Example.java) via:
 
-> java -jar Example.jar soccer/tables/all_world_cup_players.csv soccer/graphs/world_cup_2014_squads.csv.ttl WorldCupPlayers profile.ttl kg.ttl
+> java -jar Example.jar soccer/tables/all_world_cup_players.csv soccer/graphs/world_cup_2014_squads.csv.ttl
 
-Here, the first parameter are as follows:
+Here, the parameters are as follows:
 - soccer/tables/all_world_cup_players.csv: the input data table
 - soccer/graphs/world_cup_2014_squads.csv.ttl: the domain knowledge graph
 
-The folder data/example contains the expected output given this configuration.
+The folder [data/example](https://github.com/sgottsch/Tab2KG/tree/main/data/example) contains the expected output given this configuration.
 
 ### Semantic profile creation
 
-First, a semantic profile of the data table is created and stored into profile.ttl.
+First, a semantic profile of the data table is created and stored into [example_profile.ttl](https://github.com/sgottsch/Tab2KG/blob/main/data/example/example_profile.ttl).
 
 ### Creation of a pair of normalized profiles
 
-The normalized column and data type profiles between a data table and a graph from the soccer domain using de.l3s.simpleml.tab2kg.profiles.ProfilePairNormaliser are created and printed.
+The normalized column and data type profiles are created and printed to the system output.
 
     Output:
 	--- Team ---
@@ -45,7 +45,7 @@ The normalized column and data type profiles between a data table and a graph fr
 
 ### Semantic Table Interpretation
 
-The mappings to create the knowledge graph from the data table are printed.
+The mappings to create the knowledge graph from the data table are printed to the system output.
 
 	L: http://schema.org/SportsTeam http://schema.org/name - Team
 	L: http://schema.org/Player http://schema.org/name - FullName
@@ -59,8 +59,8 @@ The mappings to create the knowledge graph from the data table are printed.
 
 (L: Literal relation, C: class relation)
 
-The RDF Mapping Language (RML) definitions for this mapping are stored in mapping.rml.
-The resultings knowledge graph is stored as kg.ttl.
+The RDF Mapping Language (RML) definitions for this mapping are stored in [example_mapping.rml](https://github.com/sgottsch/Tab2KG/blob/main/data/example/example_mapping.rml).
+The resultings knowledge graph is stored as [example_kg.ttl](https://github.com/sgottsch/Tab2KG/blob/main/data/example/example_kg.ttl).
 
 ## Datasets
 
