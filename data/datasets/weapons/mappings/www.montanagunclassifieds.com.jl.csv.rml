@@ -10,7 +10,7 @@ ex:File
 	rml:source ex:FileSource ;
 	rml:referenceFormulation ql:CSV .
 ex:FileSource a csvw:Table;
-	csvw:url "/storage/home/gottschalk/www21/data/weapons/tables/www.montanagunclassifieds.com.jl.csv" ;
+	csvw:url "/data/weapons/tables/www.montanagunclassifieds.com.jl.csv" ;
 	csvw:dialect [
 		a csvw:Dialect;
 		csvw:delimiter ",";

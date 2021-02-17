@@ -1,10 +1,10 @@
-Load model /home/gottschalk/Tab2KG/data/soccer/graphs/world_cup_2014_squads.csv.ttl, null
+Load model ../Tab2KG/data/soccer/graphs/world_cup_2014_squads.csv.ttl, null
 SLF4J: Class path contains multiple SLF4J bindings.
-SLF4J: Found binding in [jar:file:/storage/home/gottschalk/Tab2KG/Example_lib/slf4j-simple-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
-SLF4J: Found binding in [jar:file:/storage/home/gottschalk/Tab2KG/Example_lib/rmlmapper-4.9.1.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:../Tab2KG/Example_lib/slf4j-simple-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:../Tab2KG/Example_lib/rmlmapper-4.9.1.jar!/org/slf4j/impl/StaticLoggerBinder.class]
 SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
 SLF4J: Actual binding is of type [org.slf4j.impl.SimpleLoggerFactory]
-Create profile and store it in /home/gottschalk/Tab2KG/data/example_profile.ttl.
+Create profile and store it in ../Tab2KG/data/example_profile.ttl.
 #columns: 7
 #attributes: 8
 

@@ -171,9 +171,9 @@ def get_data_balanced(s="train"):
 
 number_of_features = 83
 
-train_folder = "/home/gottschalk/www21/column_matching/training/"
-test_folder = "/home/gottschalk/www21/column_matching/test/"
-save_path = '/home/gottschalk/www21/column_matching/model/'
+train_folder = ".../column_matching/training/" # anonymised
+test_folder = ".../column_matching/test/" # anonymised
+save_path = '../column_matching/model/' # anonymised
 
 positive_examplesTrain, negative_examplesTrain = load_data(train_folder, number_of_features)
 positive_examplesTest, negative_examplesTest = load_data(test_folder, number_of_features)

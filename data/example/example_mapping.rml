@@ -10,7 +10,7 @@ ex:File
 	rml:source ex:FileSource ;
 	rml:referenceFormulation ql:CSV .
 ex:FileSource a csvw:Table;
-	csvw:url "/home/gottschalk/Tab2KG/data/soccer/tables/all_world_cup_players.csv" ;
+	csvw:url "/soccer/tables/all_world_cup_players.csv" ;
 	csvw:dialect [
 		a csvw:Dialect;
 		csvw:delimiter ",";
