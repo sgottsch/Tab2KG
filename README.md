@@ -72,7 +72,7 @@ For training Tab2KG and for evaluation, we use a dataset created from GitHub as 
 - tables: `.csv` data tables.
 - pairs.tsv: A tab-separated file denoting pairs of tables and knowledge graphs.
 
-The corresponding directories for the Soccer and the Weapons dataset are in the [data folder](https://github.com/sgottsch/Tab2KG/tree/main/data/datasets). Unfortunately, the GitHub default license does not allow distribution of public repositories (https://help.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository\#choosing-the-right-license). Thus, we can not share our GitHub dataset. As we can not share this, we provide the scripts for creating them yourself.
+The corresponding directories for the Soccer and the Weapons dataset are in the [data folder](https://github.com/sgottsch/Tab2KG/tree/main/data/datasets). Unfortunately, the GitHub default license does not allow distribution of public repositories (https://help.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository#choosing-the-right-license). Thus, we can not share our GitHub dataset. As we can not share this, we provide the scripts for creating them yourself.
 
 To create datasets yourself, run the following processes:
 
