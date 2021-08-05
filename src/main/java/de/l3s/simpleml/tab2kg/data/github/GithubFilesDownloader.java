@@ -10,6 +10,7 @@ import java.io.PrintWriter;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.net.URL;
+import java.net.URLConnection;
 import java.net.URLEncoder;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -130,7 +131,6 @@ public class GithubFilesDownloader {
 		int perPage = 100;
 
 		String uri = "https://api.github.com/search/code?q=" + query;
-		uri += "&access_token=" + Config.GITHUB_ACCESS_TOKEN;
 		// uri += "&order=best+match";
 		// uri += "&order=desc";
 		uri += "&per_page=" + perPage;
@@ -144,7 +144,13 @@ public class GithubFilesDownloader {
 		callsLoop: while (!succesful) {
 			try {
 				numberOfCalls += 1;
-				res = IOUtils.toString(new URI(uri), "UTF-8");
+
+				URL url = new URL(uri);
+				URLConnection urlConnection = url.openConnection();
+				urlConnection.setRequestProperty("Authorization", "token " + Config.GITHUB_ACCESS_TOKEN);
+				InputStream is = urlConnection.getInputStream();
+
+				res = IOUtils.toString(is, "UTF-8");
 				succesful = true;
 			} catch (IOException e) {
 				if (numberOfCalls < 10) {
