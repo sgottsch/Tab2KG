@@ -14,6 +14,10 @@ Create a directory for Tab2KG in your file system (e.g. "/Documents/Tab2KG/"). I
 
 Within that folder, create a "data" folder and move the pre-trained model weights ([weights.h5](https://github.com/sgottsch/Tab2KG/tree/main/data/weights.h5)) and the batch processor there ([column_matcher_batch.py](https://github.com/sgottsch/Tab2KG/blob/main/src/main/python/column_matcher_batch.py)).
 
+## Prerequisites
+
+Java 8 and Python 3.7 with tensorflow 2.4.1 and keras 2.2.4.
+
 ## Example Walk Through
 
 The Example class provides a walk through the different components in Tab2KG. It shows the creation of a semantic RDF data table profile and the semantic table interpretation on a single example data table.
