@@ -84,6 +84,7 @@ To create datasets yourself, run the following processes:
 			unzip master.zip
 			mv iswc-2016-semantic-labeling-master/data/datasets/soccer/ original_data
 			rm -r iswc-2016-semantic-labeling-master/
+			rm master.zip
 			```
 	* 1.2: Run `de.l3s.simpleml.tab2kg.data.ModelsDataSetTableCreator` with arguments "SOCCER" and the paths to the downloaded folders "data" and "model"
 2. Weapons
