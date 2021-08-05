@@ -77,24 +77,26 @@ The corresponding directories for the Soccer and the Weapons dataset are in the 
 To create datasets yourself, run the following processes:
 
 1. Soccer
-	1.1 Download and unzip the following folders into a folder: https://github.com/minhptx/iswc-2016-semantic-labeling/tree/master/data/datasets/soccer
-		For example, through the following commands:
+	* 1.1: Download and unzip the following folders into a folder: https://github.com/minhptx/iswc-2016-semantic-labeling/tree/master/data/datasets/soccer
+		* For example, through the following commands:
+			```
 			wget https://github.com/minhptx/iswc-2016-semantic-labeling/archive/master.zip
 			unzip master.zip
 			mv iswc-2016-semantic-labeling-master/data/datasets/soccer/ original_data
 			rm -r iswc-2016-semantic-labeling-master/
-	1.2 Run de.l3s.simpleml.tab2kg.data.ModelsDataSetTableCreator arguments "SOCCER" and the paths to the downloaded folders "data" and "model"
+			```
+	* 1.2: Run `de.l3s.simpleml.tab2kg.data.ModelsDataSetTableCreator` with arguments "SOCCER" and the paths to the downloaded folders "data" and "model"
 2. Weapons
-	2.1 Download and unzip the following file into a folder: https://github.com/taheriyan/iswc-2016/raw/master/weapon-ads.zip
-	2.2 Run de.l3s.simpleml.tab2kg.data.ModelsDataSetTableCreator with arguments "WEAPONS" and the paths to the downloaded folders "sources" and "models_json"
+	* 2.1: Download and unzip the following file into a folder: https://github.com/taheriyan/iswc-2016/raw/master/weapon-ads.zip
+	* 2.2: Run `de.l3s.simpleml.tab2kg.data.ModelsDataSetTableCreator` with arguments "WEAPONS" and the paths to the downloaded folders "sources" and "models_json"
 3. GitHub
-	3.1 Run de.l3s.simpleml.tab2kg.data.github.GitHubFilesDownloader
-	3.2 Run de.l3s.simpleml.tab2kg.data.github.GitHubTablesCreator
+	* 3.1: Run `de.l3s.simpleml.tab2kg.data.github.GitHubFilesDownloader`
+	* 3.2: Run `de.l3s.simpleml.tab2kg.data.github.GitHubTablesCreator`
 4. SemTab
-	4.1 Download and unzip the following file into a folder: https://zenodo.org/record/3518539/files/semtab2019.zip?download=1 
-	4.2 Run de.l3s.simpleml.tab2kg.data.semtab.SemTabTableCreator with the folder as argument
+	* 4.1: Download and unzip the following file into a folder: https://zenodo.org/record/3518539/files/semtab2019.zip?download=1 
+	* 4.2: Run `de.l3s.simpleml.tab2kg.data.semtab.SemTabTableCreator` with the folder as argument
 5. SemTab Easy
-	5.1 Copy the file in resources/data/gold_standard_classes.csv to your data folder.
+	* 5.1: Copy the file in resources/data/gold_standard_classes.csv to your data folder.
 
 For each of the five data sets GITHUB, SEMTAB, WEAPONS, SOCCER and SEMTAB_EASY, run the de.l3s.simpleml.tab2kg.data.TableGraphPairsFinder (with the dataset identifier as argument).
 	     
@@ -102,7 +104,7 @@ For each of the five data sets GITHUB, SEMTAB, WEAPONS, SOCCER and SEMTAB_EASY, 
 
 ### Batch Evaluation
 
-Run de.l3s.simpleml.tab2kg.evaluation.DataSetEvaluation with the required parameters (e.g., "-source SOCCER") to evaluate the semantic table interpretation performance for a single dataset.
+Run `de.l3s.simpleml.tab2kg.evaluation.DataSetEvaluation` with the required parameters (e.g., "-source SOCCER") to evaluate the semantic table interpretation performance for a single dataset.
 
 ## Training the Siamese Network
 
