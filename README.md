@@ -99,7 +99,7 @@ To create datasets yourself, run the following processes:
 5. SemTab Easy
 	* 5.1: Copy the file in resources/data/gold_standard_classes.csv to your data folder.
 
-For each of the five data sets GITHUB, SEMTAB, WEAPONS, SOCCER and SEMTAB_EASY, run the de.l3s.simpleml.tab2kg.data.TableGraphPairsFinder (with the dataset identifier as argument).
+For each of the five data sets GITHUB, SEMTAB, WEAPONS, SOCCER and SEMTAB_EASY, run `de.l3s.simpleml.tab2kg.data.TableGraphPairsFinder` (with the dataset identifier as argument).
 	     
 ## Training and Evaluation
 
