@@ -5,7 +5,7 @@ import java.io.File;
 public class Config {
 
 	private static final String LOCAL_PREFIX = ""; // anonymized
-	private static final String SERVER_PREFIX = null;
+	private static final String SERVER_PREFIX = "";// anonymized
 	public static final String GITHUB_ACCESS_TOKEN = ""; // anonymized
 
 	public static String getPath(FileLocation location) {
@@ -37,9 +37,9 @@ public class Config {
 
 	public static String getFolderNameRelativeToBase(String folderName) {
 		if (isLocal())
-			return folderName.replace(LOCAL_PREFIX, "");
+			return folderName.replace("\\", "/").replace(LOCAL_PREFIX, "");
 		else
-			return folderName.replace(SERVER_PREFIX, "");
+			return folderName.replace("\\", "/").replace(SERVER_PREFIX, "");
 	}
 
 	public static boolean useIntegerBooleanStatistics() {

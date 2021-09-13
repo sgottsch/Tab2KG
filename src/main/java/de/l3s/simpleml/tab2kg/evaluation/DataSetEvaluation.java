@@ -5,15 +5,20 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import com.beust.jcommander.JCommander;
 import com.beust.jcommander.Parameter;
 
+import de.l3s.simpleml.tab2kg.catalog.model.dataset.datatable.DataTable;
 import de.l3s.simpleml.tab2kg.data.PairsLoader;
 import de.l3s.simpleml.tab2kg.ml.TableSemantifier;
 import de.l3s.simpleml.tab2kg.ml.baseline.DSLConfidencesLoader;
 import de.l3s.simpleml.tab2kg.ml.baseline.T2KMatchConfidencesLoader;
+import de.l3s.simpleml.tab2kg.model.graph.SimpleGraph;
+import de.l3s.simpleml.tab2kg.profiles.FeatureConfigName;
 import de.l3s.simpleml.tab2kg.util.Config;
 import de.l3s.simpleml.tab2kg.util.FileLocation;
 import de.l3s.simpleml.tab2kg.util.Mode;
@@ -27,11 +32,17 @@ public class DataSetEvaluation {
 	@Parameter(names = { "-mode" }, required = false)
 	private Mode mode;
 
+	@Parameter(names = { "-domainOntologies" }, required = false)
+	private Boolean useDomainOntologies = false;
+
 	@Parameter(names = { "-pairs" }, required = false)
 	private Integer numberOfPairs;
 
 	@Parameter(names = { "-target" }, required = false)
 	private Integer targetPairId;
+
+	@Parameter(names = { "-features" }, required = false)
+	private FeatureConfigName featureConfigName;
 
 	private List<EvaluationInstance> evaluationInstances;
 
@@ -64,7 +75,10 @@ public class DataSetEvaluation {
 		if (mode == null)
 			mode = Mode.TEST;
 
-		this.evaluationInstances = PairsLoader.loadPairs(source, mode);
+		if (featureConfigName == null)
+			featureConfigName = FeatureConfigName.ALL;
+
+		this.evaluationInstances = PairsLoader.loadPairs(source, mode, useDomainOntologies);
 
 		if (numberOfPairs != null)
 			this.evaluationInstances = this.evaluationInstances.subList(0, numberOfPairs);
@@ -74,12 +88,18 @@ public class DataSetEvaluation {
 
 	private void evaluate() {
 
+		// make sure no to re-compute features when the same table or graph appears
+		// more than once in the pairs
+		Map<String, SimpleGraph> allGraphsByFileName = new HashMap<String, SimpleGraph>();
+		Map<String, DataTable> allTablesByFileName = new HashMap<String, DataTable>();
+
 		DSLConfidencesLoader dslConfidences = null;
 		T2KMatchConfidencesLoader t2kConfidences = null;
 
 		if (this.dslPairsFile != null) {
 			dslConfidences = new DSLConfidencesLoader();
-			dslConfidences.loadPairs(dslPairsFile, dslOutputFolder, source, this.evaluationInstances);
+			dslConfidences.loadPairs(dslPairsFile, dslOutputFolder, source, this.evaluationInstances,
+					this.useDomainOntologies);
 		} else if (this.t2kClassesFile != null) {
 			t2kConfidences = new T2KMatchConfidencesLoader();
 			t2kConfidences.loadPairs(t2kClassesFile, t2kPropertiesFile, source);
@@ -112,8 +132,12 @@ public class DataSetEvaluation {
 				e.printStackTrace();
 			}
 
-			writer = new PrintWriter(Config.getPath(FileLocation.RESULTS) + this.source.getName() + greedy + dsl + t2k
-					+ comment + ".txt");
+			String pairOrComplete = "_p";
+			if (this.useDomainOntologies)
+				pairOrComplete = "_d";
+
+			writer = new PrintWriter(Config.getPath(FileLocation.RESULTS) + this.source.getName() + pairOrComplete
+					+ greedy + dsl + t2k + comment + ".txt");
 
 			EvaluationResult totalEvaluationResult = new EvaluationResult();
 			int i = 0;
@@ -135,7 +159,7 @@ public class DataSetEvaluation {
 				System.out.println(line2);
 
 				TableSemantifier tableSemantifier = new TableSemantifier(evaluationInstance, this.dslPairsFile != null,
-						firstColumnHasRowNumber);
+						firstColumnHasRowNumber, this.featureConfigName, allGraphsByFileName, allTablesByFileName);
 				tableSemantifier.setDSLConfidences(dslConfidences);
 				tableSemantifier.setT2KConfidences(t2kConfidences);
 

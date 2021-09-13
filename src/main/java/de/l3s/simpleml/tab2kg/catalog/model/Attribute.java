@@ -34,9 +34,6 @@ public class Attribute {
 	// many-to-one attributes
 	private List<Integer> columnIndexes;
 
-	private Double meanValue;
-	private Double minValue;
-	private Double maxValue;
 	private String identifier;
 	private String description;
 	private String label;
@@ -117,30 +114,6 @@ public class Attribute {
 
 	public void setColumnIndex(Integer columnIndex) {
 		this.columnIndex = columnIndex;
-	}
-
-	public Double getMeanValue() {
-		return meanValue;
-	}
-
-	public void setMeanValue(double meanValue) {
-		this.meanValue = meanValue;
-	}
-
-	public Double getMinValue() {
-		return minValue;
-	}
-
-	public void setMinValue(double minValue) {
-		this.minValue = minValue;
-	}
-
-	public Double getMaxValue() {
-		return maxValue;
-	}
-
-	public void setMaxValue(double maxValue) {
-		this.maxValue = maxValue;
 	}
 
 	public String getValueType() {

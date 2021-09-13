@@ -27,8 +27,14 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import de.l3s.simpleml.tab2kg.catalog.model.Attribute;
+import de.l3s.simpleml.tab2kg.catalog.model.dataset.datatable.DataTable;
+import de.l3s.simpleml.tab2kg.catalog.model.dataset.datatable.Row;
 import de.l3s.simpleml.tab2kg.data.ModelFilesCreator;
+import de.l3s.simpleml.tab2kg.data.TableSkipReason;
+import de.l3s.simpleml.tab2kg.data.TableStatistics;
 import de.l3s.simpleml.tab2kg.data.semtab.SemTabTableCreator;
+import de.l3s.simpleml.tab2kg.datareader.DataTableReader;
 import de.l3s.simpleml.tab2kg.graph.DataTableFromInputGraphCreator;
 import de.l3s.simpleml.tab2kg.model.rdf.RDFClass;
 import de.l3s.simpleml.tab2kg.model.rdf.RDFClassLiteralTriple;
@@ -58,6 +64,8 @@ public class ModelsDataSetTableCreator {
 		Source source = Source.valueOf(args[0]);
 
 		String sourceFolder = Config.getPath(FileLocation.BASE_FOLDER) + source.getFolderName();
+
+		TableStatistics tableStatistics = new TableStatistics();
 
 		String tablesFolderOriginal = args[1];
 		String modelsFolderOriginal = args[2];
@@ -113,7 +121,44 @@ public class ModelsDataSetTableCreator {
 
 			ModelFilesCreator.createModelFile(newFileName.substring(newFileName.lastIndexOf("/") + 1), mappingFileName,
 					modelsFolder + newFileName.substring(newFileName.lastIndexOf("/") + 1) + ".model.json");
+
+			// cyclic?
+
+			DataTable table = DataTableReader.readDataTable(new DataTable(newFileName, ","));
+			// identical columns?
+			if (hasColumnsWithIdenticalValues(table))
+				tableStatistics.increaseSkipCount(TableSkipReason.IDENTICAL_COLUMNS);
+
 		}
+		
+		tableStatistics.printResults();
+
+	}
+
+	private static boolean hasColumnsWithIdenticalValues(DataTable table) {
+		
+		for (Attribute column1 : table.getAttributes()) {
+			col2Loop: for (Attribute column2 : table.getAttributes()) {
+				if (column1 == column2)
+					continue;
+								
+				for (Row row : table.getRows()) {
+					String val1 = row.getValues().get(column1.getColumnIndex()-1);
+					String val2 = row.getValues().get(column2.getColumnIndex()-1);
+
+					if (val1 == null || val2 == null)
+						continue;
+
+					if (!val1.equals(val2)) {
+						continue col2Loop;
+					}
+				}
+
+				return true;
+			}
+		}
+
+		return false;
 
 	}
 
@@ -176,7 +221,7 @@ public class ModelsDataSetTableCreator {
 						lineValues.add(String.valueOf(rowNumber - 1));
 						for (int i = 0; i < record.size(); i++) {
 							if (relevantColumns.contains(i)) {
-								String value = record.get(i).replace("�", "?");
+								String value = record.get(i).replace("�", "?").trim();
 								lineValues.add(value);
 							}
 						}

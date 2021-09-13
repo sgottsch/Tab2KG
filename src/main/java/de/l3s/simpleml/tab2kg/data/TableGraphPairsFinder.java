@@ -1,19 +1,27 @@
 package de.l3s.simpleml.tab2kg.data;
 
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.FileReader;
 import java.io.IOException;
+import java.io.OutputStream;
+import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.LineIterator;
+import org.apache.commons.lang.StringUtils;
 
 import com.google.common.collect.Sets;
 
@@ -24,11 +32,14 @@ import de.l3s.simpleml.tab2kg.rml.ColumnLiteralMapping;
 import de.l3s.simpleml.tab2kg.rml.RMLMappingReader;
 import de.l3s.simpleml.tab2kg.util.Config;
 import de.l3s.simpleml.tab2kg.util.FileLocation;
+import de.l3s.simpleml.tab2kg.util.MapUtil;
 import de.l3s.simpleml.tab2kg.util.Source;
 
 public class TableGraphPairsFinder {
 
 	private static final double TRAIN_SPLIT = 0.9;
+
+	private Set<String> gsClasses;
 
 	public static void main(String[] args) {
 
@@ -105,9 +116,413 @@ public class TableGraphPairsFinder {
 
 		}
 
+		tgpf.createDomainOntologies(source, folderInput, folderOutput);
 	}
 
-	private Set<String> gsClasses;
+	private void createDomainOntologies(Source source, String folder, String folderOutput) {
+
+		getValidSemtabEasyTables(folder);
+
+		if (source == Source.SEMTAB)
+			createSemtabDomainOntologies(folder, folderOutput, getValidSemtabEasyTables(folder));
+		else if (source == Source.SEMTAB_EASY)
+			System.out.println("domain ontology creation for SEMTAB_EASY is done together with SEMTAB");
+		else if (source == Source.SOCCER || source == Source.WEAPONS)
+			createCompleteDomainOntology(folder, folderOutput);
+	}
+
+	private void createSemtabDomainOntologies(String folder, String folderOutput, Set<String> validTables) {
+
+		List<EvaluationInstance> evaluationInstances = new ArrayList<EvaluationInstance>();
+		List<EvaluationInstance> evaluationInstancesEasy = new ArrayList<EvaluationInstance>();
+
+		Map<String, Map<String, Integer>> groupsByClass = new HashMap<String, Map<String, Integer>>();
+		Map<String, Map<String, Integer>> propertiesByClass = new HashMap<String, Map<String, Integer>>();
+
+		File[] mappingFiles = (new File(folder + "mappings")).listFiles();
+
+		Map<String, List<File>> filesByMainClass = new HashMap<String, List<File>>();
+
+		for (File file : mappingFiles) {
+
+			Map<String, Integer> classCounts = getClasses(file);
+
+			Set<String> relations = getRelationsAndClasses(file).get(0);
+
+			int highestCount = -1;
+			Set<String> mainClasses = new HashSet<String>();
+			for (String domainClass : classCounts.keySet()) {
+				if (classCounts.get(domainClass) > highestCount) {
+					highestCount = classCounts.get(domainClass);
+					mainClasses.add(domainClass);
+				}
+			}
+
+			if (mainClasses.size() > 1)
+				continue;
+
+			String mainClass = null;
+			for (String m : mainClasses)
+				mainClass = m;
+
+			if (!groupsByClass.containsKey(mainClass)) {
+				groupsByClass.put(mainClass, new HashMap<String, Integer>());
+				filesByMainClass.put(mainClass, new ArrayList<File>());
+				propertiesByClass.put(mainClass, new HashMap<String, Integer>());
+			}
+
+			for (String cl : classCounts.keySet()) {
+				if (!groupsByClass.get(mainClass).containsKey(cl))
+					groupsByClass.get(mainClass).put(cl, 1);
+				else
+					groupsByClass.get(mainClass).put(cl, groupsByClass.get(mainClass).get(cl) + 1);
+			}
+
+			for (String pr : relations) {
+				if (!propertiesByClass.get(mainClass).containsKey(pr))
+					propertiesByClass.get(mainClass).put(pr, 1);
+				else
+					propertiesByClass.get(mainClass).put(pr, propertiesByClass.get(mainClass).get(pr) + 1);
+			}
+
+			filesByMainClass.get(mainClass).add(file);
+		}
+
+		PrintWriter ontologiesListWriter = null;
+		try {
+			ontologiesListWriter = new PrintWriter(folder + "/" + SemTabTableCreator.FILE_NAME_DOMAIN_ONTOLOGIES_LIST);
+			for (String domainClass : groupsByClass.keySet()) {
+				if (filesByMainClass.get(domainClass).size() < 10 || propertiesByClass.get(domainClass).size() < 5)
+					continue;
+
+				ontologiesListWriter.println(domainClass.replace("http://dbpedia.org/ontology/", "") + "\t"
+						+ groupsByClass.get(domainClass).size() + "\t" + propertiesByClass.get(domainClass).size()
+						+ "\t" + getSortedString(groupsByClass.get(domainClass)) + "\t"
+						+ getSortedString(propertiesByClass.get(domainClass)));
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			ontologiesListWriter.close();
+		}
+
+		// create domain ontologies
+
+		for (String domainClass : filesByMainClass.keySet()) {
+
+			if (filesByMainClass.get(domainClass).size() < 10 || propertiesByClass.get(domainClass).size() < 5)
+				continue;
+
+			PrintWriter completeGraphWriter = null;
+			String fileName = folder + SemTabTableCreator.FOLDER_NAME_DOMAIN_ONTOLOGIES + "/"
+					+ domainClass.replace("http://dbpedia.org/ontology/", "").replace("/", "-") + ".ttl";
+
+			String fileNameTable = folder + SemTabTableCreator.FOLDER_NAME_DOMAIN_ONTOLOGY_TABLES + "/"
+					+ domainClass.replace("http://dbpedia.org/ontology/", "").replace("/", "-") + ".csv";
+			String fileNameMapping = folder + SemTabTableCreator.FOLDER_NAME_DOMAIN_ONTOLOGY_MODELS + "/"
+					+ domainClass.replace("http://dbpedia.org/ontology/", "").replace("/", "-") + ".csv.model.json";
+
+			OutputStream os;
+			try {
+				os = new FileOutputStream(fileName);
+
+				completeGraphWriter = new PrintWriter(new OutputStreamWriter(os, "UTF-8"));
+
+				Map<String, String> blocks = new LinkedHashMap<String, String>();
+				Map<String, String> replacements = new HashMap<String, String>();
+				Map<String, String> blocksOriginal = new HashMap<String, String>();
+
+				for (File file : filesByMainClass.get(domainClass)) {
+
+					File graphFile1 = new File(file.getPath().replace("mappings", "graphs").replace(".rml", ".ttl"));
+
+					String tableFileName = folder + SemTabTableCreator.FOLDER_NAME_TABLES + "/"
+							+ file.getName().replaceAll(".ttl$", "").replaceAll(".rml$", "");
+
+					if (!tableFileName.endsWith(".csv"))
+						tableFileName = tableFileName + ".csv";
+
+					FileReader fileReader = new FileReader(graphFile1);
+					try (BufferedReader bufferedReader = new BufferedReader(fileReader)) {
+						String line;
+						String block = "";
+						while ((line = bufferedReader.readLine()) != null) {
+
+							if (line.isEmpty() && !block.isEmpty()) {
+
+								if (block.contains(" ")) {
+
+									String resourceURI = block.substring(0, block.indexOf(" ")).trim().replace("\n",
+											"");
+									String blockReplaced = "XY@Z" + block.substring(block.indexOf(" "));
+
+									if (blocks.containsKey(blockReplaced)) {
+										replacements.put(resourceURI, blocks.get(blockReplaced));
+									} else {
+										blocksOriginal.put(blockReplaced, block);
+										blocks.put(blockReplaced, resourceURI);
+									}
+								}
+
+								block = "";
+							}
+
+							if (!line.isEmpty())
+								block += line + "\n";
+						}
+
+					} catch (IOException e) {
+						e.printStackTrace();
+					}
+
+					EvaluationInstance instance = new EvaluationInstance(tableFileName, fileName, graphFile1.getPath()
+							.replace("\\", "/").replace("/graphs/", "/mappings/").replaceAll(".ttl$", ".rml"));
+					evaluationInstances.add(instance);
+
+					if (validTables.contains(
+							tableFileName.replace(Source.SEMTAB.getFolderName(), Source.SEMTAB_EASY.getFolderName()))) {
+						EvaluationInstance instanceEasy = new EvaluationInstance(
+								tableFileName
+										.replace(Source.SEMTAB.getFolderName(), Source.SEMTAB_EASY.getFolderName()),
+								fileName,
+								graphFile1.getPath().replace("\\", "/").replace("/graphs/", "/mappings/")
+										.replaceAll(".ttl$", ".rml")
+										.replace(Source.SEMTAB.getFolderName(), Source.SEMTAB_EASY.getFolderName()));
+						evaluationInstancesEasy.add(instanceEasy);
+					}
+
+				}
+
+				for (String blockReplaced : blocks.keySet()) {
+					String block = blocksOriginal.get(blockReplaced);
+					for (String replace : replacements.keySet()) {
+						block = block.replace(replace, replacements.get(replace));
+					}
+					completeGraphWriter.println(block);
+				}
+
+			} catch (FileNotFoundException e1) {
+				e1.printStackTrace();
+			} catch (UnsupportedEncodingException e1) {
+				e1.printStackTrace();
+			} finally {
+				completeGraphWriter.close();
+			}
+
+			DomainGraphToTableConverter.run(fileName, fileNameTable, fileNameMapping);
+
+		}
+
+		PrintWriter pairsWriter = null;
+		try {
+			pairsWriter = new PrintWriter(folderOutput + SemTabTableCreator.FILE_NAME_PAIRS_DOMAIN_GRAPHS);
+			writePairs(pairsWriter, evaluationInstances, folder);
+			System.out.println("#pairs: " + evaluationInstances.size());
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} finally {
+			pairsWriter.close();
+		}
+
+		PrintWriter pairsWriterEasy = null;
+		try {
+			pairsWriterEasy = new PrintWriter(
+					folderOutput.replace(Source.SEMTAB.getFolderName(), Source.SEMTAB_EASY.getFolderName())
+							+ SemTabTableCreator.FILE_NAME_PAIRS_DOMAIN_GRAPHS);
+			writePairs(pairsWriterEasy, evaluationInstancesEasy, folder);
+			System.out.println("#pairs (easy): " + evaluationInstancesEasy.size());
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} finally {
+			pairsWriterEasy.close();
+		}
+
+	}
+
+	private void createCompleteDomainOntology(String folder, String folderOutput) {
+
+		File[] graphFiles = (new File(folder + SemTabTableCreator.FOLDER_NAME_GRAPHS)).listFiles();
+
+		List<EvaluationInstance> evaluationInstances = new ArrayList<EvaluationInstance>();
+
+		PrintWriter completeGraphWriter = null;
+		String fileName = folderOutput + SemTabTableCreator.FOLDER_NAME_DOMAIN_ONTOLOGIES + "/domain_graph.ttl";
+		String fileNameTable = folderOutput + SemTabTableCreator.FOLDER_NAME_DOMAIN_ONTOLOGY_TABLES
+				+ "/domain_graph.csv";
+		String fileNameMapping = folderOutput + SemTabTableCreator.FOLDER_NAME_DOMAIN_ONTOLOGY_MODELS
+				+ "/domain_graph.csv.model.json";
+
+		Map<String, Integer> classes = new HashMap<String, Integer>();
+		Map<String, Integer> relations = new HashMap<String, Integer>();
+
+		PrintWriter ontologiesListWriter = null;
+		OutputStream os;
+		try {
+			ontologiesListWriter = new PrintWriter(folder + "/" + SemTabTableCreator.FILE_NAME_DOMAIN_ONTOLOGIES_LIST);
+			os = new FileOutputStream(fileName);
+
+			completeGraphWriter = new PrintWriter(new OutputStreamWriter(os, "UTF-8"));
+
+			Map<String, String> blocks = new LinkedHashMap<String, String>();
+			Map<String, String> replacements = new HashMap<String, String>();
+			Map<String, String> blocksOriginal = new HashMap<String, String>();
+
+			for (File graphFile1 : graphFiles) {
+
+				File mappingFile = new File(graphFile1.getPath().replace("graphs", "mappings").replace(".ttl", ".rml"));
+				List<Set<String>> relationsAndClasses = getRelationsAndClasses(mappingFile);
+
+				for (String cl : relationsAndClasses.get(1)) {
+					if (!classes.containsKey(cl))
+						classes.put(cl, 1);
+					else
+						classes.put(cl, classes.get(cl) + 1);
+				}
+				for (String pr : relationsAndClasses.get(0)) {
+					if (!relations.containsKey(pr))
+						relations.put(pr, 1);
+					else
+						relations.put(pr, relations.get(pr) + 1);
+				}
+				String tableFileName = folder + SemTabTableCreator.FOLDER_NAME_TABLES + "/"
+						+ graphFile1.getName().replaceAll(".ttl$", "");
+				if (!tableFileName.endsWith(".csv"))
+					tableFileName = tableFileName + ".csv";
+
+				FileReader fileReader = new FileReader(graphFile1);
+				try (BufferedReader bufferedReader = new BufferedReader(fileReader)) {
+					String line;
+					String block = "";
+					while ((line = bufferedReader.readLine()) != null) {
+
+						if (line.isEmpty() && !block.isEmpty()) {
+
+							if (block.contains(" ")) {
+
+								String resourceURI = block.substring(0, block.indexOf(" ")).trim().replace("\n", "");
+								String blockReplaced = "XY@Z" + block.substring(block.indexOf(" "));
+
+								if (blocks.containsKey(blockReplaced)) {
+									replacements.put(resourceURI, blocks.get(blockReplaced));
+								} else {
+									blocksOriginal.put(blockReplaced, block);
+									blocks.put(blockReplaced, resourceURI);
+								}
+							}
+
+							block = "";
+						}
+
+						if (!line.isEmpty())
+							block += line + "\n";
+					}
+
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+
+				EvaluationInstance instance = new EvaluationInstance(tableFileName, fileName, graphFile1.getPath()
+						.replace("\\", "/").replace("/graphs/", "/mappings/").replaceAll(".ttl$", ".rml"));
+				evaluationInstances.add(instance);
+
+			}
+
+			for (String blockReplaced : blocks.keySet()) {
+				String block = blocksOriginal.get(blockReplaced);
+				for (String replace : replacements.keySet()) {
+					block = block.replace(replace, replacements.get(replace));
+				}
+				completeGraphWriter.println(block);
+			}
+
+			ontologiesListWriter.println("\t" + classes.size() + "\t" + relations.size() + "\t"
+					+ getSortedString(classes) + "\t" + getSortedString(relations));
+
+		} catch (FileNotFoundException e1) {
+			e1.printStackTrace();
+		} catch (UnsupportedEncodingException e1) {
+			e1.printStackTrace();
+		} finally {
+			completeGraphWriter.close();
+			ontologiesListWriter.close();
+		}
+
+		DomainGraphToTableConverter.run(fileName, fileNameTable, fileNameMapping);
+
+		PrintWriter pairsWriter = null;
+		try {
+			pairsWriter = new PrintWriter(folderOutput + SemTabTableCreator.FILE_NAME_PAIRS_DOMAIN_GRAPHS);
+			writePairs(pairsWriter, evaluationInstances, folder);
+			System.out.println("#pairs: " + evaluationInstances.size());
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} finally {
+			pairsWriter.close();
+		}
+	}
+
+//	private void createCompleteGraphs(String folder, String folderOutput) {
+//		File[] graphFiles = (new File(folder + SemTabTableCreator.FOLDER_NAME_GRAPHS)).listFiles();
+//
+//		List<EvaluationInstance> evaluationInstances = new ArrayList<EvaluationInstance>();
+//
+//		for (File graphFile1 : graphFiles) {
+//			PrintWriter completeGraphWriter = null;
+//
+//			try {
+//				// completeGraphWriter = new PrintWriter(folderOutput +
+//				// SemTabTableCreator.FILE_NAME_COMPLETE_GRAPH);
+//
+//				String fileName = folder + SemTabTableCreator.FOLDER_NAME_COMPLETE_GRAPHS + "/" + graphFile1.getName();
+//
+//				OutputStream os = new FileOutputStream(fileName);
+//				completeGraphWriter = new PrintWriter(new OutputStreamWriter(os, "UTF-8"));
+//				// completeGraphWriter = new PrintWriter(fileName);
+//
+//				for (File graphFile2 : graphFiles) {
+//					if (graphFile1 == graphFile2)
+//						continue;
+//
+//					FileReader fileReader = new FileReader(graphFile2);
+//					try (BufferedReader bufferedReader = new BufferedReader(fileReader)) {
+//						String line;
+//						while ((line = bufferedReader.readLine()) != null) {
+//							completeGraphWriter.println(line);
+//						}
+//
+//					} catch (IOException e) {
+//						e.printStackTrace();
+//					}
+//
+//				}
+//
+//				EvaluationInstance instance = new EvaluationInstance(
+//						folder + SemTabTableCreator.FOLDER_NAME_TABLES + "/"
+//								+ graphFile1.getName().replaceAll(".ttl$", ""),
+//						folder + SemTabTableCreator.FOLDER_NAME_COMPLETE_GRAPHS + "/" + graphFile1.getName(),
+//						graphFile1.getPath().replace("\\","/").replace("/graphs/","/mappings/").replaceAll(".ttl$", ".rml"));
+//
+//				evaluationInstances.add(instance);
+//
+//			} catch (FileNotFoundException | UnsupportedEncodingException e) {
+//				e.printStackTrace();
+//			} finally {
+//				completeGraphWriter.close();
+//			}
+//		}
+//
+//		PrintWriter pairsWriter = null;
+//		try {
+//			pairsWriter = new PrintWriter(folderOutput + SemTabTableCreator.FILE_NAME_PAIRS_COMPLETE_GRAPHS);
+//			writePairs(pairsWriter, evaluationInstances, folderOutput);
+//			System.out.println("#pairs: " + evaluationInstances.size());
+//		} catch (FileNotFoundException e) {
+//			e.printStackTrace();
+//		} finally {
+//			pairsWriter.close();
+//		}
+//
+//	}
 
 	private void writePairs(PrintWriter pairsWriter, List<EvaluationInstance> evaluationInstances, String folder) {
 		for (EvaluationInstance evaluationInstance : evaluationInstances) {
@@ -305,6 +720,29 @@ public class TableGraphPairsFinder {
 		}
 	}
 
+	public Map<String, Integer> getClasses(File file) {
+
+		Map<String, Integer> res = new HashMap<String, Integer>();
+
+		List<ColumnLiteralMapping> mappings1;
+		try {
+			RMLMappingReader rmr = new RMLMappingReader();
+			mappings1 = rmr.getMappings(file.getPath());
+
+			for (ColumnLiteralMapping clm : mappings1) {
+				if (!res.containsKey(clm.getSubjectClass().getURI()))
+					res.put(clm.getSubjectClass().getURI(), 1);
+				else
+					res.put(clm.getSubjectClass().getURI(), res.get(clm.getSubjectClass().getURI()) + 1);
+			}
+			return res;
+
+		} catch (IOException e) {
+			e.printStackTrace();
+			return null;
+		}
+	}
+
 	public Set<String> getGoldStandardClasses() {
 		Set<String> gsClasses = new HashSet<String>();
 
@@ -326,6 +764,41 @@ public class TableGraphPairsFinder {
 		}
 
 		return gsClasses;
+	}
+
+	public Set<String> getValidSemtabEasyTables(String folder) {
+
+		folder = folder.replace(Source.SEMTAB.getFolderName(), Source.SEMTAB_EASY.getFolderName());
+
+		if (this.gsClasses == null)
+			this.gsClasses = getGoldStandardClasses();
+
+		Set<String> tableNames = new HashSet<String>();
+
+		File[] mappingFiles = (new File(folder + "mappings")).listFiles();
+
+		for (File file : mappingFiles) {
+
+			Set<String> classes = getRelationsAndClasses(file).get(1);
+
+			if (isValidForSemTabEasy(classes))
+				tableNames.add(file.getPath().replace("mappings", "tables").replace(".rml", ".csv"));
+		}
+
+		System.out.println("Valid SemTab_Easy tables: " + tableNames.size());
+
+		return tableNames;
+	}
+
+	private String getSortedString(Map<String, Integer> map) {
+		List<String> sorted = new ArrayList<String>();
+
+		for (String value : MapUtil.sortByValueDescending(map).keySet())
+			sorted.add(value.replace("http://dbpedia.org/ontology/", "").replace("http://dbpedia.org/ontology/", "")
+					.replace("http://www.w3.org/2000/01/rdf-schema#", "rdfs:").replace("http://schema.org/", "")
+					.replace("http://schema.dig.isi.edu/ontology/", ""));
+
+		return StringUtils.join(sorted, ", ");
 	}
 
 }

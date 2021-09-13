@@ -25,6 +25,8 @@ import org.apache.jena.rdf.model.ModelFactory;
 import de.l3s.simpleml.tab2kg.catalog.model.dataset.datatable.DataTable;
 import de.l3s.simpleml.tab2kg.catalog.model.dataset.datatable.Row;
 import de.l3s.simpleml.tab2kg.data.ModelFilesCreator;
+import de.l3s.simpleml.tab2kg.data.TableSkipReason;
+import de.l3s.simpleml.tab2kg.data.TableStatistics;
 import de.l3s.simpleml.tab2kg.datareader.DataTableReader;
 import de.l3s.simpleml.tab2kg.graph.DataTableFromInputGraphCreator;
 import de.l3s.simpleml.tab2kg.model.rdf.RDFClass;
@@ -42,11 +44,17 @@ public class SemTabTableCreator {
 
 	public static final String FOLDER_NAME_TABLES = "tables";
 	public static final String FOLDER_NAME_GRAPHS = "graphs";
+	public static final String FOLDER_NAME_DOMAIN_ONTOLOGIES = "domain_ontologies";
+	public static final String FOLDER_NAME_DOMAIN_ONTOLOGY_TABLES = "domain_ontology_tables";
+	public static final String FOLDER_NAME_DOMAIN_ONTOLOGY_MODELS = "domain_ontology_models";
+
 	public static final String FOLDER_NAME_MAPPINGS = "mappings";
 	public static final String FOLDER_NAME_MODELS = "models";
 	public static final String FILE_NAME_PAIRS = "pairs.tsv";
+	public static final String FILE_NAME_PAIRS_DOMAIN_GRAPHS = "pairs_domain_graphs.tsv";
 	public static final String FILE_NAME_PAIRS_TRAINING = "pairs_training.tsv";
 	public static final String FILE_NAME_PAIRS_TEST = "pairs_test.tsv";
+	public static final String FILE_NAME_DOMAIN_ONTOLOGIES_LIST = "domain_ontologies_list.tsv";
 
 	private String tablesFolder;
 	private String cleanedTablesFolder;
@@ -59,6 +67,8 @@ public class SemTabTableCreator {
 	private Map<DataTable, Set<CSVRecord>> cpaRecords = new HashMap<DataTable, Set<CSVRecord>>();
 	private Map<DataTable, Map<Integer, String>> allColumnTitles = new HashMap<DataTable, Map<Integer, String>>();
 	private String datasetFolder;
+
+	private TableStatistics tableStatistics;
 
 	public static void main(String[] args) {
 
@@ -77,6 +87,10 @@ public class SemTabTableCreator {
 			e.printStackTrace();
 		}
 
+		TableStatistics tableStatistics = new TableStatistics();
+
+		int validTables = 0;
+
 		for (int round = 1; round <= 4; round++) {
 
 			System.out.println("=== ROUND " + round + " ===");
@@ -88,11 +102,16 @@ public class SemTabTableCreator {
 			String cpaGroundTruthFile = sourceFolder + "Round " + round + "/gt/CPA_Round" + round + "_gt.csv";
 
 			SemTabTableCreator semTabTableCreator = new SemTabTableCreator(semtabFolder, tablesFolder,
-					ctaGroundTruthFile, cpaGroundTruthFile, cleanedTablesFolder);
+					ctaGroundTruthFile, cpaGroundTruthFile, cleanedTablesFolder, tableStatistics);
 			semTabTableCreator.loadRelevantColumns();
 			semTabTableCreator.createCleanedTables(round);
 			semTabTableCreator.createRMLMappings(round);
+			validTables += semTabTableCreator.getDataTables().size();
 		}
+
+		tableStatistics.printResults();
+		System.out.println("Valid " + validTables);
+
 	}
 
 	private void deleteCleanedTables(DataTable table) {
@@ -150,13 +169,14 @@ public class SemTabTableCreator {
 	}
 
 	public SemTabTableCreator(String datasetFolder, String tablesFolder, String ctaGroundTruthFile,
-			String cpaGroundTruthFile, String cleanedTablesFolder) {
+			String cpaGroundTruthFile, String cleanedTablesFolder, TableStatistics tableStatistics) {
 		super();
 		this.datasetFolder = datasetFolder;
 		this.tablesFolder = tablesFolder;
 		this.ctaGroundTruthFile = ctaGroundTruthFile;
 		this.cpaGroundTruthFile = cpaGroundTruthFile;
 		this.cleanedTablesFolder = cleanedTablesFolder;
+		this.tableStatistics = tableStatistics;
 	}
 
 	private void loadRelevantColumns() {
@@ -185,6 +205,7 @@ public class SemTabTableCreator {
 
 				if (table == null) {
 					System.out.println("Skip. Can't find/parse table: " + tableId);
+					tableStatistics.increaseSkipCount(TableSkipReason.NOT_PARSEABLE);
 					// Skip table because they are missing or not parseable
 					invalidTables.add(tableId);
 					continue;
@@ -195,7 +216,8 @@ public class SemTabTableCreator {
 				String columnClass = record.get(2);
 
 				if (classesPerTable.get(table).contains(columnClass)) {
-					System.out.println("SKip. Table contains two columns of same type: " + table.getFileName());
+					System.out.println("Skip. Table contains two columns of same type: " + table.getFileName());
+					tableStatistics.increaseSkipCount(TableSkipReason.CYCLIC);
 					invalidTables.add(tableId);
 					continue;
 				}
@@ -237,6 +259,9 @@ public class SemTabTableCreator {
 
 				if (table == null) {
 					// Skip table because they are not missing or not parseable
+					System.out.println("Skip. Table " + tableId + " because they are not missing or not parseable");
+					tableStatistics.increaseSkipCount(TableSkipReason.NOT_PARSEABLE);
+
 					invalidTables.add(tableId);
 					continue;
 				}
@@ -248,6 +273,7 @@ public class SemTabTableCreator {
 				if (subjectTypePropertyLinesPerTable.get(tableId).contains(subjectTypePropertyLine)) {
 					System.out.println("Skip. Table " + tableId + " with duplicate domain/property triples: "
 							+ subjectTypePropertyLine);
+					tableStatistics.increaseSkipCount(TableSkipReason.DUPLICATES);
 					invalidTables.add(tableId);
 					continue;
 				}
@@ -281,6 +307,7 @@ public class SemTabTableCreator {
 				continue;
 			if (hasColumnsWithIdenticalValues(table, relevantColumnNumbers.get(table))) {
 				System.out.println("Skip. Has columns with identical values: " + table.getId() + ".");
+				tableStatistics.increaseSkipCount(TableSkipReason.IDENTICAL_COLUMNS);
 				invalidTables.add(table.getId());
 			}
 		}
@@ -291,6 +318,7 @@ public class SemTabTableCreator {
 		for (DataTable table : this.dataTables.values()) {
 			if (this.relevantColumnNumbers.get(table).size() <= 1) {
 				System.out.println("Skip. Not enough colums: " + table.getFileName());
+				tableStatistics.increaseSkipCount(TableSkipReason.TOO_FEW_COLUMNS);
 				invalidTables.add(table.getId());
 			}
 		}
@@ -305,11 +333,11 @@ public class SemTabTableCreator {
 //			}
 //		}		
 
-		this.dataTables.keySet().removeAll(invalidTables);
+		// this.dataTables.keySet().removeAll(invalidTables);
 
 	}
 
-	private boolean hasColumnsWithIdenticalValues(DataTable table, Set<Integer> relevantColumnNumbers) {
+	public boolean hasColumnsWithIdenticalValues(DataTable table, Set<Integer> relevantColumnNumbers) {
 
 		for (int columnNumber1 : relevantColumnNumbers) {
 			col2Loop: for (int columnNumber2 : relevantColumnNumbers) {
@@ -498,6 +526,7 @@ public class SemTabTableCreator {
 				literalPredicateObjectMap.setProperty(model.getProperty(record.get(3)));
 				literalPredicateObjectMap.setColumnId(columnTitles.get(objectColumnNumber));
 				if (subjectMap == null) {
+					tableStatistics.increaseSkipCount(TableSkipReason.UNKNOWN);
 					System.out.println("Unknown error. Skip.");
 					return null;
 				}
@@ -507,6 +536,10 @@ public class SemTabTableCreator {
 		}
 
 		return rmlMapping;
+	}
+
+	public Map<String, DataTable> getDataTables() {
+		return dataTables;
 	}
 
 }

@@ -301,7 +301,7 @@ public class AttributeStatistics<T> {
 
 	public NumericProfileFeature<?> getNumericFeature(ProfileFeatureEnum profileFeatureEnum, Integer rank) {
 		for (NumericProfileFeature<?> feature : this.numericProfileFeatures) {
-			if (feature.getProfileFeatureEnum() == profileFeatureEnum && feature.getRank() == rank)
+			if (feature.getProfileFeatureEnum() == profileFeatureEnum && feature.getRank().equals(rank))
 				return feature;
 		}
 		return null;
@@ -409,11 +409,11 @@ public class AttributeStatistics<T> {
 //		}
 //	}
 
-	public void addToValueList(T value) {
+	public void addToValueList(T value, String originalValue) {
 //		this.valueList.add(value);
 //		this.valueListWithNulls.add(value);
 
-		AttributeValue<T> attributeValue = new AttributeValue<T>(value);
+		AttributeValue<T> attributeValue = new AttributeValue<T>(value, originalValue);
 		if (value instanceof Boolean)
 			attributeValue.setStringValue(String.valueOf(value));
 		else if (value instanceof String)

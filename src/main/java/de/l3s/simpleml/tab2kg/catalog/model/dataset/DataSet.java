@@ -51,6 +51,8 @@ public class DataSet {
 	 */
 	private Boolean latBeforeLon = null;
 
+	private Boolean valid;
+
 	public DataSet(String id) {
 		super();
 		this.id = id;
@@ -394,6 +396,14 @@ public class DataSet {
 		}
 
 		return filteredAttributes;
+	}
+
+	public Boolean isValid() {
+		return valid;
+	}
+
+	public void setValid(Boolean valid) {
+		this.valid = valid;
 	}
 
 }

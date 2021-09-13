@@ -6,6 +6,8 @@ import java.util.Collections;
 import java.util.Date;
 import java.util.List;
 
+import org.apache.commons.math3.stat.descriptive.moment.Kurtosis;
+import org.apache.commons.math3.stat.descriptive.moment.Skewness;
 import org.locationtech.jts.geom.Geometry;
 import org.locationtech.jts.io.ParseException;
 import org.locationtech.jts.io.WKBReader;
@@ -135,6 +137,22 @@ public class StatisticsComputer {
 						stats.getWordLengthStatistics().getNumericFeature(ProfileFeatureEnum.MEAN).getDoubleValue(),
 						new FeatureContext<String>(DataTypeClass.XS_STRING,
 								Tab2KGConfiguration.STRING_STATISTICS_COMMENT, ProfileFeatureContextEnum.COMMENT)));
+
+		if (stats.getWordLengthStatistics().getNumericFeature(ProfileFeatureEnum.KURTOSIS) != null)
+			stats.addNumericProfileFeature(
+					new NumericProfileFeature<Double>(ProfileFeatureEnum.KURTOSIS, DataTypeClass.XS_DOUBLE,
+							stats.getWordLengthStatistics().getNumericFeature(ProfileFeatureEnum.KURTOSIS)
+									.getDoubleValue(),
+							new FeatureContext<String>(DataTypeClass.XS_STRING,
+									Tab2KGConfiguration.STRING_STATISTICS_COMMENT, ProfileFeatureContextEnum.COMMENT)));
+		if (stats.getWordLengthStatistics().getNumericFeature(ProfileFeatureEnum.SKEWNESS) != null)
+			stats.addNumericProfileFeature(
+					new NumericProfileFeature<Double>(ProfileFeatureEnum.SKEWNESS, DataTypeClass.XS_DOUBLE,
+							stats.getWordLengthStatistics().getNumericFeature(ProfileFeatureEnum.SKEWNESS)
+									.getDoubleValue(),
+							new FeatureContext<String>(DataTypeClass.XS_STRING,
+									Tab2KGConfiguration.STRING_STATISTICS_COMMENT, ProfileFeatureContextEnum.COMMENT)));
+
 		stats.addNumericProfileFeature(new NumericProfileFeature<Double>(ProfileFeatureEnum.SD, DataTypeClass.XS_DOUBLE,
 				stats.getWordLengthStatistics().getNumericFeature(ProfileFeatureEnum.SD).getDoubleValue(),
 				new FeatureContext<String>(DataTypeClass.XS_STRING, Tab2KGConfiguration.STRING_STATISTICS_COMMENT,
@@ -238,12 +256,30 @@ public class StatisticsComputer {
 		long numberOfDigits = 0;
 		double average = 0d;
 
+		Collections.sort(stats.getValueList());
+
+		double[] valuesArr = new double[stats.getValueList().size()];
+
 		int i = 0;
 		for (Integer value : stats.getValueList()) {
 			average = (average * i + value) / (i + 1);
 			numberOfDigits += String.valueOf(value).length();
+			valuesArr[i] = Double.valueOf(value);
 			i += 1;
 		}
+
+		int min = stats.getValueList().get(0);
+		int max = stats.getValueList().get(stats.getValueList().size() - 1);
+
+		double skewness = (new Skewness()).evaluate(valuesArr, 0, stats.getValueList().size());
+		if (!Double.isNaN(skewness))
+			stats.addNumericProfileFeature(
+					new NumericProfileFeature<Double>(ProfileFeatureEnum.SKEWNESS, DataTypeClass.XS_DOUBLE, skewness));
+
+		double kurtosis = (new Kurtosis()).evaluate(valuesArr, 0, stats.getValueList().size());
+		if (!Double.isNaN(kurtosis))
+			stats.addNumericProfileFeature(
+					new NumericProfileFeature<Double>(ProfileFeatureEnum.KURTOSIS, DataTypeClass.XS_DOUBLE, kurtosis));
 
 		stats.setOrUpdateDoubleFeatureValue(ProfileFeatureEnum.AVERAGE_NUMBER_OF_DIGITS,
 				(double) numberOfDigits / stats.getNumberOfNonNullValues());
@@ -253,10 +289,6 @@ public class StatisticsComputer {
 		stats.setOrUpdateDoubleFeatureValue(ProfileFeatureEnum.AVERAGE_NUMBER_OF_CAPITALISED_VALUES, 0d);
 		stats.setOrUpdateDoubleFeatureValue(ProfileFeatureEnum.AVERAGE_NUMBER_OF_SPECIAL_CHARACTERS, 0d);
 
-		Collections.sort(stats.getValueList());
-
-		int min = stats.getValueList().get(0);
-		int max = stats.getValueList().get(stats.getValueList().size() - 1);
 		stats.addNumericProfileFeature(
 				new NumericProfileFeature<Integer>(ProfileFeatureEnum.MIN, DataTypeClass.XS_INTEGER, min));
 		stats.addNumericProfileFeature(
@@ -357,14 +389,27 @@ public class StatisticsComputer {
 	private static void computeStatisticsForLong(List<Integer> numbersOfQuantiles, List<Integer> numbersOfIntervals,
 			AttributeStatistics<Long> stats) {
 
+		Collections.sort(stats.getValueList());
+
+		double[] valuesArr = new double[stats.getValueList().size()];
+
 		double average = 0;
 		int i = 0;
 		for (Long value : stats.getValueList()) {
 			average = (average * i + value) / (i + 1);
+			valuesArr[i] = Double.valueOf(value);
 			i += 1;
 		}
 
-		Collections.sort(stats.getValueList());
+		double skewness = (new Skewness()).evaluate(valuesArr, 0, stats.getValueList().size());
+		if (!Double.isNaN(skewness))
+			stats.addNumericProfileFeature(
+					new NumericProfileFeature<Double>(ProfileFeatureEnum.SKEWNESS, DataTypeClass.XS_DOUBLE, skewness));
+
+		double kurtosis = (new Kurtosis()).evaluate(valuesArr, 0, stats.getValueList().size());
+		if (!Double.isNaN(kurtosis))
+			stats.addNumericProfileFeature(
+					new NumericProfileFeature<Double>(ProfileFeatureEnum.KURTOSIS, DataTypeClass.XS_DOUBLE, kurtosis));
 
 		long min = stats.getValueList().get(0);
 		stats.addNumericProfileFeature(
@@ -471,14 +516,29 @@ public class StatisticsComputer {
 		long numberOfCharacters = 0;
 		double average = 0;
 
+		Collections.sort(stats.getValueList());
+
+		double[] valuesArr = new double[stats.getValueList().size()];
+
 		int i = 0;
 		for (Double value : stats.getValueList()) {
 			average = (average * i + value) / (i + 1);
 			int[] numberOfDigitsAndCharacters = countDigitsAndCharacters(String.valueOf(value));
 			numberOfDigits += numberOfDigitsAndCharacters[0];
 			numberOfCharacters += numberOfDigitsAndCharacters[1];
+			valuesArr[i] = value;
 			i += 1;
 		}
+
+		double skewness = (new Skewness()).evaluate(valuesArr, 0, stats.getValueList().size());
+		if (!Double.isNaN(skewness))
+			stats.addNumericProfileFeature(
+					new NumericProfileFeature<Double>(ProfileFeatureEnum.SKEWNESS, DataTypeClass.XS_DOUBLE, skewness));
+
+		double kurtosis = (new Kurtosis()).evaluate(valuesArr, 0, stats.getValueList().size());
+		if (!Double.isNaN(kurtosis))
+			stats.addNumericProfileFeature(
+					new NumericProfileFeature<Double>(ProfileFeatureEnum.KURTOSIS, DataTypeClass.XS_DOUBLE, kurtosis));
 
 		stats.setOrUpdateDoubleFeatureValue(ProfileFeatureEnum.AVERAGE_NUMBER_OF_DIGITS,
 				(double) numberOfDigits / stats.getNumberOfNonNullValues());
@@ -491,7 +551,6 @@ public class StatisticsComputer {
 		stats.addNumericProfileFeature(
 				new NumericProfileFeature<Double>(ProfileFeatureEnum.MEAN, DataTypeClass.XS_DOUBLE, average));
 
-		Collections.sort(stats.getValueList());
 		double min = stats.getValueList().get(0);
 		double max = stats.getValueList().get(stats.getValueList().size() - 1);
 
@@ -737,18 +796,6 @@ public class StatisticsComputer {
 		stats.addNumericProfileFeature(new NumericProfileFeature<Integer>(ProfileFeatureEnum.NUMBER_OF_DISTINCT_VALUES,
 				DataTypeClass.XS_NON_NEGATIVE_INTEGER, numberOfDistinctValues));
 
-		// TODO: Re-add
-//		List<Location> locations = OSMPolygonsLoader.getLandkreise();
-//
-//		for (Geometry value : stats.getValueList()) {
-//			for (Location location : locations) {
-//				if (location.getGeometry().contains(value)) {
-//					stats.increaseCountPerLocation(location);
-//					break;
-//				}
-//			}
-//		}
-
 		// POINT() does not have statistics
 		if (stats.getGeoDimensionStatistics() != null
 				&& !stats.getGeoDimensionStatistics().getAttributeValues().isEmpty()) {
@@ -775,6 +822,20 @@ public class StatisticsComputer {
 					DataTypeClass.XS_DOUBLE,
 					stats.getGeoDimensionStatistics().getNumericFeature(ProfileFeatureEnum.SD).getDoubleValue(),
 					new FeatureContext<String>(DataTypeClass.XS_STRING, comment, ProfileFeatureContextEnum.COMMENT)));
+			if (stats.getGeoDimensionStatistics().getNumericFeature(ProfileFeatureEnum.KURTOSIS) != null)
+				stats.addNumericProfileFeature(
+						new NumericProfileFeature<Double>(ProfileFeatureEnum.KURTOSIS, DataTypeClass.XS_DOUBLE,
+								stats.getGeoDimensionStatistics().getNumericFeature(ProfileFeatureEnum.KURTOSIS)
+										.getDoubleValue(),
+								new FeatureContext<String>(DataTypeClass.XS_STRING, comment,
+										ProfileFeatureContextEnum.COMMENT)));
+			if (stats.getGeoDimensionStatistics().getNumericFeature(ProfileFeatureEnum.SKEWNESS) != null)
+				stats.addNumericProfileFeature(
+						new NumericProfileFeature<Double>(ProfileFeatureEnum.SKEWNESS, DataTypeClass.XS_DOUBLE,
+								stats.getGeoDimensionStatistics().getNumericFeature(ProfileFeatureEnum.SKEWNESS)
+										.getDoubleValue(),
+								new FeatureContext<String>(DataTypeClass.XS_STRING, comment,
+										ProfileFeatureContextEnum.COMMENT)));
 
 			// histograms
 			int rank = 0;
@@ -1129,7 +1190,7 @@ public class StatisticsComputer {
 			else {
 				try {
 					long longValue = Long.valueOf(value);
-					stats.addToValueList(longValue);
+					stats.addToValueList(longValue, originalValue);
 					stats.addValidNonNullValue();
 				} catch (NumberFormatException e) {
 					if (printWarnings)
@@ -1145,7 +1206,7 @@ public class StatisticsComputer {
 			else {
 				try {
 					int intValue = Integer.valueOf(value);
-					stats.addToValueList(intValue);
+					stats.addToValueList(intValue, originalValue);
 					stats.addValidNonNullValue();
 				} catch (NumberFormatException e) {
 					if (printWarnings)
@@ -1160,7 +1221,7 @@ public class StatisticsComputer {
 			else {
 				try {
 					double doubleValue = Double.valueOf(value);
-					stats.addToValueList(doubleValue);
+					stats.addToValueList(doubleValue, originalValue);
 					stats.addValidNonNullValue();
 				} catch (NumberFormatException e) {
 					if (printWarnings)
@@ -1175,10 +1236,10 @@ public class StatisticsComputer {
 				stats.addNullValue();
 			else {
 				if (value.toLowerCase().equals("true")) {
-					stats.addToValueList(true);
+					stats.addToValueList(true, originalValue);
 					stats.addValidNonNullValue();
 				} else if (value.toLowerCase().equals("false")) {
-					stats.addToValueList(false);
+					stats.addToValueList(false, originalValue);
 					stats.addValidNonNullValue();
 				} else {
 					if (printWarnings)
@@ -1207,7 +1268,7 @@ public class StatisticsComputer {
 				// System.out.println("Warning: SRID " + geometry.getSRID() + " not
 				// supported.");
 
-				stats.addToValueList(geometry);
+				stats.addToValueList(geometry, originalValue);
 				stats.addValidNonNullValue();
 
 				AttributeStatistics<Double> geoStats = attribute.getStatistics().getGeoDimensionStatistics();
@@ -1217,9 +1278,9 @@ public class StatisticsComputer {
 				} else {
 					// TODO: Transform to (kilo)meters
 					if (geometry.getDimension() == 1) {
-						geoStats.addToValueList(geometry.getLength());
+						geoStats.addToValueList(geometry.getLength(), originalValue);
 					} else if (geometry.getDimension() == 2) {
-						geoStats.addToValueList(geometry.getArea());
+						geoStats.addToValueList(geometry.getArea(), originalValue);
 						geoStats.addValidNonNullValue();
 					}
 				}
@@ -1242,9 +1303,9 @@ public class StatisticsComputer {
 				Date date;
 				try {
 					date = DateParserUtils.parseDate(value);// DataTable.TIME_FORMAT.parse(value);
-					stats.addToValueList(date);
+					stats.addToValueList(date, originalValue);
 					stats.addValidNonNullValue();
-					msStats.addToValueList(date.getTime());
+					msStats.addToValueList(date.getTime(), originalValue);
 					msStats.addValidNonNullValue();
 				} catch (DateTimeParseException e) {
 					stats.addInvalidValue();
@@ -1262,9 +1323,9 @@ public class StatisticsComputer {
 				stats.addNullValue();
 				wordLengthStats.addNullValue();
 			} else {
-				stats.addToValueList(value);
+				stats.addToValueList(value, originalValue);
 				stats.addValidNonNullValue();
-				wordLengthStats.addToValueList(value.length());
+				wordLengthStats.addToValueList(value.length(), originalValue);
 				wordLengthStats.addValidNonNullValue();
 			}
 		}

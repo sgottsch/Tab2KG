@@ -12,7 +12,6 @@ public class CandidateGraph extends SimpleGraph {
 
 	private int size;
 	private Double sizeNormalised = null;
-	private Double correlationScore = null;
 	private Double score = null;
 
 	private AttributeCandidatesSet attributeCandidatesSet;
@@ -37,14 +36,6 @@ public class CandidateGraph extends SimpleGraph {
 
 	public void setAttributeCandidatesSet(AttributeCandidatesSet attributeCandidatesSet) {
 		this.attributeCandidatesSet = attributeCandidatesSet;
-	}
-
-	public Double getCorrelationScore() {
-		return correlationScore;
-	}
-
-	public void setCorrelationScore(Double correlationScore) {
-		this.correlationScore = correlationScore;
 	}
 
 	public Double getSizeScore() {
@@ -72,8 +63,8 @@ public class CandidateGraph extends SimpleGraph {
 	}
 
 	public void print() {
-		System.out.println("Graph (size: " + this.getSizeScore() + ", confidence: " + this.getConfidenceScore()
-				+ ", correlation: " + this.getCorrelationScore() + " => " + this.getScore() + ")");
+		System.out.println("Graph (size: " + this.getSizeScore() + ", confidence: " + this.getConfidenceScore() + " => "
+				+ this.getScore() + ")");
 
 		for (RDFNodeLiteralTriple literalTriple : this.getMiniSchema().getLiteralTriples()) {
 			System.out.println("L: " + literalTriple.getSubject().getURI() + " " + literalTriple.getProperty().getURI()

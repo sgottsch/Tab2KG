@@ -2,8 +2,10 @@ package de.l3s.simpleml.tab2kg.model.graph;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 
 import org.apache.jena.rdf.model.Resource;
 
@@ -16,6 +18,8 @@ public class MiniSchema {
 	private List<RDFNodeTriple> classTriples = new ArrayList<RDFNodeTriple>();
 
 	private Map<Resource, List<RDFNodeLiteralTriple>> literalTriplesBySubject = new HashMap<Resource, List<RDFNodeLiteralTriple>>();
+
+	private Map<String, Set<String>> neighouredClasses = new HashMap<String, Set<String>>();
 
 	public MiniSchema() {
 		super();
@@ -52,6 +56,22 @@ public class MiniSchema {
 
 	public void addClassTriple(RDFNodeTriple classTriple) {
 		this.classTriples.add(classTriple);
+
+		addNeighouredClass(classTriple.getSubject(), classTriple.getObject());
+	}
+
+	public Map<String, Set<String>> getNeighouredClasses() {
+		return neighouredClasses;
+	}
+
+	public void addNeighouredClass(Resource class1, Resource class2) {
+		if (!this.neighouredClasses.containsKey(class1.getURI()))
+			this.neighouredClasses.put(class1.getURI(), new HashSet<String>());
+		this.neighouredClasses.get(class1.getURI()).add(class2.getURI());
+
+		if (!this.neighouredClasses.containsKey(class2.getURI()))
+			this.neighouredClasses.put(class2.getURI(), new HashSet<String>());
+		this.neighouredClasses.get(class2.getURI()).add(class1.getURI());
 	}
 
 }

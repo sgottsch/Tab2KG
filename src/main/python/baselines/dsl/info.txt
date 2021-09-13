@@ -1,0 +1,4 @@
+This is an edited version of https://github.com/minhptx/iswc-2016-semantic-labeling.
+It was edited to use it as a baseline for Tab2KG.
+
+The learned model files are included in the "model" folder.

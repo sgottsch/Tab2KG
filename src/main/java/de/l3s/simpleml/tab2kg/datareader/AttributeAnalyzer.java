@@ -108,7 +108,7 @@ public class AttributeAnalyzer {
 
 		DataTable table = new DataTable();
 		table.addAttribute(attribute);
-		DataTableProfilesCreator.createColumnProfiles(table, Arrays.asList(4), Arrays.asList(10));
+		DataTableProfilesCreator.createColumnProfiles(table, Arrays.asList(4), Arrays.asList(10), false);
 
 		System.out.println(attribute.getStatistics().getAttributeStatisticsTypeL3());
 	}
@@ -123,7 +123,7 @@ public class AttributeAnalyzer {
 
 		DataTable table = new DataTable();
 		table.addAttribute(attribute);
-		DataTableProfilesCreator.createColumnProfiles(table, Arrays.asList(4), Arrays.asList(10));
+		DataTableProfilesCreator.createColumnProfiles(table, Arrays.asList(4), Arrays.asList(10), false);
 
 		System.out.println(attribute.getStatistics().getAttributeStatisticsTypeL3());
 		System.out.println(attribute.getStatistics().getAttributeStatisticsType());

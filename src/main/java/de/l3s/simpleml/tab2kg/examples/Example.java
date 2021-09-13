@@ -19,6 +19,7 @@ import de.l3s.simpleml.tab2kg.ml.TableSemantifier;
 import de.l3s.simpleml.tab2kg.model.graph.CandidateGraph;
 import de.l3s.simpleml.tab2kg.model.graph.SimpleGraph;
 import de.l3s.simpleml.tab2kg.profiles.FeatureConfig;
+import de.l3s.simpleml.tab2kg.profiles.FeatureConfigName;
 import de.l3s.simpleml.tab2kg.profiles.ProfilePairNormaliser;
 import de.l3s.simpleml.tab2kg.profiles.features.ProfileFeaturePlaceholder;
 import de.l3s.simpleml.tab2kg.profiles.rdf.ProfileCreatorTTL;
@@ -36,6 +37,9 @@ public class Example {
 		// Input parameters
 		String dataTableFileName = args[0]; // e.g., "soccer/tables/all_world_cup_players.csv"
 		String domainGraphFilename = args[1]; // e.g., "soccer/graphs/world_cup_2014_squads.csv.ttl"
+
+		System.out.println("Data table: " + dataTableFileName);
+		System.out.println("Domain graph: " + domainGraphFilename);
 
 		String dataTableId = dataTableFileName.substring(dataTableFileName.lastIndexOf("/") + 1);
 		dataTableId = dataTableId.substring(0, dataTableId.lastIndexOf("."));
@@ -62,9 +66,9 @@ public class Example {
 		List<Integer> numbersOfIntervals = Arrays.asList(10);
 
 		// Create profiles
-		DataTableProfilesCreator.createColumnProfiles(dataTable, numbersOfQuantiles, numbersOfIntervals);
-		SimpleGraphProfilesCreator.createAttributeProfiles(graph, numbersOfQuantiles, numbersOfIntervals);
-
+		DataTableProfilesCreator.createColumnProfiles(dataTable, numbersOfQuantiles, numbersOfIntervals, false);
+		SimpleGraphProfilesCreator.createAttributeProfiles(graph, numbersOfQuantiles, numbersOfIntervals, false);
+//
 		// Create semantic profile
 		ProfileCreatorTTL pc = new ProfileCreatorTTL(dataTable);
 		System.out.println("Create profile and store it in " + profileOutputFileName + ".");
@@ -72,17 +76,19 @@ public class Example {
 
 		// Normalise the profile pairs between data type relation profiles and column
 		// profiles
-		List<ProfileFeaturePlaceholder> profileFeaturePlaceholders = FeatureConfig.getProfileFeaturePlaceholders();
+		List<ProfileFeaturePlaceholder> profileFeaturePlaceholders = FeatureConfig
+				.getProfileFeaturePlaceholders(FeatureConfigName.ALL);
 
 		System.out.println("#columns: " + dataTable.getAttributes().size());
 		System.out.println("#attributes: " + graph.getAttributes().size());
 
 		for (Attribute column : dataTable.getAttributes()) {
 
-			List<Double> featuresColumn = DataTableProfilesCreator.getFeatureValues(column, profileFeaturePlaceholders);
+			List<Double> featuresColumn = DataTableProfilesCreator.getFeatureValues(column, profileFeaturePlaceholders,
+					FeatureConfigName.ALL);
 			for (Attribute attribute : graph.getAttributes()) {
 				List<Double> featuresAttribute = SimpleGraphProfilesCreator.getFeatures(attribute,
-						profileFeaturePlaceholders);
+						profileFeaturePlaceholders, FeatureConfigName.ALL);
 
 				System.out.println("\n\n--- " + column.getIdentifier() + " ---");
 				System.out.println(attribute.getSubjectClassURI() + " " + attribute.getPredicateURI());
@@ -96,7 +102,7 @@ public class Example {
 		System.out.println("===\n\n");
 
 		// Semantic Table Interpretation
-		TableSemantifier tableSemantifier = new TableSemantifier(null, false, false);
+		TableSemantifier tableSemantifier = new TableSemantifier(null, false, false, FeatureConfigName.ALL, null, null);
 		CandidateGraph resultGraph = tableSemantifier.findCandidateGraphGreedy(dataTable, graph);
 
 		resultGraph.print();

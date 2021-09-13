@@ -109,8 +109,17 @@ For each of the five data sets GITHUB, SEMTAB, WEAPONS, SOCCER and SEMTAB_EASY, 
 
 ### Batch Evaluation
 
-Run `de.l3s.simpleml.tab2kg.evaluation.DataSetEvaluation` with the required parameters (e.g., "-source SOCCER") to evaluate the semantic table interpretation performance for a single dataset.
+Start the column matcher API (scripts/apis_starter.sh).
+Then, run `de.l3s.simpleml.tab2kg.evaluation.DataSetEvaluation` with the required parameters (e.g., "-source SOCCER") to evaluate the semantic table interpretation performance for a single dataset.
 
 ## Training the Siamese Network
 
-Use the Python script "siamese_column.py" to learn profile similarity from a set of positive and negative profile pairs yourself. In the data folder, we provide a pre-trained model.
+In the data folder, we provide a pre-trained model which can be used.
+
+If you want to train you own model, use the Python script "siamese_column.py" to learn profile similarity from a set of positive and negative profile pairs yourself.
+You can find the commands to run the training in scripts/model_training_script_ablation.sh.
+
+## Baselines
+
+We compare to T2KMatch (https://github.com/olehmberg/T2KMatch) and https://github.com/olehmberg/T2KMatch.
+For the latter, we have edited the code to make it applicable in the Tab2KG setting. The edited code is available in src/main/python/baselines/dsl.

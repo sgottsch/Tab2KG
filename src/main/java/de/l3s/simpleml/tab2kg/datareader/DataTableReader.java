@@ -115,7 +115,7 @@ public class DataTableReader {
 
 				for (int i = 0; i < numberOfColumns; i++) {
 
-					String value = record.get(i);
+					String value = record.get(i).trim();
 
 					if (value.equals(dataTable.getNullValue()))
 						value = null;

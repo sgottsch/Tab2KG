@@ -10,8 +10,8 @@ public enum DataTypeClass {
 	XS_STRING("string", Prefix.XSD), RDF_LANG_STRING("langString", Prefix.RDF), XS_ANY_URI("anyURI", Prefix.XSD),
 	XS_BOOLEAN("boolean", Prefix.XSD), XS_DOUBLE("double", Prefix.XSD), XS_DECIMAL("decimal", Prefix.XSD),
 	XS_DATE("date", Prefix.XSD), XS_TIME("time", Prefix.XSD), XS_BYTE("byte", Prefix.XSD),
-	XS_DATE_TIME("dateTime", Prefix.XSD), SML_WKT("wellKnownText", Prefix.ANON), SML_WKB("wellKnownBinary", Prefix.ANON),
-	XS_FLOAT("float", Prefix.XSD);
+	XS_DATE_TIME("dateTime", Prefix.XSD), SML_WKT("wellKnownText", Prefix.ANON),
+	SML_WKB("wellKnownBinary", Prefix.ANON), XS_FLOAT("float", Prefix.XSD), SML_VECTOR("vector", Prefix.ANON);
 
 	private String name;
 	private Prefix prefix;

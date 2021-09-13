@@ -20,6 +20,8 @@ public class SimpleGraph {
 
 	private Map<String, Double> correlationScores;
 
+	private Boolean valid;
+
 	public SimpleGraph() {
 		super();
 	}
@@ -78,6 +80,14 @@ public class SimpleGraph {
 
 	public void setCorrelationScores(Map<String, Double> correlationScores) {
 		this.correlationScores = correlationScores;
+	}
+
+	public Boolean isValid() {
+		return valid;
+	}
+
+	public void setValid(Boolean valid) {
+		this.valid = valid;
 	}
 
 }

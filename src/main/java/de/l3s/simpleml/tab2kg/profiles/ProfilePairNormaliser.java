@@ -49,7 +49,8 @@ public class ProfilePairNormaliser {
 //			System.out.println(
 //					"F2 " + j + " -> " + features2.get(j) + " - " + profileFeaturePlaceholder.getProfileFeatureEnum());
 
-			if (profileFeaturePlaceholder.getProfileFeatureEnum().getNormaliser() == null) {
+			if (profileFeaturePlaceholder.getProfileFeatureEnum().getNormaliser() == null
+					&& profileFeaturePlaceholder.getProfileFeatureEnum().isNormalise()) {
 
 				boolean feature1IsNull = features1.get(j) == -1;
 				boolean feature2IsNull = features2.get(j) == -1;

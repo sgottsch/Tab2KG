@@ -1,7 +1,9 @@
 package de.l3s.simpleml.tab2kg.ml;
 
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -19,6 +21,7 @@ import de.l3s.simpleml.tab2kg.evaluation.EvaluationInstance;
 import de.l3s.simpleml.tab2kg.graph.simple.SimpleGraphProfilesCreator;
 import de.l3s.simpleml.tab2kg.model.graph.SimpleGraph;
 import de.l3s.simpleml.tab2kg.profiles.FeatureConfig;
+import de.l3s.simpleml.tab2kg.profiles.FeatureConfigName;
 import de.l3s.simpleml.tab2kg.profiles.ProfilePairNormaliser;
 import de.l3s.simpleml.tab2kg.profiles.features.ProfileFeaturePlaceholder;
 import de.l3s.simpleml.tab2kg.rml.ColumnLiteralMapping;
@@ -45,38 +48,54 @@ public class ColumnLiteralPairCollector {
 
 	public static void main(String[] args) {
 
-		ColumnLiteralPairCollector clpc = new ColumnLiteralPairCollector();
-		clpc.init();
-		clpc.loadPairs();
+		List<FeatureConfigName> featureConfigNames = new ArrayList<FeatureConfigName>();
+		featureConfigNames.addAll(Arrays.asList(FeatureConfigName.values()));
+
+		for (FeatureConfigName featureConfigName : featureConfigNames) {
+			ColumnLiteralPairCollector clpc = new ColumnLiteralPairCollector();
+			clpc.loadPairs(featureConfigName);
+		}
 
 	}
 
-	private void init() {
-//		this.wordEmbeddings = new WordEmbeddingsUtil();
-//		wordEmbeddings.init();
+	private void loadPairs(FeatureConfigName featureConfigName) {
+		loadPairs(Mode.TRAINING, featureConfigName);
+		loadPairs(Mode.TEST, featureConfigName);
 	}
 
-	private void loadPairs() {
-		loadPairs(Mode.TRAINING);
-		loadPairs(Mode.TEST);
-	}
+	private void loadPairs(Mode mode, FeatureConfigName featureConfigName) {
 
-	private void loadPairs(Mode mode) {
-		List<EvaluationInstance> pairs = PairsLoader.loadPairs(Source.GITHUB, mode);
+		System.out.println("Load pairs (" + mode + ", " + featureConfigName + ")");
+
+		List<EvaluationInstance> pairs = PairsLoader.loadPairs(Source.GITHUB, mode, false);
+
+		// create model folder if not exists
+		File directoryModel = new File(
+				Config.getPath(FileLocation.COLUMN_MATCHING_MODEL_FOLDER) + featureConfigName.getName());
+		if (!directoryModel.exists()) {
+			directoryModel.mkdirs();
+		}
+
+		// create pairs folder if not exists
+		File directoryPairs = new File(
+				Config.getPath(FileLocation.COLUMN_MATCHING_FOLDER, mode) + featureConfigName.getName());
+		if (!directoryPairs.exists()) {
+			directoryPairs.mkdirs();
+		}
 
 		PrintWriter writerPositive1 = null;
 		PrintWriter writerPositive2 = null;
 		PrintWriter writerNegative1 = null;
 		PrintWriter writerNegative2 = null;
 		try {
-			writerPositive1 = new PrintWriter(
-					Config.getPath(FileLocation.COLUMN_MATCHING_FOLDER, mode) + POSITIVE_PAIRS_1_FILE_NAME);
-			writerPositive2 = new PrintWriter(
-					Config.getPath(FileLocation.COLUMN_MATCHING_FOLDER, mode) + POSITIVE_PAIRS_2_FILE_NAME);
-			writerNegative1 = new PrintWriter(
-					Config.getPath(FileLocation.COLUMN_MATCHING_FOLDER, mode) + NEGATIVE_PAIRS_1_FILE_NAME);
-			writerNegative2 = new PrintWriter(
-					Config.getPath(FileLocation.COLUMN_MATCHING_FOLDER, mode) + NEGATIVE_PAIRS_2_FILE_NAME);
+			writerPositive1 = new PrintWriter(Config.getPath(FileLocation.COLUMN_MATCHING_FOLDER, mode)
+					+ featureConfigName.getName() + "/" + POSITIVE_PAIRS_1_FILE_NAME);
+			writerPositive2 = new PrintWriter(Config.getPath(FileLocation.COLUMN_MATCHING_FOLDER, mode)
+					+ featureConfigName.getName() + "/" + POSITIVE_PAIRS_2_FILE_NAME);
+			writerNegative1 = new PrintWriter(Config.getPath(FileLocation.COLUMN_MATCHING_FOLDER, mode)
+					+ featureConfigName.getName() + "/" + NEGATIVE_PAIRS_1_FILE_NAME);
+			writerNegative2 = new PrintWriter(Config.getPath(FileLocation.COLUMN_MATCHING_FOLDER, mode)
+					+ featureConfigName.getName() + "/" + NEGATIVE_PAIRS_2_FILE_NAME);
 
 			int i = 0;
 			for (EvaluationInstance pair : pairs) {
@@ -84,7 +103,8 @@ public class ColumnLiteralPairCollector {
 					System.out.println(((double) i / pairs.size()) + "\t" + i + "/" + pairs.size() + " ("
 							+ mode.toString().toLowerCase() + ")");
 				i += 1;
-				findMappings(pair, writerPositive1, writerPositive2, writerNegative1, writerNegative2);
+				findMappings(pair, writerPositive1, writerPositive2, writerNegative1, writerNegative2,
+						featureConfigName);
 			}
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
@@ -116,7 +136,7 @@ public class ColumnLiteralPairCollector {
 	}
 
 	private void findMappings(EvaluationInstance pair, PrintWriter writerPositive1, PrintWriter writerPositive2,
-			PrintWriter writerNegative1, PrintWriter writerNegative2) {
+			PrintWriter writerNegative1, PrintWriter writerNegative2, FeatureConfigName featureConfigName) {
 
 		List<Integer> numbersOfQuantiles = Arrays.asList(4, 10);
 		List<Integer> numbersOfIntervals = Arrays.asList(10);
@@ -125,22 +145,25 @@ public class ColumnLiteralPairCollector {
 
 		SimpleGraph simpleGraph = new SimpleGraph(pair.getGraphFileName());
 
-		DataTableProfilesCreator.createColumnProfiles(dataTable, numbersOfQuantiles, numbersOfIntervals);
-		SimpleGraphProfilesCreator.createAttributeProfiles(simpleGraph, numbersOfQuantiles, numbersOfIntervals);
-		List<ProfileFeaturePlaceholder> profileFeaturePlaceholders = FeatureConfig.getProfileFeaturePlaceholders();
+		DataTableProfilesCreator.createColumnProfiles(dataTable, numbersOfQuantiles, numbersOfIntervals,
+				featureConfigName.useEmbeddings());
+		SimpleGraphProfilesCreator.createAttributeProfiles(simpleGraph, numbersOfQuantiles, numbersOfIntervals,
+				featureConfigName.useEmbeddings());
+		List<ProfileFeaturePlaceholder> profileFeaturePlaceholders = FeatureConfig
+				.getProfileFeaturePlaceholders(featureConfigName);
 
 		RMLMappingReader rmr = new RMLMappingReader();
 		List<ColumnLiteralMapping> mappings = rmr.getMappings(dataTable, simpleGraph, pair.getMappingFileName());
 
 		for (Attribute column : dataTable.getAttributes()) {
-			DataTableProfilesCreator.getFeatureValues(column, profileFeaturePlaceholders);
+			DataTableProfilesCreator.getFeatureValues(column, profileFeaturePlaceholders, featureConfigName);
 			tableCountsL1.addValue(column.getStatistics().getAttributeStatisticsType().getTypeL1());
 			tableCountsL2.addValue(column.getStatistics().getAttributeStatisticsType());
 			tableCountsL3.addValue(column.getStatistics().getAttributeStatisticsTypeL3());
 		}
 
 		for (Attribute attribute : simpleGraph.getAttributes()) {
-			SimpleGraphProfilesCreator.getFeatures(attribute, profileFeaturePlaceholders);
+			SimpleGraphProfilesCreator.getFeatures(attribute, profileFeaturePlaceholders, featureConfigName);
 			graphCountsL1.addValue(attribute.getStatistics().getAttributeStatisticsType().getTypeL1());
 			graphCountsL2.addValue(attribute.getStatistics().getAttributeStatisticsType());
 			graphCountsL3.addValue(attribute.getStatistics().getAttributeStatisticsTypeL3());
@@ -173,6 +196,7 @@ public class ColumnLiteralPairCollector {
 				if (column.getRepresentedAttribute() != attribute) {
 					List<List<Double>> normed = ProfilePairNormaliser.normalizeProfilePair(column.getFeatures(),
 							attribute.getFeatures(), profileFeaturePlaceholders);
+
 					writerNegative1.println(StringUtils.join(normed.get(0), ","));
 					writerNegative2.println(StringUtils.join(normed.get(1), ","));
 				}

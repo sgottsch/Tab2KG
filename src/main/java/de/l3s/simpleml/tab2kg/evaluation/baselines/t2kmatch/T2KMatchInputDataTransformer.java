@@ -1,5 +1,6 @@
 package de.l3s.simpleml.tab2kg.evaluation.baselines.t2kmatch;
 
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -24,16 +25,33 @@ import de.l3s.simpleml.tab2kg.util.Source;
 public class T2KMatchInputDataTransformer {
 
 	public static void main(String[] args) {
+		run(false);
+		run(true);
+	}
+
+	private static void run(boolean useDomainGraphs) {
 
 		Source source = Source.SEMTAB_EASY;
 
-		String outputFolder = Config.getPath(FileLocation.BASE_FOLDER) + Source.SEMTAB_EASY.getFolderName();
-		String outputTablesFolder = Config.getPath(FileLocation.BASE_FOLDER) + Source.SEMTAB_EASY.getFolderName()+"tables/";
+		String suffix = "p";
+		if (useDomainGraphs)
+			suffix = "d";
+
+		String outputFolder = Config.getPath(FileLocation.BASE_FOLDER) + Source.SEMTAB_EASY.getFolderName()
+				+ "t2kmatch/" + suffix + "/";
+		String outputTablesFolder = Config.getPath(FileLocation.BASE_FOLDER) + Source.SEMTAB_EASY.getFolderName()
+				+ "t2kmatch/" + suffix + "/tables/";
+
+		File directory1 = new File(outputFolder);
+		if (!directory1.exists())
+			directory1.mkdirs();
+		File directory2 = new File(outputTablesFolder);
+		if (!directory2.exists())
+			directory2.mkdirs();
 
 		String gsClassFile = outputFolder + "gs_class.csv";
 		String gsPropertyFile = outputFolder + "gs_property.csv";
 
-		PrintWriter writerGSInstance = null;
 		PrintWriter writerGSClass = null;
 		PrintWriter writerGSProperty = null;
 
@@ -41,30 +59,31 @@ public class T2KMatchInputDataTransformer {
 			// writerGSInstance = new PrintWriter(gsInstanceFile);
 			writerGSClass = new PrintWriter(gsClassFile);
 			writerGSProperty = new PrintWriter(gsPropertyFile);
-			List<EvaluationInstance> pairs = PairsLoader.loadPairs(source);
+			List<EvaluationInstance> pairs = PairsLoader.loadPairs(source, useDomainGraphs);
 			Set<String> doneTableFiles = new HashSet<String>();
 			for (EvaluationInstance pair : pairs) {
 				if (!doneTableFiles.contains(pair.getTableFileName())) {
-					processPair(pair, writerGSInstance, writerGSClass, writerGSProperty, outputTablesFolder);
+					processPair(pair, writerGSClass, writerGSProperty, outputTablesFolder);
 					doneTableFiles.add(pair.getTableFileName());
 				}
 			}
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} finally {
-			// writerGSInstance.close();
 			writerGSClass.close();
 			writerGSProperty.close();
 		}
 
 	}
 
-	private static void processPair(EvaluationInstance pair, PrintWriter writerGSInstance, PrintWriter writerGSClass,
-			PrintWriter writerGSProperty, String dataFolder) {
+	private static void processPair(EvaluationInstance pair, PrintWriter writerGSClass, PrintWriter writerGSProperty,
+			String dataFolder) {
 
 		String tableFilePath = pair.getTableFileName();
 		String tableFileName = tableFilePath.substring(tableFilePath.lastIndexOf("/") + 1);
 		String outputTableFileName = dataFolder + tableFileName;
+
+		System.out.println("outputTableFileName: " + outputTableFileName);
 
 		convertTableFile(tableFilePath, outputTableFileName);
 		addToGroundTruthFiles(tableFileName, pair.getMappingFileName(), writerGSClass, writerGSProperty);

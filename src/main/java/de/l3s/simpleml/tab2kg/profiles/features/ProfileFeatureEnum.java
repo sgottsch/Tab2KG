@@ -8,6 +8,7 @@ public enum ProfileFeatureEnum {
 
 	MIN(Prefix.SEAS, "minimum", true), MAX(Prefix.SEAS, "maximum", true), MEAN(Prefix.SEAS, "mean", true),
 	SD(Prefix.SEAS, "standardDeviation", true), MEDIAN(Prefix.SEAS, "median", true),
+	SKEWNESS(Prefix.ANON, "skewness", true), KURTOSIS(Prefix.ANON, "kurtosis", true),
 	QUARTILE(Prefix.SEAS, "quartile", true), DECILE(Prefix.SEAS, "decile", true),
 	PERCENTILE(Prefix.SEAS, "percentile", true), NUMBER_OF_VALUES(Prefix.ANON, "numberOfValues", false),
 	NUMBER_OF_DISTINCT_VALUES(Prefix.ANON, "numberOfDistinctValues", false),
@@ -24,7 +25,7 @@ public enum ProfileFeatureEnum {
 	AVERAGE_NUMBER_OF_TOKENS(Prefix.ANON, "averageNumberOfTokens", false),
 	AVERAGE_NUMBER_OF_SPECIAL_CHARACTERS(Prefix.ANON, "averageNumberOfSpecialCharacters", false),
 	AVERAGE_NUMBER_OF_CAPITALISED_VALUES(Prefix.ANON, "averageNumberOfCapitalisedValues", false),
-	HISTOGRAM(Prefix.ANON, "histogram", false),
+	EMBEDDING(Prefix.ANON, "embedding", true, false), HISTOGRAM(Prefix.ANON, "histogram", false),
 	NORMALISED_NUMBER_OF_DISTINCT_VALUES(NUMBER_OF_DISTINCT_VALUES, Prefix.ANON, "normalisedNumberOfDistinctValues",
 			false, NUMBER_OF_VALUES),
 	NORMALISED_NUMBER_OF_VALID_NON_NULL_VALUES(NUMBER_OF_VALID_NON_NULL_VALUES, Prefix.ANON,
@@ -43,11 +44,19 @@ public enum ProfileFeatureEnum {
 
 	private ProfileFeatureEnum normaliser;
 	private ProfileFeatureEnum baseFeature;
+	private boolean normalise = true;
 
 	private ProfileFeatureEnum(Prefix prefix, String shortName, boolean isEvaluation) {
 		this.prefix = prefix;
 		this.shortName = shortName;
 		this.isEvaluation = isEvaluation;
+	}
+
+	private ProfileFeatureEnum(Prefix prefix, String shortName, boolean isEvaluation, boolean normalise) {
+		this.prefix = prefix;
+		this.shortName = shortName;
+		this.isEvaluation = isEvaluation;
+		this.normalise = normalise;
 	}
 
 	private ProfileFeatureEnum(Prefix prefix, String shortName, boolean isEvaluation, ProfileFeatureEnum normaliser) {
@@ -128,6 +137,10 @@ public enum ProfileFeatureEnum {
 
 	public ProfileFeatureEnum getBaseFeature() {
 		return baseFeature;
+	}
+
+	public boolean isNormalise() {
+		return normalise;
 	}
 
 }

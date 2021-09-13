@@ -7,6 +7,7 @@ public class AttributeValue<T> {
 
 	private boolean isNull = false;
 	private boolean isInvalid = false;
+	private String originalValue;
 
 	public AttributeValue(boolean isNull, boolean isInvalid) {
 		super();
@@ -14,9 +15,10 @@ public class AttributeValue<T> {
 		this.isInvalid = isInvalid;
 	}
 
-	public AttributeValue(T value) {
+	public AttributeValue(T value, String originalValue) {
 		super();
 		this.value = value;
+		this.originalValue = originalValue;
 	}
 
 	public String getStringValue() {
@@ -61,6 +63,10 @@ public class AttributeValue<T> {
 
 	public boolean isValidNonNull() {
 		return !isNull && !isInvalid;
+	}
+
+	public String getOriginalValue() {
+		return originalValue;
 	}
 
 }

@@ -15,6 +15,8 @@ public abstract class ProfileFeature {
 
 	private Set<FeatureContext<?>> featureContexts = new HashSet<FeatureContext<?>>();
 
+	protected boolean isList = false;
+
 	public ProfileFeature(ProfileFeatureEnum profileFeatureEnum, DataTypeClass dataTypeClass) {
 		super();
 		this.profileFeatureEnum = profileFeatureEnum;
@@ -61,5 +63,9 @@ public abstract class ProfileFeature {
 	public abstract double getDoubleValue();
 
 	public abstract ProfileFeature copy();
+
+	public boolean isList() {
+		return this.isList;
+	}
 
 }

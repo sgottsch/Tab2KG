@@ -17,10 +17,14 @@ import de.l3s.simpleml.tab2kg.util.Source;
 public class PairsLoader {
 
 	public static List<EvaluationInstance> loadPairs(Source source) {
-		return loadPairs(source, null);
+		return loadPairs(source, null, false);
 	}
 
-	public static List<EvaluationInstance> loadPairs(Source source, Mode mode) {
+	public static List<EvaluationInstance> loadPairs(Source source, boolean useCompleteGraphs) {
+		return loadPairs(source, null, true);
+	}
+
+	public static List<EvaluationInstance> loadPairs(Source source, Mode mode, Boolean useCompleteGraphs) {
 
 		if (source != Source.GITHUB)
 			mode = null;
@@ -30,6 +34,10 @@ public class PairsLoader {
 		String baseFolder = Config.getPath(FileLocation.BASE_FOLDER) + source.getFolderName();
 		try {
 			String fileName = baseFolder + SemTabTableCreator.FILE_NAME_PAIRS;
+
+			if (useCompleteGraphs)
+				fileName = baseFolder + SemTabTableCreator.FILE_NAME_PAIRS_DOMAIN_GRAPHS;
+
 			if (mode != null && mode == Mode.TRAINING)
 				fileName = baseFolder + SemTabTableCreator.FILE_NAME_PAIRS_TRAINING;
 			else if (mode != null && mode == Mode.TEST)

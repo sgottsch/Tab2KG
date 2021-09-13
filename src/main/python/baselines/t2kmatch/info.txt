@@ -1,0 +1,1 @@
+We use the T2KMatch implementation from https://github.com/olehmberg/T2KMatch for evaluation on the SEMTAB_EASY dataset. See scripts/baselines. 
