@@ -116,7 +116,8 @@ Then, run `de.l3s.simpleml.tab2kg.evaluation.DataSetEvaluation` with the require
 
 In the data folder, we provide a pre-trained model which can be used.
 
-If you want to train you own model, use the Python script "siamese_column.py" to learn profile similarity from a set of positive and negative profile pairs yourself.
+If you want to train you own model, first run `de.l3s.simpleml.tab2kg.ml.ColumnLiteralPairCollector` to create the training and test instances.
+Then, use the Python script "siamese_column.py" to learn profile similarity from a set of positive and negative profile pairs yourself.
 You can find the commands to run the training in scripts/model_training_script_ablation.sh.
 
 ## Baselines
