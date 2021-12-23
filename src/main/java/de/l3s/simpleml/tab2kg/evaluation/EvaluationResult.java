@@ -12,6 +12,8 @@ public class EvaluationResult {
 
 	private int numberOfClassRelations = 0;
 
+	private int numberOfInstances = 0;
+
 	private int correctGraphs = 0;
 	private int wrongGraphs = 0;
 
@@ -142,6 +144,8 @@ public class EvaluationResult {
 
 	public void update(SingleEvaluationResult otherEvaluationResult) {
 
+		this.numberOfInstances += 1;
+
 		incrementCorrectLiteralRelations(otherEvaluationResult.getCorrectLiteralRelations());
 		incrementWrongLiteralRelations(otherEvaluationResult.getWrongLiteralRelations());
 		incrementMissingClassRelations(otherEvaluationResult.getMissingClassRelations());
@@ -224,6 +228,10 @@ public class EvaluationResult {
 
 	public void setNumberOfClassRelations(int numberOfClassRelations) {
 		this.numberOfClassRelations = numberOfClassRelations;
+	}
+
+	public int getNumberOfInstances() {
+		return numberOfInstances;
 	}
 
 }

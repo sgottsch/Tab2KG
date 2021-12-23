@@ -145,10 +145,16 @@ public class ColumnLiteralPairCollector {
 
 		SimpleGraph simpleGraph = new SimpleGraph(pair.getGraphFileName());
 
-		DataTableProfilesCreator.createColumnProfiles(dataTable, numbersOfQuantiles, numbersOfIntervals,
+		boolean valid = DataTableProfilesCreator.createColumnProfiles(dataTable, numbersOfQuantiles, numbersOfIntervals,
 				featureConfigName.useEmbeddings());
-		SimpleGraphProfilesCreator.createAttributeProfiles(simpleGraph, numbersOfQuantiles, numbersOfIntervals,
+		if (!valid)
+			return;
+
+		valid = SimpleGraphProfilesCreator.createAttributeProfiles(simpleGraph, numbersOfQuantiles, numbersOfIntervals,
 				featureConfigName.useEmbeddings());
+		if (!valid)
+			return;
+
 		List<ProfileFeaturePlaceholder> profileFeaturePlaceholders = FeatureConfig
 				.getProfileFeaturePlaceholders(featureConfigName);
 

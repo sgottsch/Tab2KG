@@ -21,6 +21,7 @@ import de.l3s.simpleml.tab2kg.model.graph.SimpleGraph;
 import de.l3s.simpleml.tab2kg.profiles.FeatureConfigName;
 import de.l3s.simpleml.tab2kg.util.Config;
 import de.l3s.simpleml.tab2kg.util.FileLocation;
+import de.l3s.simpleml.tab2kg.util.MapUtil;
 import de.l3s.simpleml.tab2kg.util.Mode;
 import de.l3s.simpleml.tab2kg.util.Source;
 
@@ -140,6 +141,8 @@ public class DataSetEvaluation {
 					+ greedy + dsl + t2k + comment + ".txt");
 
 			EvaluationResult totalEvaluationResult = new EvaluationResult();
+			Map<String, EvaluationResult> totalEvaluationResultsByDomainOntology = new HashMap<String, EvaluationResult>();
+
 			int i = 0;
 			for (EvaluationInstance evaluationInstance : this.evaluationInstances) {
 
@@ -169,6 +172,14 @@ public class DataSetEvaluation {
 
 				totalEvaluationResult.update(evaluationInstance.getResult());
 
+				if (this.useDomainOntologies) {
+					if (!totalEvaluationResultsByDomainOntology.containsKey(evaluationInstance.getGraphFileName()))
+						totalEvaluationResultsByDomainOntology.put(evaluationInstance.getGraphFileName(),
+								new EvaluationResult());
+					totalEvaluationResultsByDomainOntology.get(evaluationInstance.getGraphFileName())
+							.update(evaluationInstance.getResult());
+				}
+
 				writer.println(line1);
 				writer.println(line2);
 				totalEvaluationResult.print();
@@ -183,6 +194,40 @@ public class DataSetEvaluation {
 			totalEvaluationResult.print();
 			totalEvaluationResult.print(writer);
 			System.out.println("Concept relations: " + totalEvaluationResult.getNumberOfClassRelations());
+
+			if (this.useDomainOntologies) {
+				Map<EvaluationResult, Double> resultsSorted = new HashMap<EvaluationResult, Double>();
+				Map<EvaluationResult, String> graphFileNames = new HashMap<EvaluationResult, String>();
+
+				System.out.println("--- FINAL (per domain ontology) ---");
+				for (String graphFileName : totalEvaluationResultsByDomainOntology.keySet()) {
+					EvaluationResult evaluationResult = totalEvaluationResultsByDomainOntology.get(graphFileName);
+
+					System.out.println("\nDomain ontology: " + graphFileName);
+					writer.println("Domain ontology: " + graphFileName);
+
+					evaluationResult.print();
+					evaluationResult.print(writer);
+					System.out.println("Concept relations: " + evaluationResult.getNumberOfClassRelations());
+					System.out.println("Instances: " + evaluationResult.getNumberOfInstances());
+
+					if (evaluationResult.getNumberOfInstances() >= 10) {
+						resultsSorted.put(evaluationResult, evaluationResult.getPrecision());
+						graphFileNames.put(evaluationResult, graphFileName);
+					}
+				}
+
+				System.out.println("--- FINAL, SORTED (per domain ontology) ---");
+				for (EvaluationResult evaluationResult : MapUtil.sortByValueDescending(resultsSorted).keySet()) {
+					System.out.println("\nDomain ontology: " + graphFileNames.get(evaluationResult));
+					writer.println("Domain ontology: " + graphFileNames.get(evaluationResult));
+
+					evaluationResult.print();
+					evaluationResult.print(writer);
+					System.out.println("Concept relations: " + evaluationResult.getNumberOfClassRelations());
+					System.out.println("Instances: " + evaluationResult.getNumberOfInstances());
+				}
+			}
 
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
