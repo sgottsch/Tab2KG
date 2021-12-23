@@ -8,8 +8,8 @@ nohup java -jar ~/tab2kg/jars/DataSetEvaluation.jar -source SEMTAB_EASY > ~/tab2
 
 # complete graph
 
-nohup java -jar ~/tab2kg/jars/DataSetEvaluation.jar -source SOCCER -domainOntologies > ~/tab2kg/evaluation/results_output/soccer_c.txt
-nohup java -jar ~/tab2kg/jars/DataSetEvaluation.jar -source WEAPONS -domainOntologies > ~/tab2kg/evaluation/results_output/weapons_c.txt
+nohup java -jar ~/tab2kg/jars/DataSetEvaluation.jar -source SOCCER -domainOntologies > ~/tab2kg/evaluation/results_output/soccer_d.txt
+nohup java -jar ~/tab2kg/jars/DataSetEvaluation.jar -source WEAPONS -domainOntologies > ~/tab2kg/evaluation/results_output/weapons_d.txt
 nohup java -jar ~/tab2kg/jars/DataSetEvaluation.jar -source SEMTAB -domainOntologies > ~/tab2kg/evaluation/results_output/semtab_d.txt
-nohup java -jar ~/tab2kg/jars/DataSetEvaluation.jar -source SEMTAB_EASY -domainOntologies > ~/tab2kg/evaluation/results_output/semtab_easy_c.txt
+nohup java -jar ~/tab2kg/jars/DataSetEvaluation.jar -source SEMTAB_EASY -domainOntologies > ~/tab2kg/evaluation/results_output/semtab_easy_d.txt
 
